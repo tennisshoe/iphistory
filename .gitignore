@@ -1,5 +1,9 @@
 *.class
 
+# Non-code subdirectories
+cache/
+data/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
