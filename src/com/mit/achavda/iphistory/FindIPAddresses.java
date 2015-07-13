@@ -7,7 +7,7 @@ import java.util.*;
 import java.io.*;
 
 
-public class SAXFindIPAddresses 
+public class FindIPAddresses 
 	extends DefaultHandler 
 	implements Iterable<String>
 {
@@ -16,7 +16,7 @@ public class SAXFindIPAddresses
 	private TreeSet<String> foundAddresses;
 	private XMLReader xmlReader;
 	
-	public SAXFindIPAddresses() throws ParserConfigurationException, SAXException {
+	public FindIPAddresses() throws ParserConfigurationException, SAXException {
 		SAXParserFactory spf = SAXParserFactory.newInstance();
 		SAXParser saxParser = spf.newSAXParser();
 		xmlReader = saxParser.getXMLReader();

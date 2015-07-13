@@ -22,7 +22,7 @@ public class Main {
 		DomainTools domainTools = new DomainTools("your_username", "your_key");
 		domainTools.setUseFreeAPI(true);
 		
-		SAXFindIPAddresses addressFinder = new SAXFindIPAddresses();
+		FindIPAddresses addressFinder = new FindIPAddresses();
 		
 		CSVReader reader = new CSVReader(new FileReader(FILE_NAME));
 		String [] nextLine;
