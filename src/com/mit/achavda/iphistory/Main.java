@@ -10,8 +10,7 @@ import com.domaintoolsapi.*;
 public class Main {
 	
 	private static final String FILE_NAME = ".\\data\\free.csv"; 
-	private static final String CACHE_PATH = ".\\cache\\";
-	private static final String IP_LOOKUP = "http://whois.arin.net/rest/ip/"; // + ".xml"
+	public static final String CACHE_PATH = ".\\cache\\";
 	//private static final String FILE_NAME = ".\\data\\top_50_websites_US.csv"; 	
 	
 	public static void main(String[] args) throws Exception {
@@ -52,4 +51,5 @@ public class Main {
 		System.out.println("Done");	
 
 	}
+		
 }
