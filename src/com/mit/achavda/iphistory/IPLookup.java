@@ -1,12 +1,19 @@
 package com.mit.achavda.iphistory;
 
+import javax.xml.parsers.*;
+import org.xml.sax.*;
+import org.xml.sax.helpers.*;
+
+import java.util.*;
 import java.net.*;
 import java.io.*;
+
+import com.domaintoolsapi.*;
 
 public class IPLookup  extends DefaultHandler {
 
 	public enum Host {
-		AMAZON
+		AMAZON, CLOUDFLARE, AKAMAI, MICROSOFT
 	}
 
 	private static final String IP_LOOKUP = "http://whois.arin.net/rest/ip/"; // + ".xml"
@@ -15,33 +22,70 @@ public class IPLookup  extends DefaultHandler {
 	private Host hostToCheck;
 	private boolean hostFound;
 	private StringBuffer content;
+	public boolean useFreeAPI = true;
+	private DomainTools domainTools;
+	private String method = "whois";	
+	
+	private static final String PROPERTIES_FILE = "domaintools.properties";
 	
 	public IPLookup() {
-		SAXParserFactory spf = SAXParserFactory.newInstance();
-		SAXParser saxParser = spf.newSAXParser();
-		xmlReader = saxParser.getXMLReader();
-		xmlReader.setContentHandler(this);
-	}
-	
-	public IPLookup loadIP(String IP) {
-		// first check if the data is already in our local cache
-		String filename = Main.CACHE_PATH + IP + ".xml";
-		fXML = new File(filename);
-		if(!fXML.exists()) {
-			System.err.println("File not found " + filename);
-			String xml = fetchXML(IP);
-			PrintWriter out = new PrintWriter(filename);
-			out.println(xml);
-			out.close();
+		try {
+			SAXParserFactory spf = SAXParserFactory.newInstance();
+			SAXParser saxParser = spf.newSAXParser();
+			xmlReader = saxParser.getXMLReader();
+			xmlReader.setContentHandler(this);
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
 		
-		return this;
+		Properties p=new Properties();  
+		try {
+			FileReader reader=new FileReader(PROPERTIES_FILE);  
+			p.load(reader);  
+			reader.close();		
+		} catch (FileNotFoundException e) {
+			System.err.println("Missing properties file " + PROPERTIES_FILE);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		String username = p.getProperty("username", "my_username");  
+		String key = p.getProperty("key", "my_key");  
+		domainTools = new DomainTools(username,key);
+
+	}
+	
+	public void loadIP(String ip) {
+		// first check if the data is already in our local cache
+		String filename = Main.CACHE_PATH + method + "_" + ip + ".xml";
+		fXML = new File(filename);
+		if(!fXML.exists()) {
+			//String xml = fetchXML(ip);
+			domainTools.setUseFreeAPI(useFreeAPI);
+			try {
+				DTRequest dtRequest = domainTools.use(method).on(ip).toXML();
+				String xml = dtRequest.getXML();
+				PrintWriter out = new PrintWriter(filename);
+				out.println(xml);
+				out.close();			
+			} catch  (FileNotFoundException e) {
+				e.printStackTrace();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}
 	}
 
 	public boolean checkHosting(Host hoster){
 		hostToCheck = hoster;
 		hostFound = false;
-		xmlReader.parse(new FileReader(fXML));
+		try {
+			xmlReader.parse(new InputSource(new FileReader(fXML)));
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (SAXException e) {
+			e.printStackTrace();
+		}
+		if (hostFound) System.err.println("FOUND!");
 		return hostFound;
 	}
 
@@ -55,13 +99,10 @@ public class IPLookup  extends DefaultHandler {
 	public void endElement(String namespaceURI,
                          String localName,
                          String qName) throws SAXException {
-		String searchString;
-		switch(hostToCheck) {
-			case AMAZON: 
-				searchString = "Amazon";
-			
-		}
-		return content.toString().toLowercase().contains(searchString);
+		String searchString = hostToCheck.name().toLowerCase();
+		String innerText = content.toString().toLowerCase();
+		hostFound = hostFound || innerText.contains(searchString);
+		content = new StringBuffer();
 	}	
 	
     public void characters(char ch[], int start, int length)
@@ -70,8 +111,13 @@ public class IPLookup  extends DefaultHandler {
     }	
 	
 	private String fetchXML(String IP){
-		URL url = new URL(IP_LOOKUP + IP + ".xml");
-		return fetchXML(url);
+		try {
+			URL url = new URL(IP_LOOKUP + IP + ".xml");
+			return fetchXML(url);
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+			return "";
+		}
 	}
 	
 	private String fetchXML(URL url) {
@@ -79,9 +125,16 @@ public class IPLookup  extends DefaultHandler {
 		StringBuilder sbResponse = new StringBuilder();
 		String sLine = "";
 		String lineSeperator = System.getProperty("line.separator");
+		HttpURLConnection httpConnection;
+		
+		try {
+			httpConnection = (HttpURLConnection) url.openConnection();
+		} catch (IOException e){
+			e.printStackTrace();
+			return "";
+		}
 
 		try{
-			httpConnection = (HttpURLConnection) url.openConnection();
 			httpConnection.setRequestMethod("GET");
 			response_code = httpConnection.getResponseCode();
 

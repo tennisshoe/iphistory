@@ -4,24 +4,26 @@ import java.io.*;
 import java.util.*;
 
 import com.opencsv.*;
-import com.domaintoolsapi.*;
 
 
 public class Main {
 	
-	private static final String FILE_NAME = ".\\data\\free.csv"; 
 	public static final String CACHE_PATH = ".\\cache\\";
-	//private static final String FILE_NAME = ".\\data\\top_50_websites_US.csv"; 	
+	private static final String FILE_NAME = ".\\data\\top_websites_US.csv"; 	
+	//private static final String FILE_NAME = ".\\data\\free.csv"; 
+	private static final String OUTPUT_FILE = ".\\out\\out.csv";
 	
-	public static void main(String[] args) throws Exception {
-		String method = "hosting-history";		
-		
+	public static void main(String[] args) throws Exception {	
 		System.out.println("Starting");	
 				
-		DomainTools domainTools = new DomainTools("your_username", "your_key");
-		domainTools.setUseFreeAPI(true);
-		
 		FindIPAddresses addressFinder = new FindIPAddresses();
+		addressFinder.useFreeAPI = false;
+		IPLookup ipLookup = new IPLookup();
+		ipLookup.useFreeAPI = false;
+		
+		CSVWriter writer = new CSVWriter(new FileWriter(OUTPUT_FILE));
+		String [] headers = {"Domain", "Uses Amazon", "Uses CloudFlare", "Uses Akamai"};
+		writer.writeNext(headers);
 		
 		CSVReader reader = new CSVReader(new FileReader(FILE_NAME));
 		String [] nextLine;
@@ -32,22 +34,39 @@ public class Main {
         while ((nextLine = reader.readNext()) != null) {
 			// second element of file should be the domain
 			String domain = nextLine[1];
+			boolean isAmazon = false;
+			boolean isCloudFlare = false;
+			boolean isAkamai = false;
 			System.out.println(domain);
-
-			DTRequest dtRequest = domainTools.use(method).on(domain).toXML();
-			String response = dtRequest.getXML();
-			PrintWriter out = new PrintWriter(CACHE_PATH + method + "_" + domain + ".xml");
-			out.println(response);
-			out.close();									
 			
-			addressFinder.scanFile(CACHE_PATH + method + "_" + domain + ".xml");
+			addressFinder.loadDomain(domain);
 			Iterator<String> i = addressFinder.iterator();
 			while(i.hasNext()) {
-				System.out.println("Found address " + i.next());
+				String ip = i.next();
+				ipLookup.loadIP(ip);
+				boolean isAmazonIP = ipLookup.checkHosting(IPLookup.Host.AMAZON);
+				boolean isCloudIP = ipLookup.checkHosting(IPLookup.Host.CLOUDFLARE);
+				boolean isAkamaiIP = ipLookup.checkHosting(IPLookup.Host.AKAMAI);
+				System.out.println("Found address " + ip + (isAmazonIP ? " uses Amazon" : "") + (isCloudIP ? " uses CloudFlare" : "") + (isAkamaiIP ? " uses Akamai" : ""));
+				isAmazon = isAmazon || isAmazonIP;
+				isCloudFlare = isCloudFlare || isCloudIP;
+				isAkamai = isAkamai || isAkamaiIP;
 			}				
+	
+			String[] entries = {domain, String.valueOf(isAmazon), String.valueOf(isCloudFlare), String.valueOf(isAkamai) };
+			writer.writeNext(entries);
 			
 		}		
-
+		
+		writer.close();
+		reader.close();
+		
+		/*
+		String ip = "174.129.2.58";
+		boolean isAmazon = ipLookup.loadIP(ip).checkHosting(IPLookup.Host.AMAZON);
+		System.out.println("Netflix " + ip + (isAmazon ? " uses Amazon" : ""));
+		*/
+		
 		System.out.println("Done");	
 
 	}

@@ -3,6 +3,7 @@
 # Non-code subdirectories
 cache/
 data/
+out/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/

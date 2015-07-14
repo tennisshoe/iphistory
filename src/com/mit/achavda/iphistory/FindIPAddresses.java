@@ -3,9 +3,11 @@ package com.mit.achavda.iphistory;
 import javax.xml.parsers.*;
 import org.xml.sax.*;
 import org.xml.sax.helpers.*;
+
 import java.util.*;
 import java.io.*;
 
+import com.domaintoolsapi.*;
 
 public class FindIPAddresses 
 	extends DefaultHandler 
@@ -15,24 +17,68 @@ public class FindIPAddresses
 	private StringBuffer currentIP;
 	private TreeSet<String> foundAddresses;
 	private XMLReader xmlReader;
+	public boolean useFreeAPI = true;
+	private DomainTools domainTools;
+	private String method = "hosting-history";	
 	
-	public FindIPAddresses() throws ParserConfigurationException, SAXException {
-		SAXParserFactory spf = SAXParserFactory.newInstance();
-		SAXParser saxParser = spf.newSAXParser();
-		xmlReader = saxParser.getXMLReader();
-		xmlReader.setContentHandler(this);
+	private static final String PROPERTIES_FILE = "domaintools.properties";
+	
+	public FindIPAddresses() {
+		try {
+			SAXParserFactory spf = SAXParserFactory.newInstance();
+			SAXParser saxParser = spf.newSAXParser();
+			xmlReader = saxParser.getXMLReader();
+			xmlReader.setContentHandler(this);
+		} catch (Exception e){
+			e.printStackTrace();
+		}
+
+		Properties p=new Properties();  
+		try {
+			FileReader reader=new FileReader(PROPERTIES_FILE);  
+			p.load(reader);  
+			reader.close();		
+		} catch (FileNotFoundException e) {
+			System.err.println("Missing properties file " + PROPERTIES_FILE);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		String username = p.getProperty("username", "my_username");  
+		String key = p.getProperty("key", "my_key");  
+		domainTools = new DomainTools(username,key);
+
 	}
 
 	public Iterator<String> iterator() {
 		return foundAddresses.iterator();
 	}
+	
+	public void loadDomain(String domain) {
 
-	public SAXFindIPAddresses scanFile(String filename) throws IOException, SAXException {
+		String filename = Main.CACHE_PATH + method + "_" + domain + ".xml";
+		File fXML = new File(filename);
+		if(!fXML.exists()) {		
+			domainTools.setUseFreeAPI(useFreeAPI);
+			try {
+				DTRequest dtRequest = domainTools.use(method).on(domain).toXML();
+				String response = dtRequest.getXML();
+				
+				PrintWriter out = new PrintWriter(fXML);
+				out.println(response);
+				out.close();									
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}		
+			
 		foundAddresses = new TreeSet<String>();
 		currentIP = new StringBuffer();
 	
-		xmlReader.parse(convertToFileURL(filename));	
-		return this;
+		try {
+			xmlReader.parse(new InputSource(new FileReader(fXML)));				
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 	
     public void characters(char ch[], int start, int length)
@@ -55,18 +101,6 @@ public class FindIPAddresses
 			if (IPAddress.length() > 0) foundAddresses.add(IPAddress);
 			currentIP = new StringBuffer();
 		}
-	}
-	 
-    private static String convertToFileURL(String filename) {
-        String path = new File(filename).getAbsolutePath();
-        if (File.separatorChar != '/') {
-            path = path.replace(File.separatorChar, '/');
-        }
-
-        if (!path.startsWith("/")) {
-            path = "/" + path;
-        }
-        return "file:" + path;
 	}
 	
 }
