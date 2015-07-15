@@ -22,7 +22,12 @@ public class Main {
 		ipLookup.useFreeAPI = false;
 		
 		CSVWriter writer = new CSVWriter(new FileWriter(OUTPUT_FILE));
-		String [] headers = {"Domain", "Uses Amazon", "Uses CloudFlare", "Uses Akamai"};
+		StringBuffer sbHeaders = new StringBuffer("Domain");
+		for(IPLookup.Host host: IPLookup.Host.values()) {
+			sbHeaders.append("#");
+			sbHeaders.append(host.name());
+		}
+		String [] headers = sbHeaders.toString().split("#");
 		writer.writeNext(headers);
 		
 		CSVReader reader = new CSVReader(new FileReader(FILE_NAME));
@@ -34,9 +39,10 @@ public class Main {
         while ((nextLine = reader.readNext()) != null) {
 			// second element of file should be the domain
 			String domain = nextLine[1];
-			boolean isAmazon = false;
-			boolean isCloudFlare = false;
-			boolean isAkamai = false;
+			Map<IPLookup.Host, Boolean> mHosts = new HashMap<IPLookup.Host, Boolean>();
+			for(IPLookup.Host host: IPLookup.Host.values()) {
+				mHosts.put(host, false);
+			}
 			System.out.println(domain);
 			
 			addressFinder.loadDomain(domain);
@@ -44,16 +50,21 @@ public class Main {
 			while(i.hasNext()) {
 				String ip = i.next();
 				ipLookup.loadIP(ip);
-				boolean isAmazonIP = ipLookup.checkHosting(IPLookup.Host.AMAZON);
-				boolean isCloudIP = ipLookup.checkHosting(IPLookup.Host.CLOUDFLARE);
-				boolean isAkamaiIP = ipLookup.checkHosting(IPLookup.Host.AKAMAI);
-				System.out.println("Found address " + ip + (isAmazonIP ? " uses Amazon" : "") + (isCloudIP ? " uses CloudFlare" : "") + (isAkamaiIP ? " uses Akamai" : ""));
-				isAmazon = isAmazon || isAmazonIP;
-				isCloudFlare = isCloudFlare || isCloudIP;
-				isAkamai = isAkamai || isAkamaiIP;
-			}				
-	
-			String[] entries = {domain, String.valueOf(isAmazon), String.valueOf(isCloudFlare), String.valueOf(isAkamai) };
+				System.out.print("Address check " + ip); 
+				for(IPLookup.Host host: IPLookup.Host.values()) {
+					boolean found = ipLookup.checkHosting(host);
+					mHosts.put(host, mHosts.get(host) || found);
+					if(found) System.out.print(" uses " + host.name());
+				}
+				System.out.println("");
+			}
+
+			StringBuffer sbEntries = new StringBuffer(domain);
+			for(IPLookup.Host host: IPLookup.Host.values()) {
+				sbEntries.append("#");
+				sbEntries.append(String.valueOf(mHosts.get(host)));
+			}
+			String [] entries = sbEntries.toString().split("#");
 			writer.writeNext(entries);
 			
 		}		

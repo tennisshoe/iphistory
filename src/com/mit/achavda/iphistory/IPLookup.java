@@ -13,7 +13,7 @@ import com.domaintoolsapi.*;
 public class IPLookup  extends DefaultHandler {
 
 	public enum Host {
-		AMAZON, CLOUDFLARE, AKAMAI, MICROSOFT
+		AMAZON, RACKSPACE, MICROSOFT, YAHOO, GOOGLE, AKAMAI, LIMELIGHT, LEVEL3, EDGECAST, CLOUDFLARE, NEPHOSCALE, INTERNAP, SOFTLAYER, GOGRID, DREAMHOST, PEER1, GODADDY, ISPRIME
 	}
 
 	private static final String IP_LOOKUP = "http://whois.arin.net/rest/ip/"; // + ".xml"
@@ -85,7 +85,6 @@ public class IPLookup  extends DefaultHandler {
 		} catch (SAXException e) {
 			e.printStackTrace();
 		}
-		if (hostFound) System.err.println("FOUND!");
 		return hostFound;
 	}
 
