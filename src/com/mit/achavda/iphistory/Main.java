@@ -9,12 +9,30 @@ import com.opencsv.*;
 public class Main {
 	
 	public static final String CACHE_PATH = ".\\cache\\";
-	private static final String FILE_NAME = ".\\data\\top_websites_US.csv"; 	
+	public static final String OUTPUT_PATH = ".\\out\\";
+	private static final String TIMELINE_INPUT = ".\\data\\amazon_customers.csv"; 	
+	//private static final String FILE_NAME = ".\\data\\top_websites_US.csv"; 	
+	private static final String FILE_NAME = ".\\data\\aws_case_studies.csv"; 	
 	//private static final String FILE_NAME = ".\\data\\free.csv"; 
 	private static final String OUTPUT_FILE = ".\\out\\out.csv";
 	
+	
 	public static void main(String[] args) throws Exception {	
 		System.out.println("Starting");	
+
+		Timeline timeline = new Timeline();
+		timeline.useFreeAPI = false;
+		CSVReader reader = new CSVReader(new FileReader(TIMELINE_INPUT));
+		String nextLine[];
+        while ((nextLine = reader.readNext()) != null) {
+			String domain = nextLine[0];
+			timeline.loadResult(domain);
+			timeline.createTimeline();			
+		}
+		reader.close();
+		timeline.close();
+		
+		/*
 				
 		FindIPAddresses addressFinder = new FindIPAddresses();
 		addressFinder.useFreeAPI = false;
@@ -49,7 +67,7 @@ public class Main {
 			Iterator<String> i = addressFinder.iterator();
 			while(i.hasNext()) {
 				String ip = i.next();
-				ipLookup.loadIP(ip);
+				ipLookup.loadResult(ip);
 				System.out.print("Address check " + ip); 
 				for(IPLookup.Host host: IPLookup.Host.values()) {
 					boolean found = ipLookup.checkHosting(host);
@@ -71,15 +89,13 @@ public class Main {
 		
 		writer.close();
 		reader.close();
-		
-		/*
-		String ip = "174.129.2.58";
-		boolean isAmazon = ipLookup.loadIP(ip).checkHosting(IPLookup.Host.AMAZON);
-		System.out.println("Netflix " + ip + (isAmazon ? " uses Amazon" : ""));
 		*/
+		
+		// String ip = "174.129.2.58";
+		// boolean isAmazon = ipLookup.loadIP(ip).checkHosting(IPLookup.Host.AMAZON);
+		// System.out.println("Netflix " + ip + (isAmazon ? " uses Amazon" : ""));
 		
 		System.out.println("Done");	
 
 	}
-		
 }
