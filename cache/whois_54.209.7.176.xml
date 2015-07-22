@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Amazon Technologies Inc.</registrant>
+    <registration>
+      <created>2013-02-19</created>
+      <updated>2013-02-19</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       54.208.0.0 - 54.221.255.255
+CIDR:           54.220.0.0/15, 54.208.0.0/13, 54.216.0.0/14
+NetName:        AMAZON-2011L
+NetHandle:      NET-54-208-0-0-1
+Parent:         NET54 (NET-54-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16509
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2013-02-19
+Updated:        2013-02-19
+Ref:            http://whois.arin.net/rest/net/NET-54-208-0-0-1
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2014-10-20
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            http://whois.arin.net/rest/org/AT-88-Z
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  ec2-abuse@amazon.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AEA8-ARIN
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  aes-noc@amazon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ANO24-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-266-2187 
+OrgNOCEmail:  aes-noc@amazon.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/AANO1-ARIN
+
+NetRange:       54.208.0.0 - 54.209.255.255
+CIDR:           54.208.0.0/15
+NetName:        AMAZO-ZIAD4
+NetHandle:      NET-54-208-0-0-2
+Parent:         AMAZON-2011L (NET-54-208-0-0-1)
+NetType:        Reallocated
+OriginAS:       AS16509
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2013-03-19
+Updated:        2013-03-19
+Ref:            http://whois.arin.net/rest/net/NET-54-208-0-0-2
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Elastic Compute Cloud, EC2
+Address:        1200 12th Avenue South
+City:           Seattle
+StateProv:      WA
+PostalCode:     98144
+Country:        US
+RegDate:        2005-09-29
+Updated:        2014-10-17
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com/
+Ref:            http://whois.arin.net/rest/org/AMAZO-4
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  aes-noc@amazon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ANO24-ARIN
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  ec2-abuse@amazon.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AEA8-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-266-2187 
+OrgNOCEmail:  aes-noc@amazon.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/AANO1-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

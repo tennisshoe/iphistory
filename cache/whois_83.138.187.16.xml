@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>IP Admin</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '83.138.187.16 - 83.138.187.23' is 'abuse@rackspace.com'
+
+inetnum:        83.138.187.16 - 83.138.187.23
+netname:        RSPC-UK-Conservative-Party
+descr:          Conservative Party IP Space
+country:        GB
+admin-c:        IA247-RIPE
+tech-c:         IA247-RIPE
+status:         ASSIGNED PA
+notify:         hostmaster@rackspace.com
+mnt-by:         RSPC-MNT
+changed:        hostmaster@rackspace.com 20110720
+created:        2006-05-16T21:19:18Z
+last-modified:  2011-07-20T01:43:47Z
+source:         RIPE
+
+person:         IP Admin
+address:        Rackspace Hosting 5000 Walzem, San Antonio, Texas 78218
+phone:          +1 210 312 4000
+fax-no:         +1 210 312 4000
+e-mail:         ipadmin@rackspace.com
+nic-hdl:        IA247-RIPE
+remarks:        ###  Rackspace Abuse Department
+remarks:        ###  Please send any complaints to the following:
+remarks:        ###  abuse@rackspace.com
+notify:         ipadmin@rackspace.com
+mnt-by:         RSPC-MNT
+changed:        ipadmin@rackspace.com 20021021
+created:        2002-08-28T21:43:52Z
+last-modified:  2012-07-17T18:57:35Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

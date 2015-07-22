@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Amazon Technologies Inc.</registrant>
+    <registration>
+      <created>1991-12-19</created>
+      <updated>2015-03-20</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       52.0.0.0 - 52.31.255.255
+CIDR:           52.0.0.0/11
+NetName:        AT-88-Z
+NetHandle:      NET-52-0-0-0-1
+Parent:         NET52 (NET-52-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        1991-12-19
+Updated:        2015-03-20
+Ref:            http://whois.arin.net/rest/net/NET-52-0-0-0-1
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2014-10-20
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            http://whois.arin.net/rest/org/AT-88-Z
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  ec2-abuse@amazon.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AEA8-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-266-2187 
+OrgNOCEmail:  aes-noc@amazon.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/AANO1-ARIN
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  aes-noc@amazon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ANO24-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

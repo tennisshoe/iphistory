@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>11below</registrant>
+    <registration>
+      <created>1999-12-02</created>
+      <updated>2002-06-17</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       63.251.0.0 - 63.251.255.255
+CIDR:           63.251.0.0/16
+NetName:        NETBLK-PNAP-11-99
+NetHandle:      NET-63-251-0-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internap Network Services Corporation (PNAP)
+RegDate:        1999-12-02
+Updated:        2002-06-17
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-63-251-0-0-1
+
+OrgName:        Internap Network Services Corporation
+OrgId:          PNAP
+Address:        250 Williams Street
+Address:        Suite E100
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        1996-07-18
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/PNAP
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-404-475-0520 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-404-475-0520 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+NetRange:       63.251.83.32 - 63.251.83.63
+CIDR:           63.251.83.32/27
+NetName:        INAP-WDC002-11BELOW-6622
+NetHandle:      NET-63-251-83-32-1
+Parent:         NETBLK-PNAP-11-99 (NET-63-251-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       11below (C01317151)
+RegDate:        2006-03-29
+Updated:        2006-03-29
+Ref:            http://whois.arin.net/rest/net/NET-63-251-83-32-1
+
+CustName:       11below
+Address:        9298 Central Avenue
+Address:        Suite 309
+City:           Blaine
+StateProv:      MN
+PostalCode:     55434
+Country:        US
+RegDate:        2006-03-29
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01317151
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-404-475-0520 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-404-475-0520 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

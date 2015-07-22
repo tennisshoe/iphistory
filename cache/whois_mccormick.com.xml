@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>McCormick and Co., Inc.</registrant>
+    <registration>
+      <created>1994-12-19</created>
+      <expires>2015-12-18</expires>
+      <updated>2014-12-14</updated>
+      <registrar>CSC CORPORATE DOMAINS, INC.</registrar>
+      <statuses>clientTransferProhibited</statuses>
+    </registration>
+    <name_servers>NS-1181.AWSDNS-19.ORG</name_servers>
+    <name_servers>NS-1570.AWSDNS-04.CO.UK</name_servers>
+    <name_servers>NS-499.AWSDNS-62.COM</name_servers>
+    <name_servers>NS-814.AWSDNS-37.NET</name_servers>
+    <whois>
+      <date>2015-07-01</date>
+      <record>Domain Name: mccormick.com
+Registry Domain ID: 870649_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2014-12-14T06:51:03Z
+Creation Date: 1994-12-19T05:00:00Z
+Registrar Registration Expiration Date: 2015-12-18T05:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: admin@internationaladmin.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: McCormick and Co., Inc.
+Registrant Street: 226 Schilling Circle
+Registrant City: Hunt Valley
+Registrant State/Province: MD
+Registrant Postal Code: 21031
+Registrant Country: US
+Registrant Phone: +1.4107717301
+Registrant Phone Ext: 
+Registrant Fax: +1.0000000000
+Registrant Fax Ext: 
+Registrant Email: Kester_Fernandez@mccormick.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: McCormick and Company, Inc.
+Admin Street: 226 Schilling Circle
+Admin City: Hunt Valley
+Admin State/Province: MD
+Admin Postal Code: 21031
+Admin Country: US
+Admin Phone: +1.4107717301
+Admin Phone Ext: 
+Admin Fax: +1.0000000000
+Admin Fax Ext: 
+Admin Email: Kester_Fernandez@mccormick.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: McCormick and Company, Inc.
+Tech Street: 226 Schilling Circle
+Tech City: Hunt Valley
+Tech State/Province: MD
+Tech Postal Code: 21031
+Tech Country: US
+Tech Phone: +1.4107717301
+Tech Phone Ext: 
+Tech Fax: +1.0000000000
+Tech Fax Ext: 
+Tech Email: Kester_Fernandez@mccormick.com
+Name Server: ns-1570.awsdns-04.co.uk
+Name Server: ns-499.awsdns-62.com
+Name Server: ns-814.awsdns-37.net
+Name Server: ns-1181.awsdns-19.org
+DNSSEC: 
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

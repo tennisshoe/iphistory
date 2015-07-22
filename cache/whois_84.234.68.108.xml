@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Planeetta Internet Oy</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% Abuse contact for '84.234.64.0 - 84.234.79.255' is 'abuse@planeetta.net'
+
+inetnum:        84.234.64.0 - 84.234.79.255
+netname:        PLANEETTAI-NET
+descr:          Planeetta Internet Oy
+descr:          Televisiokatu 3
+descr:          00240 Helsinki
+descr:          Finland
+country:        FI
+org:            ORG-PIO3-RIPE
+admin-c:        PLIN-RIPE
+tech-c:         PLIN-RIPE
+status:         ASSIGNED PI
+mnt-by:         PLANEETTA-MNT
+mnt-by:         RIPE-NCC-END-MNT
+mnt-routes:     PLANEETTA-MNT
+mnt-routes:     ELISA-MNT
+mnt-domains:    PLANEETTA-MNT
+changed:        lauri.pitkanen@planeetta.net 20050817
+changed:        lauri.pitkanen@planeetta.net 20090219
+changed:        hostmaster@ripe.net 20120403
+changed:        lupu.pitkanen@planeetta.net 20121220
+created:        2004-09-13T15:09:45Z
+last-modified:  2015-05-05T02:18:38Z
+source:         RIPE
+
+organisation:   ORG-PIO3-RIPE
+org-name:       Planeetta Internet Oy
+org-type:       LIR
+address:        Planeetta Internet Oy
+address:        Lauri Kasti
+address:        Televisiokatu 3
+address:        00240
+address:        Helsinki
+address:        FINLAND
+phone:          +358105251440
+fax-no:         +358105251449
+e-mail:         ripe-registry@planeetta.net
+abuse-mailbox:  abuse@planeetta.net
+mnt-ref:        PLANEETTA-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        hostmaster@ripe.net 20120315
+changed:        bit-bucket@ripe.net 20120403
+changed:        bitbucket@ripe.net 20121220
+changed:        bit-bucket@ripe.net 20130521
+changed:        bitbucket@ripe.net 20130531
+abuse-c:        PAC61-RIPE
+created:        2012-03-15T16:28:40Z
+last-modified:  2013-05-31T08:31:37Z
+source:         RIPE
+admin-c:        PLZ-RIPE
+admin-c:        LUPU-RIPE
+admin-c:        AXU-RIPE
+admin-c:        LK1557-RIPE
+
+role:           Planeetta Internet Hostmaster
+address:        Planeetta Internet Oy
+address:        Televisiokatu 3
+address:        00240 Helsinki
+address:        Finland
+phone:          +358 10 525 1440
+fax-no:         +358 10 525 1449
+e-mail:         hostmaster@planeetta.net
+org:            ORG-PIO1-RIPE
+admin-c:        LK1557-RIPE
+admin-c:        LUPU-RIPE
+tech-c:         LK1557-RIPE
+tech-c:         LUPU-RIPE
+nic-hdl:        PLIN-RIPE
+mnt-by:         PLANEETTA-MNT
+changed:        lauri.pitkanen@planeetta.net 20050817
+changed:        lauri.pitkanen@planeetta.net 20061119
+changed:        lauri.pitkanen@planeetta.net 20090219
+changed:        lupu.pitkanen@planeetta.net 20121220
+created:        2005-08-16T15:32:32Z
+last-modified:  2012-12-20T13:23:44Z
+source:         RIPE
+abuse-mailbox:  abuse@planeetta.net
+
+route:          84.234.64.0/20
+descr:          Planeetta Internet Oy
+descr:          http://www.planeetta.net/
+origin:         AS58003
+mnt-by:         PLANEETTA-MNT
+changed:        esa.lahteenmaki@iki.fi 20120425
+created:        2012-04-25T08:42:05Z
+last-modified:  2012-04-25T08:42:05Z
+source:         RIPE
+
+route:          84.234.64.0/20
+descr:          PLANEETTAI-NET
+origin:         AS719
+mnt-by:         ELISA-MNT
+mnt-routes:     ELISA-MNT
+mnt-routes:     UTFORS-MNT
+mnt-routes:     PLANEETTA-MNT
+changed:        hakan.hansson@telenor.net 20041221
+changed:        hakan.hansson@bredband.com 20100119
+changed:        ripe-updates@elisa.fi 20100119
+changed:        ripe-updates@elisa.fi 20120425
+created:        2010-01-19T10:03:37Z
+last-modified:  2012-04-25T08:39:05Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

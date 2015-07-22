@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DISTRIBUTEL COMMUNICATIONS LTD.</registrant>
+    <registration>
+      <created>1998-08-26</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       216.58.0.0 - 216.58.127.255
+CIDR:           216.58.0.0/17
+NetName:        NET-DTEL-V4-10
+NetHandle:      NET-216-58-0-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS10687, AS6241, AS21677, AS11814, AS11175
+Organization:   DISTRIBUTEL COMMUNICATIONS LTD. (DISTRI-47)
+RegDate:        1998-08-26
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-58-0-0-1
+
+OrgName:        DISTRIBUTEL COMMUNICATIONS LTD.
+OrgId:          DISTRI-47
+Address:        177 Nepean St
+Address:        Suite 300
+City:           Ottawa
+StateProv:      ON
+PostalCode:     K2P 0B4
+Country:        CA
+RegDate:        2001-06-06
+Updated:        2011-12-15
+Comment:        http://www.distributel.ca
+Ref:            http://whois.arin.net/rest/org/DISTRI-47
+
+OrgTechHandle: IPADM592-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-613-237-7662 
+OrgTechEmail:  ipadmin@distributel.ca
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM592-ARIN
+
+OrgNOCHandle: NOC1680-ARIN
+OrgNOCName:   Network Operations Centre
+OrgNOCPhone:  +1-613-237-7662 
+OrgNOCEmail:  noc@distributel.ca
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1680-ARIN
+
+OrgAbuseHandle: ABUSE743-ARIN
+OrgAbuseName:   Network Abuse Contact
+OrgAbusePhone:  +1-613-778-8808 
+OrgAbuseEmail:  abuse@distributel.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE743-ARIN
+
+NetRange:       216.58.16.0 - 216.58.19.255
+CIDR:           216.58.16.0/22
+NetName:        DTEL-OTTAWA-FLF-V4-04
+NetHandle:      NET-216-58-16-0-1
+Parent:         NET-DTEL-V4-10 (NET-216-58-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS11814
+Organization:   DISTRIBUTEL COMMUNICATIONS LTD. (DISTRI-47)
+RegDate:        2012-07-11
+Updated:        2012-11-20
+Comment:        http://www.distributel.ca
+Ref:            http://whois.arin.net/rest/net/NET-216-58-16-0-1
+
+OrgName:        DISTRIBUTEL COMMUNICATIONS LTD.
+OrgId:          DISTRI-47
+Address:        177 Nepean St
+Address:        Suite 300
+City:           Ottawa
+StateProv:      ON
+PostalCode:     K2P 0B4
+Country:        CA
+RegDate:        2001-06-06
+Updated:        2011-12-15
+Comment:        http://www.distributel.ca
+Ref:            http://whois.arin.net/rest/org/DISTRI-47
+
+OrgTechHandle: IPADM592-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-613-237-7662 
+OrgTechEmail:  ipadmin@distributel.ca
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM592-ARIN
+
+OrgNOCHandle: NOC1680-ARIN
+OrgNOCName:   Network Operations Centre
+OrgNOCPhone:  +1-613-237-7662 
+OrgNOCEmail:  noc@distributel.ca
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1680-ARIN
+
+OrgAbuseHandle: ABUSE743-ARIN
+OrgAbuseName:   Network Abuse Contact
+OrgAbusePhone:  +1-613-778-8808 
+OrgAbuseEmail:  abuse@distributel.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE743-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

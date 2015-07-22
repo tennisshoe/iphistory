@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Comcast Cable Communications, Inc.</registrant>
+    <registration>
+      <created>2007-05-02</created>
+      <updated>2007-05-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       69.241.0.0 - 69.241.63.255
+CIDR:           69.241.0.0/18
+NetName:        COMCAST-5
+NetHandle:      NET-69-241-0-0-1
+Parent:         JUMPSTART-4 (NET-69-240-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Comcast Cable Communications, Inc. (C01623945)
+RegDate:        2007-05-02
+Updated:        2007-05-02
+Ref:            http://whois.arin.net/rest/net/NET-69-241-0-0-1
+
+CustName:       Comcast Cable Communications, Inc.
+Address:        1800 Bishops Gate Blvd
+City:           Mt Laurel
+StateProv:      NJ
+PostalCode:     08054
+Country:        US
+RegDate:        2007-05-02
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01623945
+
+OrgTechHandle: IC161-ARIN
+OrgTechName:   Comcast Cable Communications Inc
+OrgTechPhone:  +1-856-317-7200 
+OrgTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN
+
+OrgAbuseHandle: NAPO-ARIN
+OrgAbuseName:   Network Abuse and Policy Observance
+OrgAbusePhone:  +1-888-565-4329 
+OrgAbuseEmail:  abuse@comcast.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+NetRange:       69.240.0.0 - 69.255.255.255
+CIDR:           69.240.0.0/12
+NetName:        JUMPSTART-4
+NetHandle:      NET-69-240-0-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Comcast Cable Communications, Inc. (CMCS)
+RegDate:        2004-02-11
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-69-240-0-0-1
+
+OrgName:        Comcast Cable Communications, Inc.
+OrgId:          CMCS
+Address:        1800 Bishops Gate Blvd
+City:           Mt Laurel
+StateProv:      NJ
+PostalCode:     08054
+Country:        US
+RegDate:        2001-11-29
+Updated:        2009-11-06
+Ref:            http://whois.arin.net/rest/org/CMCS
+
+OrgTechHandle: IC161-ARIN
+OrgTechName:   Comcast Cable Communications Inc
+OrgTechPhone:  +1-856-317-7200 
+OrgTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN
+
+OrgAbuseHandle: NAPO-ARIN
+OrgAbuseName:   Network Abuse and Policy Observance
+OrgAbusePhone:  +1-888-565-4329 
+OrgAbuseEmail:  abuse@comcast.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

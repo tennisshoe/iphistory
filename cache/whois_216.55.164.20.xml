@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Codero</registrant>
+    <registration>
+      <created>1999-05-28</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.55.160.0 - 216.55.171.255
+CIDR:           216.55.160.0/21, 216.55.168.0/22
+NetName:        CODERO1999A
+NetHandle:      NET-216-55-160-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS10316
+Organization:   Codero (APHIN)
+RegDate:        1999-05-28
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-55-160-0-1
+
+OrgName:        Codero
+OrgId:          APHIN
+Address:        5750 W. 95th St., Suite 300
+City:           Overland Park
+StateProv:      KS
+PostalCode:     66207
+Country:        US
+RegDate:        2009-07-21
+Updated:        2014-03-05
+Ref:            http://whois.arin.net/rest/org/APHIN
+
+OrgTechHandle: ADA108-ARIN
+OrgTechName:   APH DNS Administrator
+OrgTechPhone:  +1-866-226-3376 
+OrgTechEmail:  dns@codero.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ADA108-ARIN
+
+OrgAbuseHandle: APHAB-ARIN
+OrgAbuseName:   APH Abuse
+OrgAbusePhone:  +1-866-226-3376 
+OrgAbuseEmail:  abuse@codero.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/APHAB-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

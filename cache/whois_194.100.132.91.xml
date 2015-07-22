@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DNA Oy</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% Abuse contact for '194.100.0.0 - 194.100.255.255' is 'abuse@dnaip.fi'
+
+inetnum:        194.100.0.0 - 194.100.255.255
+netname:        FI-DNA-961004
+descr:          DNA Oy
+country:        FI
+org:            ORG-FNL1-RIPE
+admin-c:        DNAR-RIPE
+tech-c:         DNAR-RIPE
+status:         ALLOCATED PA
+notify:         ripe.nfy@dnaip.fi
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      FI2G-MNT
+mnt-lower:      AS3246-MNT
+mnt-routes:     FI2G-MNT
+mnt-domains:    FI2G-MNT
+changed:        hostmaster@ripe.net 19961004
+changed:        hostmaster@ripe.net 20011004
+changed:        hostmaster@ripe.net 20020507
+changed:        hostmaster@ripe.net 20020513
+changed:        hostmaster@ripe.net 20020528
+changed:        hostmaster@ripe.net 20050617
+changed:        hostmaster@ripe.net 20090302
+changed:        bit-bucket@ripe.net 20140919
+changed:        bit-bucket@ripe.net 20141023
+changed:        bit-bucket@ripe.net 20141023
+changed:        bit-bucket@ripe.net 20150227
+changed:        bit-bucket@ripe.net 20150302
+changed:        bit-bucket@ripe.net 20150302
+changed:        bit-bucket@ripe.net 20150302
+created:        2015-02-27T13:50:20Z
+last-modified:  2015-03-02T10:51:11Z
+source:         RIPE
+
+organisation:   ORG-FNL1-RIPE
+org-name:       DNA Oy
+org-type:       LIR
+address:        PL 10
+address:        01044 DNA
+address:        Helsinki
+address:        FINLAND
+phone:          +358440440
+fax-no:         +358290996292
+admin-c:        PL3409-RIPE
+admin-c:        PR4745-RIPE
+admin-c:        JS3021-RIPE
+admin-c:        RH4287-RIPE
+admin-c:        OR89-RIPE
+admin-c:        JJS12-RIPE
+admin-c:        KL1982-RIPE
+admin-c:        IJ49-RIPE
+admin-c:        TL3281-RIPE
+admin-c:        TV457-RIPE
+mnt-ref:        FI2G-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        DNAR-RIPE
+changed:        bitbucket@ripe.net 20150330
+created:        2004-04-17T11:20:32Z
+last-modified:  2015-03-30T11:38:10Z
+source:         RIPE
+e-mail:         lir@dnaip.fi
+
+role:           DNA Registry
+address:        DNA Oy
+address:        PL 10
+address:        01044 DNA
+address:        Finland
+e-mail:         lir@dnaip.fi
+admin-c:        PR4745-RIPE
+tech-c:         PR4745-RIPE
+tech-c:         JJS12-RIPE
+tech-c:         OR89-RIPE
+tech-c:         JS3021-RIPE
+tech-c:         RH4287-RIPE
+tech-c:         TL3281-RIPE
+tech-c:         IJ49-RIPE
+nic-hdl:        DNAR-RIPE
+abuse-mailbox:  abuse@dnaip.fi
+notify:         ripe.nfy@dnaip.fi
+mnt-by:         FI2G-MNT
+changed:        pr4745@invalid.fv.fi 20080121
+changed:        pr4745@invalid.dnaip.fi 20080812
+changed:        or89@invalid.dnaip.fi 20101008
+changed:        pr4745@invalid.dnaip.fi 20110214
+changed:        or89@invalid.dnaip.fi 20120228
+changed:        or89@invalid.dnaip.fi 20140425
+created:        2008-01-21T13:04:15Z
+last-modified:  2014-04-25T09:49:48Z
+source:         RIPE
+
+route:          194.100.0.0/16
+descr:          DNA Oy
+origin:         AS16086
+member-of:      AS16086:RS-SPEX
+mnt-by:         FI2G-MNT
+changed:        OR89-RIPE@invalid.dnaip.fi 20150525
+created:        2015-05-25T17:17:17Z
+last-modified:  2015-05-25T17:17:17Z
+source:         RIPE
+
+route:          194.100.0.0/16
+descr:          TDC Song Oy
+origin:         AS3292
+notify:         hostmaster@song.fi
+mnt-by:         AS3292-MNT
+changed:        petteri.helin@tdcsong.fi 20070710
+created:        2007-07-10T06:54:15Z
+last-modified:  2007-07-10T06:54:15Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>A.G. Edwards &amp; Sons, Inc.</registrant>
+    <registration>
+      <created>1992-03-06</created>
+      <updated>2011-02-16</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       159.45.0.0 - 159.45.255.255
+CIDR:           159.45.0.0/16
+NetName:        AGE-COM
+NetHandle:      NET-159-45-0-0-1
+Parent:         NET159 (NET-159-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   A.G. Edwards &amp; Sons, Inc. (AES-2)
+RegDate:        1992-03-06
+Updated:        2011-02-16
+Ref:            http://whois.arin.net/rest/net/NET-159-45-0-0-1
+
+OrgName:        A.G. Edwards &amp; Sons, Inc.
+OrgId:          AES-2
+Address:        One North Jefferson
+City:           St. Louis
+StateProv:      MO
+PostalCode:     63103
+Country:        US
+RegDate:        1992-03-06
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/AES-2
+
+OrgTechHandle: JH2659-ARIN
+OrgTechName:   Horst, Joe 
+OrgTechPhone:  +1-314-955-6230 
+OrgTechEmail:  hostmaster@wellsfargo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JH2659-ARIN
+
+OrgAbuseHandle: JH2659-ARIN
+OrgAbuseName:   Horst, Joe 
+OrgAbusePhone:  +1-314-955-6230 
+OrgAbuseEmail:  hostmaster@wellsfargo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JH2659-ARIN
+
+RNOCHandle: ZW100-ARIN
+RNOCName:   Wells Fargo Company
+RNOCPhone:  +1-415-808-3158 
+RNOCEmail:  hostmaster@wellsfargo.com
+RNOCRef:    http://whois.arin.net/rest/poc/ZW100-ARIN
+
+RTechHandle: ZW100-ARIN
+RTechName:   Wells Fargo Company
+RTechPhone:  +1-415-808-3158 
+RTechEmail:  hostmaster@wellsfargo.com
+RTechRef:    http://whois.arin.net/rest/poc/ZW100-ARIN
+
+RAbuseHandle: ZW100-ARIN
+RAbuseName:   Wells Fargo Company
+RAbusePhone:  +1-415-808-3158 
+RAbuseEmail:  hostmaster@wellsfargo.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ZW100-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

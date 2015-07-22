@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Iomart Hosting Limited</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '87.117.192.0 - 87.117.207.255' is 'abuse@rapidswitch.com'
+
+inetnum:        87.117.192.0 - 87.117.207.255
+netname:        RAPIDSWITCH-IP-5
+descr:          RapidSwitch Ltd
+country:        GB
+org:            ORG-RL20-RIPE
+admin-c:        AR6363-RIPE
+tech-c:         AR6363-RIPE
+status:         ASSIGNED PA
+mnt-by:         RAPIDSWITCH-MNT
+changed:        abuse@rapidswitch.com 20050929
+created:        2005-09-29T13:34:06Z
+last-modified:  2007-02-17T15:54:07Z
+source:         RIPE
+
+organisation:   ORG-RL20-RIPE
+org-name:       Iomart Hosting Limited
+org-type:       LIR
+address:        IOMART Hosting Ltd T/AS Rapidswitch Ltd
+address:        Daniel Blencoe
+address:        Spectrum House, Clivemont Road
+address:        SL6 7FW
+address:        Maidenhead
+address:        UNITED KINGDOM
+phone:          +441753471040
+fax-no:         +441753471049
+e-mail:         abuse@rapidswitch.com
+admin-c:        SMC74-RIPE
+admin-c:        RC6613-RIPE
+admin-c:        DB16530-RIPE
+admin-c:        RM1358-RIPE
+admin-c:        AR6363-RIPE
+mnt-ref:        RAPIDSWITCH-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        AR12896-RIPE
+changed:        bitbucket@ripe.net 20141010
+created:        2005-09-26T12:37:33Z
+last-modified:  2014-10-10T13:58:27Z
+source:         RIPE
+
+person:         Abuse Robot
+address:        iomart Hosting Ltd t/a RapidSwitch
+address:        Spectrum House
+address:        Clivemont Road
+address:        Maidenhead
+address:        SL6 7FW
+phone:          +44 (0)1753 471 040
+remarks:        ******************************************************
+remarks:        * ABUSE REPORTS                                      *
+remarks:        * https://myservers.rapidswitch.com/reportabuse.aspx *
+remarks:        ******************************************************
+e-mail:         abuse@rapidswitch.com
+abuse-mailbox:  abuse@rapidswitch.com
+nic-hdl:        AR6363-RIPE
+mnt-by:         RAPIDSWITCH-MNT
+changed:        abuse@rapidswitch.com 20090310
+created:        2007-02-11T09:38:19Z
+last-modified:  2013-06-18T14:26:09Z
+source:         RIPE
+
+route:          87.117.192.0/18
+descr:          Iomart Hosting Ltd
+origin:         AS20860
+mnt-by:         GB10488-RIPE-MNT
+mnt-by:         RAPIDSWITCH-MNT
+changed:        richard@iomart.com 20110429
+created:        2011-04-28T23:41:26Z
+last-modified:  2011-04-28T23:41:26Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

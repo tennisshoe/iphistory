@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ZILLOW, INC.</registrant>
+    <registration>
+      <created>2013-02-06</created>
+      <updated>2013-02-06</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       192.211.12.0 - 192.211.15.255
+CIDR:           192.211.12.0/22
+NetName:        NETBLK-ZILLO
+NetHandle:      NET-192-211-12-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS18888
+Organization:   ZILLOW, INC. (ZILLO)
+RegDate:        2013-02-06
+Updated:        2013-02-06
+Comment:        http://www.zillow.com
+Ref:            http://whois.arin.net/rest/net/NET-192-211-12-0-1
+
+OrgName:        ZILLOW, INC.
+OrgId:          ZILLO
+Address:        1301 Second Avenue, Floor 31
+City:           Seattle
+StateProv:      WA
+PostalCode:     98101
+Country:        US
+RegDate:        2005-03-17
+Updated:        2012-12-19
+Comment:        http://www.zillow.com noc@zillow.com
+Ref:            http://whois.arin.net/rest/org/ZILLO
+
+OrgTechHandle: DBE78-ARIN
+OrgTechName:   Beitel, David 
+OrgTechPhone:  +1-206-587-0820 
+OrgTechEmail:  davebei@zillow.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DBE78-ARIN
+
+OrgTechHandle: CWR29-ARIN
+OrgTechName:   Rogers, Christopher Walter
+OrgTechPhone:  +1-501-313-3779 
+OrgTechEmail:  christopherro@zillow.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CWR29-ARIN
+
+OrgAbuseHandle: BWC8-ARIN
+OrgAbuseName:   Capps, Brian Wayne
+OrgAbusePhone:  +1-206-757-2743 
+OrgAbuseEmail:  brianc@zillow.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BWC8-ARIN
+
+OrgTechHandle: BWC8-ARIN
+OrgTechName:   Capps, Brian Wayne
+OrgTechPhone:  +1-206-757-2743 
+OrgTechEmail:  brianc@zillow.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BWC8-ARIN
+
+OrgTechHandle: JIB10-ARIN
+OrgTechName:   Ibanes, Jerome 
+OrgTechPhone:  +1-206-470-7000 
+OrgTechEmail:  jibanes@gmail.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JIB10-ARIN
+
+OrgAbuseHandle: JIB10-ARIN
+OrgAbuseName:   Ibanes, Jerome 
+OrgAbusePhone:  +1-206-470-7000 
+OrgAbuseEmail:  jibanes@gmail.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JIB10-ARIN
+
+OrgNOCHandle: ZILLO-ARIN
+OrgNOCName:   Zillow NOC
+OrgNOCPhone:  +1-206-470-7175 
+OrgNOCEmail:  noc@zillow.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZILLO-ARIN
+
+OrgAbuseHandle: DBE78-ARIN
+OrgAbuseName:   Beitel, David 
+OrgAbusePhone:  +1-206-587-0820 
+OrgAbuseEmail:  davebei@zillow.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DBE78-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

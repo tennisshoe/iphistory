@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>David Baszucki 10594512</registrant>
+    <registration>
+      <created>1999-05-10</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       63.192.0.0 - 63.207.255.255
+CIDR:           63.192.0.0/12
+NetName:        SBCIS-SIS80
+NetHandle:      NET-63-192-0-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   AT&amp;T Internet Services (SIS-80)
+RegDate:        1999-05-10
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Comment:        please send all abuse issue e-mails to abuse@pbi.net
+Ref:            http://whois.arin.net/rest/net/NET-63-192-0-0-1
+
+OrgName:        AT&amp;T Internet Services
+OrgId:          SIS-80
+Address:        3300 E Renner Rd
+Address:        Mailroom B2139 
+Address:        Attn:IP Management
+City:           Richardson
+StateProv:      TX
+PostalCode:     75082
+Country:        US
+RegDate:        2000-06-20
+Updated:        2014-06-10
+Comment:        For policy abuse issues contact abuse@att.net
+Comment:        AT&amp;T Internet Services - Legal Compliance Group
+Comment:        1010 N. St. Mary's St., Rm. 315-A2
+Comment:        San Antonio, TX 78215
+Comment:        Legal Compliance Group (Fax) 707-435-6409
+Ref:            http://whois.arin.net/rest/org/SIS-80
+
+OrgTechHandle: IPADM2-ARIN
+OrgTechName:   IPAdmin ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin-sbis@sbis.sbc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM2-ARIN
+
+OrgNOCHandle: SUPPO-ARIN
+OrgNOCName:   Support ATT Internet Services
+OrgNOCPhone:  +1-888-510-5545 
+OrgNOCEmail:  ipadmin@sbc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SUPPO-ARIN
+
+OrgAbuseHandle: ABUSE6-ARIN
+OrgAbuseName:   Abuse ATT Internet Services
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE6-ARIN
+
+RTechHandle: PIA2-ORG-ARIN
+RTechName:   IPAdmin-PBI
+RTechPhone:  +1-800-648-1626 
+RTechEmail:  IPAdmin-PBI@sbc.com
+RTechRef:    http://whois.arin.net/rest/poc/PIA2-ORG-ARIN
+
+NetRange:       63.198.222.168 - 63.198.222.175
+CIDR:           63.198.222.168/29
+NetName:        SBC06319822216829040305151220
+NetHandle:      NET-63-198-222-168-1
+Parent:         SBCIS-SIS80 (NET-63-192-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       David Baszucki 10594512 (C00780629)
+RegDate:        2004-03-05
+Updated:        2004-03-05
+Comment:        Abuse contact abuse@swbell.net, Technical contact noc@sbcis.sbc.com
+Ref:            http://whois.arin.net/rest/net/NET-63-198-222-168-1
+
+CustName:       David Baszucki 10594512
+Address:        Private Address
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2004-03-05
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C00780629
+
+OrgTechHandle: IPADM2-ARIN
+OrgTechName:   IPAdmin ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin-sbis@sbis.sbc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM2-ARIN
+
+OrgNOCHandle: SUPPO-ARIN
+OrgNOCName:   Support ATT Internet Services
+OrgNOCPhone:  +1-888-510-5545 
+OrgNOCEmail:  ipadmin@sbc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SUPPO-ARIN
+
+OrgAbuseHandle: ABUSE6-ARIN
+OrgAbuseName:   Abuse ATT Internet Services
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE6-ARIN
+
+RTechHandle: PIA2-ORG-ARIN
+RTechName:   IPAdmin-PBI
+RTechPhone:  +1-800-648-1626 
+RTechEmail:  IPAdmin-PBI@sbcis.sbc.com
+RTechRef:    http://whois.arin.net/rest/poc/PIA2-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

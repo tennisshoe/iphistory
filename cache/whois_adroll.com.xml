@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Domains By Proxy, LLC</registrant>
+    <registration>
+      <created>2004-10-13</created>
+      <expires>2016-10-13</expires>
+      <updated>2015-04-21</updated>
+      <registrar>GODADDY.COM, LLC</registrar>
+      <statuses>clientDeleteProhibited</statuses>
+      <statuses>clientRenewProhibited</statuses>
+      <statuses>clientTransferProhibited</statuses>
+      <statuses>clientUpdateProhibited</statuses>
+    </registration>
+    <name_servers>NS1.P21.DYNECT.NET</name_servers>
+    <name_servers>NS2.P21.DYNECT.NET</name_servers>
+    <name_servers>NS3.P21.DYNECT.NET</name_servers>
+    <name_servers>NS4.P21.DYNECT.NET</name_servers>
+    <whois>
+      <date>2015-07-19</date>
+      <record>Domain Name: ADROLL.COM
+Registrar URL: http://www.godaddy.com
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Name Server: NS1.P21.DYNECT.NET
+Name Server: NS2.P21.DYNECT.NET
+Name Server: NS3.P21.DYNECT.NET
+Name Server: NS4.P21.DYNECT.NET
+DNSSEC: unsigned
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

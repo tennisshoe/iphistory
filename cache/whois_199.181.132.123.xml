@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Disney Worldwide Services, Inc.</registrant>
+    <registration>
+      <created>1994-03-28</created>
+      <updated>2004-06-23</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       199.181.129.0 - 199.181.135.255
+CIDR:           199.181.129.0/24, 199.181.130.0/23, 199.181.132.0/22
+NetName:        DISNEY-CBLK
+NetHandle:      NET-199-181-129-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Disney Worldwide Services, Inc. (DWS)
+RegDate:        1994-03-28
+Updated:        2004-06-23
+Ref:            http://whois.arin.net/rest/net/NET-199-181-129-0-1
+
+OrgName:        Disney Worldwide Services, Inc.
+OrgId:          DWS
+Address:        500 South Buena Vista Street
+City:           Burbank
+StateProv:      CA
+PostalCode:     91521
+Country:        US
+RegDate:        1992-07-17
+Updated:        2014-05-02
+Ref:            http://whois.arin.net/rest/org/DWS
+
+OrgAbuseHandle: DIS32-ARIN
+OrgAbuseName:   DTSS Information Security
+OrgAbusePhone:  +1-818-553-7590 
+OrgAbuseEmail:  InfoSec.FIRE@disney.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DIS32-ARIN
+
+OrgTechHandle: JM3462-ARIN
+OrgTechName:   Mansukhani, Jeff 
+OrgTechPhone:  +1-818-553-7268 
+OrgTechEmail:  jeff.mansukhani@disney.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JM3462-ARIN
+
+OrgNOCHandle: DNOC7-ARIN
+OrgNOCName:   DTSS Network Operation Center
+OrgNOCPhone:  +1-407-939-5910 
+OrgNOCEmail:  DL-DisneyNetworkNOC@xerox.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/DNOC7-ARIN
+
+OrgTechHandle: SNO35-ARIN
+OrgTechName:   Noonan, Sam 
+OrgTechPhone:  +1-818-553-7549 
+OrgTechEmail:  sam.noonan@disney.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SNO35-ARIN
+
+OrgTechHandle: MC110-ARIN
+OrgTechName:   Cloud, Mark 
+OrgTechPhone:  +1-407-566-5196 
+OrgTechEmail:  mark.cloud@disney.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MC110-ARIN
+
+RTechHandle: TECHN163-ARIN
+RTechName:   Technical Contact
+RTechPhone:  +1-206-664-4678 
+RTechEmail:  ms_support@help.go.com
+RTechRef:    http://whois.arin.net/rest/poc/TECHN163-ARIN
+
+RAbuseHandle: ABUSE133-ARIN
+RAbuseName:   Abuse Contact
+RAbusePhone:  +1-206-664-4678 
+RAbuseEmail:  ms_support@help.go.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE133-ARIN
+
+RNOCHandle: NOCCO3-ARIN
+RNOCName:   NOC Contact
+RNOCPhone:  +1-206-664-4678 
+RNOCEmail:  ms_support@help.go.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOCCO3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

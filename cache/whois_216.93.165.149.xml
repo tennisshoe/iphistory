@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>GoGrid, LLC</registrant>
+    <registration>
+      <created>2002-11-15</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.93.160.0 - 216.93.191.255
+CIDR:           216.93.160.0/19
+NetName:        SERVEPATH
+NetHandle:      NET-216-93-160-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   GoGrid, LLC (SERVEP)
+RegDate:        2002-11-15
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-93-160-0-1
+
+OrgName:        GoGrid, LLC
+OrgId:          SERVEP
+Address:        2 Harrison Street
+Address:        Suite 200
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94105
+Country:        US
+RegDate:        2002-08-01
+Updated:        2012-10-10
+Comment:        http://www.servepath.com/
+Ref:            http://whois.arin.net/rest/org/SERVEP
+
+ReferralServer:  rwhois://rwhois.servepath.com:4321
+
+OrgTechHandle: SERVE11-ARIN
+OrgTechName:   ServePath NOC
+OrgTechPhone:  +1-415-869-7000 
+OrgTechEmail:  netops@gogrid.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SERVE11-ARIN
+
+OrgNOCHandle: SERVE11-ARIN
+OrgNOCName:   ServePath NOC
+OrgNOCPhone:  +1-415-869-7000 
+OrgNOCEmail:  netops@gogrid.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SERVE11-ARIN
+
+OrgAbuseHandle: SAA10-ARIN
+OrgAbuseName:   ServePath Abuse Administrator
+OrgAbusePhone:  +1-415-869-7000 
+OrgAbuseEmail:  abuse@gogrid.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SAA10-ARIN
+
+OrgTechHandle: GOC2-ARIN
+OrgTechName:   GoGrid Operations Center
+OrgTechPhone:  +1-415-869-7444 
+OrgTechEmail:  netops@gogrid.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GOC2-ARIN
+
+RNOCHandle: SN458-ARIN
+RNOCName:   ServePath NOC
+RNOCPhone:  +1-415-869-7000 
+RNOCEmail:  noc@servepath.com
+RNOCRef:    http://whois.arin.net/rest/poc/SN458-ARIN
+
+== Additional Information From rwhois://rwhois.servepath.com:4321 ==
+
+%rwhois V-1.5:002cb0:00 rwhois.servepath.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Auth-Area:216.93.160.0/19
+network:Class-Name:network
+network:ID:7114.216.93.165.144/29
+network:Network-Name:7114-NETWORK
+network:IP-Network:216.93.165.144/29
+network:Org-Name:ServePath
+network:Street-Address:360 Spear Street #200
+network:City:San Francisco
+network:State:CA
+network:Postal-Code:94105
+network:Country-Code:USA
+network:Tech-Contact;I:hostmaster@servepath.com
+network:Updated:20040824
+network:Updated-By:hostmaster@servepath.com
+
+network:Auth-Area:216.93.160.0/19
+network:Class-Name:network
+network:ID:3410.216.93.160.0/19
+network:Network-Name:3410-NETWORK
+network:IP-Network:216.93.160.0/19
+network:Org-Name:ServePath
+network:Street-Address:360 Spear Street #200
+network:City:San Francisco
+network:State:CA
+network:Postal-Code:94105
+network:Country-Code:USA
+network:Tech-Contact;I:hostmaster@servepath.com
+network:Updated:20040824
+network:Updated-By:hostmaster@servepath.com
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Onvoy</registrant>
+    <registration>
+      <created>1994-03-16</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       199.199.0.0 - 199.199.255.255
+CIDR:           199.199.0.0/16
+NetName:        ZAYO-199-199-0-0-16
+NetHandle:      NET-199-199-0-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Onvoy (ONVOY)
+RegDate:        1994-03-16
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-199-199-0-0-1
+
+OrgName:        Onvoy
+OrgId:          ONVOY
+Address:        10300 6th Ave N
+City:           Plymouth
+StateProv:      MN
+PostalCode:     55313
+Country:        US
+RegDate:        2000-03-17
+Updated:        2012-11-12
+Ref:            http://whois.arin.net/rest/org/ONVOY
+
+OrgTechHandle: TPC13-ARIN
+OrgTechName:   Technical Point of Contact
+OrgTechPhone:  +1-952-230-4848 
+OrgTechEmail:  arinpoc@zayoenterprise.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TPC13-ARIN
+
+OrgNOCHandle: NOC3127-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-952-230-4848 
+OrgNOCEmail:  arinpoc@zayoenterprise.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC3127-ARIN
+
+OrgAbuseHandle: APC13-ARIN
+OrgAbuseName:   Abuse Point of Contact
+OrgAbusePhone:  +1-952-230-4726 
+OrgAbuseEmail:  abuse@zayoenterprise.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/APC13-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

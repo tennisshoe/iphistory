@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Leshi Internet Information &amp; Technology (Beijing) Corp.</registrant>
+    <registration>
+      <created>2014-10-09</created>
+      <updated>2014-10-09</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       65.255.32.0 - 65.255.32.255
+CIDR:           65.255.32.0/24
+NetName:        C3-LETV-US-LAX-01
+NetHandle:      NET-65-255-32-0-2
+Parent:         CC-002 (NET-65-255-32-0-1)
+NetType:        Reassigned
+OriginAS:       AS21859
+Organization:   Leshi Internet Information &amp; Technology (Beijing) Corp. (LIITBC)
+RegDate:        2014-10-09
+Updated:        2014-10-09
+Ref:            http://whois.arin.net/rest/net/NET-65-255-32-0-2
+
+OrgName:        Leshi Internet Information &amp; Technology (Beijing) Corp.
+OrgId:          LIITBC
+Address:        HongChengXinTai Mnsion, 16th floor, No. 105, YaoJiaYuan Road
+City:           ChaoYang
+StateProv:      BEIJING
+PostalCode:     100025
+Country:        CN
+RegDate:        2014-08-17
+Updated:        2014-08-17
+Ref:            http://whois.arin.net/rest/org/LIITBC
+
+OrgTechHandle: NETOP257-ARIN
+OrgTechName:   Net Ops
+OrgTechPhone:  +400-900-9000 
+OrgTechEmail:  netops@letv.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETOP257-ARIN
+
+OrgAbuseHandle: NETOP257-ARIN
+OrgAbuseName:   Net Ops
+OrgAbusePhone:  +400-900-9000 
+OrgAbuseEmail:  netops@letv.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETOP257-ARIN
+
+NetRange:       65.255.32.0 - 65.255.47.255
+CIDR:           65.255.32.0/20
+NetName:        CC-002
+NetHandle:      NET-65-255-32-0-1
+Parent:         NET65 (NET-65-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS21859
+Organization:   C3 Networks Inc (CN-51)
+RegDate:        2009-07-08
+Updated:        2014-04-09
+Ref:            http://whois.arin.net/rest/net/NET-65-255-32-0-1
+
+OrgName:        C3 Networks Inc
+OrgId:          CN-51
+Address:        13141 Marcey Creek Road
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2012-10-19
+Updated:        2013-06-24
+Ref:            http://whois.arin.net/rest/org/CN-51
+
+OrgTechHandle: IPADM641-ARIN
+OrgTechName:   IP ADMIN
+OrgTechPhone:  +1-703-505-8326 
+OrgTechEmail:  ipadmin@c3edge.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgNOCHandle: IPADM641-ARIN
+OrgNOCName:   IP ADMIN
+OrgNOCPhone:  +1-703-505-8326 
+OrgNOCEmail:  ipadmin@c3edge.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgAbuseHandle: IPADM641-ARIN
+OrgAbuseName:   IP ADMIN
+OrgAbusePhone:  +1-703-505-8326 
+OrgAbuseEmail:  ipadmin@c3edge.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

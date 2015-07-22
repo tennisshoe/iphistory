@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>YouTube, LLC</registrant>
+    <registration>
+      <created>2006-03-02</created>
+      <updated>2013-12-13</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       208.65.152.0 - 208.65.155.255
+CIDR:           208.65.152.0/22
+NetName:        YOUTUBE
+NetHandle:      NET-208-65-152-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS43515, AS36040, AS36561, AS15169
+Organization:   YouTube, LLC (YL)
+RegDate:        2006-03-02
+Updated:        2013-12-13
+Ref:            http://whois.arin.net/rest/net/NET-208-65-152-0-1
+
+OrgName:        YouTube, LLC
+OrgId:          YL
+Address:        Attn: EngIntegration
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2010-12-13
+Updated:        2014-06-03
+Ref:            http://whois.arin.net/rest/org/YL
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google Inc
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZG39-ARIN
+
+OrgAbuseHandle: ZG39-ARIN
+OrgAbuseName:   Google Inc
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  arin-contact@google.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZG39-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

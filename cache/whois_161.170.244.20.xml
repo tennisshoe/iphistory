@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Wal-Mart Stores, Inc.</registrant>
+    <registration>
+      <created>1993-01-04</created>
+      <updated>2012-04-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       161.163.0.0 - 161.177.255.255
+CIDR:           161.163.0.0/16, 161.176.0.0/15, 161.168.0.0/13, 161.164.0.0/14
+NetName:        NETBLK-WAL-MART
+NetHandle:      NET-161-163-0-0-1
+Parent:         NET161 (NET-161-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32851
+Organization:   Wal-Mart Stores, Inc. (WALMAR-Z)
+RegDate:        1993-01-04
+Updated:        2012-04-02
+Ref:            http://whois.arin.net/rest/net/NET-161-163-0-0-1
+
+OrgName:        Wal-Mart Stores, Inc.
+OrgId:          WALMAR-Z
+Address:        702 S. W. 8th Street
+City:           Bentonville
+StateProv:      AR
+PostalCode:     72712-0560
+Country:        US
+RegDate:        2011-05-17
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/WALMAR-Z
+
+OrgTechHandle: WDM-ARIN
+OrgTechName:   Wal-Mart DNS Management
+OrgTechPhone:  +1-479-277-4000 
+OrgTechEmail:  dns@wal-mart.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WDM-ARIN
+
+OrgAbuseHandle: WDM-ARIN
+OrgAbuseName:   Wal-Mart DNS Management
+OrgAbusePhone:  +1-479-277-4000 
+OrgAbuseEmail:  dns@wal-mart.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/WDM-ARIN
+
+NetRange:       161.170.0.0 - 161.170.255.255
+CIDR:           161.170.0.0/16
+NetName:        NETBLK-WALMART
+NetHandle:      NET-161-170-0-0-1
+Parent:         NETBLK-WAL-MART (NET-161-163-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Wal-Mart Stores, Inc. (WALMAR)
+RegDate:        2003-07-08
+Updated:        2003-07-08
+Ref:            http://whois.arin.net/rest/net/NET-161-170-0-0-1
+
+OrgName:        Wal-Mart Stores, Inc.
+OrgId:          WALMAR
+Address:        702 S. W. 8th Street
+City:           Bentonville
+StateProv:      AR
+PostalCode:     72712-0560
+Country:        US
+RegDate:        1991-02-08
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/WALMAR
+
+OrgTechHandle: WDM-ARIN
+OrgTechName:   Wal-Mart DNS Management
+OrgTechPhone:  +1-479-277-4000 
+OrgTechEmail:  dns@wal-mart.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WDM-ARIN
+
+OrgAbuseHandle: WDM-ARIN
+OrgAbuseName:   Wal-Mart DNS Management
+OrgAbusePhone:  +1-479-277-4000 
+OrgAbuseEmail:  dns@wal-mart.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/WDM-ARIN
+
+RAbuseHandle: ABUSE327-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-800-966-6546 
+RAbuseEmail:  abuse@walmart.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE327-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

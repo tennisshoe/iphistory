@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Touchtype Limited t/a SwiftKey</registrant>
+    <registration>
+      <created>2003-07-29</created>
+      <expires>2016-07-29</expires>
+      <updated>2015-05-11</updated>
+      <registrar>EASYDNS TECHNOLOGIES, INC.</registrar>
+      <statuses>clientTransferProhibited</statuses>
+      <statuses>clientUpdateProhibited</statuses>
+    </registration>
+    <name_servers>NS-1048.AWSDNS-03.ORG</name_servers>
+    <name_servers>NS-160.AWSDNS-20.COM</name_servers>
+    <name_servers>NS-1929.AWSDNS-49.CO.UK</name_servers>
+    <name_servers>NS-782.AWSDNS-33.NET</name_servers>
+    <whois>
+      <date>2015-07-01</date>
+      <record>Domain Name: SWIFTKEY.COM
+Registry Domain ID: 101288236_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.easydns.com
+Registrar URL: http://www.easydns.com
+Updated Date: 2015-06-03T09:42:48Z
+Creation Date: 2003-07-29T21:28:43Z
+Registrar Registration Expiration Date: 2016-07-29T21:28:43Z
+Registrar: easyDNS Technologies, Inc.
+Registrar IANA ID: 469
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+Domain Status: clientTransferProhibited
+Domain Status: clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Ian McDonald
+Registrant Organization: Touchtype Limited t/a SwiftKey
+Registrant Street: 91-95 Southwark Bridge Road
+Registrant City: London
+Registrant State/Province: London
+Registrant Postal Code: SE1 0AX
+Registrant Country: GB
+Registrant Phone: +44.2074030444
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: webservices@swiftkey.net
+Registry Admin ID: 
+Admin Name: Ian McDonald
+Admin Organization: Touchtype Limited t/a SwiftKey
+Admin Street: 91-95 Southwark Bridge Road
+Admin City: London
+Admin State/Province: London
+Admin Postal Code: SE1 0AX
+Admin Country: GB
+Admin Phone: +44.2074030444
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: webservices@swiftkey.net
+Registry Tech ID: 
+Tech Name: Ian McDonald
+Tech Organization: Touchtype Limited t/a SwiftKey
+Tech Street: 91-95 Southwark Bridge Road
+Tech City: London
+Tech State/Province: London
+Tech Postal Code: SE1 0AX
+Tech Country: GB
+Tech Phone: +44.2074030444
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: webservices@swiftkey.net
+Name Server: NS-160.AWSDNS-20.COM
+Name Server: NS-782.AWSDNS-33.NET
+Name Server: NS-1048.AWSDNS-03.ORG
+Name Server: NS-1929.AWSDNS-49.CO.UK
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PayPal, Inc.</registrant>
+    <registration>
+      <created>2003-02-25</created>
+      <updated>2015-04-03</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       64.4.240.0 - 64.4.251.255
+CIDR:           64.4.240.0/21, 64.4.248.0/22
+NetName:        PAYPAL-1
+NetHandle:      NET-64-4-240-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   PayPal, Inc. (PAYPAL)
+RegDate:        2003-02-25
+Updated:        2015-04-03
+Ref:            http://whois.arin.net/rest/net/NET-64-4-240-0-1
+
+OrgName:        PayPal, Inc.
+OrgId:          PAYPAL
+Address:        2145 Hamilton Ave
+City:           San Jose
+StateProv:      CA
+PostalCode:     95125
+Country:        US
+RegDate:        2001-08-17
+Updated:        2014-06-02
+Ref:            http://whois.arin.net/rest/org/PAYPAL
+
+OrgTechHandle: EBAYN-ARIN
+OrgTechName:   eBay Network
+OrgTechPhone:  +1-408-376-7400 
+OrgTechEmail:  network@ebay.com
+OrgTechRef:    http://whois.arin.net/rest/poc/EBAYN-ARIN
+
+OrgAbuseHandle: EBAYN-ARIN
+OrgAbuseName:   eBay Network
+OrgAbusePhone:  +1-408-376-7400 
+OrgAbuseEmail:  network@ebay.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/EBAYN-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

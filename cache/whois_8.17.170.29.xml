@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Level 3 Communications, Inc.</registrant>
+    <registration>
+      <created>1992-12-01</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       8.0.0.0 - 8.255.255.255
+CIDR:           8.0.0.0/8
+NetName:        LVLT-ORG-8-8
+NetHandle:      NET-8-0-0-0-1
+Parent:          ()
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Level 3 Communications, Inc. (LVLT)
+RegDate:        1992-12-01
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-8-0-0-0-1
+
+OrgName:        Level 3 Communications, Inc.
+OrgId:          LVLT
+Address:        1025 Eldorado Blvd.
+City:           Broomfield
+StateProv:      CO
+PostalCode:     80021
+Country:        US
+RegDate:        1998-05-22
+Updated:        2012-01-30
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/org/LVLT
+
+OrgNOCHandle: NOCSU27-ARIN
+OrgNOCName:   NOC Support
+OrgNOCPhone:  +1-877-453-8353 
+OrgNOCEmail:  noc.coreip@level3.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCSU27-ARIN
+
+OrgTechHandle: IPADD5-ARIN
+OrgTechName:   ipaddressing
+OrgTechPhone:  +1-877-453-8353 
+OrgTechEmail:  ipaddressing@level3.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADD5-ARIN
+
+OrgAbuseHandle: APL8-ARIN
+OrgAbuseName:   Abuse POC LVLT
+OrgAbusePhone:  +1-877-453-8353 
+OrgAbuseEmail:  abuse@level3.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/APL8-ARIN
+
+NetRange:       8.17.168.0 - 8.17.171.255
+CIDR:           8.17.168.0/22
+NetName:        LVLT-JOYENT-8-17-168
+NetHandle:      NET-8-17-168-0-1
+Parent:         LVLT-ORG-8-8 (NET-8-0-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Joyent, Inc. (JDS-27)
+RegDate:        2008-02-27
+Updated:        2013-03-07
+Ref:            http://whois.arin.net/rest/net/NET-8-17-168-0-1
+
+OrgName:        Joyent, Inc.
+OrgId:          JDS-27
+Address:        655 Montgomery Street, Suite 1600
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94111
+Country:        US
+RegDate:        2008-02-27
+Updated:        2015-05-05
+Comment:        http://www.joyent.com/
+Comment:        Please send abuse related emails to abuse@joyent.com
+Ref:            http://whois.arin.net/rest/org/JDS-27
+
+OrgTechHandle: NOC13407-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-415-400-0600 
+OrgTechEmail:  noc@joyent.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC13407-ARIN
+
+OrgNOCHandle: NOC13407-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-415-400-0600 
+OrgNOCEmail:  noc@joyent.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC13407-ARIN
+
+OrgAbuseHandle: ABUSE1716-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-415-400-0600 
+OrgAbuseEmail:  abuse@joyent.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1716-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

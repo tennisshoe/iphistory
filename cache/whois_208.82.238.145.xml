@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Craigslist, Inc.</registrant>
+    <registration>
+      <created>2007-09-26</created>
+      <updated>2012-03-20</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       208.82.236.0 - 208.82.239.255
+CIDR:           208.82.236.0/22
+NetName:        CRAIGS-NET-1
+NetHandle:      NET-208-82-236-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS22414
+Organization:   Craigslist, Inc. (CRAIGS-5)
+RegDate:        2007-09-26
+Updated:        2012-03-20
+Ref:            http://whois.arin.net/rest/net/NET-208-82-236-0-1
+
+OrgName:        Craigslist, Inc.
+OrgId:          CRAIGS-5
+Address:        222 Sutter St
+Address:        9th Floor
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94108
+Country:        US
+RegDate:        2001-11-20
+Updated:        2014-08-22
+Ref:            http://whois.arin.net/rest/org/CRAIGS-5
+
+OrgTechHandle: NETWO3109-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-415-399-5200 
+OrgTechEmail:  noc@craigslist.org
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO3109-ARIN
+
+OrgAbuseHandle: NETWO3109-ARIN
+OrgAbuseName:   Network Operations
+OrgAbusePhone:  +1-415-399-5200 
+OrgAbuseEmail:  noc@craigslist.org
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO3109-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

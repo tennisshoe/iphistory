@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Comcast IP Services, L.L.C.</registrant>
+    <registration>
+      <created>2012-06-04</created>
+      <updated>2012-06-04</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       162.148.0.0 - 162.151.255.255
+CIDR:           162.148.0.0/14
+NetName:        CABLE-1
+NetHandle:      NET-162-148-0-0-1
+Parent:         NET162 (NET-162-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Comcast IP Services, L.L.C. (CISL-5)
+RegDate:        2012-06-04
+Updated:        2012-06-04
+Ref:            http://whois.arin.net/rest/net/NET-162-148-0-0-1
+
+OrgName:        Comcast IP Services, L.L.C.
+OrgId:          CISL-5
+Address:        1800 Bishops Gate Blvd
+City:           Mount Laurel
+StateProv:      NJ
+PostalCode:     08054
+Country:        US
+RegDate:        2005-02-08
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/CISL-5
+
+OrgAbuseHandle: NAPO-ARIN
+OrgAbuseName:   Network Abuse and Policy Observance
+OrgAbusePhone:  +1-888-565-4329 
+OrgAbuseEmail:  abuse@comcast.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+OrgTechHandle: IC161-ARIN
+OrgTechName:   Comcast Cable Communications Inc
+OrgTechPhone:  +1-856-317-7200 
+OrgTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

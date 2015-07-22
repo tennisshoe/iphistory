@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Holger Speh</registrant>
+    <registration>
+      <created>2007-11-07</created>
+      <updated>2013-07-12</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       67.228.0.0 - 67.228.255.255
+CIDR:           67.228.0.0/16
+NetName:        SOFTLAYER-4-5
+NetHandle:      NET-67-228-0-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36351
+Organization:   SoftLayer Technologies Inc. (SOFTL)
+RegDate:        2007-11-07
+Updated:        2013-07-12
+Ref:            http://whois.arin.net/rest/net/NET-67-228-0-0-1
+
+OrgName:        SoftLayer Technologies Inc.
+OrgId:          SOFTL
+Address:        4849 Alpha Rd.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75244
+Country:        US
+RegDate:        2005-10-26
+Updated:        2013-02-20
+Ref:            http://whois.arin.net/rest/org/SOFTL
+
+ReferralServer:  rwhois://rwhois.softlayer.com:4321
+
+OrgTechHandle: IPADM258-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-214-442-0600 
+OrgTechEmail:  ipadmin@softlayer.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+OrgAbuseHandle: ABUSE1025-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-214-442-0605 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1025-ARIN
+
+RTechHandle: IPADM258-ARIN
+RTechName:   IP Admin
+RTechPhone:  +1-214-442-0600 
+RTechEmail:  ipadmin@softlayer.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+RAbuseHandle: ABUSE1025-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-214-442-0605 
+RAbuseEmail:  abuse@softlayer.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1025-ARIN
+
+RNOCHandle: IPADM258-ARIN
+RNOCName:   IP Admin
+RNOCPhone:  +1-214-442-0600 
+RNOCEmail:  ipadmin@softlayer.com
+RNOCRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+NetRange:       67.228.175.160 - 67.228.175.175
+CIDR:           67.228.175.160/28
+NetName:        NET-67-228-175-160
+NetHandle:      NET-67-228-175-160-1
+Parent:         SOFTLAYER-4-5 (NET-67-228-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Holger Speh (C05720265)
+RegDate:        2015-05-11
+Updated:        2015-05-11
+Ref:            http://whois.arin.net/rest/net/NET-67-228-175-160-1
+
+CustName:       Holger Speh
+Address:        LAATZENER STR. 1
+City:           HANNOVER
+StateProv:      
+PostalCode:     30539
+Country:        DE
+RegDate:        2015-05-11
+Updated:        2015-05-11
+Ref:            http://whois.arin.net/rest/customer/C05720265
+
+OrgTechHandle: IPADM258-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-214-442-0600 
+OrgTechEmail:  ipadmin@softlayer.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+OrgAbuseHandle: ABUSE1025-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-214-442-0605 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1025-ARIN
+
+RTechHandle: IPADM258-ARIN
+RTechName:   IP Admin
+RTechPhone:  +1-214-442-0600 
+RTechEmail:  ipadmin@softlayer.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+RAbuseHandle: ABUSE1025-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-214-442-0605 
+RAbuseEmail:  abuse@softlayer.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1025-ARIN
+
+RNOCHandle: IPADM258-ARIN
+RNOCName:   IP Admin
+RNOCPhone:  +1-214-442-0600 
+RNOCEmail:  ipadmin@softlayer.com
+RNOCRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

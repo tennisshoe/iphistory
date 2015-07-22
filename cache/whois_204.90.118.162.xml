@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>McCormick &amp; Company Inc.</registrant>
+    <registration>
+      <created>1995-02-09</created>
+      <updated>2005-09-19</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       204.90.118.0 - 204.90.118.255
+CIDR:           204.90.118.0/24
+NetName:        MCCORMICK
+NetHandle:      NET-204-90-118-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   McCormick &amp; Company Inc. (MCCORM-2)
+RegDate:        1995-02-09
+Updated:        2005-09-19
+Ref:            http://whois.arin.net/rest/net/NET-204-90-118-0-1
+
+OrgName:        McCormick &amp; Company Inc.
+OrgId:          MCCORM-2
+Address:        211 Schilling Circle
+City:           Hunt Valley
+StateProv:      MD
+PostalCode:     21031
+Country:        US
+RegDate:        1995-02-09
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/MCCORM-2
+
+OrgTechHandle: DUW-ARIN
+OrgTechName:   Wright, Diane Unknown
+OrgTechPhone:  +1-410-527-8526 
+OrgTechEmail:  diane_Wright@mccormick.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DUW-ARIN
+
+OrgAbuseHandle: DUW-ARIN
+OrgAbuseName:   Wright, Diane Unknown
+OrgAbusePhone:  +1-410-527-8526 
+OrgAbuseEmail:  diane_Wright@mccormick.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DUW-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

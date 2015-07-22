@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Q9 Networks Inc.</registrant>
+    <registration>
+      <created>1999-04-19</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.220.32.0 - 216.220.63.255
+CIDR:           216.220.32.0/19
+NetName:        Q9-NET1
+NetHandle:      NET-216-220-32-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Q9 Networks Inc. (Q9NT)
+RegDate:        1999-04-19
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Comment:        Reassignment information for this block can be found at rwhois.q9.net port 4321
+Ref:            http://whois.arin.net/rest/net/NET-216-220-32-0-1
+
+OrgName:        Q9 Networks Inc.
+OrgId:          Q9NT
+Address:        77 King Street West Suite 4400
+City:           Toronto
+StateProv:      ON
+PostalCode:     M5K-1J3
+Country:        CA
+RegDate:        
+Updated:        2015-06-11
+Ref:            http://whois.arin.net/rest/org/Q9NT
+
+OrgTechHandle: ZQ8-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-416-362-7000 
+OrgTechEmail:  IPadmin@q9.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZQ8-ARIN
+
+OrgAbuseHandle: ZQ8-ARIN
+OrgAbuseName:   IP Admin
+OrgAbusePhone:  +1-416-362-7000 
+OrgAbuseEmail:  IPadmin@q9.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZQ8-ARIN
+
+RTechHandle: ZQ8-ARIN
+RTechName:   IP Admin
+RTechPhone:  +1-416-362-7000 
+RTechEmail:  IPadmin@q9.com
+RTechRef:    http://whois.arin.net/rest/poc/ZQ8-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

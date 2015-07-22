@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Netscape Communications Corp.</registrant>
+    <registration>
+      <created>1996-09-06</created>
+      <updated>2001-03-28</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       207.200.64.0 - 207.200.127.255
+CIDR:           207.200.64.0/18
+NetName:        NETSCAPE-CIDR
+NetHandle:      NET-207-200-64-0-1
+Parent:         NET207 (NET-207-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Netscape Communications Corp. (NSCP)
+RegDate:        1996-09-06
+Updated:        2001-03-28
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-207-200-64-0-1
+
+OrgName:        Netscape Communications Corp.
+OrgId:          NSCP
+Address:        44900 Prentice Drive
+City:           Dulles
+StateProv:      VA
+PostalCode:     20166
+Country:        US
+RegDate:        1993-07-21
+Updated:        2015-02-03
+Ref:            http://whois.arin.net/rest/org/NSCP
+
+OrgAbuseHandle: AOL-NOC-ARIN
+OrgAbuseName:   America Online Inc
+OrgAbusePhone:  +1-703-265-4462 
+OrgAbuseEmail:  domains@aol.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN
+
+OrgTechHandle: AOL-NOC-ARIN
+OrgTechName:   America Online Inc
+OrgTechPhone:  +1-703-265-4462 
+OrgTechEmail:  domains@aol.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

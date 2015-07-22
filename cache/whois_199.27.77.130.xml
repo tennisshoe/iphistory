@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Fastly</registrant>
+    <registration>
+      <created>2011-10-17</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       199.27.72.0 - 199.27.79.255
+CIDR:           199.27.72.0/21
+NetName:        FASTLY
+NetHandle:      NET-199-27-72-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS54113
+Organization:   Fastly (SKYCA-3)
+RegDate:        2011-10-17
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-199-27-72-0-1
+
+OrgName:        Fastly
+OrgId:          SKYCA-3
+Address:        PO Box 78266
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2011-09-16
+Updated:        2014-10-07
+Ref:            http://whois.arin.net/rest/org/SKYCA-3
+
+OrgAbuseHandle: ABUSE4771-ARIN
+OrgAbuseName:   Abuse Account
+OrgAbusePhone:  +1-415-496-9353 
+OrgAbuseEmail:  abuse@fastly.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4771-ARIN
+
+OrgTechHandle: FRA19-ARIN
+OrgTechName:   Fastly RIR Administrator
+OrgTechPhone:  +1-415-404-9374 
+OrgTechEmail:  rir-admin@fastly.com
+OrgTechRef:    http://whois.arin.net/rest/poc/FRA19-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

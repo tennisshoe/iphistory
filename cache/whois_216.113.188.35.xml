@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>eBay, Inc</registrant>
+    <registration>
+      <created>2003-05-09</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.113.160.0 - 216.113.191.255
+CIDR:           216.113.160.0/19
+NetName:        EBAY-QA-IT-1
+NetHandle:      NET-216-113-160-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   eBay, Inc (EBAY)
+RegDate:        2003-05-09
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-113-160-0-1
+
+OrgName:        eBay, Inc
+OrgId:          EBAY
+Address:        2145 Hamilton Ave
+City:           San Jose
+StateProv:      CA
+PostalCode:     95008
+Country:        US
+RegDate:        1998-11-02
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/EBAY
+
+OrgAbuseHandle: EBAYN-ARIN
+OrgAbuseName:   eBay Network
+OrgAbusePhone:  +1-408-376-7400 
+OrgAbuseEmail:  network@ebay.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/EBAYN-ARIN
+
+OrgTechHandle: EBAYN-ARIN
+OrgTechName:   eBay Network
+OrgTechPhone:  +1-408-376-7400 
+OrgTechEmail:  network@ebay.com
+OrgTechRef:    http://whois.arin.net/rest/poc/EBAYN-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

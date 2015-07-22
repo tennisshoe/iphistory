@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Ben Uretsky</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '141.0.172.0 - 141.0.175.255' is 'abuse@serverstack.com'
+
+inetnum:        141.0.172.0 - 141.0.175.255
+netname:        EU-ServerStack-20110821
+descr:          Amsterdam ServerStack
+country:        NL
+admin-c:        BU265-RIPE
+tech-c:         BU265-RIPE
+status:         ASSIGNED PA
+mnt-by:         buretsky
+mnt-lower:      buretsky
+mnt-routes:     buretsky
+changed:        abuse@serverstack.com 20120911
+created:        2011-10-25T12:16:47Z
+last-modified:  2012-09-11T18:41:51Z
+source:         RIPE
+
+person:         Ben Uretsky
+address:        101 Ave of the Americas, 10th Floor
+phone:          +1.888.890.6714
+e-mail:         abuse@serverstack.com
+nic-hdl:        BU265-RIPE
+mnt-by:         buretsky
+changed:        abuse@serverstack.com 20120911
+created:        2011-06-01T13:51:41Z
+last-modified:  2014-09-03T17:49:53Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

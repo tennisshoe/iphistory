@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Amazon.com, Inc.</registrant>
+    <registration>
+      <created>2008-02-06</created>
+      <updated>2014-09-03</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       75.101.128.0 - 75.101.255.255
+CIDR:           75.101.128.0/17
+NetName:        AMAZON-EC2-4
+NetHandle:      NET-75-101-128-0-1
+Parent:         NET75 (NET-75-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2008-02-06
+Updated:        2014-09-03
+Comment:        The activity you have detected originates from a
+Comment:        dynamic hosting environment.
+Comment:        For fastest response, please submit abuse reports at
+Comment:        http://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/AWSAbuse
+Comment:        For more information regarding EC2 see:
+Comment:        http://ec2.amazonaws.com/
+Comment:        All reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email)
+Comment:        Without these we will be unable to identify
+Comment:        the correct owner of the IP address at that
+Comment:        point in time.
+Ref:            http://whois.arin.net/rest/net/NET-75-101-128-0-1
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Elastic Compute Cloud, EC2
+Address:        1200 12th Avenue South
+City:           Seattle
+StateProv:      WA
+PostalCode:     98144
+Country:        US
+RegDate:        2005-09-29
+Updated:        2014-10-17
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com/
+Ref:            http://whois.arin.net/rest/org/AMAZO-4
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  ec2-abuse@amazon.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AEA8-ARIN
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  aes-noc@amazon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ANO24-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-266-2187 
+OrgNOCEmail:  aes-noc@amazon.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/AANO1-ARIN
+
+RAbuseHandle: AEA8-ARIN
+RAbuseName:   Amazon EC2 Abuse
+RAbusePhone:  +1-206-266-4064 
+RAbuseEmail:  ec2-abuse@amazon.com
+RAbuseRef:    http://whois.arin.net/rest/poc/AEA8-ARIN
+
+RNOCHandle: ANO24-ARIN
+RNOCName:   Amazon EC2 Network Operations
+RNOCPhone:  +1-206-266-4064 
+RNOCEmail:  aes-noc@amazon.com
+RNOCRef:    http://whois.arin.net/rest/poc/ANO24-ARIN
+
+RTechHandle: ANO24-ARIN
+RTechName:   Amazon EC2 Network Operations
+RTechPhone:  +1-206-266-4064 
+RTechEmail:  aes-noc@amazon.com
+RTechRef:    http://whois.arin.net/rest/poc/ANO24-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

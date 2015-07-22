@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ServerStack, Inc.</registrant>
+    <registration>
+      <created>2007-05-21</created>
+      <updated>2012-09-11</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       69.55.48.0 - 69.55.63.255
+CIDR:           69.55.48.0/20
+NetName:        SERVERSTACK1
+NetHandle:      NET-69-55-48-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   ServerStack, Inc. (RCN-12)
+RegDate:        2007-05-21
+Updated:        2012-09-11
+Ref:            http://whois.arin.net/rest/net/NET-69-55-48-0-1
+
+OrgName:        ServerStack, Inc.
+OrgId:          RCN-12
+Address:        101 Ave of the Americas
+Address:        10th Floor
+City:           New York
+StateProv:      NY
+PostalCode:     10012
+Country:        US
+RegDate:        2003-06-18
+Updated:        2014-09-03
+Ref:            http://whois.arin.net/rest/org/RCN-12
+
+OrgTechHandle: MUR-ARIN
+OrgTechName:   Uretsky, Moisey 
+OrgTechPhone:  +1-646-397-8051 
+OrgTechEmail:  abuse@serverstack.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MUR-ARIN
+
+OrgAbuseHandle: MUR-ARIN
+OrgAbuseName:   Uretsky, Moisey 
+OrgAbusePhone:  +1-646-397-8051 
+OrgAbuseEmail:  abuse@serverstack.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MUR-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

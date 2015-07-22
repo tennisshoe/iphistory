@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TekSavvy Solutions, Inc.</registrant>
+    <registration>
+      <created>2007-02-06</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       76.10.128.0 - 76.10.191.255
+CIDR:           76.10.128.0/18
+NetName:        TEKSAVVY
+NetHandle:      NET-76-10-128-0-1
+Parent:         NET76 (NET-76-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   TekSavvy Solutions, Inc. (TEKSAV)
+RegDate:        2007-02-06
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-76-10-128-0-1
+
+OrgName:        TekSavvy Solutions, Inc.
+OrgId:          TEKSAV
+Address:        800 Richmond St
+City:           Chatham
+StateProv:      ON
+PostalCode:     N7M 5J5
+Country:        CA
+RegDate:        2000-03-02
+Updated:        2012-10-23
+Ref:            http://whois.arin.net/rest/org/TEKSAV
+
+ReferralServer:  rwhois://rwhois.teksavvy.com:4321
+
+OrgNOCHandle: NOC1728-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-519-360-1575 
+OrgNOCEmail:  support@teksavvy.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1728-ARIN
+
+OrgAbuseHandle: ABUSE816-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-519-360-1575 
+OrgAbuseEmail:  abuse@teksavvy.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE816-ARIN
+
+OrgTechHandle: NOC1728-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-519-360-1575 
+OrgTechEmail:  support@teksavvy.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1728-ARIN
+
+== Additional Information From rwhois://rwhois.teksavvy.com:4321 ==
+
+%rwhois V-1.5:002010:00 rwhois.teksavvy.com (by Network Solutions, Inc. V-1.5.9.6)
+%error 230 No Objects Found</record>
+    </whois>
+  </response>
+</whoisapi>
+

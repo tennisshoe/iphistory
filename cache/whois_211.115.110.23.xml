@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Host Master</registrant>
+    <registration>
+      <updated>2000-04-14</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>inetnum:        211.104.0.0 - 211.119.255.255
+netname:        KRNIC-KR
+descr:          KRNIC
+descr:          Korea Network Information Center
+country:        KR
+admin-c:        HM127-AP
+tech-c:         HM127-AP
+remarks:        ******************************************
+remarks:        KRNIC is the National Internet Registry
+remarks:        in Korea under APNIC. If you would like to
+remarks:        find assignment information in detail
+remarks:        please refer to the KRNIC Whois DB
+remarks:        http://whois.nic.or.kr/english/index.html
+remarks:        ******************************************
+mnt-by:         APNIC-HM
+mnt-lower:      MNT-KRNIC-AP
+changed:        hostmaster@apnic.net 20000414
+changed:        hostmaster@apnic.net 20010606
+status:         ALLOCATED PORTABLE
+source:         APNIC
+
+person:         Host Master
+address:        11F, KTF B/D, 1321-11, Seocho2-Dong, Seocho-Gu,
+address:        Seoul, Korea, 137-857
+country:        KR
+phone:          +82-2-2186-4500
+fax-no:         +82-2-2186-4496
+e-mail:         hostmaster@nic.or.kr
+nic-hdl:        HM127-AP
+mnt-by:         MNT-KRNIC-AP
+changed:        hostmaster@nic.or.kr 20020507
+source:         APNIC
+
+inetnum:        211.115.64.0 - 211.115.127.255
+netname:        KIDC-KR
+descr:          LG DACOM KIDC
+country:        KR
+admin-c:        IA115-KR
+tech-c:         IM115-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Host Networks NOC</registrant>
+    <registration>
+      <updated>2004-05-06</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>inetnum:        202.174.96.0 - 202.174.111.255
+netname:        HOSTNETWORKS
+descr:          HOST GROUP OF COMPANIES PTY LTD
+descr:          Trading as HOST NETWORKS
+descr:          Co-location, Cloud VPS, Dedicated Servers
+descr:          Brisbane, Queensland, Australia
+country:        AU
+geoloc:         -27.5797980 153.1002780
+language:       en
+admin-c:        HNN1-AP
+tech-c:         HNN1-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-HOSTNETWORKS
+mnt-irt:        IRT-HOSTNETWORKS-AU
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20040506
+changed:        hm-changed@apnic.net 20140626
+source:         APNIC
+
+irt:            IRT-HOSTNETWORKS-AU
+address:        1/53 Brandl Street
+address:        Eight Mile Plains
+address:        QLD 4113
+e-mail:         noc@hostnetworks.com.au
+abuse-mailbox:  abuse@hostnetworks.com.au
+admin-c:        HNN1-AP
+tech-c:         HNN1-AP
+auth:           # Filtered
+mnt-by:         MAINT-AU-HOSTNETWORKS
+changed:        info@hostnetworks.com.au 20110512
+changed:        noc@hostnetworks.com.au 20140611
+source:         APNIC
+
+person:         Host Networks NOC
+address:        Unit 1/53 Brandl Street, Eight Mile Plains QLD 4113
+country:        AU
+phone:          +61-7-3118-5449
+fax-no:         +61-7-3319-6888
+e-mail:         noc@hostnetworks.com.au
+nic-hdl:        HNN1-AP
+remarks:        For any issues please contact by email or phone.
+mnt-by:         MAINT-AU-HOSTNETWORKS
+changed:        info@hostnetworks.com.au 20110512
+changed:        noc@hostnetworks.com.au 20140611
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

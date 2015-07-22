@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Network Solutions, LLC</registrant>
+    <registration>
+      <created>1999-02-09</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       205.178.128.0 - 205.178.191.255
+CIDR:           205.178.128.0/18
+NetName:        NTSL-01
+NetHandle:      NET-205-178-128-0-1
+Parent:         NET205 (NET-205-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS14441, AS19871, AS6245
+Organization:   Network Solutions, LLC (NETWO-59)
+RegDate:        1999-02-09
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-205-178-128-0-1
+
+OrgName:        Network Solutions, LLC
+OrgId:          NETWO-59
+Address:        12808 Gran Bay Parkway West
+City:           Jacksonville
+StateProv:      FL
+PostalCode:     32258
+Country:        US
+RegDate:        2004-08-05
+Updated:        2014-07-01
+Ref:            http://whois.arin.net/rest/org/NETWO-59
+
+OrgAbuseHandle: NOC2042-ARIN
+OrgAbuseName:   NOC
+OrgAbusePhone:  +1-703-668-4900 
+OrgAbuseEmail:  nocsupport@networksolutions.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC2042-ARIN
+
+OrgTechHandle: NOC2042-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-703-668-4900 
+OrgTechEmail:  nocsupport@networksolutions.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2042-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>LinkedIn Corporation</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '91.225.248.0 - 91.225.251.255' is 'imcnish@linkedin.com'
+
+inetnum:        91.225.248.0 - 91.225.251.255
+tech-c:         LNKD2-RIPE
+admin-c:        LNKD2-RIPE
+netname:        LINKEDIN
+descr:          LinkedIn Corporation
+country:        US
+org:            ORG-LC21-RIPE
+admin-c:        HR2289-RIPE
+tech-c:         HR2289-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         HR66822-MNT
+mnt-routes:     HR66822-MNT
+mnt-domains:    HR66822-MNT
+changed:        hostmaster@ripe.net 20110224
+created:        2011-02-24T14:50:15Z
+last-modified:  2015-05-05T02:16:04Z
+source:         RIPE
+
+organisation:   ORG-LC21-RIPE
+org-name:       LinkedIn Corporation
+org-type:       LIR
+address:        LinkedIn Corporation
+address:        Zaid Ali
+address:        2029 Stierlin Ct
+address:        94043
+address:        Mountain View, CA
+address:        UNITED STATES
+phone:          +16506051037
+fax-no:         +16506870505
+e-mail:         zali@linkedin.com
+abuse-c:        AR15068-RIPE
+mnt-ref:        HR66822-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        bitbucket@ripe.net 20140703
+created:        2011-02-22T10:47:01Z
+last-modified:  2014-07-03T20:56:26Z
+source:         RIPE
+
+role:           LinkedIn Network Engineering
+abuse-mailbox:  abuse@linkedin.com
+tech-c:         ZAID-RIPE
+admin-c:        ZAID-RIPE
+address:        2029 Stierlin Ct, Mountain View, CA 94043 USA
+e-mail:         zali@linkedin.com
+nic-hdl:        LNKD2-RIPE
+mnt-by:         HR66822-MNT
+changed:        zali@linkedin.com 20140703
+created:        2014-07-04T08:33:10Z
+last-modified:  2014-07-04T08:51:00Z
+source:         RIPE
+
+person:         Hostmaster RIPE
+address:        2029 Stierlin Court
+address:        Mountain View, CA 94043
+phone:          +1-650-687-3600
+e-mail:         hostmaster@linkedin.com
+nic-hdl:        HR2289-RIPE
+mnt-by:         HR66822-MNT
+changed:        hostmaster@linkedin.com 20110222
+created:        2011-02-22T12:14:16Z
+last-modified:  2011-02-22T12:14:16Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

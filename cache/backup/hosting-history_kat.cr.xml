@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>kat.cr</domain_name>
+    <ip_history/>
+    <registrar_history/>
+    <nameserver_history>
+      <domain>KAT.CR</domain>
+      <action>N</action>
+      <actiondate>2015-04-27</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Hostednsor.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

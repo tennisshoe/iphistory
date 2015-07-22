@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Amazon.com, Inc.</registrant>
+    <registration>
+      <created>2010-08-27</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       205.251.192.0 - 205.251.255.255
+CIDR:           205.251.192.0/18
+NetName:        AMAZON-05
+NetHandle:      NET-205-251-192-0-1
+Parent:         NET205 (NET-205-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS7224, AS16509, AS39111
+Organization:   Amazon.com, Inc. (AMAZON-4)
+RegDate:        2010-08-27
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-205-251-192-0-1
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZON-4
+Address:        1918 8th Ave
+City:           SEATTLE
+StateProv:      WA
+PostalCode:     98101-1244
+Country:        US
+RegDate:        1995-01-23
+Updated:        2015-04-23
+Ref:            http://whois.arin.net/rest/org/AMAZON-4
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  aes-noc@amazon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ANO24-ARIN
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  ec2-abuse@amazon.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AEA8-ARIN
+
+RAbuseHandle: ROLEA19-ARIN
+RAbuseName:   Role Account
+RAbusePhone:  +1-206-266-4064 
+RAbuseEmail:  ipmanagement@amazon.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ROLEA19-ARIN
+
+RNOCHandle: ROLEA19-ARIN
+RNOCName:   Role Account
+RNOCPhone:  +1-206-266-4064 
+RNOCEmail:  ipmanagement@amazon.com
+RNOCRef:    http://whois.arin.net/rest/poc/ROLEA19-ARIN
+
+RTechHandle: ROLEA19-ARIN
+RTechName:   Role Account
+RTechPhone:  +1-206-266-4064 
+RTechEmail:  ipmanagement@amazon.com
+RTechRef:    http://whois.arin.net/rest/poc/ROLEA19-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

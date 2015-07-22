@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>SmugMug, Inc.</registrant>
+    <registration>
+      <created>2007-06-08</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       208.79.44.0 - 208.79.47.255
+CIDR:           208.79.44.0/22
+NetName:        SMUGMUG
+NetHandle:      NET-208-79-44-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS11266
+Organization:   SmugMug, Inc. (SMUGM)
+RegDate:        2007-06-08
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-208-79-44-0-1
+
+OrgName:        SmugMug, Inc.
+OrgId:          SMUGM
+Address:        67 East Evelyn Ave, Suite 200
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94041
+Country:        US
+RegDate:        2007-05-22
+Updated:        2014-02-06
+Ref:            http://whois.arin.net/rest/org/SMUGM
+
+OrgAbuseHandle: HOSTM510-ARIN
+OrgAbuseName:   Hostmaster
+OrgAbusePhone:  +1-650-265-0395 
+OrgAbuseEmail:  hostmaster@smugmug.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HOSTM510-ARIN
+
+OrgTechHandle: HOSTM510-ARIN
+OrgTechName:   Hostmaster
+OrgTechPhone:  +1-650-265-0395 
+OrgTechEmail:  hostmaster@smugmug.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM510-ARIN
+
+RAbuseHandle: HOSTM510-ARIN
+RAbuseName:   Hostmaster
+RAbusePhone:  +1-650-265-0395 
+RAbuseEmail:  hostmaster@smugmug.com
+RAbuseRef:    http://whois.arin.net/rest/poc/HOSTM510-ARIN
+
+RTechHandle: HOSTM510-ARIN
+RTechName:   Hostmaster
+RTechPhone:  +1-650-265-0395 
+RTechEmail:  hostmaster@smugmug.com
+RTechRef:    http://whois.arin.net/rest/poc/HOSTM510-ARIN
+
+RNOCHandle: HOSTM510-ARIN
+RNOCName:   Hostmaster
+RNOCPhone:  +1-650-265-0395 
+RNOCEmail:  hostmaster@smugmug.com
+RNOCRef:    http://whois.arin.net/rest/poc/HOSTM510-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

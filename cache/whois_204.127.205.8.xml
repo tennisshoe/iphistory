@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>WHDC Pool ATTCT-SCCNJ</registrant>
+    <registration>
+      <created>1994-08-22</created>
+      <updated>2012-04-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       204.127.0.0 - 204.127.255.255
+CIDR:           204.127.0.0/16
+NetName:        ATTPLS
+NetHandle:      NET-204-127-0-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   AT&amp;T Services, Inc. (ATTW-Z)
+RegDate:        1994-08-22
+Updated:        2012-04-02
+Comment:        __________________________________________
+Comment:        For matters pertaining to abuse, harassment
+Comment:        or spam, please contact abuse@att.net
+Comment:        __________________________________________
+Ref:            http://whois.arin.net/rest/net/NET-204-127-0-0-1
+
+OrgName:        AT&amp;T Services, Inc.
+OrgId:          ATTW-Z
+Address:        200 S. Laurel AVE.
+City:           MIDDLETOWN
+StateProv:      NJ
+PostalCode:     07748
+Country:        US
+RegDate:        2009-12-18
+Updated:        2013-01-18
+Comment:        Contact AT&amp;T Abuse ( abuse@att.net ) for policy abuse issues.
+Comment:        All policy abuse issues sent to other POCs will be disregarded.
+Ref:            http://whois.arin.net/rest/org/ATTW-Z
+
+OrgTechHandle: IPSWI-ARIN
+OrgTechName:   IP SWIP
+OrgTechPhone:  +1-888-613-6330 
+OrgTechEmail:  swipid@icorefep2.noc.att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPSWI-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-613-6330 
+OrgTechEmail:  ss428w@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ICC-ARIN
+
+OrgTechHandle: JB3310-ARIN
+OrgTechName:   Borkenhagen, Jay C.
+OrgTechPhone:  +1-732-368-6004 
+OrgTechEmail:  jayb@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JB3310-ARIN
+
+OrgAbuseHandle: ATTAB-ARIN
+OrgAbuseName:   ATT Abuse
+OrgAbusePhone:  +1-919-319-8130 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ATTAB-ARIN
+
+RTechHandle: JC645-ARIN
+RTechName:   Craig, John 
+RTechPhone:  +1-732-420-8461 
+RTechEmail:  jrcraig@att.com
+RTechRef:    http://whois.arin.net/rest/poc/JC645-ARIN
+
+NetRange:       204.127.204.0 - 204.127.207.255
+CIDR:           204.127.204.0/22
+NetName:        ATTW-041709173019
+NetHandle:      NET-204-127-204-0-1
+Parent:         ATTPLS (NET-204-127-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       WHDC Pool ATTCT-SCCNJ (C02207853)
+RegDate:        2009-04-17
+Updated:        2009-04-17
+Ref:            http://whois.arin.net/rest/net/NET-204-127-204-0-1
+
+CustName:       WHDC Pool ATTCT-SCCNJ
+Address:        200 S. LAUREL AVE BLDG-A
+City:           MIDDLETOWN
+StateProv:      NJ
+PostalCode:     07733
+Country:        US
+RegDate:        2009-04-17
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02207853
+
+OrgTechHandle: IPSWI-ARIN
+OrgTechName:   IP SWIP
+OrgTechPhone:  +1-888-613-6330 
+OrgTechEmail:  swipid@icorefep2.noc.att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPSWI-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-613-6330 
+OrgTechEmail:  ss428w@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ICC-ARIN
+
+OrgTechHandle: JB3310-ARIN
+OrgTechName:   Borkenhagen, Jay C.
+OrgTechPhone:  +1-732-420-2526 
+OrgTechEmail:  jayb@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JB3310-ARIN
+
+OrgAbuseHandle: ATTAB-ARIN
+OrgAbuseName:   ATT Abuse
+OrgAbusePhone:  +1-919-319-8130 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ATTAB-ARIN
+
+RTechHandle: JC645-ARIN
+RTechName:   Craig, John 
+RTechPhone:  +1-732-420-8461 
+RTechEmail:  jrcraig@att.com
+RTechRef:    http://whois.arin.net/rest/poc/JC645-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Nebula Internet Services</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% Abuse contact for '217.149.56.160 - 217.149.56.191' is 'abuse@nebula.fi'
+
+inetnum:        217.149.56.160 - 217.149.56.191
+netname:        NBL-LB5
+descr:          Nebula Oy LB pool 5
+remarks:        INFRA-AW
+country:        FI
+admin-c:        NBL4-RIPE
+tech-c:         NBL4-RIPE
+status:         ASSIGNED PA
+mnt-by:         NBL-MNT
+created:        2011-09-23T11:47:58Z
+last-modified:  2011-09-23T11:47:58Z
+source:         RIPE
+changed:        registry@nblnetworks.fi 20110923
+
+role:           Nebula Internet Services
+address:        Heikkilantie 2A
+address:        00210 Helsinki
+address:        Finland
+e-mail:         registry@nblnetworks.fi
+admin-c:        VS894-RIPE
+tech-c:         AA2164-RIPE
+tech-c:         OK748-RIPE
+tech-c:         HG1641-RIPE
+nic-hdl:        NBL4-RIPE
+abuse-mailbox:  abuse@nebula.fi
+mnt-by:         NBL-MNT
+changed:        registry@nblnetworks.fi 20071126
+changed:        registry@nblnetworks.fi 20091013
+changed:        registry@nblnetworks.fi 20111004
+created:        2006-05-09T10:58:01Z
+last-modified:  2014-04-15T06:45:37Z
+source:         RIPE
+
+route:          217.149.48.0/20
+descr:          Nebula Oy
+notify:         registry@nebula.fi
+origin:         AS29422
+mnt-by:         NBL-MNT
+changed:        sampsa@netsonic.fi 20040607
+changed:        ripe_arytsola@tietotalo.fi 20050322
+changed:        anton.aksola@nebula.fi 20080804
+created:        2008-08-04T13:20:22Z
+last-modified:  2008-08-04T13:20:22Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

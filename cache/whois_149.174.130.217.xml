@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CompuServe, Inc.</registrant>
+    <registration>
+      <created>1991-05-09</created>
+      <updated>2011-04-05</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       149.174.0.0 - 149.174.255.255
+CIDR:           149.174.0.0/16
+NetName:        AOL-149BLK
+NetHandle:      NET-149-174-0-0-1
+Parent:         NET149 (NET-149-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS1668
+Organization:   CompuServe, Inc. (COMPUS-37)
+RegDate:        1991-05-09
+Updated:        2011-04-05
+Ref:            http://whois.arin.net/rest/net/NET-149-174-0-0-1
+
+OrgName:        CompuServe, Inc.
+OrgId:          COMPUS-37
+Address:        44900 Prentice Drive
+City:           Dulles
+StateProv:      VA
+PostalCode:     20166
+Country:        US
+RegDate:        1991-05-09
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/COMPUS-37
+
+OrgAbuseHandle: AOL-NOC-ARIN
+OrgAbuseName:   America Online Inc
+OrgAbusePhone:  +1-703-265-4462 
+OrgAbuseEmail:  domains@aol.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN
+
+OrgTechHandle: AOL-NOC-ARIN
+OrgTechName:   America Online Inc
+OrgTechPhone:  +1-703-265-4462 
+OrgTechEmail:  domains@aol.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN
+
+RNOCHandle: ANO3-ORG-ARIN
+RNOCName:   AOL Network Operations Center
+RNOCPhone:  +1-703-265-4462 
+RNOCEmail:  domains@aol.net
+RNOCRef:    http://whois.arin.net/rest/poc/ANO3-ORG-ARIN
+
+RTechHandle: AOL-NOC-ARIN
+RTechName:   America Online Inc
+RTechPhone:  +1-703-265-4462 
+RTechEmail:  domains@aol.net
+RTechRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

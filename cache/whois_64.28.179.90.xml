@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Nexus Management Inc.</registrant>
+    <registration>
+      <created>2013-06-12</created>
+      <updated>2013-06-12</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       64.28.176.0 - 64.28.191.255
+CIDR:           64.28.176.0/20
+NetName:        CUSTOMERNETWORK
+NetHandle:      NET-64-28-176-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS27516
+Organization:   Nexus Management Inc. (NEXUS-4)
+RegDate:        2013-06-12
+Updated:        2013-06-12
+Ref:            http://whois.arin.net/rest/net/NET-64-28-176-0-1
+
+OrgName:        Nexus Management Inc.
+OrgId:          NEXUS-4
+Address:        4 Industrial Parkway
+Address:        Suite 101
+City:           Brunswick
+StateProv:      ME
+PostalCode:     04011
+Country:        US
+RegDate:        2003-03-05
+Updated:        2014-03-27
+Ref:            http://whois.arin.net/rest/org/NEXUS-4
+
+OrgTechHandle: WATSO90-ARIN
+OrgTechName:   Watson, Daren 
+OrgTechPhone:  +1-207-319-1100 
+OrgTechEmail:  Daren.Watson@enablesit.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WATSO90-ARIN
+
+OrgNOCHandle: PJW2-ARIN
+OrgNOCName:   Wallace, Paul J
+OrgNOCPhone:  +1-207-319-1100 
+OrgNOCEmail:  paul.wallace@enablesit.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/PJW2-ARIN
+
+OrgAbuseHandle: NOC3042-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-207-319-1107 
+OrgAbuseEmail:  helpdesk@nexusmgmt.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC3042-ARIN
+
+OrgTechHandle: DEN30-ARIN
+OrgTechName:   Ennis, Douglas 
+OrgTechPhone:  +1-207-319-1108 
+OrgTechEmail:  douglas.ennis@nexusmgmt.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DEN30-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

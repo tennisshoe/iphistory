@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Magma Communications Ltd</registrant>
+    <registration>
+      <created>1997-03-27</created>
+      <updated>1997-09-25</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       206.191.0.0 - 206.191.63.255
+CIDR:           206.191.0.0/18
+NetName:        MAGMA-BLK
+NetHandle:      NET-206-191-0-0-1
+Parent:         NET206 (NET-206-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Magma Communications Ltd. (MAGM)
+RegDate:        1997-03-27
+Updated:        1997-09-25
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-206-191-0-0-1
+
+OrgName:        Magma Communications Ltd.
+OrgId:          MAGM
+Address:        31 Auriga Drive
+City:           Ottawa
+StateProv:      ON
+PostalCode:     K2E-1C4
+Country:        CA
+RegDate:        1996-03-14
+Updated:        2015-06-05
+Ref:            http://whois.arin.net/rest/org/MAGM
+
+OrgAbuseHandle: REG5-ORG-ARIN
+OrgAbuseName:   Registrar
+OrgAbusePhone:  +1-613-228-3565 
+OrgAbuseEmail:  registrar@magma.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/REG5-ORG-ARIN
+
+OrgTechHandle: REG5-ORG-ARIN
+OrgTechName:   Registrar
+OrgTechPhone:  +1-613-228-3565 
+OrgTechEmail:  registrar@magma.ca
+OrgTechRef:    http://whois.arin.net/rest/poc/REG5-ORG-ARIN
+
+RTechHandle: REG5-ORG-ARIN
+RTechName:   Registrar
+RTechPhone:  +1-613-228-3565 
+RTechEmail:  registrar@magma.ca
+RTechRef:    http://whois.arin.net/rest/poc/REG5-ORG-ARIN
+
+NetRange:       206.191.28.0 - 206.191.28.255
+CIDR:           206.191.28.0/24
+NetName:        MAG-BLK83
+NetHandle:      NET-206-191-28-0-1
+Parent:         MAGMA-BLK (NET-206-191-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Magma Communications Ltd (C01657640)
+RegDate:        2007-06-18
+Updated:        2007-06-18
+Ref:            http://whois.arin.net/rest/net/NET-206-191-28-0-1
+
+CustName:       Magma Communications Ltd
+Address:        31 Auriga Drive
+City:           Ottawa
+StateProv:      ON
+PostalCode:     K2E-1C4
+Country:        CA
+RegDate:        2007-06-18
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01657640
+
+OrgAbuseHandle: REG5-ORG-ARIN
+OrgAbuseName:   Registrar
+OrgAbusePhone:  +1-613-228-3565 
+OrgAbuseEmail:  registrar@magma.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/REG5-ORG-ARIN
+
+OrgTechHandle: REG5-ORG-ARIN
+OrgTechName:   Registrar
+OrgTechPhone:  +1-613-228-3565 
+OrgTechEmail:  registrar@magma.ca
+OrgTechRef:    http://whois.arin.net/rest/poc/REG5-ORG-ARIN
+
+RTechHandle: REG5-ORG-ARIN
+RTechName:   Registrar
+RTechPhone:  +1-613-228-3565 
+RTechEmail:  registrar@magma.ca
+RTechRef:    http://whois.arin.net/rest/poc/REG5-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

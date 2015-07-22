@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Instagram LLC.</registrant>
+    <registration>
+      <created>2004-06-04</created>
+      <expires>2021-06-04</expires>
+      <updated>2012-12-21</updated>
+      <registrar>MARKMONITOR INC.</registrar>
+      <statuses>clientDeleteProhibited</statuses>
+      <statuses>clientTransferProhibited</statuses>
+      <statuses>clientUpdateProhibited</statuses>
+      <statuses>serverDeleteProhibited</statuses>
+      <statuses>serverTransferProhibited</statuses>
+      <statuses>serverUpdateProhibited</statuses>
+    </registration>
+    <name_servers>NS-1144.AWSDNS-15.ORG</name_servers>
+    <name_servers>NS-1683.AWSDNS-18.CO.UK</name_servers>
+    <name_servers>NS-430.AWSDNS-53.COM</name_servers>
+    <name_servers>NS-852.AWSDNS-42.NET</name_servers>
+    <whois>
+      <date>2015-07-19</date>
+      <record>Domain Name: instagram.com
+Registry Domain ID: 121748357_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2014-12-13T04:00:05-0800
+Creation Date: 2004-06-04T06:37:18-0700
+Registrar Registration Expiration Date: 2021-06-04T06:37:18-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Instagram LLC.
+Registrant Street: 1601 Willow Road, 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext: 
+Registrant Fax: +1.6505434800
+Registrant Fax Ext: 
+Registrant Email: domain@fb.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Instagram LLC.
+Admin Street: 1601 Willow Road, 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext: 
+Admin Fax: +1.6505434800
+Admin Fax Ext: 
+Admin Email: domain@fb.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Instagram LLC.
+Tech Street: 1601 Willow Road, 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext: 
+Tech Fax: +1.6505434800
+Tech Fax Ext: 
+Tech Email: domain@fb.com
+Name Server: ns-852.awsdns-42.net
+Name Server: ns-1144.awsdns-15.org
+Name Server: ns-430.awsdns-53.com
+Name Server: ns-1683.awsdns-18.co.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

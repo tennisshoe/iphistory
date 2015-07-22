@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Savvis</registrant>
+    <registration>
+      <created>2000-12-12</created>
+      <updated>2007-09-18</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       64.15.192.0 - 64.15.207.255
+CIDR:           64.15.192.0/20
+NetName:        SAVVIS
+NetHandle:      NET-64-15-192-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        2000-12-12
+Updated:        2007-09-18
+Ref:            http://whois.arin.net/rest/net/NET-64-15-192-0-1
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-07-17
+Comment:        Abuse complaints to abuse@centurylinkservices.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  noc@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-314-628-7305 
+OrgTechEmail:  ali.samat@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+NetRange:       64.15.205.0 - 64.15.205.255
+CIDR:           64.15.205.0/24
+NetName:        SAVV-S231205-10
+NetHandle:      NET-64-15-205-0-1
+Parent:         SAVVIS (NET-64-15-192-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   DBS Administration Pty Ltd (DAPL-9)
+RegDate:        2007-03-07
+Updated:        2007-03-07
+Ref:            http://whois.arin.net/rest/net/NET-64-15-205-0-1
+
+OrgName:        DBS Administration Pty Ltd
+OrgId:          DAPL-9
+Address:        GPO Box 278
+City:           Brisbane
+StateProv:      
+PostalCode:     4001
+Country:        AU
+RegDate:        2007-03-07
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/DAPL-9
+
+OrgAbuseHandle: BVA28-ARIN
+OrgAbuseName:   Vanderent, Billy 
+OrgAbusePhone:  1 614 882-4559 
+OrgAbuseEmail:  b.vanderent@au.darkbluesea.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BVA28-ARIN
+
+OrgTechHandle: BVA28-ARIN
+OrgTechName:   Vanderent, Billy 
+OrgTechPhone:  1 614 882-4559 
+OrgTechEmail:  b.vanderent@au.darkbluesea.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BVA28-ARIN
+
+RTechHandle: GSH55-ARIN
+RTechName:   Shannon, Gary 
+RTechPhone:  1 614 882-4559 
+RTechEmail:  g.shannon@au.darkbluesea.com
+RTechRef:    http://whois.arin.net/rest/poc/GSH55-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>MCI Communications Services, Inc. d/b/a Verizon Business</registrant>
+    <registration>
+      <created>2000-10-27</created>
+      <updated>2012-03-20</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       65.192.0.0 - 65.223.255.255
+CIDR:           65.192.0.0/11
+NetName:        UUNET65
+NetHandle:      NET-65-192-0-0-1
+Parent:         NET65 (NET-65-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+RegDate:        2000-10-27
+Updated:        2012-03-20
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-65-192-0-0-1
+
+OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+OrgId:          MCICS
+Address:        22001 Loudoun County Pkwy
+City:           Ashburn
+StateProv:      VA
+PostalCode:     20147
+Country:        US
+RegDate:        2006-05-30
+Updated:        2014-06-23
+Ref:            http://whois.arin.net/rest/org/MCICS
+
+OrgAbuseHandle: ABUSE3-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-800-900-0241 
+OrgAbuseEmail:  abuse-mail@verizonbusiness.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3-ARIN
+
+OrgTechHandle: SWIPP9-ARIN
+OrgTechName:   SWIPPER
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP9-ARIN
+
+OrgNOCHandle: OA12-ARIN
+OrgNOCName:   UUnet Technologies, Inc., Technologies 
+OrgNOCPhone:  +1-800-900-0241 
+OrgNOCEmail:  help4u@verizonbusiness.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/OA12-ARIN
+
+OrgTechHandle: SWIPP-ARIN
+OrgTechName:   swipper
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizonbusiness.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP-ARIN
+
+RTechHandle: OA12-ARIN
+RTechName:   UUnet Technologies, Inc., Technologies 
+RTechPhone:  +1-800-900-0241 
+RTechEmail:  help4u@verizonbusiness.com
+RTechRef:    http://whois.arin.net/rest/poc/OA12-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

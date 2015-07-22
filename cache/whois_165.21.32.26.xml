@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>SingNet Hostmaster</registrant>
+    <registration>
+      <updated>1999-05-04</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>inetnum:        165.21.0.0 - 165.21.255.255
+netname:        SINGNET-SG
+descr:          SingNet Pte Ltd
+descr:          2 Stirling Road
+descr:          #03-00 Queenstown Exchange
+descr:          Singapore 148943
+descr:          imported inetnum object for STPL-3
+country:        SG
+admin-c:        SH9-AP
+tech-c:         SH9-AP
+status:         ALLOCATED PORTABLE
+remarks:        ----------
+remarks:        imported from ARIN object:
+remarks:
+remarks:        inetnum:     165.21.0.0 - 165.21.255.255
+remarks:        netname:     SINGNET
+remarks:        org-id:      STPL-3
+remarks:        status:      assignment
+remarks:        rev-srv:     DNSSEC1.SINGNET.COM.SG
+                DNSSEC2.SINGNET.COM.SG
+                DNSSEC3.SINGNET.COM.SG
+remarks:        tech-c:      OD-ORG-ARIN
+remarks:        reg-date:    1993-03-31
+remarks:        changed:     hostmaster@arin.net 19990504
+remarks:        source:      ARIN
+remarks:
+remarks:        ----------
+notify:         hostmaster@singnet.com.sg
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SG-SINGNET
+mnt-routes:     MAINT-SG-SINGNET
+mnt-irt:        IRT-SINGNET-SG
+changed:        hostmaster@arin.net 19990504
+changed:        hm-changed@apnic.net 20040926
+changed:        hm-changed@apnic.net 20030731
+changed:        hm-changed@apnic.net 20041214
+changed:        hm-changed@apnic.net 20111222
+source:         APNIC
+
+irt:            IRT-SINGNET-SG
+address:        SingNet Engineering &amp; Operations
+address:        2 Stirling Road
+address:        #03-00 Queenstown Exchange
+address:        Singapore 148943
+e-mail:         hostmaster@singnet.com.sg
+abuse-mailbox:  abuse@singnet.com.sg
+admin-c:        SH9-AP
+tech-c:         SH9-AP
+auth:           # Filtered
+mnt-by:         MAINT-SG-SINGNET
+changed:        hostmaster@singnet.com.sg 20101221
+source:         APNIC
+
+person:         SingNet Hostmaster
+address:        SingNet Engineering &amp; Operations
+address:        2 Stirling Road
+address:        #03-00 Queenstown Exchange
+address:        Singapore 148943
+country:        SG
+phone:          +65 7845922
+fax-no:         +65 4753273
+e-mail:         hostmaster@singnet.com.sg
+nic-hdl:        SH9-AP
+notify:         hostmaster@singnet.com.sg
+mnt-by:         MAINT-SG-SINGNET
+changed:        hostmaster@singnet.com.sg 20000921
+source:         APNIC
+changed:        hm-changed@apnic.net 20111122</record>
+    </whois>
+  </response>
+</whoisapi>
+

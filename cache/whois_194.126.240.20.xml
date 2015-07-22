@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Shazam Entertainment Limited</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% No abuse contact registered for 194.126.240.0 - 194.126.240.255
+
+inetnum:        194.126.240.0 - 194.126.240.255
+netname:        SHAZAM
+descr:          Shazam Entertainment Limited
+country:        GB
+org:            ORG-SEL2-RIPE
+admin-c:        WTL
+tech-c:         IH2126-RIPE
+tech-c:         MR16655-RIPE
+status:         ASSIGNED PI
+mnt-by:         WEBTAPESTRY-MNT
+mnt-by:         RIPE-NCC-END-MNT
+mnt-routes:     WEBTAPESTRY-MNT
+mnt-domains:    WEBTAPESTRY-MNT
+changed:        hostmaster@ripe.net 20050222
+changed:        hostmaster@ripe.net 20130411
+created:        2005-02-22T10:34:05Z
+last-modified:  2015-05-05T02:15:09Z
+source:         RIPE
+sponsoring-org: ORG-GL37-RIPE
+
+organisation:   ORG-SEL2-RIPE
+org-name:       Shazam Entertainment Limited
+org-type:       OTHER
+address:        375 Kensington High Street
+address:        London
+address:        W14 8QH
+e-mail:         hostmaster@shazamteam.com
+admin-c:        WTL
+tech-c:         WTL
+mnt-ref:        WEBTAPESTRY-MNT
+mnt-by:         WEBTAPESTRY-MNT
+changed:        hostmaster@ripe.net 20050222
+changed:        ripe-dbm@ripe.net 20070102
+created:        2005-02-22T10:29:52Z
+last-modified:  2007-01-02T10:12:10Z
+source:         RIPE
+
+role:           Web Tapestry IP Manager
+address:        Web Tapestry
+address:        M247 Limited
+address:        1 Ball Green
+address:        Cobra Court
+address:        Stretford
+address:        Manchester
+address:        M32 0QT
+address:        United Kingdom
+phone:          +44 161 615 1270
+fax-no:         +44 161 865 1718
+e-mail:         hostmaster@webtapestry.net
+admin-c:        GBXS-RIPE
+tech-c:         IH2126-RIPE
+tech-c:         MJ3986-RIPE
+nic-hdl:        WTL
+mnt-by:         WEBTAPESTRY-MNT
+changed:        hostmaster@webtapestry.net 20020605
+changed:        hostmaster@webtapestry.net 20060428
+changed:        hostmaster@webtapestry.net 20060630
+changed:        hostmaster@webtapestry.net 20070130
+changed:        hostmaster@webtapestry.net 20080922
+changed:        hostmaster@webtapestry.net 20110819
+changed:        hostmaster@webtapestry.net 20111027
+changed:        hostmaster@webtapestry.net 20130904
+changed:        hostmaster@webtapestry.net 20130904
+created:        2002-06-04T23:33:24Z
+last-modified:  2013-09-04T13:35:08Z
+source:         RIPE
+
+person:         Ian Harris
+address:        M247 Limited
+address:        1 Ball Green
+address:        Cobra Court
+address:        Stretford
+address:        Manchester
+address:        M32 0QT
+address:        United Kingdom
+phone:          +44 161 615 1270
+fax-no:         +44 161 865 1718
+e-mail:         ian.harris@webtapestry.net
+nic-hdl:        IH2126-RIPE
+mnt-by:         WEBTAPESTRY-MNT
+changed:        hostmaster@webtapestry.net 20050128
+changed:        hostmaster@webtapestry.net 20060428
+changed:        hostmaster@webtapestry.net 20110428
+changed:        hostmaster@webtapestry.net 20130904
+created:        2002-02-02T01:41:18Z
+last-modified:  2013-09-04T13:36:39Z
+source:         RIPE
+
+person:         Mike Reed
+address:        Axamba Limited
+address:        T/As Web Tapestry
+address:        36 Davyhulme Road East
+address:        Stretford
+address:        Manchester
+address:        M32 0DW
+address:        United Kingdom
+phone:          +44 8700 75 17 18
+fax-no:         +44 161 865 1718
+e-mail:         mike.reed@webtapestry.net
+nic-hdl:        MR16655-RIPE
+mnt-by:         WEBTAPESTRY-MNT
+changed:        hostmaster@aexiomus.net.uk 20041209
+changed:        hostmaster@webtapestry.net 20050128
+changed:        hostmaster@webtapestry.net 20060428
+created:        2002-02-02T01:41:19Z
+last-modified:  2006-04-28T11:17:38Z
+source:         RIPE
+
+route:          194.126.240.0/24
+descr:          Shazam Entertainment Ltd
+descr:          GB
+origin:         AS31128
+notify:         hostmaster@webtapestry.net
+mnt-by:         WEBTAPESTRY-MNT
+changed:        hostmaster@webtapestry.net 20050222
+changed:        hostmaster@webtapestry.net 20050720
+created:        2005-07-20T09:43:38Z
+last-modified:  2005-07-20T09:43:38Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

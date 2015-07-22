@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Twitter Inc.</registrant>
+    <registration>
+      <created>2010-11-23</created>
+      <updated>2013-05-16</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       199.59.148.0 - 199.59.151.255
+CIDR:           199.59.148.0/22
+NetName:        TWITTER-NETWORK
+NetHandle:      NET-199-59-148-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS13414
+Organization:   Twitter Inc. (TWITT)
+RegDate:        2010-11-23
+Updated:        2013-05-16
+Ref:            http://whois.arin.net/rest/net/NET-199-59-148-0-1
+
+OrgName:        Twitter Inc.
+OrgId:          TWITT
+Address:        1355 Market Street
+Address:        Suite 900
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94103
+Country:        US
+RegDate:        2010-03-08
+Updated:        2015-05-11
+Ref:            http://whois.arin.net/rest/org/TWITT
+
+OrgTechHandle: YURCH-ARIN
+OrgTechName:   Yurchenko, Anton 
+OrgTechPhone:  +1-408-207-2488 
+OrgTechEmail:  ayurchenko@twitter.com
+OrgTechRef:    http://whois.arin.net/rest/poc/YURCH-ARIN
+
+OrgTechHandle: NETWO3685-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-415-222-9670 
+OrgTechEmail:  noc@twitter.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO3685-ARIN
+
+OrgAbuseHandle: TNA33-ARIN
+OrgAbuseName:   Twitter Network Abuse
+OrgAbusePhone:  +1-415-222-9670 
+OrgAbuseEmail:  net-abuse@twitter.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/TNA33-ARIN
+
+OrgTechHandle: REHOI-ARIN
+OrgTechName:   Rehoie, Fawad 
+OrgTechPhone:  +1-415-894-5498 
+OrgTechEmail:  fawad@twitter.com
+OrgTechRef:    http://whois.arin.net/rest/poc/REHOI-ARIN
+
+OrgTechHandle: SML8-ARIN
+OrgTechName:   Leibrand, Scott Michael
+OrgTechPhone:  +1-360-333-1632 
+OrgTechEmail:  sleibrand@twitter.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SML8-ARIN
+
+OrgTechHandle: ROSEM10-ARIN
+OrgTechName:   ROSE, Mathew 
+OrgTechPhone:  +1-801-616-8355 
+OrgTechEmail:  mathew@twitter.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ROSEM10-ARIN
+
+OrgNOCHandle: NETWO3685-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-415-222-9670 
+OrgNOCEmail:  noc@twitter.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO3685-ARIN
+
+RTechHandle: NETWO3685-ARIN
+RTechName:   Network Operations
+RTechPhone:  +1-415-222-9670 
+RTechEmail:  noc@twitter.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO3685-ARIN
+
+RAbuseHandle: TNA33-ARIN
+RAbuseName:   Twitter Network Abuse
+RAbusePhone:  +1-415-222-9670 
+RAbuseEmail:  net-abuse@twitter.com
+RAbuseRef:    http://whois.arin.net/rest/poc/TNA33-ARIN
+
+RNOCHandle: NETWO3685-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-415-222-9670 
+RNOCEmail:  noc@twitter.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO3685-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

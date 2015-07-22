@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Overoptic Systems LTD DBM</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '80.77.83.0 - 80.77.83.255' is 'abuse@ipipe.net'
+
+inetnum:        80.77.83.0 - 80.77.83.255
+netname:        hqhost-dedicated-Cl-83
+descr:          HQHost dedicated block
+country:        GB
+admin-c:        OSLD1-RIPE
+tech-c:         OSLT1-RIPE
+status:         ASSIGNED PA
+remarks:        ******************************
+remarks:        ** Legal and Abnormalities  **
+remarks:        **      abuse@hqhost.net    **
+remarks:        ******************************
+notify:         ipadmins@hqhost.net
+mnt-by:         hqhost
+mnt-domains:    hqhost
+changed:        makc@ipipe.net 20050317
+changed:        ipadmins@hqhost.net 20091117
+changed:        ipadmins@hqhost.net 20140519
+created:        2005-03-17T22:54:47Z
+last-modified:  2014-05-19T15:39:18Z
+source:         RIPE
+
+role:           Overoptic Systems LTD DBM
+nic-hdl:        OSLD1-RIPE
+org:            ORG-RIBC1-RIPE
+address:        Overoptic Systems LTD
+address:        13 Freeland Park, Wareham Road
+address:        BH16 6FH Poole
+address:        UNITED KINGDOM
+phone:          +4401202806130
+fax-no:         +4401202806130
+abuse-mailbox:  abuse@hqhost.net
+admin-c:        EA2-RIPE
+tech-c:         EA2-RIPE
+mnt-by:         hqhost
+notify:         ipadmins@hqhost.net
+e-mail:         ipadmins@hqhost.net
+created:        2014-02-24T14:15:08Z
+last-modified:  2014-02-24T14:15:08Z
+source:         RIPE
+changed:        ipadmins@hqhost.net 20140224
+
+role:           Overoptic Systems LTD Tech
+nic-hdl:        OSLT1-RIPE
+org:            ORG-RIBC1-RIPE
+address:        Overoptic Systems LTD
+address:        13 Freeland Park, Wareham Road
+address:        BH16 6FH Poole
+address:        UNITED KINGDOM
+phone:          +4401202806130
+fax-no:         +4401202806130
+abuse-mailbox:  abuse@hqhost.net
+admin-c:        OSLD1-RIPE
+tech-c:         OSLD1-RIPE
+mnt-by:         hqhost
+notify:         ipadmins@hqhost.net
+e-mail:         tech@hqhost.net
+created:        2014-02-24T14:57:07Z
+last-modified:  2014-02-24T14:57:07Z
+source:         RIPE
+changed:        ipadmins@hqhost.net 20140224</record>
+    </whois>
+  </response>
+</whoisapi>
+

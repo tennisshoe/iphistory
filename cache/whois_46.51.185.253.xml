@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Amazon Data Services Ireland Technical Role Account</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% Abuse contact for '46.51.128.0 - 46.51.191.255' is 'ec2-abuse@Amazon.com'
+
+inetnum:        46.51.128.0 - 46.51.191.255
+netname:        AMAZON-EU-AWS
+descr:          Amazon Web Services, Elastic Compute Cloud, EC2, EU
+remarks:        The activity you have detected originates from a
+remarks:        dynamic hosting environment.
+remarks:        For fastest response, please submit abuse reports at
+remarks:        http://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/AWSAbuse
+remarks:        For more information regarding EC2 see:
+remarks:        http://ec2.amazonaws.com/
+remarks:        All reports MUST include:
+remarks:        * src IP
+remarks:        * dest IP (your IP)
+remarks:        * dest port
+remarks:        * Accurate date/timestamp and timezone of activity
+remarks:        * Intensity/frequency (short log extracts)
+remarks:        * Your contact details (phone and email)
+remarks:        Without these we will be unable to identify
+remarks:        the correct owner of the IP address at that
+remarks:        point in time.
+country:        IE
+admin-c:        ADSI2-RIPE
+admin-c:        MA11338-RIPE
+tech-c:         AJ176-RIPE
+tech-c:         AEA61-RIPE
+tech-c:         AENO1-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-ADSI
+mnt-domains:    MNT-ADSI
+changed:        mazinger@amazon.com 20120308
+created:        2010-08-09T13:26:31Z
+last-modified:  2012-03-08T18:52:35Z
+source:         RIPE
+
+role:           Amazon Data Services Ireland Technical Role Account
+address:        Amazon Data Services Ireland
+address:        Digital Depot
+address:        Thomas Street
+address:        Dublin 8
+address:        Ireland
+mnt-by:         MNT-ADSI
+e-mail:         ripe-interest@amazon.com
+admin-c:        MA11338-RIPE
+tech-c:         AA25560-RIPE
+nic-hdl:        ADSI2-RIPE
+changed:        mazinger@amazon.com 20120308
+created:        2006-03-06T15:06:13Z
+last-modified:  2013-08-29T01:03:24Z
+source:         RIPE
+
+role:           Amazon EC2 Abuse
+address:        1200 12th Avenue South
+                Seattle
+                WA
+                US
+mnt-by:         MNT-ADSI
+e-mail:         ec2-abuse@amazon.com
+admin-c:        TW510-RIPE
+tech-c:         ADSI2-RIPE
+nic-hdl:        AEA61-RIPE
+changed:        kuyper@amazon.com 20081119
+created:        2008-11-19T17:49:13Z
+last-modified:  2009-12-14T11:54:25Z
+source:         RIPE
+
+role:           Amazon EC2 Network Operations
+address:        1200 12th Avenue South
+                Seattle
+                WA
+                US
+mnt-by:         MNT-ADSI
+e-mail:         aes-noc@amazon.com
+admin-c:        TW510-RIPE
+tech-c:         ADSI2-RIPE
+nic-hdl:        AENO1-RIPE
+changed:        sheehan@amazon.com 20081119
+created:        2008-11-19T17:48:41Z
+last-modified:  2009-12-14T11:56:47Z
+source:         RIPE
+
+person:         Alan Judge
+address:        Amazon Data Services Ireland
+address:        Digital Depot
+address:        Thomas Street
+address:        Dublin 8
+address:        Ireland
+phone:          +353 1 645 8937
+fax-no:         +353 1 645 8933
+e-mail:         judge@amazon.com
+nic-hdl:        AJ176-RIPE
+notify:         Alan.Judge@eircom.net
+changed:        Alan.Judge@indigo.ie 19990311
+changed:        Alan.Judge@eircom.net 20010911
+changed:        niall@amazon.com 20051213
+created:        1970-01-01T00:00:00Z
+last-modified:  2005-12-13T10:24:13Z
+source:         RIPE
+
+person:         Marla Azinger
+address:        One Kilmainham Square
+address:        Inchicore Road         Kilmainham
+address:        8 Dublin 8
+address:        IRELAND
+phone:          +35316458950
+e-mail:         mazinger@amazon.com
+nic-hdl:        MA11338-RIPE
+mnt-by:         MA99006-MNT
+changed:        mazinger@amazon.com 20110702
+created:        2011-07-02T04:58:40Z
+last-modified:  2011-07-02T04:58:41Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

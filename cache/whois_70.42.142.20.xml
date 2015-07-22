@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Nicira Networks, Inc.</registrant>
+    <registration>
+      <created>2005-09-29</created>
+      <updated>2006-11-13</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       70.42.0.0 - 70.42.255.255
+CIDR:           70.42.0.0/16
+NetName:        PNAP-09-2005
+NetHandle:      NET-70-42-0-0-1
+Parent:         NET70 (NET-70-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internap Network Services Corporation (PNAP)
+RegDate:        2005-09-29
+Updated:        2006-11-13
+Ref:            http://whois.arin.net/rest/net/NET-70-42-0-0-1
+
+OrgName:        Internap Network Services Corporation
+OrgId:          PNAP
+Address:        250 Williams Street
+Address:        Suite E100
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        1996-07-18
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/PNAP
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-404-475-0520 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RNOCHandle: INO3-ARIN
+RNOCName:   InterNap Network Operations Center
+RNOCPhone:  +1-404-475-0520 
+RNOCEmail:  noc@internap.com
+RNOCRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-404-475-0520 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RAbuseHandle: IAC3-ARIN
+RAbuseName:   Internap Abuse Contact
+RAbusePhone:  +1-206-256-9500 
+RAbuseEmail:  abuse@internap.com
+RAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+NetRange:       70.42.142.0 - 70.42.142.255
+CIDR:           70.42.142.0/24
+NetName:        INAP-SJE-NICIRA-70-42-142-0
+NetHandle:      NET-70-42-142-0-1
+Parent:         PNAP-09-2005 (NET-70-42-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Nicira Networks, Inc. (C04611734)
+RegDate:        2013-06-17
+Updated:        2013-06-17
+Comment:        rirCallout v1.07, Mon Jun 17 12:49:37 -0400 2013
+Ref:            http://whois.arin.net/rest/net/NET-70-42-142-0-1
+
+CustName:       Nicira Networks, Inc.
+Address:        2151 Mission College blvd
+City:           Santa Clara
+StateProv:      CA
+PostalCode:     95054
+Country:        US
+RegDate:        2013-06-17
+Updated:        2013-06-17
+Ref:            http://whois.arin.net/rest/customer/C04611734
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-404-475-0520 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RNOCHandle: INO3-ARIN
+RNOCName:   InterNap Network Operations Center
+RNOCPhone:  +1-404-475-0520 
+RNOCEmail:  noc@internap.com
+RNOCRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-404-475-0520 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RAbuseHandle: IAC3-ARIN
+RAbuseName:   Internap Abuse Contact
+RAbusePhone:  +1-206-256-9500 
+RAbuseEmail:  abuse@internap.com
+RAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

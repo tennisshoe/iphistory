@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Savvis</registrant>
+    <registration>
+      <created>1998-07-30</created>
+      <updated>2007-09-18</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.32.0.0 - 216.35.255.255
+CIDR:           216.32.0.0/14
+NetName:        SAVVIS
+NetHandle:      NET-216-32-0-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        1998-07-30
+Updated:        2007-09-18
+Ref:            http://whois.arin.net/rest/net/NET-216-32-0-0-1
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-04-10
+Comment:        Abuse complaints to abuse@savvis.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  noc@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-314-628-7305 
+OrgTechEmail:  Ali.Samat@savvis.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN
+
+NetRange:       216.35.131.128 - 216.35.131.255
+CIDR:           216.35.131.128/25
+NetName:        SAVV-S233223-1
+NetHandle:      NET-216-35-131-128-1
+Parent:         SAVVIS (NET-216-32-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   NetFlix, Inc.(Kibble) (NETFL-15)
+RegDate:        2006-11-06
+Updated:        2006-11-06
+Ref:            http://whois.arin.net/rest/net/NET-216-35-131-128-1
+
+OrgName:        NetFlix, Inc.(Kibble)
+OrgId:          NETFL-15
+Address:        100 Winchester Circle
+City:           LOS GATOS
+StateProv:      CA
+PostalCode:     95032
+Country:        US
+RegDate:        2006-11-06
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/NETFL-15
+
+OrgAbuseHandle: VYE3-ARIN
+OrgAbuseName:   Yelsangikar, Vish 
+OrgAbusePhone:  +1-408-317-3793 
+OrgAbuseEmail:  vyelsangikar@netflix.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/VYE3-ARIN
+
+OrgTechHandle: VYE3-ARIN
+OrgTechName:   Yelsangikar, Vish 
+OrgTechPhone:  +1-408-317-3793 
+OrgTechEmail:  vyelsangikar@netflix.com
+OrgTechRef:    http://whois.arin.net/rest/poc/VYE3-ARIN
+
+RTechHandle: GRA31-ARIN
+RTechName:   Raghavan, Ganesh 
+RTechPhone:  +1-408-317-3707 
+RTechEmail:  graghavan@netflix.com
+RTechRef:    http://whois.arin.net/rest/poc/GRA31-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

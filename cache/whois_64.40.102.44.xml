@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NetNation Communications Inc</registrant>
+    <registration>
+      <created>2000-02-25</created>
+      <updated>2005-06-13</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       64.40.96.0 - 64.40.127.255
+CIDR:           64.40.96.0/19
+NetName:        NETNATION
+NetHandle:      NET-64-40-96-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   NetNation Communications Inc (NNC)
+RegDate:        2000-02-25
+Updated:        2005-06-13
+Ref:            http://whois.arin.net/rest/net/NET-64-40-96-0-1
+
+OrgName:        NetNation Communications Inc
+OrgId:          NNC
+Address:        Bentall Tower 5, Suite 200
+Address:        550 Burrard Street
+City:           Vancouver
+StateProv:      BC
+PostalCode:     V6C-2B5
+Country:        CA
+RegDate:        1998-12-17
+Updated:        2015-03-10
+Ref:            http://whois.arin.net/rest/org/NNC
+
+ReferralServer:  rwhois://rwhois.netnation.com:4321
+
+OrgAbuseHandle: ABUSE822-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-604-688-8946 
+OrgAbuseEmail:  abuse@netnation.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE822-ARIN
+
+OrgTechHandle: IN8-ARIN
+OrgTechName:   NetNation Commmunications, Inc
+OrgTechPhone:  +1-604-688-8946 
+OrgTechEmail:  ipadmin@netnation.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IN8-ARIN
+
+RTechHandle: IN8-ARIN
+RTechName:   NetNation Commmunications, Inc
+RTechPhone:  +1-604-688-8946 
+RTechEmail:  ipadmin@netnation.com
+RTechRef:    http://whois.arin.net/rest/poc/IN8-ARIN
+
+== Additional Information From rwhois://rwhois.netnation.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.netnation.com (by Network Solutions, Inc. V-1.5.10-pre6)
+network:Class-Name:network
+network:ID:NETNATION.64.40.96.0/19
+network:Auth-Area:64.40.96.0/19
+network:Network-Name:NETNATION-64.40.96.0/19
+network:IP-Network:64.40.96.0/19
+network:NN-Domain:netnation.com
+network:Org-Name:NetNation Communications Inc.
+network:Street-Address:Bentall 5, Suite 200
+network:Street-Address:550 Burrard St.
+network:City:Vancouver
+network:State:BC
+network:Postal-Code:V6C 2B5
+network:Country-Code:CA
+network:Tech-Contact;I:ipadmin@netnation.com
+network:Abuse-Contact;I:abuse@netnation.com
+network:Updated-By:ipadmin@netnation.com
+network:Created:20031215
+network:Updated:20050527
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

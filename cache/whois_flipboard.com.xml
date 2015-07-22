@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Flipboard, Inc.</registrant>
+    <registration>
+      <created>2000-03-06</created>
+      <expires>2016-03-06</expires>
+      <updated>2015-03-06</updated>
+      <registrar>EASYDNS TECHNOLOGIES, INC.</registrar>
+      <statuses>clientTransferProhibited</statuses>
+      <statuses>clientUpdateProhibited</statuses>
+    </registration>
+    <name_servers>NS-1510.AWSDNS-60.ORG</name_servers>
+    <name_servers>NS-1756.AWSDNS-27.CO.UK</name_servers>
+    <name_servers>NS-60.AWSDNS-07.COM</name_servers>
+    <name_servers>NS-816.AWSDNS-38.NET</name_servers>
+    <whois>
+      <date>2015-07-15</date>
+      <record>Domain Name: FLIPBOARD.COM
+Registry Domain ID: 21487179_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.easydns.com
+Registrar URL: http://www.easydns.com
+Updated Date: 2015-03-06T07:51:23Z
+Creation Date: 2000-03-06T00:49:34Z
+Registrar Registration Expiration Date: 2016-03-06T00:49:33Z
+Registrar: easyDNS Technologies, Inc.
+Registrar IANA ID: 469
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+Domain Status: clientTransferProhibited
+Domain Status: clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Server Administration
+Registrant Organization: Flipboard, Inc.
+Registrant Street: 818 Emerson Street
+Registrant City: Palo Alto
+Registrant State/Province: CA
+Registrant Postal Code: 94301
+Registrant Country: us
+Registrant Phone: +1.6504853547
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: admin@flipboard.com
+Registry Admin ID: 
+Admin Name: Server Administration
+Admin Organization: Flipboard, Inc.
+Admin Street: 818 Emerson Street
+Admin City: Palo Alto
+Admin State/Province: CA
+Admin Postal Code: 94301
+Admin Country: us
+Admin Phone: +1.6504853547
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: admin@flipboard.com
+Registry Tech ID: 
+Tech Name: easyDNS Hostmaster
+Tech Organization: easyDNS Technologies Inc.
+Tech Street: 304A-219 Dufferin Street
+Tech City: Toronto
+Tech State/Province: Ontario
+Tech Postal Code: M6K 3E3
+Tech Country: CA
+Tech Phone: +1.4165358672
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: hostmaster@easydns.com
+Name Server: NS-816.AWSDNS-38.NET
+Name Server: NS-1510.AWSDNS-60.ORG
+Name Server: NS-1756.AWSDNS-27.CO.UK
+Name Server: NS-60.AWSDNS-07.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

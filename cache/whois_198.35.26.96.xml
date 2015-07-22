@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Wikimedia Foundation Inc.</registrant>
+    <registration>
+      <created>2013-07-16</created>
+      <updated>2013-07-16</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       198.35.26.0 - 198.35.27.255
+CIDR:           198.35.26.0/23
+NetName:        WIKIMEDIA
+NetHandle:      NET-198-35-26-0-1
+Parent:         NET198 (NET-198-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS14907
+Organization:   Wikimedia Foundation Inc. (WIKIM)
+RegDate:        2013-07-16
+Updated:        2013-07-16
+Ref:            http://whois.arin.net/rest/net/NET-198-35-26-0-1
+
+OrgName:        Wikimedia Foundation Inc.
+OrgId:          WIKIM
+Address:        149 New Montgomery Street
+Address:        3rd Floor
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94105
+Country:        US
+RegDate:        2006-05-30
+Updated:        2014-03-25
+Ref:            http://whois.arin.net/rest/org/WIKIM
+
+OrgNOCHandle: WIKIM-ARIN
+OrgNOCName:   Wikimedia NOC
+OrgNOCPhone:  +1-415-839-6885 
+OrgNOCEmail:  noc@wikimedia.org
+OrgNOCRef:    http://whois.arin.net/rest/poc/WIKIM-ARIN
+
+OrgAbuseHandle: WNA11-ARIN
+OrgAbuseName:   Wikimedia Network Abuse
+OrgAbusePhone:  +1-415-839-6885 
+OrgAbuseEmail:  abuse@wikimedia.org
+OrgAbuseRef:    http://whois.arin.net/rest/poc/WNA11-ARIN
+
+OrgTechHandle: LIAMB-ARIN
+OrgTechName:   Liambotis, Faidon 
+OrgTechPhone:  +1-415-839-6885 
+OrgTechEmail:  faidon@wikimedia.org
+OrgTechRef:    http://whois.arin.net/rest/poc/LIAMB-ARIN
+
+OrgTechHandle: MBE96-ARIN
+OrgTechName:   Bergsma, Mark 
+OrgTechPhone:  +1-415-839-6885 
+OrgTechEmail:  mark@wikimedia.org
+OrgTechRef:    http://whois.arin.net/rest/poc/MBE96-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

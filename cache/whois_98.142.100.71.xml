@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>HostDime.com, Inc.</registrant>
+    <registration>
+      <created>2015-04-13</created>
+      <updated>2015-04-13</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       98.142.96.0 - 98.142.111.255
+CIDR:           98.142.96.0/20
+NetName:        DIMENOC
+NetHandle:      NET-98-142-96-0-1
+Parent:         NET98 (NET-98-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS33182
+Organization:   HostDime.com, Inc. (DIMEN-6)
+RegDate:        2015-04-13
+Updated:        2015-04-13
+Ref:            http://whois.arin.net/rest/net/NET-98-142-96-0-1
+
+OrgName:        HostDime.com, Inc.
+OrgId:          DIMEN-6
+Address:        2603 Challenger Tech CT
+Address:        Suite 140
+City:           Orlando
+StateProv:      FL
+PostalCode:     32826
+Country:        US
+RegDate:        2004-06-30
+Updated:        2014-05-13
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.dimenoc.com port 4321
+Ref:            http://whois.arin.net/rest/org/DIMEN-6
+
+ReferralServer:  rwhois://rwhois.dimenoc.com:4321
+
+OrgTechHandle: NETWO742-ARIN
+OrgTechName:   Network Engineers
+OrgTechPhone:  407-756-1126 
+OrgTechEmail:  network@dimenoc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO742-ARIN
+
+OrgAbuseHandle: ABUSE796-ARIN
+OrgAbuseName:   Abuse Group
+OrgAbusePhone:  +1-407-756-1126 
+OrgAbuseEmail:  abuse@dimenoc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE796-ARIN
+
+== Additional Information From rwhois://rwhois.dimenoc.com:4321 ==
+
+%rwhois V-1.5:0000a0:00 rwhois.dimenoc.com (by HostDime.com, Inc. v0.1)
+network:id:DIMENOC-391489
+network:ip-network:98.142.100.64/29
+network:network-name:DIMENOC-391489
+network:org-name:Serversea.com
+network:street-address:440 West Kennedy Blvd Suite #1
+network:city:Orlando
+network:state:FL
+network:postal-code:32810
+network:country-code:US
+network:tech-contact:ceo@serversea.com
+network:updated:2015-07-20 14:37:16
+network:updated-by:network@dimenoc.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

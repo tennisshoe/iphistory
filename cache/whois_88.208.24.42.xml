@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Advanced Hosters B.V.</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '88.208.24.32 - 88.208.24.255' is 'abuse@datawebglobalgroup.com'
+
+inetnum:        88.208.24.32 - 88.208.24.255
+netname:        ADVANCEDHOSTERS-NET
+descr:          Advanced Hosters B.V.
+country:        NL
+admin-c:        AH36-RIPE
+tech-c:         AH36-RIPE
+status:         ASSIGNED PA
+remarks:        Send abuse reports to abuse@advancedhosters.com
+mnt-by:         ADVANCEDHOSTERS-MNT
+mnt-lower:      ADVANCEDHOSTERS-MNT
+mnt-routes:     ADVANCEDHOSTERS-MNT
+changed:        abuse@advancedhosters.com 20110117
+created:        2011-01-17T12:01:52Z
+last-modified:  2015-03-31T08:16:19Z
+source:         RIPE
+
+role:           Advanced Hosters B.V.
+address:        Ganzenstraat 1
+address:        3815 JA, Amersfoort, Nederland
+org:            ORG-AH11-RIPE
+e-mail:         abuse@advancedhosters.com
+abuse-mailbox:  abuse@advancedhosters.com
+nic-hdl:        AH36-RIPE
+mnt-by:         ADVANCEDHOSTERS-MNT
+changed:        abuse@advancedhosters.com 20150319
+created:        2009-03-31T09:52:43Z
+last-modified:  2015-03-19T12:49:43Z
+source:         RIPE
+
+route:          88.208.24.0/21
+descr:          Hosting Segment
+origin:         AS39572
+mnt-by:         ADVANCEDHOSTERS-MNT
+changed:        abuse@advancedhosters.com 20090422
+created:        2010-09-29T08:46:30Z
+last-modified:  2010-11-08T08:38:25Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

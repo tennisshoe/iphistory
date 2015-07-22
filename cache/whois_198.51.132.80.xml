@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Yelp! Inc.</registrant>
+    <registration>
+      <created>2013-02-25</created>
+      <updated>2013-02-25</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       198.51.132.0 - 198.51.135.255
+CIDR:           198.51.132.0/22
+NetName:        YELP-NET-2
+NetHandle:      NET-198-51-132-0-1
+Parent:         NET198 (NET-198-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS33445
+Organization:   Yelp! Inc. (YELPI)
+RegDate:        2013-02-25
+Updated:        2013-02-25
+Ref:            http://whois.arin.net/rest/net/NET-198-51-132-0-1
+
+OrgName:        Yelp! Inc.
+OrgId:          YELPI
+Address:        140 New Montgomery
+Address:        9th Floor
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94105
+Country:        US
+RegDate:        2010-03-05
+Updated:        2014-08-20
+Comment:        http://www.yelp.com
+Ref:            http://whois.arin.net/rest/org/YELPI
+
+OrgNOCHandle: NETWO6360-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-415-908-3801 
+OrgNOCEmail:  neteng@yelp.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN
+
+OrgTechHandle: NETWO6360-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-415-908-3801 
+OrgTechEmail:  neteng@yelp.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN
+
+OrgAbuseHandle: NETWO6360-ARIN
+OrgAbuseName:   Network Operations
+OrgAbusePhone:  +1-415-908-3801 
+OrgAbuseEmail:  neteng@yelp.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

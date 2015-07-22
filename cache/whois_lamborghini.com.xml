@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Automobili Lamborghini S.p.A.</registrant>
+    <registration>
+      <created>1996-09-16</created>
+      <expires>2015-09-15</expires>
+      <updated>2014-09-16</updated>
+      <registrar>1 API GMBH</registrar>
+      <statuses>ok</statuses>
+    </registration>
+    <name_servers>NS2.AUDI.DE</name_servers>
+    <name_servers>NS5.XC-NS.DE</name_servers>
+    <whois>
+      <date>2015-06-30</date>
+      <record>Domain Name: LAMBORGHINI.COM
+Registry Domain ID: 1268271_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.1api.net
+Registrar URL: http://www.1api.net
+Updated Date: 2012-11-05T14:40:17Z
+Creation Date: 1996-09-16T04:00:00Z
+Registrar Registration Expiration Date: 2015-09-15T04:00:00Z
+Registrar: 1API GmbH
+Registrar IANA ID: 1387
+Registrar Abuse Contact Email: abuse@1api.net
+Registrar Abuse Contact Phone: +49.68416984x200
+Reseller: INDECA GmbH www.indeca.de
+Domain Status: ok - http://www.icann.org/epp#OK
+Registry Registrant ID: 
+Registrant Name: Richard Zollner
+Registrant Organization: Automobili Lamborghini S.p.A.
+Registrant Street: Via Modena, 12
+Registrant City: Sant Agata Bolognese
+Registrant State/Province: BO
+Registrant Postal Code: 40019
+Registrant Country: IT
+Registrant Phone: +49.841890
+Registrant Phone Ext: 
+Registrant Fax: +49.8418935183
+Registrant Fax Ext: 
+Registrant Email: domainservice@audi.de
+Registry Admin ID: 
+Admin Name: Richard Zollner
+Admin Organization: AUDI AG
+Admin Street: Auto-Union-Strasse 1
+Admin City: Ingolstadt
+Admin State/Province: Bavaria
+Admin Postal Code: 85045
+Admin Country: DE
+Admin Phone: +49.8418933901
+Admin Phone Ext: 
+Admin Fax: +49.8418990448
+Admin Fax Ext: 
+Admin Email: domainservice@audi.de
+Registry Tech ID: 
+Tech Name: Domainservice Audi
+Tech Organization: AUDI AG
+Tech Street: Auto-Union-Strasse 1
+Tech City: Ingolstadt
+Tech State/Province: Bavaria
+Tech Postal Code: 85045
+Tech Country: DE
+Tech Phone: +49.841890
+Tech Phone Ext: 
+Tech Fax: +49.841898436565
+Tech Fax Ext: 
+Tech Email: domainservice@audi.de
+Name Server: ns2.audi.de
+Name Server: ns5.xc-ns.de
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>David Cox</registrant>
+    <registration>
+      <created>2015-02-05</created>
+      <updated>2015-02-05</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       184.173.93.88 - 184.173.93.91
+CIDR:           184.173.93.88/30
+NetName:        NET-184-173-93-88
+NetHandle:      NET-184-173-93-88-1
+Parent:         NETBLK-THEPLANET-BLK-17 (NET-184-172-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       David Cox (C05588608)
+RegDate:        2015-02-05
+Updated:        2015-02-05
+Ref:            http://whois.arin.net/rest/net/NET-184-173-93-88-1
+
+CustName:       David Cox
+Address:        3901 S MIAMI BLVD
+City:           DURHAM
+StateProv:      NC
+PostalCode:     27703
+Country:        US
+RegDate:        2015-02-05
+Updated:        2015-02-05
+Ref:            http://whois.arin.net/rest/customer/C05588608
+
+OrgTechHandle: TECHN33-ARIN
+OrgTechName:   Technical Support
+OrgTechPhone:  +1-281-714-3000 
+OrgTechEmail:  admins@theplanet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN
+
+OrgAbuseHandle: ABUSE271-ARIN
+OrgAbuseName:   The Planet Abuse
+OrgAbusePhone:  +1-281-714-3560 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+OrgNOCHandle: THEPL-ARIN
+OrgNOCName:   The Planet NOC
+OrgNOCPhone:  +1-281-714-3000 
+OrgNOCEmail:  noc@theplanet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+RNOCHandle: THEPL-ARIN
+RNOCName:   The Planet NOC
+RNOCPhone:  +1-281-714-3000 
+RNOCEmail:  noc@theplanet.com
+RNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+RAbuseHandle: ABUSE271-ARIN
+RAbuseName:   The Planet Abuse
+RAbusePhone:  +1-281-714-3560 
+RAbuseEmail:  abuse@softlayer.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+RTechHandle: TECHN33-ARIN
+RTechName:   Technical Support
+RTechPhone:  +1-281-714-3000 
+RTechEmail:  admins@theplanet.com
+RTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN
+
+NetRange:       184.172.0.0 - 184.173.255.255
+CIDR:           184.172.0.0/15
+NetName:        NETBLK-THEPLANET-BLK-17
+NetHandle:      NET-184-172-0-0-1
+Parent:         NET184 (NET-184-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36420, AS30315, AS13749, AS21844
+Organization:   ThePlanet.com Internet Services, Inc. (TPCM)
+RegDate:        2010-10-06
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-184-172-0-0-1
+
+OrgName:        ThePlanet.com Internet Services, Inc.
+OrgId:          TPCM
+Address:        315 Capitol
+Address:        Suite 205
+City:           Houston
+StateProv:      TX
+PostalCode:     77002
+Country:        US
+RegDate:        1999-08-31
+Updated:        2015-02-10
+Ref:            http://whois.arin.net/rest/org/TPCM
+
+ReferralServer:  rwhois://rwhois.theplanet.com:4321
+
+OrgTechHandle: TECHN33-ARIN
+OrgTechName:   Technical Support
+OrgTechPhone:  +1-281-714-3000 
+OrgTechEmail:  admins@theplanet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN
+
+OrgAbuseHandle: ABUSE271-ARIN
+OrgAbuseName:   The Planet Abuse
+OrgAbusePhone:  +1-281-714-3560 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+OrgNOCHandle: THEPL-ARIN
+OrgNOCName:   The Planet NOC
+OrgNOCPhone:  +1-281-714-3000 
+OrgNOCEmail:  noc@theplanet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+RNOCHandle: THEPL-ARIN
+RNOCName:   The Planet NOC
+RNOCPhone:  +1-281-714-3000 
+RNOCEmail:  noc@theplanet.com
+RNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+RAbuseHandle: ABUSE271-ARIN
+RAbuseName:   The Planet Abuse
+RAbusePhone:  +1-281-714-3560 
+RAbuseEmail:  abuse@softlayer.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+RTechHandle: TECHN33-ARIN
+RTechName:   Technical Support
+RTechPhone:  +1-281-714-3000 
+RTechEmail:  admins@theplanet.com
+RTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

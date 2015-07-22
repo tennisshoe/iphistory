@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>High Speed Web/Genesis 2 Networks</registrant>
+    <registration>
+      <created>1998-02-05</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       209.198.0.0 - 209.198.63.255
+CIDR:           209.198.0.0/18
+NetName:        HIGHSPEEDWEB-1
+NetHandle:      NET-209-198-0-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS8175
+Organization:   High Speed Web/Genesis 2 Networks (WILDW-5)
+RegDate:        1998-02-05
+Updated:        2012-03-02
+Comment:        "this space is statically assigned."
+Ref:            http://whois.arin.net/rest/net/NET-209-198-0-0-1
+
+OrgName:        High Speed Web/Genesis 2 Networks
+OrgId:          WILDW-5
+Address:        420 N. Dave Lyle Blvd.
+City:           Rock Hill
+StateProv:      SC
+PostalCode:     29730
+Country:        US
+RegDate:        2007-10-11
+Updated:        2013-08-13
+Ref:            http://whois.arin.net/rest/org/WILDW-5
+
+OrgTechHandle: NOC2799-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-800-498-8054 
+OrgTechEmail:  noc@highspeedweb.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2799-ARIN
+
+OrgNOCHandle: NOC2799-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-800-498-8054 
+OrgNOCEmail:  noc@highspeedweb.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC2799-ARIN
+
+OrgAbuseHandle: NOC2799-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-800-498-8054 
+OrgAbuseEmail:  noc@highspeedweb.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC2799-ARIN
+
+RNOCHandle: NOC2799-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-800-498-8054 
+RNOCEmail:  noc@highspeedweb.net
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2799-ARIN
+
+RAbuseHandle: NOC2799-ARIN
+RAbuseName:   Network Operations Center
+RAbusePhone:  +1-800-498-8054 
+RAbuseEmail:  noc@highspeedweb.net
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC2799-ARIN
+
+RTechHandle: NOC2799-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-800-498-8054 
+RTechEmail:  noc@highspeedweb.net
+RTechRef:    http://whois.arin.net/rest/poc/NOC2799-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

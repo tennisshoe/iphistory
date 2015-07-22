@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PragoNet Hostmaster</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '212.67.88.64 - 212.67.88.95' is 'nic@t-mobile.cz'
+
+inetnum:        212.67.88.64 - 212.67.88.95
+netname:        GRISOFTWEBHOSTING-NET
+descr:          GRISOFT, s.r.o.
+descr:          Prague
+country:        CZ
+admin-c:        PH955-RIPE
+tech-c:         PH955-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS12767-MNT
+notify:         lir@pragonet.cz
+changed:        martin.bisko@pragonet.cz 20040310
+created:        2004-03-10T08:48:06Z
+last-modified:  2004-03-10T08:48:06Z
+source:         RIPE
+
+role:           PragoNet Hostmaster
+address:        T-Systems Czech Republic a.s.
+address:        Na Pankraci 1685/19
+address:        Praha 4
+address:        140 21
+address:        The Czech Republic
+phone:          +420 2 36099111
+fax-no:         +420 2 36099999
+e-mail:         lir@t-systems.cz
+remarks:        trouble:      ------------------------------------------
+remarks:        trouble:      Abuse and SPAM:     &lt;lir@t-systems.cz&gt;
+remarks:        trouble:      IP administration:  &lt;lir@t-systems.cz&gt;
+remarks:        trouble:      Operational issues: &lt;dohled@t-systems.cz&gt;
+remarks:        trouble:      24x7 NOC:           &lt;dohled@t-systems.cz&gt;
+remarks:        trouble:      24x7 NOC:           +420 2 36099777
+remarks:        trouble:      24x7 NOC:           +420 2 72732080
+remarks:        trouble:      ------------------------------------------
+admin-c:        AD1535-RIPE
+tech-c:         LD3354-RIPE
+tech-c:         ZR502-RIPE
+tech-c:         AD1535-RIPE
+nic-hdl:        PH955-RIPE
+notify:         lir@t-systems.cz
+mnt-by:         PRAGONET-MNT
+mnt-by:         AS12767-MNT
+changed:        lir@t-systems.cz 20111104
+created:        2002-06-11T09:37:46Z
+last-modified:  2011-11-04T09:24:58Z
+source:         RIPE
+abuse-mailbox:  lir@t-systems.cz
+
+route:          212.67.64.0/19
+descr:          AS-PRAGONET aggregate
+origin:         AS12767
+mnt-by:         AS12767-MNT
+changed:        martin.bisko@pragonet.cz 20000210
+changed:        zdenek.roubicek@pragonet.cz 20060517
+created:        1970-01-01T00:00:00Z
+last-modified:  2006-05-17T05:55:24Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Ethr.Net LLC</registrant>
+    <registration>
+      <created>2005-07-29</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.224.112.0 - 216.224.127.255
+CIDR:           216.224.112.0/20
+NetName:        ETHRN
+NetHandle:      NET-216-224-112-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Ethr.Net LLC (ETHRN)
+RegDate:        2005-07-29
+Updated:        2012-03-02
+Comment:        Please send all abuse to abuse@ethr.net.
+Ref:            http://whois.arin.net/rest/net/NET-216-224-112-0-1
+
+OrgName:        Ethr.Net LLC
+OrgId:          ETHRN
+Address:        7960B Soquel Dr. #417
+City:           Aptos
+StateProv:      CA
+PostalCode:     95003
+Country:        US
+RegDate:        2003-10-14
+Updated:        2009-10-22
+Ref:            http://whois.arin.net/rest/org/ETHRN
+
+ReferralServer:  rwhois://rwhois.ethr.net:4321
+
+OrgAbuseHandle: ABUSE967-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-510-228-4068 
+OrgAbuseEmail:  abuse@ethr.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE967-ARIN
+
+OrgTechHandle: TECHN283-ARIN
+OrgTechName:   Technical Support
+OrgTechPhone:  +1-510-228-4068 
+OrgTechEmail:  support@ethr.net
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN283-ARIN
+
+RNOCHandle: NETWO952-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-510-228-4068 
+RNOCEmail:  support@ethr.net
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO952-ARIN
+
+RAbuseHandle: ABUSE967-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-510-228-4068 
+RAbuseEmail:  abuse@ethr.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE967-ARIN
+
+RTechHandle: TECHN283-ARIN
+RTechName:   Technical Support
+RTechPhone:  +1-510-228-4068 
+RTechEmail:  support@ethr.net
+RTechRef:    http://whois.arin.net/rest/poc/TECHN283-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

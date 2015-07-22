@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Register.com, Inc</registrant>
+    <registration>
+      <created>2000-06-28</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       216.21.224.0 - 216.21.239.255
+CIDR:           216.21.224.0/20
+NetName:        RCOM-1BLK
+NetHandle:      NET-216-21-224-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Register.com, Inc (REG)
+RegDate:        2000-06-28
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-216-21-224-0-1
+
+OrgName:        Register.com, Inc
+OrgId:          REG
+Address:        12808 Gran Bay Parkway West
+City:           Jacksonville
+StateProv:      FL
+PostalCode:     32258
+Country:        US
+RegDate:        1999-09-08
+Updated:        2014-07-01
+Ref:            http://whois.arin.net/rest/org/REG
+
+OrgTechHandle: NETWO55-ARIN
+OrgTechName:   Network Engineering
+OrgTechPhone:  +1-904-680-6600 
+OrgTechEmail:  neteng@web.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO55-ARIN
+
+OrgAbuseHandle: CUSTO-ARIN
+OrgAbuseName:   Customer Service
+OrgAbusePhone:  +1-800-899-9724 
+OrgAbuseEmail:  support@register.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CUSTO-ARIN
+
+OrgNOCHandle: NOC207-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-904-680-6600 
+OrgNOCEmail:  ops@register.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC207-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

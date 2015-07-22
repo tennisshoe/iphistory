@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Network for Education and Research in Oregon (NERO)</registrant>
+    <registration>
+      <created>1990-06-11</created>
+      <updated>2014-08-15</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       140.211.0.0 - 140.211.255.255
+CIDR:           140.211.0.0/16
+NetName:        NERONET
+NetHandle:      NET-140-211-0-0-1
+Parent:         NET140 (NET-140-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS3701
+Organization:   Network for Education and Research in Oregon (NERO) (UO-12)
+RegDate:        1990-06-11
+Updated:        2014-08-15
+Ref:            http://whois.arin.net/rest/net/NET-140-211-0-0-1
+
+OrgName:        Network for Education and Research in Oregon (NERO)
+OrgId:          UO-12
+Address:        1225 Kincaid Street
+City:           Eugene
+StateProv:      OR
+PostalCode:     97403
+Country:        US
+RegDate:        2014-03-31
+Updated:        2014-10-29
+Ref:            http://whois.arin.net/rest/org/UO-12
+
+OrgTechHandle: FROMM4-ARIN
+OrgTechName:   Fromm, Stephen 
+OrgTechPhone:  +1-541-346-1712 
+OrgTechEmail:  stephenf@nero.net
+OrgTechRef:    http://whois.arin.net/rest/poc/FROMM4-ARIN
+
+OrgNOCHandle: NERON-ARIN
+OrgNOCName:   NERO NOC
+OrgNOCPhone:  +1-541-346-6376 
+OrgNOCEmail:  noc@nero.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NERON-ARIN
+
+OrgAbuseHandle: NAD102-ARIN
+OrgAbuseName:   NERO Abuse Desk
+OrgAbusePhone:  +1-541-346-6376 
+OrgAbuseEmail:  abuse@nero.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAD102-ARIN
+
+OrgTechHandle: JAD46-ARIN
+OrgTechName:   Dominguez, Jose Alfredo
+OrgTechPhone:  +1-541-346-4397 
+OrgTechEmail:  jad@network-services.uoregon.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/JAD46-ARIN
+
+OrgTechHandle: HICKS120-ARIN
+OrgTechName:   Hicks, Richard 
+OrgTechPhone:  +1-541-346-1713 
+OrgTechEmail:  rhicks@nero.net
+OrgTechRef:    http://whois.arin.net/rest/poc/HICKS120-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

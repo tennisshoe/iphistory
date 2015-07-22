@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Loopia AB</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% Abuse contact for '194.9.94.0 - 194.9.95.255' is 'abuse@loopia.se'
+
+inetnum:        194.9.94.0 - 194.9.95.255
+netname:        SE-LOOPIA
+descr:          Loopia AB
+org:            ORG-LA133-RIPE
+country:        SE
+admin-c:        LD1714-RIPE
+tech-c:         LD1714-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         LOOPIA-MNT
+mnt-routes:     LOOPIA-MNT
+changed:        hostmaster@ripe.net 20030904
+changed:        jimmy.makela@loopia.se 20060323
+changed:        hostmaster@ripe.net 20121024
+created:        2003-09-04T15:01:36Z
+last-modified:  2015-05-05T01:47:49Z
+source:         RIPE
+
+organisation:   ORG-LA133-RIPE
+org-name:       Loopia AB
+org-type:       LIR
+address:        Kopparbergsv 8
+address:        72213
+address:        Vasteras
+address:        SWEDEN
+phone:          +4621128222
+fax-no:         +4621128233
+e-mail:         registry@loopia.se
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        LOOPIA-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        SL9352-RIPE
+abuse-c:        LA5352-RIPE
+changed:        bitbucket@ripe.net 20150505
+created:        2007-12-20T11:11:12Z
+last-modified:  2015-05-05T10:13:46Z
+source:         RIPE
+
+person:         Loopia Drift
+address:        Kopparbergsvagen 8
+address:        72213 Vasteras
+address:        Sweden
+phone:          +46.21128222
+fax-no:         +46.21128233
+e-mail:         drift@loopia.se
+mnt-by:         LOOPIA-MNT
+nic-hdl:        LD1714-RIPE
+changed:        simon.lindgren@loopia.se 20140204
+created:        2006-03-22T07:58:03Z
+last-modified:  2014-02-04T09:13:46Z
+source:         RIPE
+
+route:          194.9.94.0/23
+descr:          SE-LOOPIA
+descr:          Loopia AB
+                #####################################################
+                In case of improper use originating from our network,
+                please mail  abuse@loopia.se
+                #####################################################
+origin:         AS39570
+notify:         drift@loopia.se
+mnt-by:         LOOPIA-MNT
+changed:        jimmy@loopia.se 20060601
+created:        2006-06-01T07:05:14Z
+last-modified:  2006-06-01T07:05:14Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Gyron Internet Ltd</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% Abuse contact for '89.145.64.0 - 89.145.127.255' is 'abuse@gyron.net'
+
+inetnum:        89.145.64.0 - 89.145.127.255
+netname:        UK-GYRON-20060131
+descr:          Gyron Internet Ltd
+country:        GB
+org:            ORG-GIL2-RIPE
+admin-c:        GAT1-RIPE
+tech-c:         GAT1-RIPE
+status:         ALLOCATED PA
+notify:         ripe@gyron.net
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      GYRON-MNT
+mnt-routes:     GYRON-MNT
+changed:        hostmaster@ripe.net 20060131
+changed:        bitbucket@ripe.net 20080516
+created:        2006-01-31T13:42:05Z
+last-modified:  2008-05-16T12:55:47Z
+source:         RIPE
+
+organisation:   ORG-GIL2-RIPE
+org-name:       Gyron Internet Ltd
+org-type:       LIR
+address:        3 Centro, Boundary Way
+                Hemel Hempstead
+address:        HP2 7SU
+address:        LONDON
+address:        UNITED KINGDOM
+phone:          +448448264000
+fax-no:         +448448264001
+e-mail:         ripe@gyron.net
+abuse-mailbox:  abuse@gyron.net
+admin-c:        TE
+admin-c:        RB30-RIPE
+mnt-ref:        GYRON-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+notify:         ripe@gyron.net
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        gat1-ripe
+changed:        bitbucket@ripe.net 20150430
+created:        2004-06-30T09:03:06Z
+last-modified:  2015-04-30T11:35:55Z
+source:         RIPE
+
+role:           Gyron Admin Team
+address:        Gyron Internet Ltd
+address:        3 Centro
+address:        Boundary Way
+address:        Hemel Hempstead
+address:        HP2 7SU
+address:        United Kingdom
+phone:          +44 (0) 844 826 4000
+fax-no:         +44 (0) 844 826 4001
+e-mail:         ripe@gyron.net
+abuse-mailbox:  abuse@gyron.net
+admin-c:        RB30-RIPE
+tech-c:         RB30-RIPE
+tech-c:         BPM1-RIPE
+tech-c:         TE
+admin-c:        BPM1-RIPE
+nic-hdl:        GAT1-RIPE
+mnt-by:         GYRON-MNT
+remarks:        -- Please use this abuse contact in preference to
+remarks:        -- any others that may be listed in the RIPE
+remarks:        -- database - abuse@gyron.net
+notify:         ripe@gyron.net
+changed:        noc@gyron.net 20060509
+changed:        noc@gyron.net 20080422
+changed:        ripe@gyron.net 20080519
+changed:        ripe@gyron.net 20080820
+changed:        ripe@gyron.net 20090717
+changed:        ripe@gyron.net 20100331
+changed:        ripe@gyron.net 20140409
+created:        2003-08-03T20:29:38Z
+last-modified:  2014-04-09T08:55:42Z
+source:         RIPE
+
+route:          89.145.64.0/18
+descr:          GYRON-AGG Gyron Internet Ltd AS29017
+notify:         ripe@gyron.net
+origin:         AS29017
+mnt-by:         GYRON-MNT
+changed:        ripe@gyron.net 20060131
+created:        2006-01-31T17:53:32Z
+last-modified:  2006-01-31T17:53:32Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

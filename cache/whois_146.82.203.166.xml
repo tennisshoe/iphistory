@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Level 3 Communications, Inc.</registrant>
+    <registration>
+      <created>1997-05-20</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       146.82.0.0 - 146.82.255.255
+CIDR:           146.82.0.0/16
+NetName:        LVLT-ORG-146-82
+NetHandle:      NET-146-82-0-0-1
+Parent:         NET146 (NET-146-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS3549
+Organization:   Level 3 Communications, Inc. (LVLT)
+RegDate:        1997-05-20
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-146-82-0-0-1
+
+OrgName:        Level 3 Communications, Inc.
+OrgId:          LVLT
+Address:        1025 Eldorado Blvd.
+City:           Broomfield
+StateProv:      CO
+PostalCode:     80021
+Country:        US
+RegDate:        1998-05-22
+Updated:        2012-01-30
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/org/LVLT
+
+OrgTechHandle: IPADD5-ARIN
+OrgTechName:   ipaddressing
+OrgTechPhone:  +1-877-453-8353 
+OrgTechEmail:  ipaddressing@level3.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADD5-ARIN
+
+OrgNOCHandle: NOCSU27-ARIN
+OrgNOCName:   NOC Support
+OrgNOCPhone:  +1-877-453-8353 
+OrgNOCEmail:  noc.coreip@level3.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCSU27-ARIN
+
+OrgAbuseHandle: APL8-ARIN
+OrgAbuseName:   Abuse POC LVLT
+OrgAbusePhone:  +1-877-453-8353 
+OrgAbuseEmail:  abuse@level3.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/APL8-ARIN
+
+NetRange:       146.82.200.0 - 146.82.207.255
+CIDR:           146.82.200.0/21
+NetName:        SWFT1036919
+NetHandle:      NET-146-82-200-0-1
+Parent:         LVLT-ORG-146-82 (NET-146-82-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Swiftwill, Inc. (SWIFT-19)
+RegDate:        2007-03-22
+Updated:        2007-03-22
+Comment:        IP's are not portable
+Ref:            http://whois.arin.net/rest/net/NET-146-82-200-0-1
+
+OrgName:        Swiftwill, Inc.
+OrgId:          SWIFT-19
+Address:        738 Main St. PMB 140
+City:           Waltham
+StateProv:      MA
+PostalCode:     02451
+Country:        US
+RegDate:        2007-03-06
+Updated:        2015-05-08
+Ref:            http://whois.arin.net/rest/org/SWIFT-19
+
+OrgAbuseHandle: NOC31974-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-781-890-1902 
+OrgAbuseEmail:  noc@swiftwill.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC31974-ARIN
+
+OrgTechHandle: NOC31974-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-781-890-1902 
+OrgTechEmail:  noc@swiftwill.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC31974-ARIN
+
+OrgNOCHandle: NOC31974-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-781-890-1902 
+OrgNOCEmail:  noc@swiftwill.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC31974-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

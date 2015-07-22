@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NTT America IP Addressing</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '213.130.63.232 - 213.130.63.239' is 'abuse@us.ntt.net'
+
+inetnum:        213.130.63.232 - 213.130.63.239
+netname:        ULTSEARCH-NET
+descr:          Ultimate Search Inc.
+country:        GB
+admin-c:        XQ2-RIPE
+tech-c:         NAIA1-RIPE
+status:         ASSIGNED PA
+mnt-by:         MAINT-VIPAR
+notify:         vipar@us.ntt.net
+changed:        terig@verio.net 20030714
+changed:        terig@us.ntt.net 20091208
+created:        2003-07-14T21:51:52Z
+last-modified:  2009-12-08T00:10:41Z
+source:         RIPE
+
+role:           NTT America IP Addressing
+address:        8005 S Chester ST
+address:        Suite 200
+address:        Englewood, CO 80112
+address:        United States
+phone:          +1 303 645-1900
+e-mail:         vipar@us.ntt.net
+remarks:        Abuse/UCE: abuse@us.ntt.net
+remarks:        Network: noc@us.ntt.net
+remarks:        Security issues: security@us.ntt.net
+admin-c:        TG7672-RIPE
+tech-c:         TG7672-RIPE
+tech-c:         TF377-RIPE
+tech-c:         KP1186-RIPE
+tech-c:         LP508-RIPE
+nic-hdl:        NAIA1-RIPE
+notify:         vipar@us.ntt.net
+mnt-by:         MAINT-VIPAR
+changed:        terig@us.ntt.net 20091203
+created:        2009-12-03T19:15:21Z
+last-modified:  2009-12-03T19:15:21Z
+source:         RIPE
+abuse-mailbox:  abuse@us.ntt.net
+
+person:         Xie Qun
+address:        GPO Box 7862
+address:        Central
+address:        Hong Kong
+address:        China
+phone:          +852 2537 9677
+e-mail:         dns@ultsearch.com
+nic-hdl:        XQ2-RIPE
+notify:         vipar@us.ntt.net
+mnt-by:         MAINT-VIPAR
+changed:        terig@verio.net 20030714
+changed:        terig@us.ntt.net 20091210
+created:        2003-07-14T21:47:58Z
+last-modified:  2009-12-10T17:24:06Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

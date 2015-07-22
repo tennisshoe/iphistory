@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>ban.jo</domain_name>
+    <ip_history/>
+    <registrar_history/>
+    <nameserver_history>
+      <domain>BAN.JO</domain>
+      <action>T</action>
+      <actiondate>2014-12-27</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Ultradns.info</post_mns>
+      <pre_mns>Ultradns.net</pre_mns>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>BAN.JO</domain>
+      <action>T</action>
+      <actiondate>2014-12-28</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Ultradns.net</post_mns>
+      <pre_mns>Ultradns.info</pre_mns>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

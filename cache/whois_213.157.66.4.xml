@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Nebula Internet Services</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% Abuse contact for '213.157.66.0 - 213.157.66.31' is 'abuse@nebula.fi'
+
+inetnum:        213.157.66.0 - 213.157.66.31
+netname:        INNOVENTUM-SRV
+descr:          Innoventum servers
+country:        FI
+admin-c:        JL6610-RIPE
+tech-c:         NBL4-RIPE
+status:         ASSIGNED PA
+mnt-by:         NBL-MNT
+changed:        vuori@magenta.net 20050909
+changed:        registry@nblnetworks.fi 20120502
+created:        2005-09-09T08:52:45Z
+last-modified:  2012-05-02T08:57:38Z
+source:         RIPE
+
+role:           Nebula Internet Services
+address:        Heikkilantie 2A
+address:        00210 Helsinki
+address:        Finland
+e-mail:         registry@nblnetworks.fi
+admin-c:        VS894-RIPE
+tech-c:         AA2164-RIPE
+tech-c:         OK748-RIPE
+tech-c:         HG1641-RIPE
+nic-hdl:        NBL4-RIPE
+abuse-mailbox:  abuse@nebula.fi
+mnt-by:         NBL-MNT
+changed:        registry@nblnetworks.fi 20071126
+changed:        registry@nblnetworks.fi 20091013
+changed:        registry@nblnetworks.fi 20111004
+created:        2006-05-09T10:58:01Z
+last-modified:  2014-04-15T06:45:37Z
+source:         RIPE
+
+person:         Janne Leinonen
+address:        Innoventum
+address:        Vanamokatu 1 LH 2
+address:        80130 Joensuu
+address:        Finland
+phone:          +3584578450810
+nic-hdl:        JL6610-RIPE
+mnt-by:         NBL-CUST-MNT
+created:        2012-05-02T08:56:02Z
+last-modified:  2012-05-02T08:56:02Z
+source:         RIPE
+changed:        registry@nblnetworks.fi 20120502
+
+route:          213.157.66.0/23
+descr:          Nebula Oy
+origin:         AS29422
+mnt-by:         MAGENTA-MNT
+changed:        registry@nblnetworks.fi 20071218
+created:        2007-12-19T07:19:09Z
+last-modified:  2007-12-19T07:19:09Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

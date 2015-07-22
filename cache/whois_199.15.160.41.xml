@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DeviantArt, Inc.</registrant>
+    <registration>
+      <created>2010-06-25</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       199.15.160.0 - 199.15.163.255
+CIDR:           199.15.160.0/22
+NetName:        DEVIANTART
+NetHandle:      NET-199-15-160-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS14838
+Organization:   DeviantArt, Inc. (DEVIA)
+RegDate:        2010-06-25
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-199-15-160-0-1
+
+OrgName:        DeviantArt, Inc.
+OrgId:          DEVIA
+Address:        7095 Hollywood Blvd. #788
+City:           Hollywood
+StateProv:      CA
+PostalCode:     90028
+Country:        US
+RegDate:        2006-09-22
+Updated:        2015-03-03
+Ref:            http://whois.arin.net/rest/org/DEVIA
+
+OrgTechHandle: NOC2269-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-323-645-6040 
+OrgTechEmail:  noc@deviantart.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2269-ARIN
+
+OrgAbuseHandle: ABUSE3441-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-323-645-6000 
+OrgAbuseEmail:  abuse@deviantart.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3441-ARIN
+
+OrgNOCHandle: NOC2269-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-323-645-6040 
+OrgNOCEmail:  noc@deviantart.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC2269-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

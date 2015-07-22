@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CONOPCO, INC.</registrant>
+    <registration>
+      <created>1994-10-13</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       204.110.160.0 - 204.110.175.255
+CIDR:           204.110.160.0/20
+NetName:        CONOPCO-204-110-160
+NetHandle:      NET-204-110-160-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   CONOPCO, INC. (CONOPC)
+RegDate:        1994-10-13
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-204-110-160-0-1
+
+OrgName:        CONOPCO, INC.
+OrgId:          CONOPC
+Address:        700 Sylvan Avenue
+City:           Englewood Cliffs
+StateProv:      NJ
+PostalCode:     07632
+Country:        US
+RegDate:        
+Updated:        2014-09-17
+Ref:            http://whois.arin.net/rest/org/CONOPC
+
+OrgAbuseHandle: IPABU3-ARIN
+OrgAbuseName:   IP Abuse
+OrgAbusePhone:  +441516414137 
+OrgAbuseEmail:  ITSG-Security.incidents@unilever.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPABU3-ARIN
+
+OrgTechHandle: GLOBA8-ARIN
+OrgTechName:   Global Engineering
+OrgTechPhone:  +441516414137 
+OrgTechEmail:  GLO-NS-ENG@unilever.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GLOBA8-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

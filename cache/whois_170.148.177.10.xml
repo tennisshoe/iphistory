@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>JPMorgan Chase &amp; Co.</registrant>
+    <registration>
+      <created>1994-05-18</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       170.148.0.0 - 170.148.255.255
+CIDR:           170.148.0.0/16
+NetName:        CHASE2
+NetHandle:      NET-170-148-0-0-1
+Parent:         NET170 (NET-170-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   JPMorgan Chase &amp; Co. (JMC-39)
+RegDate:        1994-05-18
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-170-148-0-0-1
+
+OrgName:        JPMorgan Chase &amp; Co.
+OrgId:          JMC-39
+Address:        120 Broadway
+City:           New York
+StateProv:      NY
+PostalCode:     10271-1999
+Country:        US
+RegDate:        2006-11-21
+Updated:        2014-08-01
+Ref:            http://whois.arin.net/rest/org/JMC-39
+
+OrgTechHandle: IPADM322-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-614-248-5800 
+OrgTechEmail:  ip-admin@jpmchase.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM322-ARIN
+
+OrgAbuseHandle: ABUSE1623-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +1-614-248-5800 
+OrgAbuseEmail:  abuse@jpmchase.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1623-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

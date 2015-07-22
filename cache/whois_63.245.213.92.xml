@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Mozilla Corporation</registrant>
+    <registration>
+      <created>2006-06-16</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       63.245.208.0 - 63.245.223.255
+CIDR:           63.245.208.0/20
+NetName:        MOZNET-1
+NetHandle:      NET-63-245-208-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Mozilla Corporation (MOZIL-1)
+RegDate:        2006-06-16
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-63-245-208-0-1
+
+OrgName:        Mozilla Corporation
+OrgId:          MOZIL-1
+Address:        331 East Evelyn Ave.
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94041
+Country:        US
+RegDate:        2005-12-30
+Updated:        2014-03-17
+Ref:            http://whois.arin.net/rest/org/MOZIL-1
+
+OrgAbuseHandle: MOZIL1-ARIN
+OrgAbuseName:   Mozilla Abuse
+OrgAbusePhone:  +1-650-903-0800 
+OrgAbuseEmail:  abuse@mozilla.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MOZIL1-ARIN
+
+OrgTechHandle: MOZIL-ARIN
+OrgTechName:   Mozilla Hostmaster
+OrgTechPhone:  +1-650-903-0800 
+OrgTechEmail:  hostmaster@mozilla.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MOZIL-ARIN
+
+RTechHandle: MOZIL-ARIN
+RTechName:   Mozilla Hostmaster
+RTechPhone:  +1-650-903-0800 
+RTechEmail:  hostmaster@mozilla.com
+RTechRef:    http://whois.arin.net/rest/poc/MOZIL-ARIN
+
+RAbuseHandle: MOZIL1-ARIN
+RAbuseName:   Mozilla Abuse
+RAbusePhone:  +1-650-903-0800 
+RAbuseEmail:  abuse@mozilla.com
+RAbuseRef:    http://whois.arin.net/rest/poc/MOZIL1-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

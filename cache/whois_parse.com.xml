@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Parse, LLC.</registrant>
+    <registration>
+      <created>1994-04-08</created>
+      <expires>2019-04-09</expires>
+      <updated>2013-09-04</updated>
+      <registrar>MARKMONITOR INC.</registrar>
+      <statuses>clientDeleteProhibited</statuses>
+      <statuses>clientTransferProhibited</statuses>
+      <statuses>clientUpdateProhibited</statuses>
+      <statuses>serverDeleteProhibited</statuses>
+      <statuses>serverTransferProhibited</statuses>
+      <statuses>serverUpdateProhibited</statuses>
+    </registration>
+    <name_servers>NS-1274.AWSDNS-31.ORG</name_servers>
+    <name_servers>NS-1803.AWSDNS-33.CO.UK</name_servers>
+    <name_servers>NS-440.AWSDNS-55.COM</name_servers>
+    <name_servers>NS-563.AWSDNS-06.NET</name_servers>
+    <whois>
+      <date>2015-07-12</date>
+      <record>Domain Name: parse.com
+Registry Domain ID: 3525030_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2013-12-09T04:00:31-0800
+Creation Date: 1994-04-07T21:00:00-0700
+Registrar Registration Expiration Date: 2019-04-08T21:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Parse, LLC.
+Registrant Street: 1601 Willow Road, 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext: 
+Registrant Fax: +1.6505434800
+Registrant Fax Ext: 
+Registrant Email: domain@fb.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Parse, LLC.
+Admin Street: 1601 Willow Road, 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext: 
+Admin Fax: +1.6505434800
+Admin Fax Ext: 
+Admin Email: domain@fb.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Parse, LLC.
+Tech Street: 1601 Willow Road, 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext: 
+Tech Fax: +1.6505434800
+Tech Fax Ext: 
+Tech Email: domain@fb.com
+Name Server: ns-440.awsdns-55.com
+Name Server: ns-1803.awsdns-33.co.uk
+Name Server: ns-563.awsdns-06.net
+Name Server: ns-1274.awsdns-31.org
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

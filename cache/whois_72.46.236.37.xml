@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Terremark Managed Hosting</registrant>
+    <registration>
+      <created>2006-09-06</created>
+      <updated>2012-09-14</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       72.46.224.0 - 72.46.255.255
+CIDR:           72.46.224.0/19
+NetName:        TERRENAP-0-20
+NetHandle:      NET-72-46-224-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   TERRENAP DATA CENTERS, INC. (TERREN-2)
+RegDate:        2006-09-06
+Updated:        2012-09-14
+Ref:            http://whois.arin.net/rest/net/NET-72-46-224-0-1
+
+OrgName:        TERRENAP DATA CENTERS, INC.
+OrgId:          TERREN-2
+Address:        50 NE 9th St
+Address:        2nd Floor
+City:           Miami
+StateProv:      FL
+PostalCode:     33132
+Country:        US
+RegDate:        2002-01-30
+Updated:        2012-09-14
+Ref:            http://whois.arin.net/rest/org/TERREN-2
+
+OrgTechHandle: SS2510-ARIN
+OrgTechName:   Spaller, Steven 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  sspaller@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SS2510-ARIN
+
+OrgAbuseHandle: ABUSE676-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-305-328-8000 
+OrgAbuseEmail:  abuse@terremark.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE676-ARIN
+
+OrgTechHandle: HOSTM537-ARIN
+OrgTechName:   Hostmaster
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  hostmaster@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM537-ARIN
+
+OrgTechHandle: PAXTO-ARIN
+OrgTechName:   Paxton, Joe 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  jpaxton@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/PAXTO-ARIN
+
+RNOCHandle: HOSTM537-ARIN
+RNOCName:   Hostmaster
+RNOCPhone:  +1-305-328-8000 
+RNOCEmail:  hostmaster@terremark.com
+RNOCRef:    http://whois.arin.net/rest/poc/HOSTM537-ARIN
+
+RAbuseHandle: ABUSE676-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-305-328-8000 
+RAbuseEmail:  abuse@terremark.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE676-ARIN
+
+RTechHandle: PAXTO-ARIN
+RTechName:   Paxton, Joe 
+RTechPhone:  +1-305-328-8000 
+RTechEmail:  jpaxton@terremark.com
+RTechRef:    http://whois.arin.net/rest/poc/PAXTO-ARIN
+
+RTechHandle: SS2510-ARIN
+RTechName:   Spaller, Steven 
+RTechPhone:  +1-305-328-8000 
+RTechEmail:  sspaller@terremark.com
+RTechRef:    http://whois.arin.net/rest/poc/SS2510-ARIN
+
+NetRange:       72.46.232.0 - 72.46.239.255
+CIDR:           72.46.232.0/21
+NetName:        TERRENAP-0-20
+NetHandle:      NET-72-46-232-0-1
+Parent:         TERRENAP-0-20 (NET-72-46-224-0-1)
+NetType:        Reassigned
+OriginAS:       AS23148
+Customer:       Terremark Managed Hosting (C04914033)
+RegDate:        2014-03-21
+Updated:        2014-03-21
+Ref:            http://whois.arin.net/rest/net/NET-72-46-232-0-1
+
+CustName:       Terremark Managed Hosting
+Address:        50 NE 9th St
+City:           Miami
+StateProv:      FL
+PostalCode:     33132
+Country:        US
+RegDate:        2014-03-21
+Updated:        2014-03-21
+Ref:            http://whois.arin.net/rest/customer/C04914033
+
+OrgTechHandle: SS2510-ARIN
+OrgTechName:   Spaller, Steven 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  sspaller@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SS2510-ARIN
+
+OrgAbuseHandle: ABUSE676-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-305-328-8000 
+OrgAbuseEmail:  abuse@terremark.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE676-ARIN
+
+OrgTechHandle: HOSTM537-ARIN
+OrgTechName:   Hostmaster
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  hostmaster@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM537-ARIN
+
+OrgTechHandle: PAXTO-ARIN
+OrgTechName:   Paxton, Joe 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  jpaxton@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/PAXTO-ARIN
+
+RNOCHandle: HOSTM537-ARIN
+RNOCName:   Hostmaster
+RNOCPhone:  +1-305-328-8000 
+RNOCEmail:  hostmaster@terremark.com
+RNOCRef:    http://whois.arin.net/rest/poc/HOSTM537-ARIN
+
+RAbuseHandle: ABUSE676-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-305-328-8000 
+RAbuseEmail:  abuse@terremark.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE676-ARIN
+
+RTechHandle: PAXTO-ARIN
+RTechName:   Paxton, Joe 
+RTechPhone:  +1-305-328-8000 
+RTechEmail:  jpaxton@terremark.com
+RTechRef:    http://whois.arin.net/rest/poc/PAXTO-ARIN
+
+RTechHandle: SS2510-ARIN
+RTechName:   Spaller, Steven 
+RTechPhone:  +1-305-328-8000 
+RTechEmail:  sspaller@terremark.com
+RTechRef:    http://whois.arin.net/rest/poc/SS2510-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Shazam Entertainment, Ltd.</registrant>
+    <registration>
+      <created>1995-05-03</created>
+      <expires>2025-05-04</expires>
+      <updated>2015-05-04</updated>
+      <registrar>NETWORK SOLUTIONS, LLC.</registrar>
+      <statuses>clientTransferProhibited</statuses>
+    </registration>
+    <name_servers>NS-1194.AWSDNS-21.ORG</name_servers>
+    <name_servers>NS-1571.AWSDNS-04.CO.UK</name_servers>
+    <name_servers>NS-281.AWSDNS-35.COM</name_servers>
+    <name_servers>NS-974.AWSDNS-57.NET</name_servers>
+    <whois>
+      <date>2015-07-07</date>
+      <record>Domain Name: SHAZAM.COM
+Registry Domain ID: 1088987_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2015-05-04T11:40:57Z
+Creation Date: 1995-05-03T04:00:00Z
+Registrar Registration Expiration Date: 2025-05-04T04:00:00Z
+Registrar: NETWORK SOLUTIONS, LLC.
+Registrar IANA ID: 2
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+Reseller: 
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Shazam Entertainment, Ltd.
+Registrant Organization: Shazam Entertainment, Ltd.
+Registrant Street: 26-28 Hammersmith Grove
+Registrant City: London
+Registrant State/Province: 
+Registrant Postal Code: W6 7HA
+Registrant Country: UK
+Registrant Phone: +44.2087426820
+Registrant Phone Ext: 
+Registrant Fax: +44.2074713477
+Registrant Fax Ext: 
+Registrant Email: matt@shazamteam.com
+Registry Admin ID: 
+Admin Name: Miller, Tony
+Admin Organization: Shazam Entertainment Ltd
+Admin Street: 26-28 Hammersmith Grove
+Admin City: London
+Admin State/Province: London
+Admin Postal Code: W67HA
+Admin Country: UK
+Admin Phone: 442087426823
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: domains@shazam.com
+Registry Tech ID: 
+Tech Name: Miller, Tony
+Tech Organization: Shazam Entertainment Ltd
+Tech Street: 26-28 Hammersmith Grove
+Tech City: London
+Tech State/Province: London
+Tech Postal Code: W67HA
+Tech Country: UK
+Tech Phone: 442087426823
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: domains@shazam.com
+Name Server: NS-281.AWSDNS-35.COM
+Name Server: NS-974.AWSDNS-57.NET
+Name Server: NS-1194.AWSDNS-21.ORG
+Name Server: NS-1571.AWSDNS-04.CO.UK
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

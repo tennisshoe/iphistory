@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Foursquare Labs, Inc.</registrant>
+    <registration>
+      <created>2002-03-26</created>
+      <expires>2021-03-26</expires>
+      <updated>2012-03-15</updated>
+      <registrar>GANDI SAS</registrar>
+      <statuses>clientTransferProhibited</statuses>
+    </registration>
+    <name_servers>NS-1013.AWSDNS-62.NET</name_servers>
+    <name_servers>NS-1360.AWSDNS-42.ORG</name_servers>
+    <name_servers>NS-1758.AWSDNS-27.CO.UK</name_servers>
+    <name_servers>NS-91.AWSDNS-11.COM</name_servers>
+    <whois>
+      <date>2015-07-18</date>
+      <record>Domain Name: foursquare.com
+Registry Domain ID: 84863358_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net
+Updated Date: 2014-10-19T23:11:36Z
+Creation Date: 2002-03-26T01:18:55Z
+Registrar Registration Expiration Date: 2021-03-26T00:18:55Z
+Registrar: GANDI SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Reseller: 
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: 
+Domain Status: 
+Domain Status: 
+Domain Status: 
+Registry Registrant ID: 
+Registrant Name: robert joseph
+Registrant Organization: Foursquare Labs, Inc.
+Registrant Street: 568 Broadway
+Registrant City: New York
+Registrant State/Province: New York
+Registrant Postal Code: 10012
+Registrant Country: US
+Registrant Phone: +1.6463804813
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: accounts+gandi@foursquare.com
+Registry Admin ID: 
+Admin Name: robert joseph
+Admin Organization: Foursquare Labs, Inc.
+Admin Street: 568 Broadway
+Admin City: New York
+Admin State/Province: New York
+Admin Postal Code: 10012
+Admin Country: US
+Admin Phone: +1.6463804813
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: accounts+gandi@foursquare.com
+Registry Tech ID: 
+Tech Name: robert joseph
+Tech Organization: Foursquare Labs, Inc.
+Tech Street: 363 Clementina St
+Tech City: San Francisco
+Tech State/Province: California
+Tech Postal Code: 94107
+Tech Country: US
+Tech Phone: +1.6463804813
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: accounts+gandi@foursquare.com
+Name Server: NS-1758.AWSDNS-27.CO.UK
+Name Server: NS-91.AWSDNS-11.COM
+Name Server: NS-1013.AWSDNS-62.NET
+Name Server: NS-1360.AWSDNS-42.ORG
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+Reseller Email: 
+Reseller URL: 
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

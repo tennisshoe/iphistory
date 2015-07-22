@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>GoGrid, LLC</registrant>
+    <registration>
+      <created>2005-12-19</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       208.96.0.0 - 208.96.63.255
+CIDR:           208.96.0.0/18
+NetName:        SERVEPATH-BLK3
+NetHandle:      NET-208-96-0-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   GoGrid, LLC (SERVEP)
+RegDate:        2005-12-19
+Updated:        2012-03-02
+Comment:        http://www.servepath.com/
+Ref:            http://whois.arin.net/rest/net/NET-208-96-0-0-1
+
+OrgName:        GoGrid, LLC
+OrgId:          SERVEP
+Address:        2 Harrison Street
+Address:        Suite 200
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94105
+Country:        US
+RegDate:        2002-08-01
+Updated:        2012-10-10
+Comment:        http://www.servepath.com/
+Ref:            http://whois.arin.net/rest/org/SERVEP
+
+ReferralServer:  rwhois://rwhois.servepath.com:4321
+
+OrgTechHandle: GOC2-ARIN
+OrgTechName:   GoGrid Operations Center
+OrgTechPhone:  +1-415-869-7444 
+OrgTechEmail:  netops@gogrid.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GOC2-ARIN
+
+OrgAbuseHandle: SAA10-ARIN
+OrgAbuseName:   ServePath Abuse Administrator
+OrgAbusePhone:  +1-415-869-7000 
+OrgAbuseEmail:  abuse@gogrid.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SAA10-ARIN
+
+OrgNOCHandle: SERVE11-ARIN
+OrgNOCName:   ServePath NOC
+OrgNOCPhone:  +1-415-869-7000 
+OrgNOCEmail:  netops@gogrid.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SERVE11-ARIN
+
+OrgTechHandle: SERVE11-ARIN
+OrgTechName:   ServePath NOC
+OrgTechPhone:  +1-415-869-7000 
+OrgTechEmail:  netops@gogrid.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SERVE11-ARIN
+
+RNOCHandle: SN458-ARIN
+RNOCName:   ServePath NOC
+RNOCPhone:  +1-415-869-7000 
+RNOCEmail:  noc@servepath.com
+RNOCRef:    http://whois.arin.net/rest/poc/SN458-ARIN
+
+== Additional Information From rwhois://rwhois.servepath.com:4321 ==
+
+%rwhois V-1.5:002cb0:00 rwhois.servepath.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Auth-Area:208.96.0.0/18
+network:Class-Name:network
+network:ID:6458.208.96.53.64/27
+network:Network-Name:6458-NETWORK
+network:IP-Network:208.96.53.64/27
+network:Org-Name:Dragon Corporation
+network:Street-Address:Shibakubo-cho 1-7-13 , Tanashi Nagatani Mansion 613
+network:City:Nishitokyo-shi
+network:State:Tokyo
+network:Postal-Code:188-0014
+network:Country-Code:Japan
+network:Tech-Contact;I:abuse@gogrid.com
+network:Updated:20040824
+network:Updated-By:hostmaster@servepath.com
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

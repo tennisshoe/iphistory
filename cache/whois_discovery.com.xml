@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Discovery Communications, LLC</registrant>
+    <registration>
+      <created>1993-04-20</created>
+      <expires>2016-04-21</expires>
+      <updated>2015-04-17</updated>
+      <registrar>CSC CORPORATE DOMAINS, INC.</registrar>
+      <statuses>clientTransferProhibited</statuses>
+      <statuses>serverDeleteProhibited</statuses>
+      <statuses>serverTransferProhibited</statuses>
+      <statuses>serverUpdateProhibited</statuses>
+    </registration>
+    <name_servers>NS-1029.AWSDNS-00.ORG</name_servers>
+    <name_servers>NS-1701.AWSDNS-20.CO.UK</name_servers>
+    <name_servers>NS-487.AWSDNS-60.COM</name_servers>
+    <name_servers>NS-887.AWSDNS-46.NET</name_servers>
+    <whois>
+      <date>2015-07-16</date>
+      <record>Domain Name: discovery.com
+Registry Domain ID: 1153037_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2015-04-17T05:33:16Z
+Creation Date: 1993-04-20T04:00:00Z
+Registrar Registration Expiration Date: 2016-04-21T04:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: admin@internationaladmin.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Discovery Communications, LLC
+Registrant Organization: Discovery Communications, LLC
+Registrant Street: One Discovery Place
+Registrant City: Silver Spring
+Registrant State/Province: MD
+Registrant Postal Code: 20910
+Registrant Country: US
+Registrant Phone: +1.2406627562
+Registrant Phone Ext: 
+Registrant Fax: +1.2406620001
+Registrant Fax Ext: 
+Registrant Email: DNS_ADMIN@discovery.com
+Registry Admin ID: 
+Admin Name: DNS Administrator
+Admin Organization: Discovery Communications, LLC
+Admin Street: One Discovery Place
+Admin City: Silver Spring
+Admin State/Province: MD
+Admin Postal Code: 20910
+Admin Country: US
+Admin Phone: +1.2406627562
+Admin Phone Ext: 
+Admin Fax: +1.2406620001
+Admin Fax Ext: 
+Admin Email: DNS_ADMIN@discovery.com
+Registry Tech ID: 
+Tech Name: DNS Administrator
+Tech Organization: Discovery Communications, LLC
+Tech Street: One Discovery Place
+Tech City: Silver Spring
+Tech State/Province: MD
+Tech Postal Code: 20910
+Tech Country: US
+Tech Phone: +1.2406627562
+Tech Phone Ext: 
+Tech Fax: +1.2406620001
+Tech Fax Ext: 
+Tech Email: DNS_ADMIN@discovery.com
+Name Server: ns-487.awsdns-60.com
+Name Server: ns-1701.awsdns-20.co.uk
+Name Server: ns-1029.awsdns-00.org
+Name Server: ns-887.awsdns-46.net
+DNSSEC: 
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Corinthian Engineering Pty Ltd</registrant>
+    <registration>
+      <updated>2001-05-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>inetnum:        203.1.240.0 - 203.1.247.255
+netname:        CORINTENGINEERING-AU
+descr:          Corinthian Engineering Pty Ltd
+descr:          imported inetnum object for CEPL
+country:        AU
+admin-c:        CEPL2-AP
+tech-c:         CEPL2-AP
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-CORINTHIANENGINEERING-AU
+status:         ALLOCATED PORTABLE
+changed:        nobody@aunic.net 20010524
+changed:        aunic-transfer@apnic.net 20010525
+changed:        hm-changed@apnic.net 20120911
+source:         APNIC
+
+irt:            IRT-CORINTHIANENGINEERING-AU
+address:        Jones Bay Wharf, Suite 54,
+address:        26-32 Pirrama Road,
+address:        Pyrmont, NSW
+address:        AU
+phone:          +61 2 9552 5500
+e-mail:         rpp@ci.com.au
+abuse-mailbox:  rpp@ci.com.au
+admin-c:        CEPL2-AP
+tech-c:         CEPL2-AP
+auth:           # Filtered
+irt-nfy:        robseco@teksupport.net
+mnt-by:         MAINT-AU-CORINTHIANENGINEERING
+changed:        hm-changed@apnic.net 20120910
+source:         APNIC
+
+role:           Corinthian Engineering Pty Ltd - network administrator
+address:        Jones Bay Wharf, Suite 54,
+address:        26-32 Pirrama Road,
+address:        Pyrmont, NSW
+country:        AU
+phone:          +61 2 9552 5500
+fax-no:         +61 2 9552 5549
+e-mail:         rpp@ci.com.au
+admin-c:        RP153-AP
+tech-c:         RP153-AP
+nic-hdl:        CEPL2-AP
+mnt-by:         MAINT-AU-CORINTHIANENGINEERING
+changed:        hm-changed@apnic.net 20120910
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Wix.com Inc.</registrant>
+    <registration>
+      <created>1999-01-27</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       216.185.128.0 - 216.185.159.255
+CIDR:           216.185.128.0/19
+NetName:        AFFINET-BLK-1
+NetHandle:      NET-216-185-128-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Affinity Internet, Inc (AFFI)
+RegDate:        1999-01-27
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-185-128-0-1
+
+OrgName:        Affinity Internet, Inc
+OrgId:          AFFI
+Address:        100 North Riverside Drive
+Address:        Suite 800
+City:           Chicago
+StateProv:      IL
+PostalCode:     60606
+Country:        US
+RegDate:        
+Updated:        2014-10-14
+Ref:            http://whois.arin.net/rest/org/AFFI
+
+ReferralServer:  rwhois://rwhois.ftl.affinity.com:4321
+
+OrgAbuseHandle: ABUSE649-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-954-334-8080 
+OrgAbuseEmail:  abuse@affinity.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE649-ARIN
+
+OrgTechHandle: ZA94-ARIN
+OrgTechName:   Affinity Internet IP Management Group
+OrgTechPhone:  +1-312-238-0125 
+OrgTechEmail:  noc@hostway.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZA94-ARIN
+
+RTechHandle: ZA94-ARIN
+RTechName:   Affinity Internet IP Management Group
+RTechPhone:  +1-312-238-0125 
+RTechEmail:  noc@hostway.com
+RTechRef:    http://whois.arin.net/rest/poc/ZA94-ARIN
+
+NetRange:       216.185.144.0 - 216.185.159.255
+CIDR:           216.185.144.0/20
+NetName:        AFFINITY-AUSTIN-3
+NetHandle:      NET-216-185-144-0-1
+Parent:         AFFINET-BLK-1 (NET-216-185-128-0-1)
+NetType:        Reallocated
+OriginAS:       AS7097
+Organization:   Hostway Services, Inc. (HOSTW-6)
+RegDate:        2010-05-25
+Updated:        2010-05-25
+Ref:            http://whois.arin.net/rest/net/NET-216-185-144-0-1
+
+OrgName:        Hostway Services, Inc.
+OrgId:          HOSTW-6
+Address:        501 Waller St
+City:           Austin
+StateProv:      TX
+PostalCode:     78702
+Country:        US
+RegDate:        2009-01-12
+Updated:        2013-06-25
+Ref:            http://whois.arin.net/rest/org/HOSTW-6
+
+ReferralServer:  rwhois://rwhois.southwebventures.com:4321
+
+OrgAbuseHandle: ABUSE548-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-512-469-9939 
+OrgAbuseEmail:  abuse@hostway.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE548-ARIN
+
+OrgTechHandle: NOC1501-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-512-469-7890 
+OrgTechEmail:  networking@hostwaydcs.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1501-ARIN
+
+OrgNOCHandle: NOC1501-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-512-469-7890 
+OrgNOCEmail:  networking@hostwaydcs.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1501-ARIN
+
+RAbuseHandle: ABUSE548-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-512-469-9939 
+RAbuseEmail:  abuse@hostway.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE548-ARIN
+
+NetRange:       216.185.152.0 - 216.185.152.255
+CIDR:           216.185.152.0/24
+NetName:        HW-WIX-01
+NetHandle:      NET-216-185-152-0-1
+Parent:         AFFINITY-AUSTIN-3 (NET-216-185-144-0-1)
+NetType:        Reassigned
+OriginAS:       AS32400, AS20401
+Customer:       Wix.com Inc. (C02859989)
+RegDate:        2011-09-12
+Updated:        2011-09-12
+Comment:        Send abuse complaints to abuse@wix.com
+Ref:            http://whois.arin.net/rest/net/NET-216-185-152-0-1
+
+CustName:       Wix.com Inc.
+Address:        10 West 18 Street
+Address:        Floor 6
+City:           New York
+StateProv:      NY
+PostalCode:     10011
+Country:        US
+RegDate:        2011-09-12
+Updated:        2011-09-12
+Ref:            http://whois.arin.net/rest/customer/C02859989
+
+OrgAbuseHandle: ABUSE548-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-512-469-9939 
+OrgAbuseEmail:  abuse@hostway.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE548-ARIN
+
+OrgTechHandle: NOC1501-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-512-469-7890 
+OrgTechEmail:  networking@hostwaydcs.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1501-ARIN
+
+OrgNOCHandle: NOC1501-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-512-469-7890 
+OrgNOCEmail:  networking@hostwaydcs.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1501-ARIN
+
+RAbuseHandle: ABUSE548-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-512-469-9939 
+RAbuseEmail:  abuse@hostway.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE548-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

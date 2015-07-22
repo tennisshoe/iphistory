@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Trkovsky Lubos</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '193.86.103.16 - 193.86.103.23' is 'nic@t-mobile.cz'
+
+inetnum:        193.86.103.16 - 193.86.103.23
+netname:        STROJIRNATEDESCO-CZ
+descr:          Strojirna TEDESCO, a.s.
+country:        CZ
+admin-c:        TL3736-RIPE
+tech-c:         TL3736-RIPE
+status:         ASSIGNED PA
+mnt-by:         GTSCZ-MNT
+changed:        ripe@gtsgroup.cz 20130610
+created:        2010-01-07T09:57:27Z
+last-modified:  2013-06-10T12:08:31Z
+source:         RIPE
+
+person:         Trkovsky Lubos
+address:        Strojirna TEDESCO, a.s.
+address:        Hutska 126
+address:        Kladno
+address:        27201
+address:        Czech Republic
+phone:          +420 312613300
+nic-hdl:        TL3736-RIPE
+mnt-by:         GTSCZ-MNT
+changed:        ripe@gtsgroup.cz 20130610
+created:        2013-06-10T12:05:36Z
+last-modified:  2013-06-10T12:05:36Z
+source:         RIPE
+
+route:          193.86.0.0/16
+descr:          CZNET-A
+origin:         AS2819
+mnt-by:         GTSCZ-A-MNT
+changed:        ors@Czechia.EU.net 19960201
+changed:        mic@gts.cz 20021024
+created:        1970-01-01T00:00:00Z
+last-modified:  2002-10-24T16:01:53Z
+source:         RIPE
+
+route:          193.86.0.0/16
+descr:          GTSCE-CZ
+origin:         AS5588
+mnt-by:         GTSCE-MNT
+mnt-lower:      GTSCZ-MNT
+mnt-routes:     GTSCZ-MNT
+notify:         Daniel.Cermak@gtsnovera.cz
+changed:        Daniel.Cermak@gtsnovera.cz 20130725
+created:        2013-07-25T13:47:56Z
+last-modified:  2013-07-25T13:47:56Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

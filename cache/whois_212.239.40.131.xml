@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Michele Fini</registrant>
+    <whois>
+      <date>2015-07-20</date>
+      <record>% Abuse contact for '212.239.40.128 - 212.239.40.143' is 'registry@inet.it'
+
+inetnum:        212.239.40.128 - 212.239.40.143
+netname:        LAMBORGHINI-NET
+descr:          Automobili Lamborghini Holding S.P.A.
+descr:          Via Modena,12
+descr:          I-40019 S.Agata Bolognese(BO)
+country:        IT
+admin-c:        SB3344-RIPE
+tech-c:         MF2864-RIPE
+notify:         registry@inet.it
+status:         ASSIGNED PA
+mnt-by:         INET-NOC
+mnt-lower:      INET-NOC
+changed:        rs@inet.it 20040419
+created:        2004-04-19T13:34:09Z
+last-modified:  2004-04-19T13:34:09Z
+source:         RIPE
+
+person:         Michele Fini
+address:        Via Modena,12
+address:        40019 S.Agata Bolognese(BO)
+address:        Italy
+phone:          +39 051 6817866
+e-mail:         michele.fini@lamborghini.com
+nic-hdl:        MF2864-RIPE
+changed:        rs@inet.it 20040419
+created:        2004-04-19T13:34:06Z
+last-modified:  2004-04-19T13:34:06Z
+source:         RIPE
+
+person:         Silvia Broggi
+address:        Via Modena,12
+address:        40019 S.Agata Bolognese(BO)
+address:        Italy
+phone:          +39 051 6817747
+e-mail:         silvia.broggi@lamborghini.com
+nic-hdl:        SB3344-RIPE
+changed:        rs@inet.it 20040419
+created:        2004-04-19T13:34:05Z
+last-modified:  2004-04-19T13:34:05Z
+source:         RIPE
+
+route:          212.239.0.0/17
+descr:          I.NET Customer Nets block
+origin:         AS3313
+remarks:        3rd block released to it.inet local registry.
+notify:         noc@inet.it
+mnt-by:         INET-NOC
+changed:        zanna@inet.it 19980930
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:32:31Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

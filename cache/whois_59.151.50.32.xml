@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cao Wentao</registrant>
+    <registration>
+      <updated>2014-12-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>inetnum:        59.151.0.0 - 59.151.127.255
+netname:        CHINA-21VIANET
+descr:          21ViaNet(China),Inc.
+descr:          BOE Science Park, 10 Jiuxianqiao Road, Chaoyang,
+descr:          Beijing 100016, China
+country:        CN
+admin-c:        ML2382-AP
+tech-c:         BW667-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CN-21VIANET
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+status:         ALLOCATED PORTABLE
+changed:        ipas@cnnic.net 20141224
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20110428
+source:         APNIC
+
+person:         Cao Wentao
+address:        BOE Science Park, 10 Jiuxianqiao Road, Chaoyang,Beijing 100016, China
+country:        CN
+phone:          +86-10-84562121
+fax-no:         +86-10-84564234
+e-mail:         abusemail1010@sina.com
+nic-hdl:        BW667-AP
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20141224
+source:         APNIC
+
+person:         Li  Xuesong
+address:        BOE Science Park, 10 Jiuxianqiao Road, Chaoyang,Beijing 100016, China
+country:        CN
+phone:          +86-10-84562121
+fax-no:         +86-10-84564234
+e-mail:         abuse@21viamail.com
+nic-hdl:        ML2382-AP
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20141224
+source:         APNIC
+
+route:          59.151.0.0/18
+descr:          CHINA-ABITCOOL
+descr:          Abitcool(China) Inc.
+country:        CN
+origin:         AS17428
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.net.cn 20050324
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

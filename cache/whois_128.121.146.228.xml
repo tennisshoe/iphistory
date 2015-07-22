@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NTT America, Inc.</registrant>
+    <registration>
+      <created>2000-07-11</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       128.121.0.0 - 128.121.255.255
+CIDR:           128.121.0.0/16
+NetName:        NTTA-128-121
+NetHandle:      NET-128-121-0-0-1
+Parent:         NET128 (NET-128-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   NTT America, Inc. (NTTAM-1)
+RegDate:        2000-07-11
+Updated:        2012-03-02
+Comment:        
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.gin.ntt.net port 4321
+Ref:            http://whois.arin.net/rest/net/NET-128-121-0-0-1
+
+OrgName:        NTT America, Inc.
+OrgId:          NTTAM-1
+Address:        8300 E Maplewood Ave.
+Address:        Suite 400
+City:           Greenwood Village
+StateProv:      CO
+PostalCode:     80111
+Country:        US
+RegDate:        2005-12-08
+Updated:        2014-12-29
+Ref:            http://whois.arin.net/rest/org/NTTAM-1
+
+ReferralServer:  rwhois://rwhois.gin.ntt.net:4321
+
+OrgAbuseHandle: NAAC-ARIN
+OrgAbuseName:   NTT America Abuse Contact
+OrgAbusePhone:  +1-877-688-6625 
+OrgAbuseEmail:  abuse@ntt.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAAC-ARIN
+
+OrgNOCHandle: NASC-ARIN
+OrgNOCName:   NTT America Support Contact
+OrgNOCPhone:  +1-877-688-6625 
+OrgNOCEmail:  support@us.ntt.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NASC-ARIN
+
+OrgTechHandle: VIPAR-ARIN
+OrgTechName:   VIPAR
+OrgTechPhone:  +1-877-688-6625 
+OrgTechEmail:  vipar@us.ntt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/VIPAR-ARIN
+
+RTechHandle: VIA4-ORG-ARIN
+RTechName:   VIPAR
+RTechPhone:  +1-877-688-6625 
+RTechEmail:  vipar@us.ntt.net
+RTechRef:    http://whois.arin.net/rest/poc/VIA4-ORG-ARIN
+
+== Additional Information From rwhois://rwhois.gin.ntt.net:4321 ==
+
+%rwhois V-1.5:0078b6:00 rwhois.gin.ntt.net (Vipar 0.1a. Comments to vipar@us.ntt.net)
+network:Class-Name:network
+network:Auth-Area:128.121.144.0/20
+network:ID:NETBLK-W064-128-121-144.127.0.0.1/32
+network:Handle:NETBLK-W064-128-121-144
+network:Network-Name:W064-128-121-144
+network:IP-Network:128.121.144.0/20
+network:In-Addr-Server;I:NS931-HST.127.0.0.1/32
+network:In-Addr-Server;I:NS1829-HST.127.0.0.1/32
+network:IP-Network-Block:128.121.144.0 - 128.121.159.255
+network:Org-Name:NTT America Enterprise Hosting - San Jose
+network:Street-Address:2334 Lundy Place
+network:City:San Jose
+network:State:CA
+network:Postal-Code:95131-1820
+network:Country-Code:US
+network:Tech-Contact;I:IA17313-VRIO.127.0.0.1/32
+network:Created:2001-12-27 20:37:34+00
+network:Updated:2001-12-27 20:37:34+00
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

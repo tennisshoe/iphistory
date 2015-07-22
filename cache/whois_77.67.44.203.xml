@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Tinet Spa</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '77.67.0.0 - 77.67.127.255' is 'abuse@tinet.net'
+
+inetnum:        77.67.0.0 - 77.67.127.255
+org:            ORG-TINB1-RIPE
+netname:        EU-NACNET-20070130
+descr:          Tinet Spa
+country:        IE
+country:        NL
+country:        GB
+country:        HK
+country:        BE
+country:        AT
+country:        NO
+country:        DK
+country:        CA
+country:        DE
+country:        GR
+country:        SE
+country:        RO
+country:        SG
+country:        CH
+country:        IT
+country:        PL
+country:        CZ
+country:        US
+country:        ES
+country:        SK
+country:        FR
+admin-c:        SE33-RIPE
+tech-c:         TK333-RIPE
+tech-c:         NET3257-RIPE
+notify:         tobias.kuettner@tinet.net
+notify:         netguard@tinet.net
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      AS3257-NET-MNT
+mnt-routes:     AS3257-ROUTE-MNT
+mnt-domains:    AS3257-NET-MNT
+changed:        hostmaster@ripe.net 20070130
+changed:        hostmaster@ripe.net 20090604
+changed:        bitbucket@ripe.net 20090716
+changed:        hostmaster@ripe.net 20091027
+created:        2007-01-30T14:54:50Z
+last-modified:  2009-10-27T16:05:24Z
+source:         RIPE
+
+organisation:   ORG-TINB1-RIPE
+org-name:       Tinet Spa
+org-type:       LIR
+address:        Localita Sa Illetta, SS 195, KM 2,300
+address:        09122
+address:        Cagliari
+address:        ITALY
+phone:          +4961028235381
+fax-no:         +4961028235389
+admin-c:        RSW7-RIPE
+admin-c:        TK333-RIPE
+admin-c:        SE33-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        AS3257-NET-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        noc3257-ripe
+changed:        bitbucket@ripe.net 20150402
+created:        2004-04-17T11:19:06Z
+last-modified:  2015-04-02T09:10:19Z
+source:         RIPE
+e-mail:         netguard@gtt.net
+
+role:           AS3257 Net Admin
+address:        Tinet SpA
+address:        Hugenottenallee 167
+address:        63263 Neu-Isenburg
+address:        Germany
+phone:          +49 6102 8235381
+fax-no:         +49 6102 8235389
+e-mail:         netguard@tinet.net
+remarks:        Information: http://www.tinet.net
+remarks:        Concerning abuse and spam ... mailto: abuse@tinet.net
+abuse-mailbox:  abuse@tinet.net
+admin-c:        SE33-RIPE
+tech-c:         TK333-RIPE
+nic-hdl:        NET3257-RIPE
+remarks:        hostmaster role account
+notify:         hm-dbm-msgs@ripe.net
+notify:         netguard@tinet.net
+mnt-by:         AS3257-PERS-MNT
+changed:        netguard@tinet.net 20090706
+created:        2009-07-06T08:22:53Z
+last-modified:  2009-07-06T08:22:53Z
+source:         RIPE
+
+person:         Sven Engelhardt
+address:        Hugenottenallee 167
+address:        63263 Neu-Isenburg
+address:        Germany
+phone:          +49 6102 8235381
+fax-no:         +49 6102 8235389
+e-mail:         sven@tinet.net
+nic-hdl:        SE33-RIPE
+remarks:        PGP public key certificate object: PGPKEY-2B682C80
+remarks:        Internic: SE585
+mnt-by:         AS3257-PERS-MNT
+changed:        trede@nacamar.net 19960423
+changed:        tobias@tiscali.net 20020429
+changed:        netguard@tinet.net 20090617
+changed:        netguard@tinet.net 20090721
+changed:        netguard@tinet.net 20090908
+created:        2002-04-29T13:45:28Z
+last-modified:  2009-09-08T14:52:51Z
+source:         RIPE
+
+person:         Tobias Kuettner
+address:        Tinet SpA
+address:        Hugenottenallee 167
+address:        63263 Neu-Isenburg
+address:        Germany
+phone:          +49 6102 8235381
+fax-no:         +49 6102 8235389
+e-mail:         netguard@gtt.net
+e-mail:         tobias@gtt.net
+nic-hdl:        TK333-RIPE
+remarks:        PGP public key certificate object: PGPKEY-369DB26A
+remarks:        PGP public key certificate object: PGPKEY-4030ED10
+mnt-by:         AS3257-PERS-MNT
+changed:        gurt@nacamar.net 19961126
+changed:        tobias@tiscali.net 20020429
+changed:        tobias@tiscali.net 20080125
+changed:        netguard@tinet.net 20090617
+changed:        netguard@tinet.net 20090721
+changed:        netguard@tinet.net 20150302
+changed:        netguard@tinet.net 20150310
+created:        2002-04-29T13:41:11Z
+last-modified:  2015-03-10T10:16:36Z
+source:         RIPE
+
+route:          77.67.0.0/17
+descr:          Tinet SpA
+origin:         AS3257
+mnt-by:         AS3257-ROUTE-MNT
+changed:        koch@tiscali.net 20070213
+changed:        netguard@tinet.net 20090723
+changed:        netguard@tinet.net 20110630
+created:        2007-02-13T09:30:51Z
+last-modified:  2011-06-30T13:12:26Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

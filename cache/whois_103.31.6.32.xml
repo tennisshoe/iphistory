@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CLOUDFLARE SYDNEY, LLC</registrant>
+    <registration>
+      <updated>2012-11-16</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>inetnum:        103.31.4.0 - 103.31.7.255
+netname:        CSL-AP
+descr:          CLOUDFLARE SYDNEY, LLC
+descr:          Suite 200, 665 3rd Street US
+country:        AU
+admin-c:        CSLA1-AP
+tech-c:         CSLA1-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CSL-AP
+mnt-routes:     MAINT-CSL-AP
+mnt-irt:        IRT-CSL-AP
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20121116
+source:         APNIC
+
+irt:            IRT-CSL-AP
+address:        Suite 200, 665 3rd Street, San Francisco CA 94107
+e-mail:         abuse@cloudflare.com
+abuse-mailbox:  abuse@cloudflare.com
+admin-c:        CSLA1-AP
+tech-c:         CSLA1-AP
+auth:           # Filtered
+mnt-by:         MAINT-CSL-AP
+changed:        hm-changed@apnic.net 20121116
+source:         APNIC
+
+role:           CLOUDFLARE SYDNEY LLC administrator
+address:        Suite 200, 665 3rd Street, San Francisco CA 94107
+country:        US
+phone:          +1-650-319-8930
+fax-no:         +1-650-319-8930
+e-mail:         abuse@cloudflare.com
+admin-c:        CSLA1-AP
+tech-c:         CSLA1-AP
+nic-hdl:        CSLA1-AP
+mnt-by:         MAINT-CSL-AP
+changed:        hm-changed@apnic.net 20121116
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

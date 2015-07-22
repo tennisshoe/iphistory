@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Rackspace Hosting</registrant>
+    <registration>
+      <created>2007-05-18</created>
+      <updated>2013-04-09</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       208.78.96.0 - 208.78.103.255
+CIDR:           208.78.96.0/21
+NetName:        SLICE-STL-SD
+NetHandle:      NET-208-78-96-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2007-05-18
+Updated:        2013-04-09
+Ref:            http://whois.arin.net/rest/net/NET-208-78-96-0-1
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        5000 Walzem Road
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/RACKS-8
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

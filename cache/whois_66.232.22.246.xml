@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Webhosting.Net, Inc.</registrant>
+    <registration>
+      <created>2002-08-10</created>
+      <updated>2008-09-11</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       66.232.22.0 - 66.232.22.255
+CIDR:           66.232.22.0/24
+NetName:        TS-WBHS66232220
+NetHandle:      NET-66-232-22-0-1
+Parent:         TRISTARNET (NET-66-232-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Webhosting.Net, Inc. (WEBHOS-10)
+RegDate:        2002-08-10
+Updated:        2008-09-11
+Ref:            http://whois.arin.net/rest/net/NET-66-232-22-0-1
+
+OrgName:        Webhosting.Net, Inc.
+OrgId:          WEBHOS-10
+Address:        36 NE 2nd Street
+Address:        STE 550
+City:           Miami
+StateProv:      FL
+PostalCode:     33132
+Country:        US
+RegDate:        2001-12-13
+Updated:        2014-04-23
+Ref:            http://whois.arin.net/rest/org/WEBHOS-10
+
+ReferralServer:  rwhois://rwhois.webhosting.net:4321
+
+OrgTechHandle: NETWO2656-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-800-709-9110 
+OrgTechEmail:  admin@webhosting.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2656-ARIN
+
+OrgNOCHandle: NETWO2656-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-800-709-9110 
+OrgNOCEmail:  admin@webhosting.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO2656-ARIN
+
+OrgAbuseHandle: ABUSE1629-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-305-400-6700 
+OrgAbuseEmail:  abuse@webhosting.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1629-ARIN
+
+NetRange:       66.232.0.0 - 66.232.63.255
+CIDR:           66.232.0.0/18
+NetName:        TRISTARNET
+NetHandle:      NET-66-232-0-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Tristar Communications (TRSR)
+RegDate:        2002-02-15
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-66-232-0-0-1
+
+OrgName:        Tristar Communications
+OrgId:          TRSR
+Address:        7050 W. Palmetto Park Rd., #15-712
+City:           Boca Raton
+StateProv:      FL
+PostalCode:     33433
+Country:        US
+RegDate:        2001-05-14
+Updated:        2014-11-19
+Ref:            http://whois.arin.net/rest/org/TRSR
+
+OrgAbuseHandle: NOC343-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-561-214-6240 
+OrgAbuseEmail:  noc@tristarcorp.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC343-ARIN
+
+OrgTechHandle: NOC343-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-561-214-6240 
+OrgTechEmail:  noc@tristarcorp.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC343-ARIN
+
+RTechHandle: NOC343-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-561-214-6240 
+RTechEmail:  noc@tristarcorp.net
+RTechRef:    http://whois.arin.net/rest/poc/NOC343-ARIN
+
+== Additional Information From rwhois://rwhois.webhosting.net:4321 ==
+
+%rwhois V-1.0,V-1.5:00090h:00 rwhois.webhosting.net (Ubersmith RWhois Server V-2.4.0)
+%referral rwhois://rwhois.arin.net:4321/auth-area=0.0.0.0/0</record>
+    </whois>
+  </response>
+</whoisapi>
+

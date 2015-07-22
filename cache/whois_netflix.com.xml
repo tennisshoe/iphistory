@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Netflix, Inc.</registrant>
+    <registration>
+      <created>1997-11-11</created>
+      <expires>2019-11-10</expires>
+      <updated>2015-01-14</updated>
+      <registrar>MARKMONITOR INC.</registrar>
+      <statuses>clientDeleteProhibited</statuses>
+      <statuses>clientTransferProhibited</statuses>
+      <statuses>clientUpdateProhibited</statuses>
+      <statuses>serverDeleteProhibited</statuses>
+      <statuses>serverTransferProhibited</statuses>
+      <statuses>serverUpdateProhibited</statuses>
+    </registration>
+    <name_servers>PDNS154.ULTRADNS.BIZ</name_servers>
+    <name_servers>PDNS154.ULTRADNS.COM</name_servers>
+    <name_servers>PDNS154.ULTRADNS.NET</name_servers>
+    <name_servers>PDNS154.ULTRADNS.ORG</name_servers>
+    <whois>
+      <date>2015-07-19</date>
+      <record>Domain Name: netflix.com
+Registry Domain ID: 1404215_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2015-01-14T11:50:32-0800
+Creation Date: 1997-11-10T21:00:00-0800
+Registrar Registration Expiration Date: 2019-11-09T21:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Netflix, Inc.
+Registrant Street: 100 Winchester Circle, 
+Registrant City: Los Gatos
+Registrant State/Province: CA
+Registrant Postal Code: 95032
+Registrant Country: US
+Registrant Phone: +1.4085403700
+Registrant Phone Ext: 
+Registrant Fax: +1.4085403737
+Registrant Fax Ext: 
+Registrant Email: nicadmin@netflix.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Netflix, Inc.
+Admin Street: 100 Winchester Circle, 
+Admin City: Los Gatos
+Admin State/Province: CA
+Admin Postal Code: 95032
+Admin Country: US
+Admin Phone: +1.4085403700
+Admin Phone Ext: 
+Admin Fax: +1.4085403737
+Admin Fax Ext: 
+Admin Email: nicadmin@netflix.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Netflix, Inc.
+Tech Street: 100 Winchester Circle, 
+Tech City: Los Gatos
+Tech State/Province: CA
+Tech Postal Code: 95032
+Tech Country: US
+Tech Phone: +1.4085403700
+Tech Phone Ext: 
+Tech Fax: +1.4085403737
+Tech Fax Ext: 
+Tech Email: nicadmin@netflix.com
+Name Server: pdns154.ultradns.biz
+Name Server: pdns154.ultradns.org
+Name Server: pdns154.ultradns.net
+Name Server: pdns154.ultradns.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

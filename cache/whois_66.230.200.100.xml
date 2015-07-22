@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Neucom, Inc.</registrant>
+    <registration>
+      <created>2002-02-22</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       66.230.192.0 - 66.230.239.255
+CIDR:           66.230.192.0/19, 66.230.224.0/20
+NetName:        NEUCOM
+NetHandle:      NET-66-230-192-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Neucom, Inc. (NEUC)
+RegDate:        2002-02-22
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-66-230-192-0-1
+
+OrgName:        Neucom, Inc.
+OrgId:          NEUC
+Address:        412 East Madison Street
+Address:        Suite 1200
+City:           Tampa
+StateProv:      FL
+PostalCode:     33602
+Country:        US
+RegDate:        2001-06-27
+Updated:        2015-05-15
+Ref:            http://whois.arin.net/rest/org/NEUC
+
+OrgAbuseHandle: CC2190-ARIN
+OrgAbuseName:   Charmatz, Charles 
+OrgAbusePhone:  +1-813-676-6666 
+OrgAbuseEmail:  charles@city-guide.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CC2190-ARIN
+
+OrgTechHandle: CC2190-ARIN
+OrgTechName:   Charmatz, Charles 
+OrgTechPhone:  +1-813-676-6666 
+OrgTechEmail:  charles@city-guide.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CC2190-ARIN
+
+RTechHandle: CC2190-ARIN
+RTechName:   Charmatz, Charles 
+RTechPhone:  +1-813-676-6666 
+RTechEmail:  charles@city-guide.com
+RTechRef:    http://whois.arin.net/rest/poc/CC2190-ARIN
+
+NetRange:       66.230.200.0 - 66.230.200.255
+CIDR:           66.230.200.0/24
+NetName:        IPADFANPAGE-66-230-200-0
+NetHandle:      NET-66-230-200-0-1
+Parent:         NEUCOM (NET-66-230-192-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   iPad Fan Page (IPADF)
+RegDate:        2010-10-14
+Updated:        2010-10-14
+Ref:            http://whois.arin.net/rest/net/NET-66-230-200-0-1
+
+OrgName:        iPad Fan Page
+OrgId:          IPADF
+Address:        1108 14th St. #401
+City:           Cody
+StateProv:      WY
+PostalCode:     82414
+Country:        US
+RegDate:        2010-10-14
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/IPADF
+
+OrgTechHandle: SYSTE333-ARIN
+OrgTechName:   Systems Admin
+OrgTechPhone:  +1-847-457-1076 
+OrgTechEmail:  postmaster@ipadfanpage.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SYSTE333-ARIN
+
+OrgAbuseHandle: SYSTE333-ARIN
+OrgAbuseName:   Systems Admin
+OrgAbusePhone:  +1-847-457-1076 
+OrgAbuseEmail:  postmaster@ipadfanpage.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SYSTE333-ARIN
+
+RTechHandle: SYSTE334-ARIN
+RTechName:   Systems Admin
+RTechPhone:  +1-847-457-1076 
+RTechEmail:  postmaster@ipadfanpage.com
+RTechRef:    http://whois.arin.net/rest/poc/SYSTE334-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

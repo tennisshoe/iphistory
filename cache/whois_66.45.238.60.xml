@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Interserver, Inc</registrant>
+    <registration>
+      <created>2003-09-23</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       66.45.224.0 - 66.45.255.255
+CIDR:           66.45.224.0/19
+NetName:        INTERSERVER
+NetHandle:      NET-66-45-224-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS19318
+Organization:   Interserver, Inc (INTER-83)
+RegDate:        2003-09-23
+Updated:        2012-02-24
+Comment:        Send abuse complaints to abuse@interserver.net
+Ref:            http://whois.arin.net/rest/net/NET-66-45-224-0-1
+
+OrgName:        Interserver, Inc
+OrgId:          INTER-83
+Address:        110 Meadowlands Pkwy
+Address:        1st Floor
+City:           Secaucus
+StateProv:      NJ
+PostalCode:     07094
+Country:        US
+RegDate:        2003-03-17
+Updated:        2009-12-01
+Comment:        Please Use abuse@interserver.net for all abuse complaints
+Ref:            http://whois.arin.net/rest/org/INTER-83
+
+ReferralServer:  rwhois://rwhois.trouble-free.net:4321
+
+OrgNOCHandle: NOC1390-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-201-605-1440 
+OrgNOCEmail:  network@interserver.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1390-ARIN
+
+OrgAbuseHandle: NOC1390-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-201-605-1440 
+OrgAbuseEmail:  network@interserver.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC1390-ARIN
+
+OrgTechHandle: NOC1390-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-201-605-1440 
+OrgTechEmail:  network@interserver.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1390-ARIN
+
+RTechHandle: MLA13-ARIN
+RTechName:   Lavrik, Michael 
+RTechPhone:  +1-201-605-1440 
+RTechEmail:  abuse@interserver.net
+RTechRef:    http://whois.arin.net/rest/poc/MLA13-ARIN
+
+== Additional Information From rwhois://rwhois.trouble-free.net:4321 ==
+
+%rwhois V-1.5:003fff:00 city.trouble-free.net (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:NETBLK-INTSRV.66.45.224.0/19
+network:Auth-Area:66.45.224.0/19
+network:Network-Name:INTSRV-66.45.238.60
+network:IP-Network:66.45.238.60/30
+network:Org-Name:Zidiax, Inc
+network:Street-Address:N/A
+network:City:N/A
+network:State:NJ
+network:Postal-Code:11111
+network:Country-Code:US
+network:Created:20130513
+network:Updated:20150602
+network:Updated-By:abuse@interserver.net
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

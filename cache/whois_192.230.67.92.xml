@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Incapsula Inc</registrant>
+    <registration>
+      <created>2013-05-08</created>
+      <updated>2013-05-08</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       192.230.64.0 - 192.230.127.255
+CIDR:           192.230.64.0/18
+NetName:        INCAPSULA-NETWORK
+NetHandle:      NET-192-230-64-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS19551
+Organization:   Incapsula Inc (INCAP-5)
+RegDate:        2013-05-08
+Updated:        2013-05-08
+Ref:            http://whois.arin.net/rest/net/NET-192-230-64-0-1
+
+OrgName:        Incapsula Inc
+OrgId:          INCAP-5
+Address:        3500 SOUTH DUPONT HIGHWAY
+City:           Dover
+StateProv:      DE
+PostalCode:     19901
+Country:        US
+RegDate:        2010-09-15
+Updated:        2014-06-12
+Ref:            http://whois.arin.net/rest/org/INCAP-5
+
+OrgTechHandle: INCAP2-ARIN
+OrgTechName:   Incapsula Operations
+OrgTechPhone:  +1-866-250-7659 
+OrgTechEmail:  ip@incapsula.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INCAP2-ARIN
+
+OrgNOCHandle: INCAP2-ARIN
+OrgNOCName:   Incapsula Operations
+OrgNOCPhone:  +1-866-250-7659 
+OrgNOCEmail:  ip@incapsula.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/INCAP2-ARIN
+
+OrgAbuseHandle: INCAP1-ARIN
+OrgAbuseName:   Incapsula AbuseDesk
+OrgAbusePhone:  +1-866-250-7659 
+OrgAbuseEmail:  abuse@incapsula.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/INCAP1-ARIN
+
+OrgTechHandle: BRONS9-ARIN
+OrgTechName:   Bronstein, Tomer 
+OrgTechPhone:  +1-866-250-7659 
+OrgTechEmail:  tomer@incapsula.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BRONS9-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

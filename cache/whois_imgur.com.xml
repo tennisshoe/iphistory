@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>WHOISGUARD, INC.</registrant>
+    <registration>
+      <created>2009-01-09</created>
+      <expires>2016-01-09</expires>
+      <updated>2014-09-26</updated>
+      <registrar>ENOM, INC.</registrar>
+      <statuses>clientTransferProhibited</statuses>
+    </registration>
+    <name_servers>DNS1.P03.NSONE.NET</name_servers>
+    <name_servers>DNS2.P03.NSONE.NET</name_servers>
+    <name_servers>DNS3.P03.NSONE.NET</name_servers>
+    <name_servers>DNS4.P03.NSONE.NET</name_servers>
+    <whois>
+      <date>2015-07-19</date>
+      <record>Domain Name: IMGUR.COM
+Registry Domain ID: 1536794346_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.enom.com
+Registrar URL: www.enom.com
+Updated Date: 2012-01-01T17:22:45.00Z
+Creation Date: 2009-01-09T20:30:00.00Z
+Registrar Registration Expiration Date: 2016-01-09T20:30:00.00Z
+Registrar: ENOM, INC.
+Registrar IANA ID: 48
+Reseller: NAMECHEAP.COM
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: WHOISGUARD PROTECTED
+Registrant Organization: WHOISGUARD, INC.
+Registrant Street: P.O. BOX 0823-03411
+Registrant City: PANAMA
+Registrant State/Province: PANAMA
+Registrant Postal Code: 00000
+Registrant Country: PA
+Registrant Phone: +507.8365503
+Registrant Phone Ext: 
+Registrant Fax: +51.17057182
+Registrant Fax Ext:
+Registrant Email: 750892C6A6A34739BAE3DC886EEBBE30.PROTECT@WHOISGUARD.COM
+Registry Admin ID: 
+Admin Name: WHOISGUARD PROTECTED
+Admin Organization: WHOISGUARD, INC.
+Admin Street: P.O. BOX 0823-03411
+Admin City: PANAMA
+Admin State/Province: PANAMA
+Admin Postal Code: 00000
+Admin Country: PA
+Admin Phone: +507.8365503
+Admin Phone Ext: 
+Admin Fax: +51.17057182
+Admin Fax Ext:
+Admin Email: 750892C6A6A34739BAE3DC886EEBBE30.PROTECT@WHOISGUARD.COM
+Registry Tech ID: 
+Tech Name: WHOISGUARD PROTECTED
+Tech Organization: WHOISGUARD, INC.
+Tech Street: P.O. BOX 0823-03411
+Tech City: PANAMA
+Tech State/Province: PANAMA
+Tech Postal Code: 00000
+Tech Country: PA
+Tech Phone: +507.8365503
+Tech Phone Ext: 
+Tech Fax: +51.17057182
+Tech Fax Ext: 
+Tech Email: 750892C6A6A34739BAE3DC886EEBBE30.PROTECT@WHOISGUARD.COM
+Name Server: DNS1.P03.NSONE.NET
+Name Server: DNS2.P03.NSONE.NET
+Name Server: DNS3.P03.NSONE.NET
+Name Server: DNS4.P03.NSONE.NET
+DNSSEC: unSigned
+Registrar Abuse Contact Email: abuse@enom.com
+Registrar Abuse Contact Phone: +1.4252982646
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

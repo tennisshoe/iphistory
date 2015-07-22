@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Alan Judge</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '176.32.96.0 - 176.32.103.255' is 'ec2-abuse@Amazon.com'
+
+inetnum:        176.32.96.0 - 176.32.103.255
+netname:        amazon-EU-IAD-PROD
+descr:          PROD IAD
+country:        NL
+admin-c:        MA11338-RIPE
+tech-c:         AJ176-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-ADSI
+mnt-domains:    MNT-ADSI
+changed:        mazinger@amazon.com 20120308
+created:        2012-03-08T15:56:39Z
+last-modified:  2012-03-08T15:56:39Z
+source:         RIPE
+
+person:         Alan Judge
+address:        Amazon Data Services Ireland
+address:        Digital Depot
+address:        Thomas Street
+address:        Dublin 8
+address:        Ireland
+phone:          +353 1 645 8937
+fax-no:         +353 1 645 8933
+e-mail:         judge@amazon.com
+nic-hdl:        AJ176-RIPE
+notify:         Alan.Judge@eircom.net
+changed:        Alan.Judge@indigo.ie 19990311
+changed:        Alan.Judge@eircom.net 20010911
+changed:        niall@amazon.com 20051213
+created:        1970-01-01T00:00:00Z
+last-modified:  2005-12-13T10:24:13Z
+source:         RIPE
+
+person:         Marla Azinger
+address:        One Kilmainham Square
+address:        Inchicore Road         Kilmainham
+address:        8 Dublin 8
+address:        IRELAND
+phone:          +35316458950
+e-mail:         mazinger@amazon.com
+nic-hdl:        MA11338-RIPE
+mnt-by:         MA99006-MNT
+changed:        mazinger@amazon.com 20110702
+created:        2011-07-02T04:58:40Z
+last-modified:  2011-07-02T04:58:41Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

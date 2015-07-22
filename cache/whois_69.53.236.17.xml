@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Netflix Inc</registrant>
+    <registration>
+      <created>2006-06-23</created>
+      <updated>2015-05-15</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       69.53.224.0 - 69.53.255.255
+CIDR:           69.53.224.0/19
+NetName:        NETFLIX-INC
+NetHandle:      NET-69-53-224-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS55095, AS2906
+Organization:   Netflix Inc (NETFL-13)
+RegDate:        2006-06-23
+Updated:        2015-05-15
+Comment:        Please send an email to nicadmin@netflix.com?and or
+Comment:        noc@netflix.com for any admin, technical or abuse related questions.
+Ref:            http://whois.arin.net/rest/net/NET-69-53-224-0-1
+
+OrgName:        Netflix Inc
+OrgId:          NETFL-13
+Address:        100 Winchester Cir
+City:           Los Gatos
+StateProv:      CA
+PostalCode:     95032
+Country:        US
+RegDate:        2004-04-26
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/NETFL-13
+
+OrgTechHandle: NETWO560-ARIN
+OrgTechName:   Network Group
+OrgTechPhone:  +1-408-540-3700 
+OrgTechEmail:  nicadmin@netflix.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO560-ARIN
+
+OrgAbuseHandle: NETWO560-ARIN
+OrgAbuseName:   Network Group
+OrgAbusePhone:  +1-408-540-3700 
+OrgAbuseEmail:  nicadmin@netflix.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO560-ARIN
+
+RNOCHandle: NETWO560-ARIN
+RNOCName:   Network Group
+RNOCPhone:  +1-408-540-3700 
+RNOCEmail:  nicadmin@netflix.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO560-ARIN
+
+RAbuseHandle: NETWO560-ARIN
+RAbuseName:   Network Group
+RAbusePhone:  +1-408-540-3700 
+RAbuseEmail:  nicadmin@netflix.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NETWO560-ARIN
+
+RTechHandle: NETWO560-ARIN
+RTechName:   Network Group
+RTechPhone:  +1-408-540-3700 
+RTechEmail:  nicadmin@netflix.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO560-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

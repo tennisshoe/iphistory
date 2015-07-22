@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NTT America, Inc.</registrant>
+    <registration>
+      <created>1994-05-04</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       204.0.0.0 - 204.3.255.255
+CIDR:           204.0.0.0/14
+NetName:        NTTA-204
+NetHandle:      NET-204-0-0-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   NTT America, Inc. (NTTAM-1)
+RegDate:        1994-05-04
+Updated:        2012-03-02
+Comment:        
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.gin.ntt.net port 4321
+Ref:            http://whois.arin.net/rest/net/NET-204-0-0-0-1
+
+OrgName:        NTT America, Inc.
+OrgId:          NTTAM-1
+Address:        8300 E Maplewood Ave.
+Address:        Suite 400
+City:           Greenwood Village
+StateProv:      CO
+PostalCode:     80111
+Country:        US
+RegDate:        2005-12-08
+Updated:        2014-12-29
+Ref:            http://whois.arin.net/rest/org/NTTAM-1
+
+ReferralServer:  rwhois://rwhois.gin.ntt.net:4321
+
+OrgNOCHandle: NASC-ARIN
+OrgNOCName:   NTT America Support Contact
+OrgNOCPhone:  +1-877-688-6625 
+OrgNOCEmail:  support@us.ntt.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NASC-ARIN
+
+OrgAbuseHandle: NAAC-ARIN
+OrgAbuseName:   NTT America Abuse Contact
+OrgAbusePhone:  +1-877-688-6625 
+OrgAbuseEmail:  abuse@ntt.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAAC-ARIN
+
+OrgTechHandle: VIPAR-ARIN
+OrgTechName:   VIPAR
+OrgTechPhone:  +1-877-688-6625 
+OrgTechEmail:  vipar@us.ntt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/VIPAR-ARIN
+
+RTechHandle: VIA4-ORG-ARIN
+RTechName:   VIPAR
+RTechPhone:  +1-877-688-6625 
+RTechEmail:  vipar@us.ntt.net
+RTechRef:    http://whois.arin.net/rest/poc/VIA4-ORG-ARIN
+
+== Additional Information From rwhois://rwhois.gin.ntt.net:4321 ==
+
+%rwhois V-1.5:0078b6:00 rwhois.gin.ntt.net (Vipar 0.1a. Comments to vipar@us.ntt.net)
+network:Class-Name:network
+network:Auth-Area:204.2.144.0/20
+network:ID:BBNW-204-2-145-0.127.0.0.1/32
+network:Handle:BBNW-204-2-145-0
+network:Network-Name:BBNW-204-2-145-0
+network:IP-Network:204.2.145.0/24
+network:In-Addr-Server;I:GIN1-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN2-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN3-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN4-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN5-HST.127.0.0.1/32
+network:IP-Network-Block:204.2.145.0 - 204.2.145.255
+network:Org-Name:Akamai
+network:Street-Address:8 Cambridge Center
+network:City:Cambridge
+network:State:MA
+network:Postal-Code:02142
+network:Country-Code:US
+network:Tech-Contact;I:NTTA-AKAMAI.127.0.0.1/32
+network:Created:2009-06-11 14:07:33.541264+00
+network:Updated:2014-03-03 15:25:24.666895+00
+
+network:Class-Name:network
+network:Auth-Area:204.2.144.0/20
+network:ID:NETBLK-VRIOBB-PNW-1.127.0.0.1/32
+network:Handle:NETBLK-VRIOBB-PNW-1
+network:Network-Name:VRIOBB-PNW-1
+network:IP-Network:204.2.144.0/20
+network:In-Addr-Server;I:GIN1-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN2-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN3-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN4-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN5-HST.127.0.0.1/32
+network:IP-Network-Block:204.2.144.0 - 204.2.159.255
+network:Org-Name:NTT America - Pacific NW
+network:Street-Address:15400 SE 30th PL, Suite 202
+network:City:Bellevue
+network:State:WA
+network:Postal-Code:98007
+network:Country-Code:US
+network:Tech-Contact;I:GINPNW-BBNW.127.0.0.1/32
+network:Created:2005-06-08 19:41:34+00
+network:Updated:2014-03-03 15:25:10.720898+00
+
+network:Class-Name:network
+network:Auth-Area:204.2.144.0/20
+network:ID:NETBLK-VRIOBB-204-002-128.127.0.0.1/32
+network:Handle:NETBLK-VRIOBB-204-002-128
+network:Network-Name:VRIOBB-204-002-128
+network:IP-Network:204.2.128.0/17
+network:In-Addr-Server;I:GIN1-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN2-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN3-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN4-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN5-HST.127.0.0.1/32
+network:IP-Network-Block:204.2.128.0 - 204.2.255.255
+network:Org-Name:NTT America, Inc.
+network:Street-Address:8300 E Maplewood Ave. Suite 400
+network:City:Greenwood Village
+network:State:CO
+network:Postal-Code:80111
+network:Country-Code:US
+network:Tech-Contact;I:VIA4-ORG-ARIN.127.0.0.1/32
+network:Created:2001-02-16 05:27:11+00
+network:Updated:2008-03-01 00:34:17+00
+
+network:Class-Name:network
+network:Auth-Area:204.2.144.0/20
+network:ID:NETBLK-VRIO-204-000.127.0.0.1/32
+network:Handle:NETBLK-VRIO-204-000
+network:Network-Name:VRIO-204-000
+network:IP-Network:204.0.0.0/14
+network:In-Addr-Server;I:AUTH21-GIN-HST.127.0.0.1/32
+network:In-Addr-Server;I:AUTH22-GIN-HST.127.0.0.1/32
+network:In-Addr-Server;I:AUTH23-GIN-HST.127.0.0.1/32
+network:In-Addr-Server;I:AUTH24-GIN-HST.127.0.0.1/32
+network:In-Addr-Server;I:AUTH25-GIN-HST.127.0.0.1/32
+network:IP-Network-Block:204.0.0.0 - 204.3.255.255
+network:Org-Name:NTT America, Inc.
+network:Street-Address:8300 E Maplewood Ave. Suite 400
+network:City:Greenwood Village
+network:State:CO
+network:Postal-Code:80111
+network:Country-Code:US
+network:Tech-Contact;I:VIA4-ORG-ARIN.127.0.0.1/32
+network:Created:2000-07-16 17:02:46+00
+network:Updated:2007-07-18 23:10:07+00
+
+network:Class-Name:network
+network:Auth-Area:204.2.144.0/20
+network:ID:NETBLK-VRIOBB-PNW-1.127.0.0.1/32
+network:Handle:NETBLK-VRIOBB-PNW-1
+network:Network-Name:VRIOBB-PNW-1
+network:IP-Network:204.2.144.0/20
+network:In-Addr-Server;I:GIN1-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN2-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN3-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN4-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN5-HST.127.0.0.1/32
+network:IP-Network-Block:204.2.144.0 - 204.2.159.255
+network:Org-Name:NTT America - Pacific NW
+network:Street-Address:15400 SE 30th PL, Suite 202
+network:City:Bellevue
+network:State:WA
+network:Postal-Code:98007
+network:Country-Code:US
+network:Tech-Contact;I:GINPNW-BBNW.127.0.0.1/32
+network:Created:2005-06-08 19:41:34+00
+network:Updated:2014-03-03 15:25:10.720898+00
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

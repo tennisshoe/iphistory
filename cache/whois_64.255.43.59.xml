@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Blue Gravity Communications, Inc.</registrant>
+    <registration>
+      <created>2001-01-16</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       64.255.0.0 - 64.255.63.255
+CIDR:           64.255.0.0/18
+NetName:        BGCI-2BLK
+NetHandle:      NET-64-255-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Blue Gravity Communications, Inc. (BGC)
+RegDate:        2001-01-16
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-255-0-0-1
+
+OrgName:        Blue Gravity Communications, Inc.
+OrgId:          BGC
+Address:        3655 Torrance Blvd.
+Address:        Suite 230
+City:           Torrance
+StateProv:      CA
+PostalCode:     90503
+Country:        US
+RegDate:        2000-03-21
+Updated:        2015-06-24
+Ref:            http://whois.arin.net/rest/org/BGC
+
+ReferralServer:  rwhois://rwhois.omnis.com:4321
+
+OrgTechHandle: JF621-ARIN
+OrgTechName:   Fromm, James 
+OrgTechPhone:  +1-480-295-7788 
+OrgTechEmail:  fromm@omnis.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JF621-ARIN
+
+OrgAbuseHandle: ABUSE2022-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-310-316-9600 
+OrgAbuseEmail:  abuse@omnis.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2022-ARIN
+
+== Additional Information From rwhois://rwhois.omnis.com:4321 ==
+
+%rwhois V-1.0,V-1.5:000090h:00 rwhois.omnis.com (Omnis RWhois Server V-1.0.0)
+network:Class-Name:network
+network:ID:NET-12-64.255.0.0/18
+network:Auth-Area:64.255.0.0/18
+network:Network-Name:Web Hosting Customers
+network:IP-Network:64.255.0.0/18
+network:Organization:Omnis Network
+network:Street-Address:3655 Torrance Blvd Suite 230
+network:City:Torrance
+network:State:CA
+network:Postal-Code:90503
+network:Country-Code:US
+network:Tech-Email;I:support@omnis.com
+network:Admin-Email;I:support@omnis.com
+network:Abuse-Email;I:abuse@omnis.com
+network:Created:20120112231410
+network:Updated:201101010000
+network:Updated-By:support@omnis.com
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

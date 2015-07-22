@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Optimum-Energy-LLC</registrant>
+    <registration>
+      <created>1998-12-29</created>
+      <updated>2012-11-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       216.168.32.0 - 216.168.63.255
+CIDR:           216.168.32.0/19
+NetName:        DF216
+NetHandle:      NET-216-168-32-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS11739, AS3361
+Organization:   Digital Fortress, Inc. (DF-35)
+RegDate:        1998-12-29
+Updated:        2012-11-02
+Ref:            http://whois.arin.net/rest/net/NET-216-168-32-0-1
+
+OrgName:        Digital Fortress, Inc.
+OrgId:          DF-35
+Address:        12101 Tukwila International Blvd, Suite 410
+City:           Seattle
+StateProv:      WA
+PostalCode:     98168
+Country:        US
+RegDate:        2012-09-06
+Updated:        2015-05-26
+Comment:        http://www.dfcolo.com
+Comment:        NOC hours are 7x24
+Ref:            http://whois.arin.net/rest/org/DF-35
+
+OrgTechHandle: NTF-ARIN
+OrgTechName:   Fant, Nathan Tyler
+OrgTechPhone:  +1-206-504-7275 
+OrgTechEmail:  nathan.fant@dfcolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NTF-ARIN
+
+OrgTechHandle: MSL75-ARIN
+OrgTechName:   Larkin, Marc Stephen
+OrgTechPhone:  +1-206-257-7354 
+OrgTechEmail:  marc.larkin@dfcolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MSL75-ARIN
+
+OrgAbuseHandle: ABUSE3969-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-206-838-1630 
+OrgAbuseEmail:  abuse@dfcolo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3969-ARIN
+
+OrgNOCHandle: NOC13423-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-206-838-1630 
+OrgNOCEmail:  support@dfcolo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC13423-ARIN
+
+NetRange:       216.168.41.224 - 216.168.41.239
+CIDR:           216.168.41.224/28
+NetName:        FCC-BLK-01-OPTIMUM-ENERGY-LLC-01
+NetHandle:      NET-216-168-41-224-1
+Parent:         DF216 (NET-216-168-32-0-1)
+NetType:        Reassigned
+OriginAS:       AS3361
+Customer:       Optimum-Energy-LLC (C03338663)
+RegDate:        2013-03-08
+Updated:        2013-03-08
+Ref:            http://whois.arin.net/rest/net/NET-216-168-41-224-1
+
+CustName:       Optimum-Energy-LLC
+Address:        411 First Ave. S. , Suite 620
+City:           Seattle
+StateProv:      WA
+PostalCode:     98104
+Country:        US
+RegDate:        2013-03-08
+Updated:        2013-03-08
+Ref:            http://whois.arin.net/rest/customer/C03338663
+
+OrgTechHandle: NTF-ARIN
+OrgTechName:   Fant, Nathan Tyler
+OrgTechPhone:  +1-206-504-7275 
+OrgTechEmail:  nathan.fant@dfcolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NTF-ARIN
+
+OrgTechHandle: MSL75-ARIN
+OrgTechName:   Larkin, Marc Stephen
+OrgTechPhone:  +1-206-257-7354 
+OrgTechEmail:  marc.larkin@dfcolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MSL75-ARIN
+
+OrgAbuseHandle: ABUSE3969-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-206-838-1630 
+OrgAbuseEmail:  abuse@dfcolo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3969-ARIN
+
+OrgNOCHandle: NOC13423-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-206-838-1630 
+OrgNOCEmail:  support@dfcolo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC13423-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

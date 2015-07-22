@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Level 3 Communications, Inc.</registrant>
+    <registration>
+      <created>2003-05-01</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       69.44.0.0 - 69.45.255.255
+CIDR:           69.44.0.0/15
+NetName:        LVLT-ORG-69-44
+NetHandle:      NET-69-44-0-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Level 3 Communications, Inc. (LVLT)
+RegDate:        2003-05-01
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-69-44-0-0-1
+
+OrgName:        Level 3 Communications, Inc.
+OrgId:          LVLT
+Address:        1025 Eldorado Blvd.
+City:           Broomfield
+StateProv:      CO
+PostalCode:     80021
+Country:        US
+RegDate:        1998-05-22
+Updated:        2012-01-30
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/org/LVLT
+
+OrgAbuseHandle: APL8-ARIN
+OrgAbuseName:   Abuse POC LVLT
+OrgAbusePhone:  +1-877-453-8353 
+OrgAbuseEmail:  abuse@level3.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/APL8-ARIN
+
+OrgNOCHandle: NOCSU27-ARIN
+OrgNOCName:   NOC Support
+OrgNOCPhone:  +1-877-453-8353 
+OrgNOCEmail:  noc.coreip@level3.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCSU27-ARIN
+
+OrgTechHandle: IPADD5-ARIN
+OrgTechName:   ipaddressing
+OrgTechPhone:  +1-877-453-8353 
+OrgTechEmail:  ipaddressing@level3.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADD5-ARIN
+
+NetRange:       69.44.56.0 - 69.44.63.255
+CIDR:           69.44.56.0/21
+NetName:        WLCO-TWC1263571-BEACH-IAD
+NetHandle:      NET-69-44-56-0-1
+Parent:         LVLT-ORG-69-44 (NET-69-44-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   ServerBeach (SERVER-17)
+RegDate:        2003-09-16
+Updated:        2003-09-16
+Ref:            http://whois.arin.net/rest/net/NET-69-44-56-0-1
+
+OrgName:        ServerBeach
+OrgId:          SERVER-17
+Address:        8500 Vicar Drive 8500, Suite 500
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2002-05-29
+Updated:        2012-05-14
+Ref:            http://whois.arin.net/rest/org/SERVER-17
+
+OrgTechHandle: ZZ4092-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-604-484-2588 
+OrgTechEmail:  ipadmin@serverbeach.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZZ4092-ARIN
+
+OrgAbuseHandle: SNAE-ARIN
+OrgAbuseName:   Serverbeach Network AUP Enforcement
+OrgAbusePhone:  +1-604-484-2588 
+OrgAbuseEmail:  abuse@serverbeach.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SNAE-ARIN
+
+RAbuseHandle: ABUSE405-ARIN
+RAbuseName:   ABUSE
+RAbusePhone:  +1-210-225-4725 
+RAbuseEmail:  abuse@researchgate.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE405-ARIN
+
+RTechHandle: HOSTM325-ARIN
+RTechName:   Hostmaster
+RTechPhone:  +1-210-225-4725 
+RTechEmail:  hostmaster@serverbeach.com
+RTechRef:    http://whois.arin.net/rest/poc/HOSTM325-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

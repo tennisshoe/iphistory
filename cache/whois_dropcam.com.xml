@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DROPCAM</registrant>
+    <registration>
+      <created>2008-12-05</created>
+      <expires>2019-12-05</expires>
+      <updated>2015-04-22</updated>
+      <registrar>ENOM, INC.</registrar>
+      <statuses>ok</statuses>
+    </registration>
+    <name_servers>NS-1302.AWSDNS-34.ORG</name_servers>
+    <name_servers>NS-1771.AWSDNS-29.CO.UK</name_servers>
+    <name_servers>NS-430.AWSDNS-53.COM</name_servers>
+    <name_servers>NS-521.AWSDNS-01.NET</name_servers>
+    <whois>
+      <date>2015-07-16</date>
+      <record>Domain Name: DROPCAM.COM
+Registry Domain ID: 1531516165_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.enom.com
+Registrar URL: www.enom.com
+Updated Date: 
+Creation Date: 2008-12-05T03:29:00.00Z
+Registrar Registration Expiration Date: 2019-12-05T03:29:00.00Z
+Registrar: ENOM, INC.
+Registrar IANA ID: 48
+Reseller: NAMECHEAP.COM
+Domain Status: ok https://www.icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: GREG DUFFY
+Registrant Organization: DROPCAM
+Registrant Street: 301 HOWARD ST
+Registrant Street: 4TH FLOOR
+Registrant City: SAN FRANCISCO
+Registrant State/Province: CA
+Registrant Postal Code: 94105
+Registrant Country: US
+Registrant Phone: +1.4159634008
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: ACQOPS-DNS@GOOGLE.COM
+Registry Admin ID: 
+Admin Name: GREG DUFFY
+Admin Organization: DROPCAM
+Admin Street: 301 HOWARD ST
+Admin Street: 4TH FLOOR
+Admin City: SAN FRANCISCO
+Admin State/Province: CA
+Admin Postal Code: 94105
+Admin Country: US
+Admin Phone: +1.4159634008
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: ACQOPS-DNS@GOOGLE.COM
+Registry Tech ID: 
+Tech Name: GREG DUFFY
+Tech Organization: DROPCAM
+Tech Street: 301 HOWARD ST
+Tech Street: 4TH FLOOR
+Tech City: SAN FRANCISCO
+Tech State/Province: CA
+Tech Postal Code: 94105
+Tech Country: US
+Tech Phone: +1.4159634008
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: ACQOPS-DNS@GOOGLE.COM
+Name Server: NS-1302.AWSDNS-34.ORG
+Name Server: NS-1771.AWSDNS-29.CO.UK
+Name Server: NS-430.AWSDNS-53.COM
+Name Server: NS-521.AWSDNS-01.NET
+DNSSEC: unSigned
+Registrar Abuse Contact Email: abuse@enom.com
+Registrar Abuse Contact Phone: +1.4252982646
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

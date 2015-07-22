@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CBS Interactive Inc.</registrant>
+    <registration>
+      <created>2003-05-16</created>
+      <updated>2012-07-09</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.239.112.0 - 216.239.127.255
+CIDR:           216.239.112.0/20
+NetName:        CNET-NETWORKS
+NetHandle:      NET-216-239-112-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS6623, AS13867
+Organization:   CBS Interactive Inc. (CI-72)
+RegDate:        2003-05-16
+Updated:        2012-07-09
+Ref:            http://whois.arin.net/rest/net/NET-216-239-112-0-1
+
+OrgName:        CBS Interactive Inc.
+OrgId:          CI-72
+Address:        235 2nd Street
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94105
+Country:        US
+RegDate:        2011-11-14
+Updated:        2012-09-20
+Ref:            http://whois.arin.net/rest/org/CI-72
+
+OrgAbuseHandle: CNAC-ARIN
+OrgAbuseName:   CNET Networks abuse contact
+OrgAbusePhone:  +1-415-344-1662 
+OrgAbuseEmail:  abuse@cnet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CNAC-ARIN
+
+OrgTechHandle: FELDM6-ARIN
+OrgTechName:   Feldman, Steven 
+OrgTechPhone:  +1-415-344-2254 
+OrgTechEmail:  steven.feldman@cbsinteractive.com
+OrgTechRef:    http://whois.arin.net/rest/poc/FELDM6-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

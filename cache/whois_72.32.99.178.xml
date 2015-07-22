@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Rackspace Hosting</registrant>
+    <registration>
+      <created>2005-02-25</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       72.32.0.0 - 72.32.255.255
+CIDR:           72.32.0.0/16
+NetName:        RSCP-NET-4
+NetHandle:      NET-72-32-0-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS33070, AS19994, AS10532, AS27357
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2005-02-25
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-72-32-0-0-1
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        5000 Walzem Road
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/RACKS-8
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

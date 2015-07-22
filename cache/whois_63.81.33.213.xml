@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PACIFIC COAST BANKERS' BANK</registrant>
+    <registration>
+      <created>2006-08-17</created>
+      <updated>2006-08-17</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       63.81.33.192 - 63.81.33.223
+CIDR:           63.81.33.192/27
+NetName:        UU-63-81-33-192-D20
+NetHandle:      NET-63-81-33-192-1
+Parent:         UUNET63 (NET-63-64-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       PACIFIC COAST BANKERS' BANK (C01426796)
+RegDate:        2006-08-17
+Updated:        2006-08-17
+Comment:        Addresses within this block are non-portable.
+Ref:            http://whois.arin.net/rest/net/NET-63-81-33-192-1
+
+CustName:       PACIFIC COAST BANKERS' BANK
+Address:        340 PINE ST
+Address:        STE 401
+City:           SAN FRANCISCO
+StateProv:      CA
+PostalCode:     94104-3238
+Country:        US
+RegDate:        2006-08-17
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01426796
+
+OrgNOCHandle: OA12-ARIN
+OrgNOCName:   UUnet Technologies, Inc., Technologies 
+OrgNOCPhone:  +1-800-900-0241 
+OrgNOCEmail:  help4u@verizonbusiness.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/OA12-ARIN
+
+OrgAbuseHandle: ABUSE3-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-800-900-0241 
+OrgAbuseEmail:  abuse-mail@verizonbusiness.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3-ARIN
+
+OrgTechHandle: SWIPP9-ARIN
+OrgTechName:   SWIPPER
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  stephen.r.middleton@verizon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP9-ARIN
+
+OrgTechHandle: SWIPP-ARIN
+OrgTechName:   swipper
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizonbusiness.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP-ARIN
+
+RTechHandle: OA12-ARIN
+RTechName:   UUnet Technologies, Inc., Technologies 
+RTechPhone:  +1-800-900-0241 
+RTechEmail:  help4u@verizonbusiness.com
+RTechRef:    http://whois.arin.net/rest/poc/OA12-ARIN
+
+NetRange:       63.64.0.0 - 63.127.255.255
+CIDR:           63.64.0.0/10
+NetName:        UUNET63
+NetHandle:      NET-63-64-0-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+RegDate:        1999-01-22
+Updated:        2012-03-20
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-63-64-0-0-1
+
+OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+OrgId:          MCICS
+Address:        22001 Loudoun County Pkwy
+City:           Ashburn
+StateProv:      VA
+PostalCode:     20147
+Country:        US
+RegDate:        2006-05-30
+Updated:        2014-06-23
+Ref:            http://whois.arin.net/rest/org/MCICS
+
+OrgNOCHandle: OA12-ARIN
+OrgNOCName:   UUnet Technologies, Inc., Technologies 
+OrgNOCPhone:  +1-800-900-0241 
+OrgNOCEmail:  help4u@verizonbusiness.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/OA12-ARIN
+
+OrgAbuseHandle: ABUSE3-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-800-900-0241 
+OrgAbuseEmail:  abuse-mail@verizonbusiness.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3-ARIN
+
+OrgTechHandle: SWIPP9-ARIN
+OrgTechName:   SWIPPER
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  stephen.r.middleton@verizon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP9-ARIN
+
+OrgTechHandle: SWIPP-ARIN
+OrgTechName:   swipper
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizonbusiness.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP-ARIN
+
+RTechHandle: OA12-ARIN
+RTechName:   UUnet Technologies, Inc., Technologies 
+RTechPhone:  +1-800-900-0241 
+RTechEmail:  help4u@verizonbusiness.com
+RTechRef:    http://whois.arin.net/rest/poc/OA12-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

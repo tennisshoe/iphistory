@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NephoScale Inc.</registrant>
+    <registration>
+      <created>2007-06-01</created>
+      <updated>2014-07-15</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       208.78.240.0 - 208.78.247.255
+CIDR:           208.78.240.0/21
+NetName:        SVWH-ALLOCATION-6
+NetHandle:      NET-208-78-240-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13332
+Organization:   NephoScale Inc. (NEPHO)
+RegDate:        2007-06-01
+Updated:        2014-07-15
+Ref:            http://whois.arin.net/rest/net/NET-208-78-240-0-1
+
+OrgName:        NephoScale Inc.
+OrgId:          NEPHO
+Address:        95 South Market St., Ste. 648
+City:           San Jose
+StateProv:      CA
+PostalCode:     95113
+Country:        US
+RegDate:        2010-07-08
+Updated:        2015-02-23
+Ref:            http://whois.arin.net/rest/org/NEPHO
+
+OrgTechHandle: HOSTM621-ARIN
+OrgTechName:   Hostmaster
+OrgTechPhone:  +1-408-599-7008 
+OrgTechEmail:  hostmaster@nephoscale.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM621-ARIN
+
+OrgAbuseHandle: HOSTM621-ARIN
+OrgAbuseName:   Hostmaster
+OrgAbusePhone:  +1-408-599-7008 
+OrgAbuseEmail:  hostmaster@nephoscale.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HOSTM621-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

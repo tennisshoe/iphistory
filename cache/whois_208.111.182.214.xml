@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Limelight Networks, Inc.</registrant>
+    <registration>
+      <created>2006-03-30</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       208.111.128.0 - 208.111.191.255
+CIDR:           208.111.128.0/18
+NetName:        LLNW-3
+NetHandle:      NET-208-111-128-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS22822
+Organization:   Limelight Networks, Inc. (LLNW)
+RegDate:        2006-03-30
+Updated:        2012-02-24
+Comment:        *** All abuse complaints must go to abuse (at)
+Comment:        limelightnetworks.com
+Comment:        Network reassignments available via rwhois.llnw.net:4321
+Ref:            http://whois.arin.net/rest/net/NET-208-111-128-0-1
+
+OrgName:        Limelight Networks, Inc.
+OrgId:          LLNW
+Address:        2220 W. 14th Street
+City:           Tempe
+StateProv:      AZ
+PostalCode:     85281
+Country:        US
+RegDate:        2002-07-26
+Updated:        2015-04-14
+Ref:            http://whois.arin.net/rest/org/LLNW
+
+ReferralServer:  rwhois://rwhois.llnw.net:4321
+
+OrgTechHandle: LNAA-ARIN
+OrgTechName:   Limelight Networks ARIN Admin
+OrgTechPhone:  +1-602-850-5095 
+OrgTechEmail:  arinadmin@limelightnetworks.com
+OrgTechRef:    http://whois.arin.net/rest/poc/LNAA-ARIN
+
+OrgAbuseHandle: LNAD-ARIN
+OrgAbuseName:   Limelight Networks Abuse Dept
+OrgAbusePhone:  +1-602-850-5095 
+OrgAbuseEmail:  ipadmin@limelightnetworks.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LNAD-ARIN
+
+RTechHandle: LNAA-ARIN
+RTechName:   Limelight Networks ARIN Admin
+RTechPhone:  +1-602-850-5095 
+RTechEmail:  arinadmin@limelightnetworks.com
+RTechRef:    http://whois.arin.net/rest/poc/LNAA-ARIN
+
+RAbuseHandle: LNAD-ARIN
+RAbuseName:   Limelight Networks Abuse Dept
+RAbusePhone:  +1-602-850-5095 
+RAbuseEmail:  ipadmin@limelightnetworks.com
+RAbuseRef:    http://whois.arin.net/rest/poc/LNAD-ARIN
+
+== Additional Information From rwhois://rwhois.llnw.net:4321 ==
+
+%rwhois V-1.5:003eff:00 rwhois.llnw.net (by Network Solutions, Inc. V-1.5.9.6)
+network:Class-Name:network
+network:ID:208.111.182.208/28
+network:Network-Name:NET-208-111-182-208-28
+network:IP-Network:208.111.182.208/28
+network:Auth-Area:208.111.128.0/18
+network:Tkt-Req:none
+network:Org-Name:Limelight Networks YMQ CDN Network
+network:Street-Address:2220 W. 14th Street
+network:City:Tempe
+network:State:AZ
+network:Postal-Code:85281
+network:Country-Code:US
+network:Tech-Contact;I:ipadmin@llnw.com
+network:Created:20140102
+network:Updated:20140102
+network:Updated-By:rwhois@llnw.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

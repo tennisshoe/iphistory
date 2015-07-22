@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Marc Tichelaar</registrant>
+    <whois>
+      <date>2015-07-14</date>
+      <record>% Abuse contact for '31.192.117.132 - 31.192.117.135' is 'abuse@vikinghost.nl'
+
+inetnum:        31.192.117.132 - 31.192.117.135
+netname:        c3605-VikingHostBV
+descr:          ded1341
+country:        NL
+admin-c:        MT14891-RIPE
+tech-c:         MT14891-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-AS30361
+changed:        marc@vikinghost.nl 20141210
+created:        2014-10-31T10:10:16Z
+last-modified:  2014-12-10T16:36:26Z
+source:         RIPE
+
+person:         Marc Tichelaar
+address:        Kabelweg 37, 1014BA, Amsterdam
+phone:          +31 20 893 4109
+nic-hdl:        MT14891-RIPE
+mnt-by:         MNT-AS30361
+changed:        isvedic@reflected.net 20141210
+created:        2014-12-10T14:26:59Z
+last-modified:  2014-12-10T14:26:59Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

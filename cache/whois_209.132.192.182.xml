@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Colo.com</registrant>
+    <registration>
+      <created>2010-09-08</created>
+      <updated>2010-09-08</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       209.132.192.176 - 209.132.192.183
+CIDR:           209.132.192.176/29
+NetName:        ALCH-554
+NetHandle:      NET-209-132-192-176-1
+Parent:         ALCHEMY-NET-1 (NET-209-132-192-0-1)
+NetType:        Reallocated
+OriginAS:       AS7296
+Organization:   Colo.com (MAINS-15)
+RegDate:        2010-09-08
+Updated:        2010-09-08
+Ref:            http://whois.arin.net/rest/net/NET-209-132-192-176-1
+
+OrgName:        Colo.com
+OrgId:          MAINS-15
+Address:        1200 West 7th St.
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90017
+Country:        US
+RegDate:        2008-02-21
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/MAINS-15
+
+OrgTechHandle: HOSTM1153-ARIN
+OrgTechName:   Hostmaster
+OrgTechPhone:  +1-866-316-2656 
+OrgTechEmail:  hostmaster@colo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM1153-ARIN
+
+OrgAbuseHandle: HOSTM1153-ARIN
+OrgAbuseName:   Hostmaster
+OrgAbusePhone:  +1-866-316-2656 
+OrgAbuseEmail:  hostmaster@colo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HOSTM1153-ARIN
+
+NetRange:       209.132.192.0 - 209.132.255.255
+CIDR:           209.132.192.0/18
+NetName:        ALCHEMY-NET-1
+NetHandle:      NET-209-132-192-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Alchemy Communications, Inc. (ALCH)
+RegDate:        1999-10-29
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-209-132-192-0-1
+
+OrgName:        Alchemy Communications, Inc.
+OrgId:          ALCH
+Address:        1200 W. 7th Street, Suite L1-100
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90017
+Country:        US
+RegDate:        1996-11-04
+Updated:        2015-06-26
+Ref:            http://whois.arin.net/rest/org/ALCH
+
+OrgTechHandle: ZA135-ARIN
+OrgTechName:   Alchemy Communications
+OrgTechPhone:  +1-213-596-3000 
+OrgTechEmail:  dnsadmin@alchemy.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ZA135-ARIN
+
+OrgTechHandle: DCL82-ARIN
+OrgTechName:   Closson, David 
+OrgTechPhone:  +1-213-596-3000 
+OrgTechEmail:  support@alchemy.net
+OrgTechRef:    http://whois.arin.net/rest/poc/DCL82-ARIN
+
+OrgAbuseHandle: ZA135-ARIN
+OrgAbuseName:   Alchemy Communications
+OrgAbusePhone:  +1-213-596-3000 
+OrgAbuseEmail:  dnsadmin@alchemy.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZA135-ARIN
+
+RTechHandle: ZA135-ARIN
+RTechName:   Alchemy Communications
+RTechPhone:  +1-213-596-3000 
+RTechEmail:  dnsadmin@alchemy.net
+RTechRef:    http://whois.arin.net/rest/poc/ZA135-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

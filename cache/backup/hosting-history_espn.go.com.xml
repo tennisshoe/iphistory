@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>go.com</domain_name>
+    <ip_history>
+      <domain>GO.COM</domain>
+      <post_ip>199.181.132.123</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2005-03-05</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>GO.COM</domain>
+      <post_ip>198.105.193.70</post_ip>
+      <pre_ip>199.181.132.123</pre_ip>
+      <action>C</action>
+      <actiondate>2007-03-31</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>GO.COM</domain>
+      <post_ip>199.181.132.250</post_ip>
+      <pre_ip>198.105.193.70</pre_ip>
+      <action>C</action>
+      <actiondate>2007-06-10</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>GO.COM</domain>
+      <post_ip/>
+      <pre_ip>199.181.132.250</pre_ip>
+      <action>D</action>
+      <actiondate>2007-10-21</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>GO.COM</domain>
+      <post_ip/>
+      <pre_ip>199.181.132.250</pre_ip>
+      <action>D</action>
+      <actiondate>2007-10-21</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>GO.COM</domain>
+      <post_ip>199.181.132.250</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2011-04-10</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>GO.COM</domain>
+      <date_updated>2002-12-23</date_updated>
+      <date_created>1998-01-09</date_created>
+      <date_expires>2005-01-08</date_expires>
+      <date_lastchecked>2003-05-24</date_lastchecked>
+      <registrar>Network Solutions</registrar>
+      <registrartag>Network Solutions</registrartag>
+    </registrar_history>
+    <registrar_history>
+      <domain>GO.COM</domain>
+      <date_updated>2010-01-13</date_updated>
+      <date_created>1998-01-09</date_created>
+      <date_expires>2012-01-08</date_expires>
+      <date_lastchecked>2010-01-20</date_lastchecked>
+      <registrar>INWW.com</registrar>
+      <registrartag>MELBOURNE IT D/B/A  INTERNET NAMES WORLD WIDE</registrartag>
+    </registrar_history>
+    <registrar_history>
+      <domain>GO.COM</domain>
+      <date_updated>2013-02-17</date_updated>
+      <date_created>1998-01-09</date_created>
+      <date_expires>2015-01-08</date_expires>
+      <date_lastchecked>2013-02-20</date_lastchecked>
+      <registrar>Corporate Domains</registrar>
+      <registrartag>Corporate Domains</registrartag>
+    </registrar_history>
+    <nameserver_history/>
+  </response>
+</whoisapi>
+

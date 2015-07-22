@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>tw telecom holdings, inc.</registrant>
+    <registration>
+      <created>2010-01-08</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       173.226.0.0 - 173.227.255.255
+CIDR:           173.226.0.0/15
+NetName:        TWTC-NETBLK-18
+NetHandle:      NET-173-226-0-0-1
+Parent:         NET173 (NET-173-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   tw telecom holdings, inc. (TWTC)
+RegDate:        2010-01-08
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-173-226-0-0-1
+
+OrgName:        tw telecom holdings, inc.
+OrgId:          TWTC
+Address:        10475 Park Meadows Drive
+City:           Littleton
+StateProv:      CO
+PostalCode:     80124
+Country:        US
+RegDate:        1999-03-17
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/TWTC
+
+ReferralServer:  rwhois://rwhois.twtelecom.net:4321
+
+OrgAbuseHandle: TWTAD-ARIN
+OrgAbuseName:   tw telecom Abuse Desk
+OrgAbusePhone:  +1-800-898-6473 
+OrgAbuseEmail:  abuse@twtelecom.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/TWTAD-ARIN
+
+OrgTechHandle: NST12-ARIN
+OrgTechName:   NOC SWIP Team
+OrgTechPhone:  +1-800-898-6473 
+OrgTechEmail:  swip@twtelecom.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NST12-ARIN
+
+OrgNOCHandle: TDN1-ARIN
+OrgNOCName:   TWTC Data NOC
+OrgNOCPhone:  +1-800-898-6473 
+OrgNOCEmail:  support@twtelecom.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/TDN1-ARIN
+
+RAbuseHandle: TWTAD-ARIN
+RAbuseName:   tw telecom Abuse Desk
+RAbusePhone:  +1-800-898-6473 
+RAbuseEmail:  abuse@twtelecom.net
+RAbuseRef:    http://whois.arin.net/rest/poc/TWTAD-ARIN
+
+RTechHandle: ZT87-ARIN
+RTechName:   IP Manager
+RTechPhone:  +1-800-829-0420 
+RTechEmail:  ipmanager@twtelecom.net
+RTechRef:    http://whois.arin.net/rest/poc/ZT87-ARIN
+
+RNOCHandle: TDN1-ARIN
+RNOCName:   TWTC Data NOC
+RNOCPhone:  +1-800-898-6473 
+RNOCEmail:  support@twtelecom.net
+RNOCRef:    http://whois.arin.net/rest/poc/TDN1-ARIN
+
+NetRange:       173.227.66.0 - 173.227.66.255
+CIDR:           173.227.66.0/24
+NetName:        BODIS1-VIA-TW-TELECOM
+NetHandle:      NET-173-227-66-0-1
+Parent:         TWTC-NETBLK-18 (NET-173-226-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS4323
+Organization:   Bodis LLC (BODIS)
+RegDate:        2010-09-24
+Updated:        2010-09-24
+Ref:            http://whois.arin.net/rest/net/NET-173-227-66-0-1
+
+OrgName:        Bodis LLC
+OrgId:          BODIS
+Address:        1133 Broadway Suite 706
+City:           New York
+StateProv:      NY
+PostalCode:     10010
+Country:        US
+RegDate:        2010-08-25
+Updated:        2010-08-25
+Ref:            http://whois.arin.net/rest/org/BODIS
+
+OrgTechHandle: BODIS1-ARIN
+OrgTechName:   Bodis Administrator
+OrgTechPhone:  +1-877-263-4744 
+OrgTechEmail:  netops@bodis.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BODIS1-ARIN
+
+OrgNOCHandle: BODIS1-ARIN
+OrgNOCName:   Bodis Administrator
+OrgNOCPhone:  +1-877-263-4744 
+OrgNOCEmail:  netops@bodis.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/BODIS1-ARIN
+
+OrgAbuseHandle: BODIS-ARIN
+OrgAbuseName:   Bodis Abuse
+OrgAbusePhone:  +1-877-263-4744 
+OrgAbuseEmail:  abuse@bodis.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BODIS-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

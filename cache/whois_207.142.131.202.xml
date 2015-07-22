@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>AGIS</registrant>
+    <registration>
+      <created>1996-06-03</created>
+      <updated>2011-05-27</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       207.142.0.0 - 207.142.255.255
+CIDR:           207.142.0.0/16
+NetName:        COGENT-207-142-16
+NetHandle:      NET-207-142-0-0-1
+Parent:         NET207 (NET-207-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS174
+Organization:   AGIS (AGIS)
+RegDate:        1996-06-03
+Updated:        2011-05-27
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-207-142-0-0-1
+
+OrgName:        AGIS
+OrgId:          AGIS
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+RegDate:        1994-08-26
+Updated:        2015-06-04
+Ref:            http://whois.arin.net/rest/org/AGIS
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COGEN-ARIN
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZC108-ARIN
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPALL-ARIN
+
+RTechHandle: IPALL-ARIN
+RTechName:   IP Allocation
+RTechPhone:  +1-877-875-4311 
+RTechEmail:  ipalloc@cogentco.com
+RTechRef:    http://whois.arin.net/rest/poc/IPALL-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

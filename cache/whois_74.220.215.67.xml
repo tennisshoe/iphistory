@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Unified Layer</registrant>
+    <registration>
+      <created>2007-01-09</created>
+      <updated>2011-11-29</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       74.220.192.0 - 74.220.223.255
+CIDR:           74.220.192.0/19
+NetName:        BLUEHOST-NETWORK-2
+NetHandle:      NET-74-220-192-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS46606
+Organization:   Unified Layer (BLUEH-2)
+RegDate:        2007-01-09
+Updated:        2011-11-29
+Ref:            http://whois.arin.net/rest/net/NET-74-220-192-0-1
+
+OrgName:        Unified Layer
+OrgId:          BLUEH-2
+Address:        1958 South 950 East
+City:           Provo
+StateProv:      UT
+PostalCode:     84606
+Country:        US
+RegDate:        2006-08-08
+Updated:        2012-11-26
+Ref:            http://whois.arin.net/rest/org/BLUEH-2
+
+ReferralServer:  rwhois://rwhois.unifiedlayer.com:4321
+
+OrgTechHandle: NETWO5508-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-888-401-4678 
+OrgTechEmail:  netops@unifiedlayer.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO5508-ARIN
+
+OrgNOCHandle: NETWO5508-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-888-401-4678 
+OrgNOCEmail:  netops@unifiedlayer.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO5508-ARIN
+
+OrgAbuseHandle: ABUSE3581-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-888-401-4678 
+OrgAbuseEmail:  abuse@unifiedlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3581-ARIN
+
+RNOCHandle: TECHN497-ARIN
+RNOCName:   Technical Operations
+RNOCPhone:  +1-801-765-9400 
+RNOCEmail:  support@bluehost.com
+RNOCRef:    http://whois.arin.net/rest/poc/TECHN497-ARIN
+
+RAbuseHandle: NOC2320-ARIN
+RAbuseName:   Network Operations Center
+RAbusePhone:  +1-801-765-9400 
+RAbuseEmail:  abuse@bluehost.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC2320-ARIN
+
+RTechHandle: NETWO2081-ARIN
+RTechName:   Network Operations
+RTechPhone:  +1-801-765-9400 
+RTechEmail:  netops@bluehost.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO2081-ARIN
+
+== Additional Information From rwhois://rwhois.unifiedlayer.com:4321 ==
+
+%rwhois V-1.5:000080:00 rwhois.unifiedlayer.com (by Unified Layer, V-1.0.0)
+network:Class-Name:network
+network:ID: NETBLK-UL.74.220.192.0/19
+network:Auth-Area: 74.220.192.0/19
+network:Network-Name: UL-74.220.192.0/19
+network:IP-Network: 74.220.192.0/19
+network:Organization: Unified Layer
+network:Tech-Contact: netops@unifiedlayer.com
+network:Admin-Contact: netops@unifiedlayer.com
+network:Abuse-Contact: abuse@unifiedlayer.com
+network:Created: 20121119
+network:Updated: 20121119
+network:Updated-By: netops@unifiedlayer.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

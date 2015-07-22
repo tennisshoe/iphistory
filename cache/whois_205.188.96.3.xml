@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>AOL Inc.</registrant>
+    <registration>
+      <created>1995-03-21</created>
+      <updated>2014-04-21</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       205.188.0.0 - 205.188.255.255
+CIDR:           205.188.0.0/16
+NetName:        AOL-DTC
+NetHandle:      NET-205-188-0-0-1
+Parent:         NET205 (NET-205-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   AOL Inc. (AOLIN-1)
+RegDate:        1995-03-21
+Updated:        2014-04-21
+Ref:            http://whois.arin.net/rest/net/NET-205-188-0-0-1
+
+OrgName:        AOL Inc.
+OrgId:          AOLIN-1
+Address:        22000 AOL Way
+City:           Dulles
+StateProv:      VA
+PostalCode:     20166
+Country:        US
+RegDate:        2014-04-09
+Updated:        2014-04-22
+Comment:        http://corp.aol.com/
+Ref:            http://whois.arin.net/rest/org/AOLIN-1
+
+OrgNOCHandle: AOL236-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-703-265-4670 
+OrgNOCEmail:  noc@aol.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/AOL236-ARIN
+
+OrgAbuseHandle: AOL382-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-703-265-4670 
+OrgAbuseEmail:  abuse@aol.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AOL382-ARIN
+
+OrgTechHandle: AOL-NOC-ARIN
+OrgTechName:   America Online Inc
+OrgTechPhone:  +1-703-265-4462 
+OrgTechEmail:  domains@aol.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Sprint</registrant>
+    <registration>
+      <created>1999-12-03</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       63.160.0.0 - 63.175.255.255
+CIDR:           63.160.0.0/12
+NetName:        SPRN-BLKS
+NetHandle:      NET-63-160-0-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Sprint (SPRN)
+RegDate:        1999-12-03
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-63-160-0-0-1
+
+OrgName:        Sprint
+OrgId:          SPRN
+Address:        12502 Sunrise Valley Drive
+City:           Reston
+StateProv:      VA
+PostalCode:     20196
+Country:        US
+RegDate:        
+Updated:        2014-12-04
+Comment:        For abuse issues please send email to ABUSE@SPRINT.NET
+Comment:        only. Law Enforcement requests should call the Corporate Security Hotline at 800-877-7330, option 3
+Ref:            http://whois.arin.net/rest/org/SPRN
+
+OrgNOCHandle: SPRINT-NOC-ARIN
+OrgNOCName:   IP Services
+OrgNOCPhone:  +1-800-232-6895 
+OrgNOCEmail:  ipsa.noc@sprint.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SPRINT-NOC-ARIN
+
+OrgTechHandle: BUDDK-ARIN
+OrgTechName:   Budd, Kenneth 
+OrgTechPhone:  +1-866-886-4187 
+OrgTechEmail:  kenneth.l.budd@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BUDDK-ARIN
+
+OrgTechHandle: DRW52-ARIN
+OrgTechName:   Williams, David R
+OrgTechPhone:  +1-913-794-7784 
+OrgTechEmail:  david.r.williams@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DRW52-ARIN
+
+OrgTechHandle: SIE-ARIN
+OrgTechName:   Sprint IP Engineering
+OrgTechPhone:  +1-703-592-4850 
+OrgTechEmail:  deipaddy@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SIE-ARIN
+
+OrgTechHandle: CHUYI-ARIN
+OrgTechName:   Chu, Yi 
+OrgTechPhone:  +1-703-592-4850 
+OrgTechEmail:  yi.chu@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CHUYI-ARIN
+
+OrgAbuseHandle: SAET-ARIN
+OrgAbuseName:   Sprint AUP Enforcement Team
+OrgAbusePhone:  +1-800-232-6895 
+OrgAbuseEmail:  abuse@sprint.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SAET-ARIN
+
+OrgTechHandle: KRW1-ARIN
+OrgTechName:   West, Ken R
+OrgTechPhone:  +1-703-689-7173 
+OrgTechEmail:  ken.r.west@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KRW1-ARIN
+
+OrgTechHandle: ARINS-ARIN
+OrgTechName:   arin-sprint-iprequest
+OrgTechPhone:  +1-800-232-3458 
+OrgTechEmail:  ip-request@sprint.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ARINS-ARIN
+
+RTechHandle: SPRINT-NOC-ARIN
+RTechName:   IP Services
+RTechPhone:  +1-800-232-6895 
+RTechEmail:  ipsa.noc@sprint.com
+RTechRef:    http://whois.arin.net/rest/poc/SPRINT-NOC-ARIN
+
+RAbuseHandle: SAET-ARIN
+RAbuseName:   Sprint AUP Enforcement Team
+RAbusePhone:  +1-800-232-6895 
+RAbuseEmail:  abuse@sprint.net
+RAbuseRef:    http://whois.arin.net/rest/poc/SAET-ARIN
+
+NetRange:       63.168.61.0 - 63.168.61.255
+CIDR:           63.168.61.0/24
+NetName:        SPRINTLINK
+NetHandle:      NET-63-168-61-0-1
+Parent:         SPRN-BLKS (NET-63-160-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   AKAMAI TECHNOLOGIES, INC (AKAMA-31)
+RegDate:        2012-06-05
+Updated:        2012-06-05
+Ref:            http://whois.arin.net/rest/net/NET-63-168-61-0-1
+
+OrgName:        AKAMAI TECHNOLOGIES, INC
+OrgId:          AKAMA-31
+Address:        8 CAMBRIDGE CENTER
+City:           CAMBRIDGE
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        2009-11-13
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/AKAMA-31
+
+OrgTechHandle: DHA389-ARIN
+OrgTechName:   Hassler, David 
+OrgTechPhone:  +1-617-444-9717 
+OrgTechEmail:  dhasslers@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DHA389-ARIN
+
+OrgAbuseHandle: DHA389-ARIN
+OrgAbuseName:   Hassler, David 
+OrgAbusePhone:  +1-617-444-9717 
+OrgAbuseEmail:  dhasslers@akamai.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DHA389-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

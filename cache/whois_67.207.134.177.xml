@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Rackspace Cloud Servers</registrant>
+    <registration>
+      <created>2007-06-29</created>
+      <updated>2013-04-09</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       67.207.128.0 - 67.207.159.255
+CIDR:           67.207.128.0/19
+NetName:        SLICE-STL-SE
+NetHandle:      NET-67-207-128-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS12200
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2007-06-29
+Updated:        2013-04-09
+Ref:            http://whois.arin.net/rest/net/NET-67-207-128-0-1
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        5000 Walzem Road
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/RACKS-8
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+NetRange:       67.207.128.0 - 67.207.143.255
+CIDR:           67.207.128.0/20
+NetName:        RACKS-8-1350332921066155
+NetHandle:      NET-67-207-128-0-2
+Parent:         SLICE-STL-SE (NET-67-207-128-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Rackspace Cloud Servers (C03181837)
+RegDate:        2012-10-16
+Updated:        2012-10-16
+Ref:            http://whois.arin.net/rest/net/NET-67-207-128-0-2
+
+CustName:       Rackspace Cloud Servers
+Address:        5000 Walzem Rd.
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2012-10-15
+Updated:        2013-04-09
+Ref:            http://whois.arin.net/rest/customer/C03181837
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

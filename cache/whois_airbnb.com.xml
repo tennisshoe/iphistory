@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Airbnb, Inc.</registrant>
+    <registration>
+      <created>2008-08-05</created>
+      <expires>2020-08-05</expires>
+      <updated>2012-01-13</updated>
+      <registrar>MARKMONITOR INC.</registrar>
+      <statuses>clientDeleteProhibited</statuses>
+      <statuses>clientTransferProhibited</statuses>
+      <statuses>clientUpdateProhibited</statuses>
+    </registration>
+    <name_servers>NS-1349.AWSDNS-40.ORG</name_servers>
+    <name_servers>NS-1548.AWSDNS-01.CO.UK</name_servers>
+    <name_servers>NS-446.AWSDNS-55.COM</name_servers>
+    <name_servers>NS-696.AWSDNS-23.NET</name_servers>
+    <whois>
+      <date>2015-07-19</date>
+      <record>Domain Name: airbnb.com
+Registry Domain ID: 1512196199_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2014-11-04T04:00:06-0800
+Creation Date: 2008-08-05T00:29:00-0700
+Registrar Registration Expiration Date: 2020-08-05T00:29:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Airbnb, Inc.
+Registrant Street: 888 Brannan Street, 4th Floor
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94103
+Registrant Country: US
+Registrant Phone: +1.4157280000
+Registrant Phone Ext: 
+Registrant Fax: +1.4157280000
+Registrant Fax Ext: 
+Registrant Email: domain@airbnb.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Airbnb, Inc.
+Admin Street: 888 Brannan Street, 4th Floor
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94103
+Admin Country: US
+Admin Phone: +1.4157280000
+Admin Phone Ext: 
+Admin Fax: +1.4157280000
+Admin Fax Ext: 
+Admin Email: domain@airbnb.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Airbnb, Inc.
+Tech Street: 888 Brannan Street, 4th Floor
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94103
+Tech Country: US
+Tech Phone: +1.4157280000
+Tech Phone Ext: 
+Tech Fax: +1.4157280000
+Tech Fax Ext: 
+Tech Email: domain@airbnb.com
+Name Server: ns-446.awsdns-55.com
+Name Server: ns-696.awsdns-23.net
+Name Server: ns-1548.awsdns-01.co.uk
+Name Server: ns-1349.awsdns-40.org
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+</record>
+    </whois>
+  </response>
+</whoisapi>
+

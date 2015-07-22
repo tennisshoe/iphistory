@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Yelp! Inc.</registrant>
+    <registration>
+      <created>2010-06-01</created>
+      <updated>2014-08-20</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       199.255.188.0 - 199.255.191.255
+CIDR:           199.255.188.0/22
+NetName:        YELP-NET
+NetHandle:      NET-199-255-188-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS33445
+Organization:   Yelp! Inc. (YELPI)
+RegDate:        2010-06-01
+Updated:        2014-08-20
+Ref:            http://whois.arin.net/rest/net/NET-199-255-188-0-1
+
+OrgName:        Yelp! Inc.
+OrgId:          YELPI
+Address:        140 New Montgomery
+Address:        9th Floor
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94105
+Country:        US
+RegDate:        2010-03-05
+Updated:        2014-08-20
+Comment:        http://www.yelp.com
+Ref:            http://whois.arin.net/rest/org/YELPI
+
+OrgNOCHandle: NETWO6360-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-415-908-3801 
+OrgNOCEmail:  neteng@yelp.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN
+
+OrgAbuseHandle: NETWO6360-ARIN
+OrgAbuseName:   Network Operations
+OrgAbusePhone:  +1-415-908-3801 
+OrgAbuseEmail:  neteng@yelp.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN
+
+OrgTechHandle: NETWO6360-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-415-908-3801 
+OrgTechEmail:  neteng@yelp.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN
+
+RNOCHandle: NETWO6360-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-415-908-3801 
+RNOCEmail:  neteng@yelp.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN
+
+RAbuseHandle: NETWO6360-ARIN
+RAbuseName:   Network Operations
+RAbusePhone:  +1-415-908-3801 
+RAbuseEmail:  neteng@yelp.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN
+
+RTechHandle: NETWO6360-ARIN
+RTechName:   Network Operations
+RTechPhone:  +1-415-908-3801 
+RTechEmail:  neteng@yelp.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO6360-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

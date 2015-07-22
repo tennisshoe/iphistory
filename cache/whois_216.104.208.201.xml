@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Adobe Systems Inc.</registrant>
+    <registration>
+      <created>2003-08-06</created>
+      <updated>2012-06-04</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.104.208.0 - 216.104.223.255
+CIDR:           216.104.208.0/20
+NetName:        ADOBE216
+NetHandle:      NET-216-104-208-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS15224, AS19238
+Organization:   Adobe Systems Inc. (ADOBES)
+RegDate:        2003-08-06
+Updated:        2012-06-04
+Ref:            http://whois.arin.net/rest/net/NET-216-104-208-0-1
+
+OrgName:        Adobe Systems Inc.
+OrgId:          ADOBES
+Address:        345 Park Avenue
+City:           San Jose
+StateProv:      CA
+PostalCode:     95110
+Country:        US
+RegDate:        1992-06-25
+Updated:        2008-11-10
+Ref:            http://whois.arin.net/rest/org/ADOBES
+
+OrgAbuseHandle: NOC3375-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-408-536-2800 
+OrgAbuseEmail:  noc@adobe.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC3375-ARIN
+
+OrgTechHandle: INTER86-ARIN
+OrgTechName:   Internet Administrator
+OrgTechPhone:  +1-408-536-2800 
+OrgTechEmail:  inet-admin@adobe.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INTER86-ARIN
+
+OrgNOCHandle: NOC3375-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-408-536-2800 
+OrgNOCEmail:  noc@adobe.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC3375-ARIN
+
+RNOCHandle: ASNE-ARIN
+RNOCName:   Adobe SaaS Network Engineering
+RNOCPhone:  +1-385-345-0000 
+RNOCEmail:  techops-neteng@adobe.com
+RNOCRef:    http://whois.arin.net/rest/poc/ASNE-ARIN
+
+RAbuseHandle: ASNE-ARIN
+RAbuseName:   Adobe SaaS Network Engineering
+RAbusePhone:  +1-385-345-0000 
+RAbuseEmail:  techops-neteng@adobe.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ASNE-ARIN
+
+RTechHandle: ASNE-ARIN
+RTechName:   Adobe SaaS Network Engineering
+RTechPhone:  +1-385-345-0000 
+RTechEmail:  techops-neteng@adobe.com
+RTechRef:    http://whois.arin.net/rest/poc/ASNE-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

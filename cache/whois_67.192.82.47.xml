@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Ejazat Tourism</registrant>
+    <registration>
+      <created>2007-07-16</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       67.192.0.0 - 67.192.255.255
+CIDR:           67.192.0.0/16
+NetName:        RSCP-NET-4
+NetHandle:      NET-67-192-0-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS33070, AS10532, AS19994, AS27357
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2007-07-16
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-67-192-0-0-1
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        5000 Walzem Road
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/RACKS-8
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+NetRange:       67.192.82.32 - 67.192.82.47
+CIDR:           67.192.82.32/28
+NetName:        RSPC-689764-121407
+NetHandle:      NET-67-192-82-32-1
+Parent:         RSCP-NET-4 (NET-67-192-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Ejazat Tourism (C01835597)
+RegDate:        2007-12-19
+Updated:        2007-12-19
+Ref:            http://whois.arin.net/rest/net/NET-67-192-82-32-1
+
+CustName:       Ejazat Tourism
+Address:        9725 Datapoint
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78225
+Country:        US
+RegDate:        2007-12-19
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01835597
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

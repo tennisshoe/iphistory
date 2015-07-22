@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>HotJobs.com, Ltd.</registrant>
+    <registration>
+      <created>2000-09-28</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.109.112.0 - 216.109.127.255
+CIDR:           216.109.112.0/20
+NetName:        HOTJOBS
+NetHandle:      NET-216-109-112-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   HotJobs.com, Ltd. (HOTJOB-6)
+RegDate:        2000-09-28
+Updated:        2012-02-24
+Comment:        Yahoo!
+Ref:            http://whois.arin.net/rest/net/NET-216-109-112-0-1
+
+OrgName:        HotJobs.com, Ltd.
+OrgId:          HOTJOB-6
+Address:        701 First Ave
+City:           Sunnyvale
+StateProv:      CA
+PostalCode:     94089
+Country:        US
+RegDate:        1999-06-29
+Updated:        2013-04-02
+Ref:            http://whois.arin.net/rest/org/HOTJOB-6
+
+OrgTechHandle: NA258-ARIN
+OrgTechName:   Netblock Admin
+OrgTechPhone:  +1-408-349-3300 
+OrgTechEmail:  netblockadmin@yahoo-inc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NA258-ARIN
+
+OrgAbuseHandle: NETWO5978-ARIN
+OrgAbuseName:   Network Abuse
+OrgAbusePhone:  +1-408-349-3300 
+OrgAbuseEmail:  abuse@yahoo-inc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO5978-ARIN
+
+RTechHandle: JA256-ARIN
+RTechName:   Arnold, Jeffrey 
+RTechPhone:  +1-212-699-5334 
+RTechEmail:  jba@hotj.net
+RTechRef:    http://whois.arin.net/rest/poc/JA256-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

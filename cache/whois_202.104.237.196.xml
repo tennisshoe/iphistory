@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Chinanet Hostmaster</registrant>
+    <registration>
+      <updated>2000-01-01</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>inetnum:        202.104.0.0 - 202.104.255.255
+netname:        CHINANET-GD
+descr:          CHINANET Guangdong province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        CH93-AP
+tech-c:         IC83-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-GD
+changed:        hostmaster@ns.chinanet.cn.net 20000101
+changed:        hm-changed@apnic.net 20040906
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20041210
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+person:         IPMASTER CHINANET-GD
+nic-hdl:        IC83-AP
+e-mail:         gdnoc_HLWI@189.cn
+address:        NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU
+phone:          +86-20-87189274
+fax-no:         +86-20-87189274
+country:        CN
+changed:        ipadm@189.cn 20110418
+changed:        zhengzm@gsta.com 20140922
+mnt-by:         MAINT-CHINANET-GD
+remarks:        IPMASTER is not for spam complaint,please send spam complaint to abuse_gdnoc@189.cn
+abuse-mailbox:  antispam_gdnoc@189.cn
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

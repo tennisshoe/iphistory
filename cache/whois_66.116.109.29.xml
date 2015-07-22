@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>SWITCH, LTD</registrant>
+    <registration>
+      <created>2004-01-21</created>
+      <updated>2015-05-14</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       66.116.96.0 - 66.116.127.255
+CIDR:           66.116.96.0/19
+NetName:        SWITCH-LTD
+NetHandle:      NET-66-116-96-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   SWITCH, LTD (SWITC-2)
+RegDate:        2004-01-21
+Updated:        2015-05-14
+Ref:            http://whois.arin.net/rest/net/NET-66-116-96-0-1
+
+OrgName:        SWITCH, LTD
+OrgId:          SWITC-2
+Address:        7135 South Decatur Blvd
+City:           Las Vegas
+StateProv:      NV
+PostalCode:     89118
+Country:        US
+RegDate:        2005-02-24
+Updated:        2015-05-14
+Ref:            http://whois.arin.net/rest/org/SWITC-2
+
+OrgNOCHandle: NOC1746-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-702-444-4000 
+OrgNOCEmail:  noc@switchnap.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1746-ARIN
+
+OrgTechHandle: NETOP119-ARIN
+OrgTechName:   netops
+OrgTechPhone:  +1-702-333-6602 
+OrgTechEmail:  netops@switchnap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETOP119-ARIN
+
+OrgAbuseHandle: ABUSE860-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-702-444-4000 
+OrgAbuseEmail:  abuse@switchnap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE860-ARIN
+
+RAbuseHandle: ABUSE860-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-702-444-4000 
+RAbuseEmail:  abuse@switchnap.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE860-ARIN
+
+RNOCHandle: NOC1746-ARIN
+RNOCName:   NOC
+RNOCPhone:  +1-702-444-4000 
+RNOCEmail:  noc@switchnap.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC1746-ARIN
+
+RTechHandle: NETOP119-ARIN
+RTechName:   netops
+RTechPhone:  +1-702-333-6602 
+RTechEmail:  netops@switchnap.com
+RTechRef:    http://whois.arin.net/rest/poc/NETOP119-ARIN
+
+NetRange:       66.116.109.0 - 66.116.109.31
+CIDR:           66.116.109.0/27
+NetName:        ARISTOCRATGAMING-109
+NetHandle:      NET-66-116-109-0-1
+Parent:         SWITCH-LTD (NET-66-116-96-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Aristocrat Gaming (AG-55)
+RegDate:        2011-11-07
+Updated:        2011-11-07
+Ref:            http://whois.arin.net/rest/net/NET-66-116-109-0-1
+
+OrgName:        Aristocrat Gaming
+OrgId:          AG-55
+Address:        7230 Amigo St.
+City:           Las Vegas
+StateProv:      NV
+PostalCode:     89119
+Country:        US
+RegDate:        2011-11-07
+Updated:        2011-11-07
+Ref:            http://whois.arin.net/rest/org/AG-55
+
+OrgAbuseHandle: NAG14-ARIN
+OrgAbuseName:   NOC - Aristocrat Gaming
+OrgAbusePhone:  +1-800-482-3723 
+OrgAbuseEmail:  servicessupport@aristocrat-inc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAG14-ARIN
+
+OrgTechHandle: NAG14-ARIN
+OrgTechName:   NOC - Aristocrat Gaming
+OrgTechPhone:  +1-800-482-3723 
+OrgTechEmail:  servicessupport@aristocrat-inc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NAG14-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

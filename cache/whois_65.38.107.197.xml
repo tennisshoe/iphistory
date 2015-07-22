@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>SunGard VeriCenter Inc</registrant>
+    <registration>
+      <created>2003-08-22</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       65.38.96.0 - 65.38.127.255
+CIDR:           65.38.96.0/19
+NetName:        VERICENTER-03-08
+NetHandle:      NET-65-38-96-0-1
+Parent:         NET65 (NET-65-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS20183
+Organization:   SunGard VeriCenter Inc (SUNGA-14)
+RegDate:        2003-08-22
+Updated:        2012-03-02
+Comment:        http://www.vericenter.com/
+Ref:            http://whois.arin.net/rest/net/NET-65-38-96-0-1
+
+OrgName:        SunGard VeriCenter Inc
+OrgId:          SUNGA-14
+Address:        401 North Broad Street
+City:           Philadelphia
+StateProv:      PA
+PostalCode:     19108
+Country:        US
+RegDate:        2008-11-24
+Updated:        2014-07-21
+Ref:            http://whois.arin.net/rest/org/SUNGA-14
+
+OrgTechHandle: SWIPA2-ARIN
+OrgTechName:   SWIP Automation
+OrgTechPhone:  +1-215-446-1617 
+OrgTechEmail:  swip@sgns.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPA2-ARIN
+
+OrgNOCHandle: SN221-ARIN
+OrgNOCName:   SGNS NOC
+OrgNOCPhone:  +1-800-441-1181 
+OrgNOCEmail:  noc@sgns.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/SN221-ARIN
+
+OrgAbuseHandle: ABUSE4810-ARIN
+OrgAbuseName:   Abuse-SAS
+OrgAbusePhone:  +1-800-441-1181 
+OrgAbuseEmail:  as.us.abuse@sungardas.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4810-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

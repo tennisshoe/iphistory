@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Voxel Dot Net, Inc.</registrant>
+    <registration>
+      <created>2009-05-29</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       72.251.192.0 - 72.251.255.255
+CIDR:           72.251.192.0/18
+NetName:        VOXEL-NET-8
+NetHandle:      NET-72-251-192-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS29791
+Organization:   Voxel Dot Net, Inc. (VDN-1)
+RegDate:        2009-05-29
+Updated:        2012-03-02
+Comment:        Re-assignment data at whois.voxel.net.
+Comment:        Abuse complaints to abuse@voxel.net.
+Ref:            http://whois.arin.net/rest/net/NET-72-251-192-0-1
+
+OrgName:        Voxel Dot Net, Inc.
+OrgId:          VDN-1
+Address:        29 Broadway
+Address:        30th Floor
+City:           New York
+StateProv:      NY
+PostalCode:     10006
+Country:        US
+RegDate:        2000-05-06
+Updated:        2015-05-12
+Ref:            http://whois.arin.net/rest/org/VDN-1
+
+ReferralServer:  rwhois://rwhois.voxel.net:4321
+
+OrgTechHandle: VOXEL-ARIN
+OrgTechName:   Voxel NOC
+OrgTechPhone:  +1-212-812-4195 
+OrgTechEmail:  noc@voxel.net
+OrgTechRef:    http://whois.arin.net/rest/poc/VOXEL-ARIN
+
+OrgNOCHandle: VOXEL-ARIN
+OrgNOCName:   Voxel NOC
+OrgNOCPhone:  +1-212-812-4195 
+OrgNOCEmail:  noc@voxel.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/VOXEL-ARIN
+
+OrgAbuseHandle: VAD4-ARIN
+OrgAbuseName:   Voxel Abuse Desk
+OrgAbusePhone:  +1-212-812-4190 
+OrgAbuseEmail:  abuse@voxel.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/VAD4-ARIN
+
+RTechHandle: VDN-ARIN
+RTechName:   Voxel Dot Net
+RTechPhone:  +1-212-812-4195 
+RTechEmail:  operations@voxel.net
+RTechRef:    http://whois.arin.net/rest/poc/VDN-ARIN
+
+RAbuseHandle: VDN-ARIN
+RAbuseName:   Voxel Dot Net
+RAbusePhone:  +1-212-812-4195 
+RAbuseEmail:  operations@voxel.net
+RAbuseRef:    http://whois.arin.net/rest/poc/VDN-ARIN
+
+RNOCHandle: VDN-ARIN
+RNOCName:   Voxel Dot Net
+RNOCPhone:  +1-212-812-4195 
+RNOCEmail:  operations@voxel.net
+RNOCRef:    http://whois.arin.net/rest/poc/VDN-ARIN
+
+== Additional Information From rwhois://rwhois.voxel.net:4321 ==
+
+%rwhois V-1.0,V-1.5:00090h:00 ubersmith.internap.com (Ubersmith RWhois Server V-3.2.dev8.0)
+%error 230 Address not found</record>
+    </whois>
+  </response>
+</whoisapi>
+

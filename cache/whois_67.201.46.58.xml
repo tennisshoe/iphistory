@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PacketExchange, Inc</registrant>
+    <registration>
+      <created>2007-07-11</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       67.201.0.0 - 67.201.63.255
+CIDR:           67.201.0.0/18
+NetName:        NETBLK-PACKETEXCHANGE-V4-04
+NetHandle:      NET-67-201-0-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS25973
+Organization:   PacketExchange, Inc (PACKE-25)
+RegDate:        2007-07-11
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-67-201-0-0-1
+
+OrgName:        PacketExchange, Inc
+OrgId:          PACKE-25
+Address:        GTT Communications, Inc.
+Address:        8484 Westpark Drive
+Address:        Suite 720
+City:           McLean
+StateProv:      VA
+PostalCode:     22102
+Country:        US
+RegDate:        2008-02-26
+Updated:        2014-04-16
+Ref:            http://whois.arin.net/rest/org/PACKE-25
+
+OrgNOCHandle: GNOC16-ARIN
+OrgNOCName:   GTT Network Operations Center
+OrgNOCPhone:  +1-866-250-3887 
+OrgNOCEmail:  noc@gtt.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/GNOC16-ARIN
+
+OrgAbuseHandle: GAD46-ARIN
+OrgAbuseName:   GTT Abuse Department
+OrgAbusePhone:  +1-703-442-5501 
+OrgAbuseEmail:  abuse@gtt.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GAD46-ARIN
+
+OrgTechHandle: AS3251-ARIN
+OrgTechName:   AS3257 Netguard
+OrgTechPhone:  +49 6102 8235 389 
+OrgTechEmail:  netguard@gtt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AS3251-ARIN
+
+OrgTechHandle: GNOC16-ARIN
+OrgTechName:   GTT Network Operations Center
+OrgTechPhone:  +1-866-250-3887 
+OrgTechEmail:  noc@gtt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/GNOC16-ARIN
+
+NetRange:       67.201.46.0 - 67.201.46.255
+CIDR:           67.201.46.0/24
+NetName:        MZIMA04-CUST-CDN03-SEA
+NetHandle:      NET-67-201-46-0-1
+Parent:         NETBLK-PACKETEXCHANGE-V4-04 (NET-67-201-0-0-1)
+NetType:        Reallocated
+OriginAS:       AS25973
+Organization:   CDNETWORKS (CDNET-1)
+RegDate:        2008-01-23
+Updated:        2008-01-23
+Ref:            http://whois.arin.net/rest/net/NET-67-201-46-0-1
+
+OrgName:        CDNETWORKS
+OrgId:          CDNET-1
+Address:        441 W. Trimble rd
+City:           San Jose
+StateProv:      CA
+PostalCode:     95134
+Country:        US
+RegDate:        2007-12-25
+Updated:        2011-08-17
+Ref:            http://whois.arin.net/rest/org/CDNET-1
+
+OrgAbuseHandle: IAA24-ARIN
+OrgAbuseName:   IP Addressing Abuse
+OrgAbusePhone:  +1-408-432-1301 
+OrgAbuseEmail:  ABUSE@cdnetworks.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAA24-ARIN
+
+OrgNOCHandle: NOCAN2-ARIN
+OrgNOCName:   NOC and TroubleShooting
+OrgNOCPhone:  +1-408-228-3455 
+OrgNOCEmail:  netops@cdnetworks.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCAN2-ARIN
+
+OrgTechHandle: NOCAN2-ARIN
+OrgTechName:   NOC and TroubleShooting
+OrgTechPhone:  +1-408-228-3455 
+OrgTechEmail:  netops@cdnetworks.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOCAN2-ARIN
+
+RTechHandle: ALE90-ARIN
+RTechName:   Lee, Albert 
+RTechPhone:  +1-408-228-3370 
+RTechEmail:  ted.ko@cdnetworks.com
+RTechRef:    http://whois.arin.net/rest/poc/ALE90-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>VeriSign Infrastructure &amp; Operations</registrant>
+    <registration>
+      <created>1999-01-13</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.168.224.0 - 216.168.239.255
+CIDR:           216.168.224.0/20
+NetName:        NSI-NETBLK1
+NetHandle:      NET-216-168-224-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   VeriSign Infrastructure &amp; Operations (VIO-2)
+RegDate:        1999-01-13
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-168-224-0-1
+
+OrgName:        VeriSign Infrastructure &amp; Operations
+OrgId:          VIO-2
+Address:        12061 Bluemont Way
+City:           Reston
+StateProv:      VA
+PostalCode:     20190
+Country:        US
+RegDate:        2002-07-11
+Updated:        2012-01-03
+Ref:            http://whois.arin.net/rest/org/VIO-2
+
+OrgTechHandle: NETWO480-ARIN
+OrgTechName:   Network Admin
+OrgTechPhone:  +1-703-948-4300 
+OrgTechEmail:  netadmin@verisign.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO480-ARIN
+
+OrgAbuseHandle: NETWO480-ARIN
+OrgAbuseName:   Network Admin
+OrgAbusePhone:  +1-703-948-4300 
+OrgAbuseEmail:  netadmin@verisign.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO480-ARIN
+
+RTechHandle: NETWO480-ARIN
+RTechName:   Network Admin
+RTechPhone:  +1-703-948-4300 
+RTechEmail:  netadmin@verisign.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO480-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

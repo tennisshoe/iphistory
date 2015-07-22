@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>MegaPath Corporation</registrant>
+    <registration>
+      <created>2001-07-13</created>
+      <updated>2013-10-08</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       66.134.0.0 - 66.134.255.255
+CIDR:           66.134.0.0/16
+NetName:        MEGAPATH-BLK-54
+NetHandle:      NET-66-134-0-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS18566
+Organization:   MegaPath Corporation (MC-289)
+RegDate:        2001-07-13
+Updated:        2013-10-08
+Ref:            http://whois.arin.net/rest/net/NET-66-134-0-0-1
+
+OrgName:        MegaPath Corporation
+OrgId:          MC-289
+Address:        2510 Zanker Rd
+City:           San Jose
+StateProv:      CA
+PostalCode:     95131
+Country:        US
+RegDate:        2012-08-23
+Updated:        2015-03-20
+Comment:        RWhois information at both:
+Comment:        (Formerly known as Covad, Speakeasy)
+Ref:            http://whois.arin.net/rest/org/MC-289
+
+ReferralServer:  rwhois://rwhois.covad.com:4321
+
+OrgAbuseHandle: GCCS-ARIN
+OrgAbuseName:   Global Capacity Customer Services
+OrgAbusePhone:  +1-720-670-1099 
+OrgAbuseEmail:  abuse@globalcapacity.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GCCS-ARIN
+
+OrgTechHandle: GCIA1-ARIN
+OrgTechName:   Global Capacity IP Admin
+OrgTechPhone:  +1-408-434-4731 
+OrgTechEmail:  ipadmin@globalcapacity.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GCIA1-ARIN
+
+OrgNOCHandle: GCNOC-ARIN
+OrgNOCName:   Global Capacity Network Operation Center
+OrgNOCPhone:  +1-888-801-6285 
+OrgNOCEmail:  tmnoc@globalcapacity.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/GCNOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

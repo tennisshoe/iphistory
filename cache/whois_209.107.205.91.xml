@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Akamai</registrant>
+    <registration>
+      <created>2009-07-22</created>
+      <updated>2009-07-22</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       209.107.205.0 - 209.107.205.255
+CIDR:           209.107.205.0/24
+NetName:        AKAMAI-209-107-205-0-24
+NetHandle:      NET-209-107-205-0-1
+Parent:         BANDCON (NET-209-107-192-0-1)
+NetType:        Reassigned
+OriginAS:       AS26769
+Customer:       Akamai (C02280248)
+RegDate:        2009-07-22
+Updated:        2009-07-22
+Ref:            http://whois.arin.net/rest/net/NET-209-107-205-0-1
+
+CustName:       Akamai
+Address:        8 Cambridge Center
+City:           Cambridge
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        2009-07-22
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02280248
+
+OrgAbuseHandle: ABUSE2757-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-602-515-0938 
+OrgAbuseEmail:  abuse@bandcon.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2757-ARIN
+
+OrgTechHandle: NOC2402-ARIN
+OrgTechName:   Network Operation Center
+OrgTechPhone:  +1-888-253-8353 
+OrgTechEmail:  arinpoc@bandcon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2402-ARIN
+
+RTechHandle: NOC2402-ARIN
+RTechName:   Network Operation Center
+RTechPhone:  +1-888-253-8353 
+RTechEmail:  arinpoc@bandcon.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC2402-ARIN
+
+RNOCHandle: NOC2402-ARIN
+RNOCName:   Network Operation Center
+RNOCPhone:  +1-888-253-8353 
+RNOCEmail:  arinpoc@bandcon.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2402-ARIN
+
+RAbuseHandle: NOC2402-ARIN
+RAbuseName:   Network Operation Center
+RAbusePhone:  +1-888-253-8353 
+RAbuseEmail:  arinpoc@bandcon.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC2402-ARIN
+
+NetRange:       209.107.192.0 - 209.107.223.255
+CIDR:           209.107.192.0/19
+NetName:        BANDCON
+NetHandle:      NET-209-107-192-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS26769
+Organization:   BandCon (BANDW-406)
+RegDate:        2009-04-16
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-209-107-192-0-1
+
+OrgName:        BandCon
+OrgId:          BANDW-406
+Address:        151 Kalmus Drive
+Address:        Suite M-2
+City:           Costa Mesa
+StateProv:      CA
+PostalCode:     92626
+Country:        US
+RegDate:        2007-01-26
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/BANDW-406
+
+OrgAbuseHandle: ABUSE2757-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-602-515-0938 
+OrgAbuseEmail:  abuse@bandcon.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2757-ARIN
+
+OrgTechHandle: NOC2402-ARIN
+OrgTechName:   Network Operation Center
+OrgTechPhone:  +1-888-253-8353 
+OrgTechEmail:  arinpoc@bandcon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2402-ARIN
+
+RTechHandle: NOC2402-ARIN
+RTechName:   Network Operation Center
+RTechPhone:  +1-888-253-8353 
+RTechEmail:  arinpoc@bandcon.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC2402-ARIN
+
+RNOCHandle: NOC2402-ARIN
+RNOCName:   Network Operation Center
+RNOCPhone:  +1-888-253-8353 
+RNOCEmail:  arinpoc@bandcon.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2402-ARIN
+
+RAbuseHandle: NOC2402-ARIN
+RAbuseName:   Network Operation Center
+RAbusePhone:  +1-888-253-8353 
+RAbuseEmail:  arinpoc@bandcon.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC2402-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>MICRO PLASTICS</registrant>
+    <registration>
+      <created>2000-11-03</created>
+      <updated>2000-11-03</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       12.35.121.0 - 12.35.121.255
+CIDR:           12.35.121.0/24
+NetName:        MICRO72-121
+NetHandle:      NET-12-35-121-0-1
+Parent:         ATT (NET-12-0-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   MICRO PLASTICS (MICROP-20)
+RegDate:        2000-11-03
+Updated:        2000-11-03
+Ref:            http://whois.arin.net/rest/net/NET-12-35-121-0-1
+
+OrgName:        MICRO PLASTICS
+OrgId:          MICROP-20
+Address:        HWY 178 NORTH
+City:           FLIPPIN
+StateProv:      AR
+PostalCode:     72634
+Country:        US
+RegDate:        2000-03-04
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/MICROP-20
+
+OrgAbuseHandle: CKN23-ARIN
+OrgAbuseName:   No, Contact Known
+OrgAbusePhone:  +1-800-555-1234 
+OrgAbuseEmail:  nobody@example.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+OrgTechHandle: CKN23-ARIN
+OrgTechName:   No, Contact Known
+OrgTechPhone:  +1-800-555-1234 
+OrgTechEmail:  nobody@example.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+RTechHandle: RK382-ARIN
+RTechName:   KIMBLE, REED 
+RTechPhone:  +1-870-453-8861 
+RTechEmail:  rkimble@microplastics.com
+RTechRef:    http://whois.arin.net/rest/poc/RK382-ARIN
+
+NetRange:       12.0.0.0 - 12.255.255.255
+CIDR:           12.0.0.0/8
+NetName:        ATT
+NetHandle:      NET-12-0-0-0-1
+Parent:         NET12 (NET-12-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   AT&amp;T Services, Inc. (ATTW-Z)
+RegDate:        1983-08-23
+Updated:        2013-12-19
+Comment:        For abuse issues contact abuse@att.net
+Ref:            http://whois.arin.net/rest/net/NET-12-0-0-0-1
+
+OrgName:        AT&amp;T Services, Inc.
+OrgId:          ATTW-Z
+Address:        200 S. Laurel AVE.
+City:           MIDDLETOWN
+StateProv:      NJ
+PostalCode:     07748
+Country:        US
+RegDate:        2009-12-18
+Updated:        2013-01-18
+Comment:        Contact AT&amp;T Abuse ( abuse@att.net ) for policy abuse issues.
+Comment:        All policy abuse issues sent to other POCs will be disregarded.
+Ref:            http://whois.arin.net/rest/org/ATTW-Z
+
+OrgAbuseHandle: ATTAB-ARIN
+OrgAbuseName:   ATT Abuse
+OrgAbusePhone:  +1-919-319-8130 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ATTAB-ARIN
+
+OrgTechHandle: JB3310-ARIN
+OrgTechName:   Borkenhagen, Jay C.
+OrgTechPhone:  +1-732-368-6004 
+OrgTechEmail:  jayb@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JB3310-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-613-6330 
+OrgTechEmail:  bd530f@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ICC-ARIN
+
+OrgTechHandle: IPSWI-ARIN
+OrgTechName:   IP SWIP
+OrgTechPhone:  +1-888-613-6330 
+OrgTechEmail:  swipid@icorefep3.ims.att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPSWI-ARIN
+
+RTechHandle: IAA17-ARIN
+RTechName:   IP Address Administration
+RTechPhone:  +1-732-420-2071 
+RTechEmail:  addrmgt@qsun.att.com
+RTechRef:    http://whois.arin.net/rest/poc/IAA17-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

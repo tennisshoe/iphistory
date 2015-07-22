@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NTT America, Inc.</registrant>
+    <registration>
+      <created>1997-04-04</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       192.80.12.0 - 192.80.17.255
+CIDR:           192.80.12.0/22, 192.80.16.0/23
+NetName:        NTTA-192-80-12
+NetHandle:      NET-192-80-12-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   NTT America, Inc. (NTTAM-1)
+RegDate:        1997-04-04
+Updated:        2012-03-02
+Comment:        
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.gin.ntt.net port 4321
+Ref:            http://whois.arin.net/rest/net/NET-192-80-12-0-1
+
+OrgName:        NTT America, Inc.
+OrgId:          NTTAM-1
+Address:        8300 E Maplewood Ave.
+Address:        Suite 400
+City:           Greenwood Village
+StateProv:      CO
+PostalCode:     80111
+Country:        US
+RegDate:        2005-12-08
+Updated:        2014-12-29
+Ref:            http://whois.arin.net/rest/org/NTTAM-1
+
+ReferralServer:  rwhois://rwhois.gin.ntt.net:4321
+
+OrgAbuseHandle: NAAC-ARIN
+OrgAbuseName:   NTT America Abuse Contact
+OrgAbusePhone:  +1-877-688-6625 
+OrgAbuseEmail:  abuse@ntt.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAAC-ARIN
+
+OrgNOCHandle: NASC-ARIN
+OrgNOCName:   NTT America Support Contact
+OrgNOCPhone:  +1-877-688-6625 
+OrgNOCEmail:  support@us.ntt.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NASC-ARIN
+
+OrgTechHandle: VIPAR-ARIN
+OrgTechName:   VIPAR
+OrgTechPhone:  +1-877-688-6625 
+OrgTechEmail:  vipar@us.ntt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/VIPAR-ARIN
+
+RTechHandle: VIA4-ORG-ARIN
+RTechName:   VIPAR
+RTechPhone:  +1-877-688-6625 
+RTechEmail:  vipar@us.ntt.net
+RTechRef:    http://whois.arin.net/rest/poc/VIA4-ORG-ARIN
+
+== Additional Information From rwhois://rwhois.gin.ntt.net:4321 ==
+
+%rwhois V-1.5:0078b6:00 rwhois.gin.ntt.net (Vipar 0.1a. Comments to vipar@us.ntt.net)
+network:Class-Name:network
+network:Auth-Area:192.80.12.0/22
+network:ID:A003-192-80-13-0.127.0.0.1/32
+network:Handle:A003-192-80-13-0
+network:Network-Name:A003-192-80-13-0
+network:IP-Network:192.80.13.0/24
+network:In-Addr-Server;I:GIN1-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN2-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN3-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN4-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN5-HST.127.0.0.1/32
+network:IP-Network-Block:192.80.13.0 - 192.80.13.255
+network:Org-Name:Akamai
+network:Street-Address:8 Cambridge Center
+network:City:Cambridge
+network:State:MA
+network:Postal-Code:02142
+network:Country-Code:US
+network:Tech-Contact;I:NTTA-AKAMAI.127.0.0.1/32
+network:Created:2010-10-14 14:07:33.391965+00
+network:Updated:2010-10-14 14:07:33.391965+00
+
+network:Class-Name:network
+network:Auth-Area:192.80.12.0/22
+network:ID:NETBLK-VRIO-192-080-012.127.0.0.1/32
+network:Handle:NETBLK-VRIO-192-080-012
+network:Network-Name:VRIO-192-080-012
+network:IP-Network:192.80.12.0/22
+network:In-Addr-Server;I:AUTH21-GIN-HST.127.0.0.1/32
+network:In-Addr-Server;I:AUTH22-GIN-HST.127.0.0.1/32
+network:In-Addr-Server;I:AUTH23-GIN-HST.127.0.0.1/32
+network:In-Addr-Server;I:AUTH24-GIN-HST.127.0.0.1/32
+network:In-Addr-Server;I:AUTH25-GIN-HST.127.0.0.1/32
+network:IP-Network-Block:192.80.12.0 - 192.80.15.255
+network:Org-Name:NTT America - Western WA
+network:Street-Address:15400 SE 30th PL, Suite 202
+network:City:Bellevue
+network:State:WA
+network:Postal-Code:98007
+network:Country-Code:US
+network:Tech-Contact;I:IA4363-VRIO.127.0.0.1/32
+network:Created:2000-03-21 19:36:28+00
+network:Updated:2007-07-18 22:52:48+00
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

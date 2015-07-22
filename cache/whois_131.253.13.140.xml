@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Microsoft Corp</registrant>
+    <registration>
+      <created>2011-06-22</created>
+      <updated>2013-08-20</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       131.253.12.0 - 131.253.18.255
+CIDR:           131.253.12.0/22, 131.253.16.0/23, 131.253.18.0/24
+NetName:        MICROSOFT
+NetHandle:      NET-131-253-12-0-1
+Parent:         NET131 (NET-131-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Microsoft Corp (MSFT-Z)
+RegDate:        2011-06-22
+Updated:        2013-08-20
+Ref:            http://whois.arin.net/rest/net/NET-131-253-12-0-1
+
+OrgName:        Microsoft Corp
+OrgId:          MSFT-Z
+Address:        One Microsoft Way
+City:           Redmond
+StateProv:      WA
+PostalCode:     98052
+Country:        US
+RegDate:        2011-06-22
+Updated:        2015-05-19
+Comment:        To report suspected security issues specific to 
+Comment:        traffic emanating from Microsoft online services, 
+Comment:        including the distribution of malicious content 
+Comment:        or other illicit or illegal material through a 
+Comment:        Microsoft online service, please submit reports 
+Comment:        to:
+Comment:        * https://cert.microsoft.com.  
+Comment:        
+Comment:        For SPAM and other abuse issues, such as Microsoft 
+Comment:        Accounts, please contact:
+Comment:        * abuse@microsoft.com.  
+Comment:        
+Comment:        To report security vulnerabilities in Microsoft 
+Comment:        products and services, please contact:
+Comment:        * secure@microsoft.com.  
+Comment:        
+Comment:        For legal and law enforcement-related requests, 
+Comment:        please contact:
+Comment:        * msndcc@microsoft.com
+Comment:        
+Comment:        For routing, peering or DNS issues, please 
+Comment:        contact:
+Comment:        * IOC@microsoft.com
+Ref:            http://whois.arin.net/rest/org/MSFT-Z
+
+OrgTechHandle: MRPD-ARIN
+OrgTechName:   Microsoft Routing, Peering, and DNS
+OrgTechPhone:  +1-425-882-8080 
+OrgTechEmail:  IOC@microsoft.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MRPD-ARIN
+
+OrgAbuseHandle: MAC74-ARIN
+OrgAbuseName:   Microsoft Abuse Contact
+OrgAbusePhone:  +1-425-882-8080 
+OrgAbuseEmail:  abuse@microsoft.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MAC74-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

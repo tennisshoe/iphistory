@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>yanping qian</registrant>
+    <registration>
+      <updated>2004-02-27</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>inetnum:        210.51.20.0 - 210.51.63.255
+netname:        CNC-SH-IDC
+country:        CN
+descr:          Shanghai Caohejing IDC of China Netcom
+admin-c:        CH140-AP
+tech-c:         YQ87-AP
+status:         ALLOCATED NON-PORTABLE
+changed:        cncipaddr@china-netcom.com 20040227
+mnt-by:         MAINT-CN-ZM28
+mnt-lower:      MAINT-CN-SHIDC
+source:         APNIC
+
+role:           CNCIDC hostmaster
+address:        No.1,Beihuan Donglu,BDA,Beijing,China
+country:        CN
+phone:          +8610 6787 5599
+fax-no:         +8610 6787 8624
+e-mail:         cncipaddr@china-netcom.com
+remarks:        send spam and abuse reports to tech-group@china-netcom.com
+remarks:        Please include detailed information and times in UTC
+admin-c:        TJ35-AP
+tech-c:         TC254-AP
+nic-hdl:        Ch140-AP
+notify:         cncipaddr@china-netcom.com
+mnt-by:         MAINT-CN-ZM28
+changed:        hm-changed@apnic.net 20040226
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+person:         yanping qian
+nic-hdl:        YQ87-AP
+e-mail:         qianyp@china-netcom.com
+address:        shanghai IDC of China Netcom
+phone:          +86-021-58878899
+fax-no:         +86-021-58878899
+country:        cn
+changed:        cncipaddr@china-netcom.com 20040227
+mnt-by:         MAINT-CN-SHIDC
+source:         APNIC
+
+route:          210.51.0.0/16
+descr:          CNC Group CncNet
+country:        CN
+origin:         AS9929
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20060330
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

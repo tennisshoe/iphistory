@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Abovenet Communications, Inc</registrant>
+    <registration>
+      <created>1999-02-05</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       216.200.0.0 - 216.200.255.255
+CIDR:           216.200.0.0/16
+NetName:        ABOVENET-5
+NetHandle:      NET-216-200-0-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Abovenet Communications, Inc (ABVE)
+RegDate:        1999-02-05
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-216-200-0-0-1
+
+OrgName:        Abovenet Communications, Inc
+OrgId:          ABVE
+Address:        360 Hamilton Ave
+City:           White Plains
+StateProv:      NY
+PostalCode:     10601
+Country:        US
+RegDate:        1996-04-22
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/ABVE
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ipncc@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

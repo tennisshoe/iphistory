@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hostway Corporation</registrant>
+    <registration>
+      <created>2000-08-15</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-07-20</date>
+      <record>NetRange:       216.36.192.0 - 216.36.255.255
+CIDR:           216.36.192.0/18
+NetName:        HOSTWAY-04
+NetHandle:      NET-216-36-192-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Hostway Corporation (HSWY)
+RegDate:        2000-08-15
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-216-36-192-0-1
+
+OrgName:        Hostway Corporation
+OrgId:          HSWY
+Address:        100 N. Riverside Plaza
+Address:        8th Floor
+City:           Chicago
+StateProv:      IL
+PostalCode:     60606
+Country:        US
+RegDate:        1999-06-17
+Updated:        2012-09-28
+Comment:        Send mass mail abuse complaints to abuse@hostway.com. Send network abuse complaints to noc@hostway.com.
+Ref:            http://whois.arin.net/rest/org/HSWY
+
+OrgTechHandle: AN94-ARIN
+OrgTechName:   Administrator Network
+OrgTechPhone:  +1-312-238-0125 
+OrgTechEmail:  noc@hostway.com
+OrgTechRef:    http://whois.arin.net/rest/poc/AN94-ARIN
+
+OrgAbuseHandle: ABUSE393-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-312-238-0125 
+OrgAbuseEmail:  abuse@hostway.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE393-ARIN
+
+RTechHandle: AN94-ARIN
+RTechName:   Administrator Network
+RTechPhone:  +1-312-238-0125 
+RTechEmail:  noc@hostway.com
+RTechRef:    http://whois.arin.net/rest/poc/AN94-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

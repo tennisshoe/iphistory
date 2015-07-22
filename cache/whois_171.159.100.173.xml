@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Bank of America</registrant>
+    <registration>
+      <created>1995-02-01</created>
+      <updated>2012-04-02</updated>
+    </registration>
+    <whois>
+      <date>2015-07-14</date>
+      <record>NetRange:       171.128.0.0 - 171.206.255.255
+CIDR:           171.204.0.0/15, 171.200.0.0/14, 171.192.0.0/13, 171.128.0.0/10, 171.206.0.0/16
+NetName:        BAC-171-128-0-0-1
+NetHandle:      NET-171-128-0-0-1
+Parent:         APNIC-ERX-171 (NET-171-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Bank of America (BANKOF-2-Z)
+RegDate:        1995-02-01
+Updated:        2012-04-02
+Ref:            http://whois.arin.net/rest/net/NET-171-128-0-0-1
+
+OrgName:        Bank of America
+OrgId:          BANKOF-2-Z
+Address:        2000 Clayton Road
+Address:        M/S CA4-704-04-21
+City:           Concord
+StateProv:      CA
+PostalCode:     94520
+Country:        US
+RegDate:        2010-09-07
+Updated:        2012-06-08
+Comment:        For abuse issues contact abuse@bankofamerica.com
+Ref:            http://whois.arin.net/rest/org/BANKOF-2-Z
+
+OrgTechHandle: ZB29-ARIN
+OrgTechName:   HOSTMASTER
+OrgTechPhone:  +1-904-987-0917 
+OrgTechEmail:  HOSTMASTER@bankofamerica.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZB29-ARIN
+
+OrgAbuseHandle: ABUSE608-ARIN
+OrgAbuseName:   ABUSE
+OrgAbusePhone:  +1-704-386-5000 
+OrgAbuseEmail:  ABUSE@bankofamerica.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE608-ARIN
+
+OrgTechHandle: LAU-ARIN
+OrgTechName:   Uribarri, Luis Alfonso
+OrgTechPhone:  +1-856-316-8115 
+OrgTechEmail:  luis.a.uribarri@bankofamerica.com
+OrgTechRef:    http://whois.arin.net/rest/poc/LAU-ARIN
+
+OrgTechHandle: RKC2-ARIN
+OrgTechName:   Cleary, Robert K
+OrgTechPhone:  +1-904-987-0917 
+OrgTechEmail:  robert.cleary@bankofamerica.com
+OrgTechRef:    http://whois.arin.net/rest/poc/RKC2-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+
