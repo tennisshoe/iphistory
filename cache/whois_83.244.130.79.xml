@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Exponential-e Ltd</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.244.130.64 - 83.244.130.127' is 'mukesh.bavisi@exponential-e.com'
+
+inetnum:        83.244.130.64 - 83.244.130.127
+netname:        MORESAND-LTD-TA-CRYSTAL-TRAVEL-NETID5422
+descr:          Customer Allocation - Internet Service
+country:        GB
+admin-c:        EEUK1-RIPE
+tech-c:         EEUK1-RIPE
+status:         ASSIGNED PA
+mnt-by:         EXPONENTIAL-E-MNT
+changed:        mukesh.bavisi@exponential-e.com 20110516
+created:        2011-05-11T14:03:57Z
+last-modified:  2011-05-16T11:02:57Z
+source:         RIPE
+
+role:           Exponential-e Ltd
+address:        Exponential-e Ltd
+address:        Central House
+address:        25 Camperdown Street
+address:        London E1 8DQ
+address:        England
+phone:          +44 (0)20 7096 4100
+fax-no:         +44 (0)20 7096 4101
+e-mail:         ripe-notify@exponential-e.com
+admin-c:        MB3197-RIPE
+admin-c:        JB2918-RIPE
+admin-c:        LW848-RIPE
+tech-c:         MB3197-RIPE
+tech-c:         JB2918-RIPE
+tech-c:         LW848-RIPE
+nic-hdl:        EEUK1-RIPE
+mnt-by:         EXPONENTIAL-E-MNT
+changed:        mukesh.bavisi@exponential-e.com 20080609
+created:        2002-08-30T13:14:05Z
+last-modified:  2014-07-29T08:52:54Z
+source:         RIPE
+
+route:          83.244.128.0/17
+descr:          Exponential-e Ltd
+origin:         AS25180
+mnt-by:         EXPONENTIAL-E-MNT
+changed:        tema.hassan@exponential-e.com 20040426
+created:        2004-04-26T12:23:44Z
+last-modified:  2004-04-26T12:23:44Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

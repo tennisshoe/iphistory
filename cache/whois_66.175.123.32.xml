@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TERRENAP DATA CENTERS, INC.</registrant>
+    <registration>
+      <created>2005-12-22</created>
+      <updated>2012-09-14</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.175.96.0 - 66.175.127.255
+CIDR:           66.175.96.0/19
+NetName:        TERRENAP-0-18
+NetHandle:      NET-66-175-96-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   TERRENAP DATA CENTERS, INC. (TERREN-2)
+RegDate:        2005-12-22
+Updated:        2012-09-14
+Ref:            http://whois.arin.net/rest/net/NET-66-175-96-0-1
+
+OrgName:        TERRENAP DATA CENTERS, INC.
+OrgId:          TERREN-2
+Address:        50 NE 9th St
+Address:        2nd Floor
+City:           Miami
+StateProv:      FL
+PostalCode:     33132
+Country:        US
+RegDate:        2002-01-30
+Updated:        2012-09-14
+Ref:            http://whois.arin.net/rest/org/TERREN-2
+
+OrgTechHandle: PAXTO-ARIN
+OrgTechName:   Paxton, Joe 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  jpaxton@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/PAXTO-ARIN
+
+OrgTechHandle: HOSTM537-ARIN
+OrgTechName:   Hostmaster
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  hostmaster@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM537-ARIN
+
+OrgTechHandle: SS2510-ARIN
+OrgTechName:   Spaller, Steven 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  sspaller@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SS2510-ARIN
+
+OrgAbuseHandle: ABUSE676-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-305-328-8000 
+OrgAbuseEmail:  abuse@terremark.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE676-ARIN
+
+RTechHandle: SS2510-ARIN
+RTechName:   Spaller, Steven 
+RTechPhone:  +1-305-328-8000 
+RTechEmail:  sspaller@terremark.com
+RTechRef:    http://whois.arin.net/rest/poc/SS2510-ARIN
+
+RTechHandle: PAXTO-ARIN
+RTechName:   Paxton, Joe 
+RTechPhone:  +1-305-328-8000 
+RTechEmail:  jpaxton@terremark.com
+RTechRef:    http://whois.arin.net/rest/poc/PAXTO-ARIN
+
+NetRange:       66.175.123.0 - 66.175.123.255
+CIDR:           66.175.123.0/24
+NetName:        TERRENAP-0-18
+NetHandle:      NET-66-175-123-0-1
+Parent:         TERRENAP-0-18 (NET-66-175-96-0-1)
+NetType:        Reassigned
+OriginAS:       AS23148
+Organization:   BADOO TECHNOLOGIES LIMITED (BADOO)
+RegDate:        2009-07-10
+Updated:        2009-07-10
+Ref:            http://whois.arin.net/rest/net/NET-66-175-123-0-1
+
+OrgName:        BADOO TECHNOLOGIES LIMITED
+OrgId:          BADOO
+Address:        28, Denmark street
+Address:        WC2H 8NJ
+City:           London
+StateProv:      
+PostalCode:     
+Country:        GB
+RegDate:        2009-07-10
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/BADOO
+
+OrgTechHandle: BTS11-ARIN
+OrgTechName:   Badoo techical Staff
+OrgTechPhone:  +442070999939 
+OrgTechEmail:  techstaff@corp.badoo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BTS11-ARIN
+
+OrgAbuseHandle: BW963-ARIN
+OrgAbuseName:   Williams, Bill 
+OrgAbusePhone:  +1-305-328-8000 
+OrgAbuseEmail:  bwilliams@terremark.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BW963-ARIN
+
+OrgTechHandle: BW963-ARIN
+OrgTechName:   Williams, Bill 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  bwilliams@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BW963-ARIN
+
+OrgAbuseHandle: BTS11-ARIN
+OrgAbuseName:   Badoo techical Staff
+OrgAbusePhone:  +442070999939 
+OrgAbuseEmail:  techstaff@corp.badoo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BTS11-ARIN
+
+RTechHandle: BW963-ARIN
+RTechName:   Williams, Bill 
+RTechPhone:  +1-305-328-8000 
+RTechEmail:  bwilliams@terremark.com
+RTechRef:    http://whois.arin.net/rest/poc/BW963-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

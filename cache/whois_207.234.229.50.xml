@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Affinity Internet, Inc</registrant>
+    <registration>
+      <created>1996-12-04</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       207.234.128.0 - 207.234.255.255
+CIDR:           207.234.128.0/17
+NetName:        AFFINITY-207-234-128-0
+NetHandle:      NET-207-234-128-0-1
+Parent:         NET207 (NET-207-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Affinity Internet, Inc (AFFI)
+RegDate:        1996-12-04
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-207-234-128-0-1
+
+OrgName:        Affinity Internet, Inc
+OrgId:          AFFI
+Address:        100 North Riverside Drive
+Address:        Suite 800
+City:           Chicago
+StateProv:      IL
+PostalCode:     60606
+Country:        US
+RegDate:        
+Updated:        2014-10-14
+Ref:            http://whois.arin.net/rest/org/AFFI
+
+ReferralServer:  rwhois://rwhois.ftl.affinity.com:4321
+
+OrgAbuseHandle: ABUSE649-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-954-334-8080 
+OrgAbuseEmail:  abuse@affinity.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE649-ARIN
+
+OrgTechHandle: ZA94-ARIN
+OrgTechName:   Affinity Internet IP Management Group
+OrgTechPhone:  +1-312-238-0125 
+OrgTechEmail:  noc@hostway.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZA94-ARIN
+
+== Additional Information From rwhois://rwhois.ftl.affinity.com:4321 ==
+
+%rwhois V-1.5:003eff:00 rwhois.ftl.affinity.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:NET-207.234.128.0/17
+network:Auth-Area:207.234.128.0/17
+network:Network-Name:AFFI-207.234.128.0/17
+network:IP-Network:207.234.229.48/28
+network:IP-Network-Block:207.234.229.49 - 207.234.229.62
+network:Org-Name:Audiology Holdings LLC
+network:Street-Address:19141 Stone Oak Suite# 104
+network:City:SAN ANTONIO
+network:State:TX
+network:Postal-Code:78258
+network:Country-Code:US
+network:Phone:+1-954-334-8080
+network:Tech-Contact;I:ZA94-ARIN
+network:Admin-Contact;I:ip-admin@affinity.com
+network:Created:20070504
+network:Updated:20070504
+network:Updated-By:ip-admin@affinity.com
+
+network:Class-Name:network
+network:ID:NETBLK.207.234.128.0/17
+network:Auth-Area:207.234.128.0/17
+network:Network-Name:AFFI-207.234.128.0
+network:IP-Network:207.234.128.0/17
+network:IP-Network-Block:207.234.128.1 - 207.234.255.255
+network:Org-Name:Affinity Internet Inc
+network:Street-Address:3250 W Commercial Blvd. Suite 200
+network:City:Ft Lauderdale
+network:State:FL
+network:Postal-Code:33309
+network:Country-Code:US
+network:Phone:(954)-334-8080
+network:Tech-Contact;I:ip-admin@affinity.com
+network:Admin-Contact;I:ip-admin@affinity.com
+network:Created:20060807
+network:Updated:20060807
+network:Updated-By:ip-admin@affinity.com
+
+%referral rwhois://rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

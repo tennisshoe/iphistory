@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hosting Solutions International, Inc.</registrant>
+    <registration>
+      <created>2011-01-21</created>
+      <updated>2013-03-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       50.30.32.0 - 50.30.47.255
+CIDR:           50.30.32.0/20
+NetName:        HSI-4
+NetHandle:      NET-50-30-32-0-1
+Parent:         NET50 (NET-50-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS30083
+Organization:   Hosting Solutions International, Inc. (SERVE-6)
+RegDate:        2011-01-21
+Updated:        2013-03-18
+Ref:            http://whois.arin.net/rest/net/NET-50-30-32-0-1
+
+OrgName:        Hosting Solutions International, Inc.
+OrgId:          SERVE-6
+Address:        210 North Tucker Blvd.
+Address:        Suite 910
+City:           Saint Louis
+StateProv:      MO
+PostalCode:     63101
+Country:        US
+RegDate:        2003-04-15
+Updated:        2014-11-13
+Ref:            http://whois.arin.net/rest/org/SERVE-6
+
+OrgNOCHandle: SWI19-ARIN
+OrgNOCName:   Wintz, Sascha 
+OrgNOCPhone:  +1-314-480-6840 
+OrgNOCEmail:  s.wintz@hostingsolutionsinternational.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SWI19-ARIN
+
+OrgTechHandle: SWI19-ARIN
+OrgTechName:   Wintz, Sascha 
+OrgTechPhone:  +1-314-480-6840 
+OrgTechEmail:  s.wintz@hostingsolutionsinternational.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWI19-ARIN
+
+OrgAbuseHandle: HAD16-ARIN
+OrgAbuseName:   HSI Abuse Department
+OrgAbusePhone:  +1-314-266-3638 
+OrgAbuseEmail:  abuse@hostingsolutionsinternational.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HAD16-ARIN
+
+RTechHandle: SWI19-ARIN
+RTechName:   Wintz, Sascha 
+RTechPhone:  +1-314-480-6840 
+RTechEmail:  s.wintz@hostingsolutionsinternational.com
+RTechRef:    http://whois.arin.net/rest/poc/SWI19-ARIN
+
+RNOCHandle: SWI19-ARIN
+RNOCName:   Wintz, Sascha 
+RNOCPhone:  +1-314-480-6840 
+RNOCEmail:  s.wintz@hostingsolutionsinternational.com
+RNOCRef:    http://whois.arin.net/rest/poc/SWI19-ARIN
+
+RAbuseHandle: HAD16-ARIN
+RAbuseName:   HSI Abuse Department
+RAbusePhone:  +1-314-266-3638 
+RAbuseEmail:  abuse@hostingsolutionsinternational.com
+RAbuseRef:    http://whois.arin.net/rest/poc/HAD16-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Japan Network Information Center</registrant>
+    <registration>
+      <updated>2007-08-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        150.26.0.0 - 150.100.255.255
+netname:        JAPAN150
+country:        JP
+descr:          Japan Network Information Center
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+status:         ALLOCATED PORTABLE
+notify:         hostmaster@nic.ad.jp
+mnt-by:         MAINT-JPNIC
+changed:        hm-changed@apnic.net 20070824
+source:         APNIC
+
+role:           Japan Network Information Center
+address:        Urbannet-Kanda Bldg 4F
+address:        3-6-2 Uchi-Kanda
+address:        Chiyoda-ku, Tokyo 101-0047,Japan
+country:        JP
+phone:          +81-3-5297-2311
+fax-no:         +81-3-5297-2312
+e-mail:         hostmaster@nic.ad.jp
+admin-c:        JI13-AP
+tech-c:         JE53-AP
+nic-hdl:        JNIC1-AP
+mnt-by:         MAINT-JPNIC
+changed:        hm-changed@apnic.net 20041222
+changed:        hm-changed@apnic.net 20050324
+changed:        ip-apnic@nic.ad.jp 20051027
+changed:        ip-apnic@nic.ad.jp 20120828
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

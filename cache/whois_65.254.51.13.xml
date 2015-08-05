@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Global Net Access, LLC</registrant>
+    <registration>
+      <created>2003-12-29</created>
+      <updated>2012-03-20</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       65.254.32.0 - 65.254.63.255
+CIDR:           65.254.32.0/19
+NetName:        GNAXNET
+NetHandle:      NET-65-254-32-0-1
+Parent:         NET65 (NET-65-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS3595, AS16626
+Organization:   Global Net Access, LLC (GNAL-2)
+RegDate:        2003-12-29
+Updated:        2012-03-20
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Comment:        ********************************************
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.gnax.net port 4321
+Comment:        ********************************************
+Ref:            http://whois.arin.net/rest/net/NET-65-254-32-0-1
+
+OrgName:        Global Net Access, LLC
+OrgId:          GNAL-2
+Address:        1100 White St SW
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30310
+Country:        US
+RegDate:        2003-08-29
+Updated:        2009-07-31
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Comment:        ********************************************
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.gnax.net port 4321
+Comment:        ********************************************
+Ref:            http://whois.arin.net/rest/org/GNAL-2
+
+ReferralServer:  rwhois://rwhois.gnax.net:4321
+
+OrgNOCHandle: ENGIN7-ARIN
+OrgNOCName:   GNAX ENGINEERING
+OrgNOCPhone:  +1-404-230-9149 
+OrgNOCEmail:  engineering@gnax.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/ENGIN7-ARIN
+
+OrgTechHandle: ENGIN7-ARIN
+OrgTechName:   GNAX ENGINEERING
+OrgTechPhone:  +1-404-230-9149 
+OrgTechEmail:  engineering@gnax.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ENGIN7-ARIN
+
+OrgAbuseHandle: ABUSE745-ARIN
+OrgAbuseName:   GNAX ABUSE
+OrgAbusePhone:  +1-404-230-9149 
+OrgAbuseEmail:  abuse@gnax.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE745-ARIN
+
+RNOCHandle: ENGIN7-ARIN
+RNOCName:   GNAX ENGINEERING
+RNOCPhone:  +1-404-230-9149 
+RNOCEmail:  engineering@gnax.net
+RNOCRef:    http://whois.arin.net/rest/poc/ENGIN7-ARIN
+
+RAbuseHandle: ABUSE745-ARIN
+RAbuseName:   GNAX ABUSE
+RAbusePhone:  +1-404-230-9149 
+RAbuseEmail:  abuse@gnax.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE745-ARIN
+
+RTechHandle: ENGIN7-ARIN
+RTechName:   GNAX ENGINEERING
+RTechPhone:  +1-404-230-9149 
+RTechEmail:  engineering@gnax.net
+RTechRef:    http://whois.arin.net/rest/poc/ENGIN7-ARIN
+
+== Additional Information From rwhois://rwhois.gnax.net:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.gnax.net (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:888.65.254.32.0/19
+network:Auth-Area:65.254.32.0/19
+network:Network-Name:GNAX-12085
+network:IP-Network:65.254.51.8/29
+network:Organization;I:GNAX
+network:Tech-Contact;I:engineering@gnax.net
+network:Admin-Contact;I:engineering@gnax.net
+network:Created:20070209
+network:Updated:20150519
+network:Updated-By:engineering@gnax.net
+
+%referral rwhois://root.rwhois.net:4321
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

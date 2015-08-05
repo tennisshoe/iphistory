@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Interserver, Inc</registrant>
+    <registration>
+      <created>2005-04-07</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.20.32.0 - 64.20.63.255
+CIDR:           64.20.32.0/19
+NetName:        INTERSERVER
+NetHandle:      NET-64-20-32-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Interserver, Inc (INTER-83)
+RegDate:        2005-04-07
+Updated:        2012-02-24
+Comment:        Please use abuse@interserver.net for all abuse reports.
+Ref:            http://whois.arin.net/rest/net/NET-64-20-32-0-1
+
+OrgName:        Interserver, Inc
+OrgId:          INTER-83
+Address:        110 Meadowlands Pkwy
+Address:        1st Floor
+City:           Secaucus
+StateProv:      NJ
+PostalCode:     07094
+Country:        US
+RegDate:        2003-03-17
+Updated:        2009-12-01
+Comment:        Please Use abuse@interserver.net for all abuse complaints
+Ref:            http://whois.arin.net/rest/org/INTER-83
+
+ReferralServer:  rwhois://rwhois.trouble-free.net:4321
+
+OrgNOCHandle: NOC1390-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-201-605-1440 
+OrgNOCEmail:  network@interserver.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1390-ARIN
+
+OrgAbuseHandle: NOC1390-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-201-605-1440 
+OrgAbuseEmail:  network@interserver.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC1390-ARIN
+
+OrgTechHandle: NOC1390-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-201-605-1440 
+OrgTechEmail:  network@interserver.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1390-ARIN
+
+NetRange:       64.20.33.128 - 64.20.33.143
+CIDR:           64.20.33.128/28
+NetName:        HOSTN
+NetHandle:      NET-64-20-33-128-1
+Parent:         INTERSERVER (NET-64-20-32-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Hosting-Needs (HOSTI-21)
+RegDate:        2008-04-08
+Updated:        2008-04-08
+Comment:        Contact abuse@hosting-needs.com and upstream abuse@trouble-free.net for all abuse complaints.
+Ref:            http://whois.arin.net/rest/net/NET-64-20-33-128-1
+
+OrgName:        Hosting-Needs
+OrgId:          HOSTI-21
+Address:        PO Box 3045
+City:           Framingham
+StateProv:      MA
+PostalCode:     01705
+Country:        US
+RegDate:        2008-04-08
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/HOSTI-21
+
+OrgTechHandle: HOSTI8-ARIN
+OrgTechName:   Hosting Needs
+OrgTechPhone:  +1-508-202-3458 
+OrgTechEmail:  admin@hosting-needs.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTI8-ARIN
+
+OrgNOCHandle: HNN1-ARIN
+OrgNOCName:   Hosting Needs Noc
+OrgNOCPhone:  +1-508-202-3458 
+OrgNOCEmail:  noc@hosting-needs.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/HNN1-ARIN
+
+OrgAbuseHandle: HOSTI8-ARIN
+OrgAbuseName:   Hosting Needs
+OrgAbusePhone:  +1-508-202-3458 
+OrgAbuseEmail:  admin@hosting-needs.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HOSTI8-ARIN
+
+RNOCHandle: HNN1-ARIN
+RNOCName:   Hosting Needs Noc
+RNOCPhone:  +1-508-202-3458 
+RNOCEmail:  noc@hosting-needs.com
+RNOCRef:    http://whois.arin.net/rest/poc/HNN1-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

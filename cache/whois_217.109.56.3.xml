@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Orange Business Services</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.109.56.0 - 217.109.56.255' is 'gestionip.ft@orange.com'
+
+inetnum:        217.109.56.0 - 217.109.56.255
+netname:        FR-CDISCOUNT
+country:        FR
+descr:          INDUSTRIE
+admin-c:        NC3496-RIPE
+tech-c:         NC3496-RIPE
+tech-c:         AA2914-RIPE
+status:         ASSIGNED PA
+mnt-by:         PC80199-MNT
+changed:        gestip.rain@orange.com 20130218
+created:        2008-04-30T10:44:35Z
+last-modified:  2013-02-18T13:51:40Z
+source:         RIPE
+
+role:           Administration Adresses
+remarks:        Internet Support Center
+address:        Orange Business Services
+address:        6 avenue Albert Durand
+address:        31700 Blagnac  France
+phone:          +33 5 62 30 72 14
+fax-no:         +33 5 62 30 74 15
+e-mail:         gestip.rain@orange-ftgroup.com
+abuse-mailbox:  abuse@orange-business.com
+admin-c:        AA2914-RIPE
+tech-c:         AA2914-RIPE
+nic-hdl:        AA2914-RIPE
+remarks:        http://www.orange-business.com
+mnt-by:         RAIN-TRANSPAC
+changed:        gestip.rain@francetelecom.com 20040312
+changed:        gestip.rain@orange-ftgroup.com 20080926
+changed:        gestip.rain@orange-ftgroup.com 20090309
+changed:        gestip.rain@orange-ftgroup.com 20090911
+changed:        gestip.rain@orange-ftgroup.com 20101108
+created:        2004-03-12T12:24:14Z
+last-modified:  2010-11-08T15:39:40Z
+source:         RIPE
+
+person:         Network Cdiscount
+address:        CDISCOUNT
+address:        122-124 Quai de Bacalan
+address:        33000
+address:        Bordeaux
+phone:          +33 5 57 14 45 00
+fax-no:         +33 5 57 14 45 00
+e-mail:         abuse@cdiscount.com
+nic-hdl:        NC3496-RIPE
+mnt-by:         PC80199-MNT
+changed:        lpe@oleane.net 20130205
+created:        2013-02-05T09:24:43Z
+last-modified:  2013-02-05T09:24:43Z
+source:         RIPE
+
+route:          217.108.0.0/15
+descr:          Orange Business Services
+remarks:        -------------------------------------------
+remarks:        For Hacking, Spamming or Security problems
+remarks:        send mail abuse@orange-business.com
+remarks:        -------------------------------------------
+origin:         AS3215
+mnt-by:         PC80199-MNT
+org:            ORG-OBS3-RIPE
+changed:        gestip.rain@orange.com 20130731
+created:        2013-07-31T14:01:35Z
+last-modified:  2013-07-31T14:01:35Z
+source:         RIPE
+
+organisation:   ORG-OBS3-RIPE
+org-name:       Orange Business Services
+org-type:       Other
+address:        6 avenue Albert Durand
+address:        31700 Blagnac  France
+e-mail:         gestip.rain@orange.com
+remarks:        **************************************
+remarks:        *   Pour les obligations legale      *
+remarks:        * Contacter uniquement les poles OL  *
+remarks:        *      de France Telecom/Orange      *
+remarks:        *                                    *
+remarks:        *    For legal issus joint only      *
+remarks:        *  France telecom/orange legal team  *
+remarks:        **************************************
+abuse-mailbox:  abuse@orange-business.com
+admin-c:        AA2914-RIPE
+tech-c:         AA2914-RIPE
+abuse-c:        AA2914-RIPE
+mnt-ref:        OLEANE-NOC
+mnt-ref:        FT-BRX
+mnt-ref:        RAIN-TRANSPAC
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RAIN-TRANSPAC
+changed:        gestip.rain@orange.com 20101108
+changed:        gestip.rain@orange.com 20110418
+changed:        gestip.rain@orange.com 20130613
+created:        2010-11-08T15:39:40Z
+last-modified:  2013-06-13T14:39:42Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

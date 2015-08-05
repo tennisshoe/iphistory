@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>BNP PARIBAS SA</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '159.50.0.0 - 159.50.255.255' is 'abuse@bnpparibas.com'
+
+inetnum:        159.50.0.0 - 159.50.255.255
+netname:        BNP-FRANCE
+descr:          BNP PARIBAS SA
+country:        FR
+org:            ORG-BPS8-RIPE
+admin-c:        XP195-RIPE
+admin-c:        BPI8-RIPE
+tech-c:         XP195-RIPE
+tech-c:         BPSM2-RIPE
+status:         LEGACY
+remarks:        trouble: --[IMPORTANT]--------------------------------------
+remarks:        trouble: Please do NOT send abuse complaints to the contacts
+remarks:        trouble: listed. Please email them to abuse@bnpparibas.com
+remarks:        trouble: ---------------------------------------------------
+mnt-by:         RIPE-NCC-LEGACY-MNT
+mnt-by:         BNP-PARIBAS-MNT
+mnt-by:         BNP-PARIBAS-SA-MNT
+mnt-domains:    BNP-PARIBAS-SA-MNT
+changed:        slaguna@iway.fr 19980309
+changed:        slaguna@iway.fr 19980309
+changed:        er-transfer@ripe.net 20110414
+changed:        tony.milton@uk.bnpparibas.com 20150630
+changed:        tony.milton@uk.bnpparibas.com 20150710
+created:        2002-09-03T14:30:46Z
+last-modified:  2015-07-10T14:48:02Z
+source:         RIPE
+
+organisation:   ORG-BPS8-RIPE
+org-name:       BNP PARIBAS SA
+org-type:       LIR
+address:        59 Rue de la Republique
+address:        93100
+address:        MONTREUIL
+address:        FRANCE
+phone:          +33140149163
+fax-no:         +33140145593
+e-mail:         marc.michel.stack@bnpparibas.com
+admin-c:        TM6707-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        BNP-PARIBAS-SA-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        BPSM2-RIPE
+changed:        bitbucket@ripe.net 20150430
+changed:        bit-bucket@ripe.net 20150612
+created:        2012-12-17T16:44:17Z
+tech-c:         BPSM2-RIPE
+last-modified:  2015-06-12T13:08:06Z
+source:         RIPE
+
+role:           BNP Paribas INames
+address:        59 Rue de la Republique
+address:        93100 Montreuil
+address:        France
+e-mail:         i_names@bnpparibas.com
+nic-hdl:        BPI8-RIPE
+mnt-by:         BNP-PARIBAS-SA-MNT
+changed:        tony.milton@uk.bnpparibas.com 20150602
+abuse-mailbox:  abuse@bnpparibas.com
+org:            ORG-BPS8-RIPE
+admin-c:        TM6707-RIPE
+admin-c:        BR3579-RIPE
+created:        2015-06-02T15:10:11Z
+changed:        tony.milton@uk.bnpparibas.com 20150612
+last-modified:  2015-06-12T09:56:05Z
+source:         RIPE
+
+role:           BNP Paribas SA Management
+address:        BNP PARIBAS
+address:        59 Rue de la Republique
+address:        93100
+address:        MONTREUIL
+address:        FRANCE
+e-mail:         globalnetadm@bnpparibas.com
+nic-hdl:        BPSM2-RIPE
+mnt-by:         BNP-PARIBAS-SA-MNT
+changed:        tony.milton@uk.bnpparibas.com 20130411
+changed:        tony.milton@uk.bnpparibas.com 20150602
+created:        2013-04-11T10:56:20Z
+last-modified:  2015-06-02T13:19:22Z
+source:         RIPE
+admin-c:        TM6707-RIPE
+admin-c:        MB39597-RIPE
+org:            ORG-BPS8-RIPE
+abuse-mailbox:  abuse@bnpparibas.com
+
+person:         Xavier Panchaud
+address:        15 rue Henri Rol Tanguy - Montreuil 93100 - France
+phone:          +33 1 40 14 26 95
+nic-hdl:        XP195-RIPE
+changed:        GlobalNetADM@bnpparibas.com 20020828
+created:        2010-10-06T15:32:42Z
+last-modified:  2010-10-06T15:32:42Z
+source:         RIPE
+
+route:          159.50.0.0/16
+descr:          BNP Paribas France
+org:            ORG-BPS8-RIPE
+origin:         AS25215
+remarks:        trouble: --[IMPORTANT]--------------------------------------
+remarks:        trouble: Please do NOT send abuse complaints to the contacts
+remarks:        trouble: listed. Please email them to abuse@bnpparibas.com
+remarks:        trouble: ---------------------------------------------------
+mnt-by:         BNP-PARIBAS-MNT
+mnt-by:         BNP-PARIBAS-SA-MNT
+changed:        slaguna@iway.fr 19960813
+changed:        frederic.martzel@fr.mci.com 20040112
+changed:        tony.milton@uk.bnpparibas.com 20150713
+created:        2002-09-16T11:42:30Z
+last-modified:  2015-07-13T15:09:27Z
+source:         RIPE
+
+organisation:   ORG-BPS8-RIPE
+org-name:       BNP PARIBAS SA
+org-type:       LIR
+address:        59 Rue de la Republique
+address:        93100
+address:        MONTREUIL
+address:        FRANCE
+phone:          +33140149163
+fax-no:         +33140145593
+e-mail:         marc.michel.stack@bnpparibas.com
+admin-c:        TM6707-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        BNP-PARIBAS-SA-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        BPSM2-RIPE
+changed:        bitbucket@ripe.net 20150430
+changed:        bit-bucket@ripe.net 20150612
+created:        2012-12-17T16:44:17Z
+tech-c:         BPSM2-RIPE
+last-modified:  2015-06-12T13:08:06Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

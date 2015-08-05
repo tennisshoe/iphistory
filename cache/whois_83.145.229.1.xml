@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Nebula Internet Services</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.145.229.0 - 83.145.229.255' is 'abuse@nebula.fi'
+
+inetnum:        83.145.229.0 - 83.145.229.255
+netname:        NBLHOSTING
+descr:          Nebula Oy, Advanced webhosting
+country:        FI
+admin-c:        NBL4-RIPE
+tech-c:         NBL4-RIPE
+status:         ASSIGNED PA
+mnt-by:         NBL-MNT
+created:        2006-03-27T13:49:25Z
+last-modified:  2007-04-16T09:06:28Z
+source:         RIPE
+changed:        registry@nblnetworks.fi 20070416
+
+role:           Nebula Internet Services
+address:        Heikkilantie 2A
+address:        00210 Helsinki
+address:        Finland
+e-mail:         registry@nblnetworks.fi
+admin-c:        VS894-RIPE
+tech-c:         AA2164-RIPE
+tech-c:         OK748-RIPE
+tech-c:         HG1641-RIPE
+nic-hdl:        NBL4-RIPE
+abuse-mailbox:  abuse@nebula.fi
+mnt-by:         NBL-MNT
+changed:        registry@nblnetworks.fi 20071126
+changed:        registry@nblnetworks.fi 20091013
+changed:        registry@nblnetworks.fi 20111004
+created:        2006-05-09T10:58:01Z
+last-modified:  2014-04-15T06:45:37Z
+source:         RIPE
+
+route:          83.145.192.0/18
+descr:          FI-NBLNETWORKS-20040202
+origin:         AS29422
+mnt-by:         NBL-MNT
+changed:        registry@nblnetworks.fi 20040202
+created:        2004-02-02T18:15:39Z
+last-modified:  2004-02-02T18:15:39Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

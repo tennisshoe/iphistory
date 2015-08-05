@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>WEBPARTNER Technical Contact</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.150.62.0 - 213.150.62.127' is 'abuse@siminn.dk'
+
+inetnum:        213.150.62.0 - 213.150.62.127
+netname:        CUST001433
+descr:          Bullguard ApS
+country:        DK
+admin-c:        WTC2-RIPE
+tech-c:         WTC2-RIPE
+status:         ASSIGNED PA
+mnt-by:         TJANTIK-MNT
+remarks:        ************************************************************
+remarks:        *** In case of abuse, please contact abuse@bullguard.com ***
+remarks:        ************************************************************
+changed:        hostmaster@webpartner.dk 20080108
+created:        2005-03-09T12:32:02Z
+last-modified:  2008-01-08T11:31:16Z
+source:         RIPE
+
+role:           WEBPARTNER Technical Contact
+address:        Telia Danmark A/S
+address:        Holmbladsgade 139
+address:        DK-2300 K&#xFFFD;benhavn S
+phone:          +45 70 26 23 00
+fax-no:         +45 70 26 23 01
+e-mail:         cis-noc@dk.telia.net
+admin-c:        SNOC11-RIPE
+tech-c:         SNOC11-RIPE
+mnt-by:         TJANTIK-MNT
+nic-hdl:        WTC2-RIPE
+abuse-mailbox:  abuse@telia.dk
+remarks:        ************************************************************
+remarks:        *** In case of abuse, please contact abuse@telia.dk ***
+remarks:        ************************************************************
+changed:        cis-drift@dk.telia.net 20150716
+changed:        tomas.gransee.jensen@teliasonera.com 20150416
+changed:        cis-drift@dk.telia.net 20150716
+created:        2003-02-18T22:06:24Z
+last-modified:  2015-07-16T08:36:04Z
+source:         RIPE
+
+route:          213.150.32.0/19
+descr:          WEBPARTNER A/S
+origin:         AS9167
+mnt-by:         TJANTIK-MNT
+changed:        rh@tjantik.dk 20001115
+changed:        hostmaster@tjantik.dk 20010107
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:33:37Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

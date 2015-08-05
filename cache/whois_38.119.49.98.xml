@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PSINet, Inc.</registrant>
+    <registration>
+      <created>1991-04-16</created>
+      <updated>2011-05-20</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       38.0.0.0 - 38.255.255.255
+CIDR:           38.0.0.0/8
+NetName:        COGENT-A
+NetHandle:      NET-38-0-0-0-1
+Parent:          ()
+NetType:        Direct Allocation
+OriginAS:       AS174
+Organization:   PSINet, Inc. (PSI)
+RegDate:        1991-04-16
+Updated:        2011-05-20
+Comment:        Reassignment information for this block can be found at
+Comment:        rwhois.cogentco.com 4321
+Ref:            http://whois.arin.net/rest/net/NET-38-0-0-0-1
+
+OrgName:        PSINet, Inc.
+OrgId:          PSI
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+RegDate:        
+Updated:        2015-06-04
+Comment:        rwhois.cogentco.com
+Ref:            http://whois.arin.net/rest/org/PSI
+
+ReferralServer:  rwhois://rwhois.cogentco.com:4321
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COGEN-ARIN
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZC108-ARIN
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPALL-ARIN
+
+RTechHandle: PSI-NISC-ARIN
+RTechName:   IP Allocation
+RTechPhone:  +1-877-875-4311 
+RTechEmail:  ipalloc@cogentco.com
+RTechRef:    http://whois.arin.net/rest/poc/PSI-NISC-ARIN
+
+NetRange:       38.112.0.0 - 38.119.255.255
+CIDR:           38.112.0.0/13
+NetName:        COGENT-NB-0002
+NetHandle:      NET-38-112-0-0-1
+Parent:         COGENT-A (NET-38-0-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   PSINet, Inc. (PSI)
+RegDate:        2003-08-20
+Updated:        2004-03-11
+Comment:        ReferralServer: rwhois://rwhois.cogentco.com:4321/
+Ref:            http://whois.arin.net/rest/net/NET-38-112-0-0-1
+
+OrgName:        PSINet, Inc.
+OrgId:          PSI
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+RegDate:        
+Updated:        2015-06-04
+Comment:        rwhois.cogentco.com
+Ref:            http://whois.arin.net/rest/org/PSI
+
+ReferralServer:  rwhois://rwhois.cogentco.com:4321
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COGEN-ARIN
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZC108-ARIN
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPALL-ARIN
+
+== Additional Information From rwhois://rwhois.cogentco.com:4321 ==
+
+%rwhois V-1.5:0010b0:00 rwhois.cogentco.com
+network:ID:NET4-267731601D
+network:Network-Name:NET4-267731601D
+network:IP-Network:38.119.49.96/29
+network:Postal-Code:90067
+network:City:Los Angeles
+network:Street-Address:10100 Santa Monica Blvd, Suite 180
+network:Org-Name:Hines Property Management
+network:Tech-Contact:ZC108-ARIN
+network:Updated:2012-06-14 18:04:59
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

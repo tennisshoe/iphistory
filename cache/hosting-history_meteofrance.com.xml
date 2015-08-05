@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>meteofrance.com</domain_name>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip>160.92.123.124</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2004-06-12</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip>193.201.77.15</post_ip>
+      <pre_ip>160.92.123.124</pre_ip>
+      <action>C</action>
+      <actiondate>2007-03-24</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip/>
+      <pre_ip>193.201.77.15</pre_ip>
+      <action>D</action>
+      <actiondate>2007-10-21</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip/>
+      <pre_ip>193.201.77.15</pre_ip>
+      <action>D</action>
+      <actiondate>2007-10-21</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip>160.92.186.20</post_ip>
+      <pre_ip>193.201.77.15</pre_ip>
+      <action>C</action>
+      <actiondate>2008-12-22</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip>160.92.161.169</post_ip>
+      <pre_ip>160.92.186.20</pre_ip>
+      <action>C</action>
+      <actiondate>2010-10-15</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip>160.92.161.169</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2011-04-10</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip>160.92.49.14</post_ip>
+      <pre_ip>160.92.161.169</pre_ip>
+      <action>C</action>
+      <actiondate>2013-12-01</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip/>
+      <pre_ip>160.92.49.14</pre_ip>
+      <action>D</action>
+      <actiondate>2015-06-24</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>METEOFRANCE.COM</domain>
+      <post_ip>160.92.49.14</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2015-07-21</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>METEOFRANCE.COM</domain>
+      <date_updated>2002-01-23</date_updated>
+      <date_created>1997-11-08</date_created>
+      <date_expires>2003-11-07</date_expires>
+      <date_lastchecked>2003-07-05</date_lastchecked>
+      <registrar>Network Solutions</registrar>
+      <registrartag>Network Solutions</registrartag>
+    </registrar_history>
+    <registrar_history>
+      <domain>METEOFRANCE.COM</domain>
+      <date_updated>2014-12-17</date_updated>
+      <date_created>1997-11-08</date_created>
+      <date_expires>2016-11-07</date_expires>
+      <date_lastchecked>2014-12-15</date_lastchecked>
+      <registrar>DomainDiscount24</registrar>
+      <registrartag>Key-Systems dba domaindiscount24</registrartag>
+    </registrar_history>
+    <nameserver_history/>
+  </response>
+</whoisapi>
+

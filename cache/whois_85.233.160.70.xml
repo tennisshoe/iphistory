@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ISION Internet Plc Role Contact</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '85.233.160.0 - 85.233.163.255' is 'abuse@names.co.uk'
+
+inetnum:        85.233.160.0 - 85.233.163.255
+netname:        Namesco
+descr:          Namesco Hosting THE
+country:        GB
+admin-c:        IIPR1-RIPE
+tech-c:         IIPR1-RIPE
+remarks:        rev-srv:        ns0.phase8.net
+remarks:        rev-srv:        ns1.phase8.net
+remarks:        rev-srv:        ns2.phase8.net
+status:         ASSIGNED PA
+notify:         ripe-contact@names.co.uk
+mnt-by:         AS8622-MNT
+mnt-lower:      AS8622-MNT
+mnt-routes:     AS8622-MNT
+mnt-domains:    AS8622-MNT
+changed:        mtaylor@names.co.uk 20060301
+created:        2006-03-01T15:10:23Z
+last-modified:  2009-09-02T18:47:02Z
+source:         RIPE
+remarks:        rev-srv attribute deprecated by RIPE NCC on 02/09/2009
+
+role:           ISION Internet Plc Role Contact
+address:        Namesco Limited
+address:        Acton House
+address:        Perdiswell Park
+address:        Worcester
+address:        WR3 7GD
+phone:          +441905342342
+fax-no:         +441905342343
+e-mail:         ripe-contact@names.co.uk
+remarks:        Please DO NOT use this address to report SPAM
+remarks:        or network abuse.
+remarks:        For issues, please contact the Namesco abuse
+remarks:        team on &lt;abuse@names.co.uk&gt;
+admin-c:        IIPR1-RIPE
+tech-c:         IIPS3-RIPE
+nic-hdl:        IIPR1-RIPE
+remarks:        Formerly NetDirect Internet Ltd
+remarks:        Formerly ISION Internet Plc
+remarks:        Formerly NDO Limited
+remarks:        Now Namesco Limited
+mnt-by:         AS8622-MNT
+changed:        abuse@names.co.uk 20051020
+created:        2003-01-14T12:25:44Z
+last-modified:  2005-10-20T15:45:12Z
+source:         RIPE
+abuse-mailbox:  abuse@names.co.uk
+
+route:          85.233.160.0/19
+descr:          Namesco Limited
+origin:         AS8622
+mnt-by:         AS8622-MNT
+changed:        mtaylor@names.co.uk 20060222
+created:        2006-02-22T13:38:14Z
+last-modified:  2006-02-22T13:38:14Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

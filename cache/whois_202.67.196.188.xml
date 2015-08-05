@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DNS Administrator</registrant>
+    <registration>
+      <updated>2000-04-17</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        202.67.192.0 - 202.67.207.255
+netname:        HKNET-HK
+descr:          HKNet Company Limited
+descr:          3203 East Tower, ShunTak Centre,
+descr:          168-200 Connaught Road C., Hong Kong.
+country:        HK
+admin-c:        DA56-AP
+tech-c:         DA56-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HKNET-NT
+mnt-irt:        IRT-HKNET-HK
+changed:        hostmaster@apnic.net 20000417
+changed:        hostmaster@apnic.net 20010803
+status:         ALLOCATED PORTABLE
+source:         APNIC
+
+irt:            IRT-HKNET-HK
+address:        15/F., Tower2, Ever Gain Plaza,
+address:        88 Container Port Road,
+address:        Kwai Chung, N.T.,
+address:        Hong Kong
+e-mail:         abuse@hknet.com
+abuse-mailbox:  abuse@hknet.com
+admin-c:        DA56-AP
+tech-c:         RC429-AP
+auth:           # Filtered
+mnt-by:         MAINT-HKNET-NT
+changed:        abuse@hknet.com 20110225
+source:         APNIC
+
+person:         DNS Administrator
+address:        15/F., Tower2, Ever Gain Plaza,
+address:        88 Container Port Road,
+address:        Kwai Chung, N.T.,
+address:        Hong Kong
+country:        HK
+phone:          +852 2110 3663
+fax-no:         +852 2110 9746
+e-mail:         dnstech@hknet.com
+nic-hdl:        DA56-AP
+mnt-by:         MAINT-HKNET-NT
+changed:        dnstech@hknet.com 20020725
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

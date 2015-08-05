@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hetzner Online AG - Contact Role</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.239.204.0 - 213.239.207.255' is 'abuse@hetzner.de'
+
+inetnum:        213.239.204.0 - 213.239.207.255
+netname:        HETZNER-RZ-NBG-NET2
+descr:          Hetzner Online AG
+descr:          Datacenter Nuernberg
+country:        DE
+admin-c:        HOAC1-RIPE
+tech-c:         HOAC1-RIPE
+status:         ASSIGNED PA
+mnt-by:         HOS-GUN
+mnt-lower:      HOS-GUN
+mnt-routes:     HOS-GUN
+notify:         ripe-mntner@hetzner.de
+changed:        rb@hetzner.de 20060322
+created:        2006-03-22T15:20:48Z
+last-modified:  2006-03-22T15:20:48Z
+source:         RIPE
+
+role:           Hetzner Online AG - Contact Role
+address:        Hetzner Online AG
+address:        Industriestrasse 25
+address:        D-91710 Gunzenhausen
+address:        Germany
+phone:          +49 9831 505-0
+fax-no:         +49 9831 505-3
+e-mail:         ripe@hetzner.de
+abuse-mailbox:  abuse@hetzner.de
+remarks:        *************************************************
+remarks:        * For spam/abuse/security issues please contact *
+remarks:        * abuse@hetzner.de, not this address. *
+remarks:        * The contents of your abuse email will be *
+remarks:        * forwarded directly on to our client for *
+remarks:        * handling. *
+remarks:        *************************************************
+remarks:
+remarks:        *************************************************
+remarks:        * Any questions on Peering please send to *
+remarks:        * peering@hetzner.de *
+remarks:        *************************************************
+org:            ORG-HOA1-RIPE
+admin-c:        MH375-RIPE
+tech-c:         GM834-RIPE
+tech-c:         SK2374-RIPE
+tech-c:         TF2013-RIPE
+tech-c:         MF1400-RIPE
+tech-c:         SK8441-RIPE
+nic-hdl:        HOAC1-RIPE
+notify:         ripe-mntner@hetzner.de
+mnt-by:         HOS-GUN
+created:        2004-08-12T09:40:20Z
+last-modified:  2015-07-17T12:49:52Z
+source:         RIPE
+changed:        mf@hetzner.de 20130114
+changed:        mf@hetzner.de 20130227
+changed:        sebastian.krannich@hetzner.de 20130418
+
+route:          213.239.192.0/18
+descr:          HETZNER-RZ-NBG-BLK2
+origin:         AS24940
+mnt-by:         HOS-GUN
+changed:        rb@hetzner.de 20030528
+created:        2003-05-28T16:24:38Z
+last-modified:  2003-05-28T16:24:38Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

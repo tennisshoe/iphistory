@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Adapt Services Limited</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '82.211.64.0 - 82.211.127.255' is 'opsbridge@adapt.com'
+
+inetnum:        82.211.64.0 - 82.211.127.255
+org:            ORG-MISL1-RIPE
+admin-c:        SD24867-RIPE
+netname:        UK-MNET-20031010
+descr:          Adapt Services Limited
+country:        GB
+tech-c:         TECH24867-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNET-MNTNER
+mnt-lower:      AS24867-MNT
+mnt-routes:     MNET-MNTNER
+mnt-routes:     AS24867-MNT
+mnt-domains:    MNET-MNTNER
+mnt-domains:    AS24867-MNT
+notify:         hostmaster@mnet.net.uk
+changed:        hostmaster@ripe.net 20031010
+changed:        hostmaster@ripe.net 20040611
+changed:        hostmaster@ripe.net 20040615
+changed:        bitbucket@ripe.net 20070606
+changed:        bitbucket@ripe.net 20070606
+changed:        hostmaster@ripe.net 20070719
+created:        2003-10-10T14:10:16Z
+last-modified:  2007-07-19T08:40:58Z
+source:         RIPE
+
+organisation:   ORG-MISL1-RIPE
+org-name:       Adapt Services Limited
+org-type:       LIR
+address:        Adapt
+address:        FAO Service Desk
+address:        New Broad Street House
+                35 New Broad Street
+address:        EC2M 1NH
+address:        London
+address:        UNITED KINGDOM
+phone:          +448453043046
+fax-no:         +442030093327
+admin-c:        DW3962-RIPE
+admin-c:        FN341-RIPE
+admin-c:        SD24867-RIPE
+admin-c:        SK24867-RIPE
+mnt-ref:        MNET-MNTNER
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        AS24867-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        SD24867-RIPE
+changed:        bitbucket@ripe.net 20150206
+created:        2004-04-17T12:18:21Z
+last-modified:  2015-02-06T08:36:34Z
+source:         RIPE
+e-mail:         cagri.yucel@adaptplc.com
+
+role:           AS24867 Opsbridge
+address:        Fairways House, Paramount Business Park, St Mellons, Cardiff, CF3 0LW
+e-mail:         opsbridge@adapt.com
+abuse-mailbox:  opsbridge@adapt.com
+admin-c:        KG4321-RIPE
+tech-c:         TECH24867-RIPE
+nic-hdl:        SD24867-RIPE
+mnt-by:         AS24867-MNT
+created:        2007-03-12T12:38:29Z
+last-modified:  2015-02-10T12:40:35Z
+source:         RIPE
+changed:        fn-ripe@margolis.co.uk 20070312
+changed:        fn-ripe@margolis.co.uk 20070312
+changed:        ripe-admin@adaptplc.com 20111202
+changed:        ripe-admin@adaptplc.com 20130503
+changed:        ripe-admin@adapt.com 20150210
+
+role:           AS24867 Tech
+address:        Fairways House, Paramount Business Park, St Mellons, Cardiff, CF3 0LW
+e-mail:         opsbridge@adapt.com
+abuse-mailbox:  opsbridge@adapt.com
+admin-c:        SD24867-RIPE
+tech-c:         FN341-RIPE
+nic-hdl:        TECH24867-RIPE
+mnt-by:         AS24867-MNT
+created:        2007-03-12T12:57:12Z
+last-modified:  2015-02-10T12:38:09Z
+source:         RIPE
+changed:        fn-ripe@mnet.co.uk 20070312
+changed:        ripe-admin@adaptplc.com 20111202
+changed:        ripe-admin@adaptplc.com 20130503
+changed:        ripe-admin@adapt.com 20140428
+changed:        ripe-admin@adapt.com 20150210
+
+route:          82.211.80.0/20
+descr:          Adapt London2 POP Customer Networks
+origin:         AS24867
+mnt-by:         MNET-MNTNER
+changed:        fn-ripe@margolis.co.uk 20040224
+changed:        fn-ripe@margolis.co.uk 20050119
+created:        2004-02-24T07:51:04Z
+last-modified:  2012-03-01T14:19:50Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

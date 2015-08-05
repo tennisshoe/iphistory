@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Interactive Intelligence, Inc.</registrant>
+    <registration>
+      <created>2004-06-02</created>
+      <updated>2012-03-20</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.92.192.0 - 64.92.223.255
+CIDR:           64.92.192.0/19
+NetName:        MDH-DATA393-64-92-192-0
+NetHandle:      NET-64-92-192-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS29863
+Organization:   Latisys-Denver, LLC (MDH39)
+RegDate:        2004-06-02
+Updated:        2012-03-20
+Ref:            http://whois.arin.net/rest/net/NET-64-92-192-0-1
+
+OrgName:        Latisys-Denver, LLC
+OrgId:          MDH39
+Address:        393 Inverness Parkway
+City:           Englewood
+StateProv:      CO
+PostalCode:     80112
+Country:        US
+RegDate:        2008-07-24
+Updated:        2012-09-28
+Ref:            http://whois.arin.net/rest/org/MDH39
+
+OrgAbuseHandle: LAM57-ARIN
+OrgAbuseName:   Latisys-Denver Abuse Manager
+OrgAbusePhone:  +1-303-268-1500 
+OrgAbuseEmail:  abuse-denver@latisys.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LAM57-ARIN
+
+OrgTechHandle: IPADM77-ARIN
+OrgTechName:   IP Administration
+OrgTechPhone:  +1-855-528-4797 
+OrgTechEmail:  neteng@latisys.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM77-ARIN
+
+OrgNOCHandle: DNOC2-ARIN
+OrgNOCName:   Latisys-Denver Network Operations Center
+OrgNOCPhone:  +1-303-268-1500 
+OrgNOCEmail:  noc-denver@latisys.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/DNOC2-ARIN
+
+NetRange:       64.92.212.0 - 64.92.212.255
+CIDR:           64.92.212.0/24
+NetName:        D393-ENG01-64-92-212-0-24
+NetHandle:      NET-64-92-212-0-1
+Parent:         MDH-DATA393-64-92-192-0 (NET-64-92-192-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Interactive Intelligence, Inc. (C05713205)
+RegDate:        2015-05-05
+Updated:        2015-05-05
+Ref:            http://whois.arin.net/rest/net/NET-64-92-212-0-1
+
+CustName:       Interactive Intelligence, Inc.
+Address:        7601 Interactive Way
+City:           Indianapolis
+StateProv:      IN
+PostalCode:     46278
+Country:        US
+RegDate:        2015-05-05
+Updated:        2015-05-05
+Ref:            http://whois.arin.net/rest/customer/C05713205
+
+OrgAbuseHandle: LAM57-ARIN
+OrgAbuseName:   Latisys-Denver Abuse Manager
+OrgAbusePhone:  +1-303-268-1500 
+OrgAbuseEmail:  abuse-denver@latisys.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LAM57-ARIN
+
+OrgTechHandle: IPADM77-ARIN
+OrgTechName:   IP Administration
+OrgTechPhone:  +1-855-528-4797 
+OrgTechEmail:  neteng@latisys.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM77-ARIN
+
+OrgNOCHandle: DNOC2-ARIN
+OrgNOCName:   Latisys-Denver Network Operations Center
+OrgNOCPhone:  +1-303-268-1500 
+OrgNOCEmail:  noc-denver@latisys.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/DNOC2-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

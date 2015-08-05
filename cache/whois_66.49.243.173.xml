@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Canaca-com Inc.</registrant>
+    <registration>
+      <created>2004-02-10</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.49.128.0 - 66.49.255.255
+CIDR:           66.49.128.0/17
+NetName:        CANACA-COM
+NetHandle:      NET-66-49-128-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Canaca-com Inc. (CANAC)
+RegDate:        2004-02-10
+Updated:        2012-03-02
+Comment:        Please use abuse@canaca.com for all abuse reports such
+Comment:        as SPAM, DDoS Attacks etc. NOTE: This is the only abuse contact and reports
+Comment:        sent to any other addresses within Canaca will not be answered !
+Ref:            http://whois.arin.net/rest/net/NET-66-49-128-0-1
+
+OrgName:        Canaca-com Inc.
+OrgId:          CANAC
+Address:        1650 Dundas St East Unit 203
+City:           Mississauga
+StateProv:      ON
+PostalCode:     L4X-2Z3
+Country:        CA
+RegDate:        2004-01-28
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/CANAC
+
+ReferralServer:  rwhois://ns.canaca.net:4321
+
+OrgAbuseHandle: SHE13-ARIN
+OrgAbuseName:   Heriques, Sandro 
+OrgAbusePhone:  +1-905-275-0723 
+OrgAbuseEmail:  sandro@canaca.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SHE13-ARIN
+
+OrgTechHandle: SHE13-ARIN
+OrgTechName:   Heriques, Sandro 
+OrgTechPhone:  +1-905-275-0723 
+OrgTechEmail:  sandro@canaca.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SHE13-ARIN
+
+RNOCHandle: PLO5-ARIN
+RNOCName:   Louro, Paul 
+RNOCPhone:  +1-905-275-0723 
+RNOCEmail:  paul@canaca.com
+RNOCRef:    http://whois.arin.net/rest/poc/PLO5-ARIN
+
+== Additional Information From rwhois://ns.canaca.net:4321 ==
+
+%rwhois V-1.5:003fff:00 ns.canaca.net (by Network Solutions, Inc. V-1.5.7.3)
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

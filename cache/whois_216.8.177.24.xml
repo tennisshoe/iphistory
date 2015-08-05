@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Managed Network Systems Inc.</registrant>
+    <registration>
+      <created>2001-01-04</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.8.128.0 - 216.8.191.255
+CIDR:           216.8.128.0/18
+NetName:        MNSI-BLK-1
+NetHandle:      NET-216-8-128-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Managed Network Systems Inc. (MNSI)
+RegDate:        2001-01-04
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-216-8-128-0-1
+
+OrgName:        Managed Network Systems Inc.
+OrgId:          MNSI
+Address:        3363 Tecumseh Rd. E
+City:           Windsor
+StateProv:      ON
+PostalCode:     N8W-1H4
+Country:        CA
+RegDate:        1996-08-07
+Updated:        2010-02-12
+Ref:            http://whois.arin.net/rest/org/MNSI
+
+OrgAbuseHandle: NSA8-ARIN
+OrgAbuseName:   Network Security and Abuse
+OrgAbusePhone:  +1-519-258-2333 
+OrgAbuseEmail:  abuse@mnsi.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NSA8-ARIN
+
+OrgTechHandle: CZ41-ARIN
+OrgTechName:   Zekelman, Clayton 
+OrgTechPhone:  +1-519-258-2333 
+OrgTechEmail:  clayton@mnsi.net
+OrgTechRef:    http://whois.arin.net/rest/poc/CZ41-ARIN
+
+RAbuseHandle: NSA8-ARIN
+RAbuseName:   Network Security and Abuse
+RAbusePhone:  +1-519-258-2333 
+RAbuseEmail:  abuse@mnsi.net
+RAbuseRef:    http://whois.arin.net/rest/poc/NSA8-ARIN
+
+RTechHandle: CZ41-ARIN
+RTechName:   Zekelman, Clayton 
+RTechPhone:  +1-519-258-2333 
+RTechEmail:  clayton@mnsi.net
+RTechRef:    http://whois.arin.net/rest/poc/CZ41-ARIN
+
+RNOCHandle: NSA8-ARIN
+RNOCName:   Network Security and Abuse
+RNOCPhone:  +1-519-258-2333 
+RNOCEmail:  abuse@mnsi.net
+RNOCRef:    http://whois.arin.net/rest/poc/NSA8-ARIN
+
+NetRange:       216.8.176.0 - 216.8.179.255
+CIDR:           216.8.176.0/22
+NetName:        MNSI-NEXTD-BLK1
+NetHandle:      NET-216-8-176-0-1
+Parent:         MNSI-BLK-1 (NET-216-8-128-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   NEXT DIMENSION INC (NEXTD)
+RegDate:        2005-09-26
+Updated:        2005-09-26
+Ref:            http://whois.arin.net/rest/net/NET-216-8-176-0-1
+
+OrgName:        NEXT DIMENSION INC
+OrgId:          NEXTD
+Address:        3020 Devon Drive
+City:           WINDSOR
+StateProv:      ON
+PostalCode:     N8X 4L2
+Country:        CA
+RegDate:        2005-05-10
+Updated:        2015-06-12
+Comment:        Next Dimension Inc.
+Comment:        http://www.nextdimensioninc.com
+Ref:            http://whois.arin.net/rest/org/NEXTD
+
+ReferralServer:  rwhois://rwhois.nextdimensioninc.com:4321
+
+OrgTechHandle: RMM19-ARIN
+OrgTechName:   Mercier, Robert McKay
+OrgTechPhone:  +1-519-221-5384 
+OrgTechEmail:  rmercier@nextdimensioninc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/RMM19-ARIN
+
+OrgAbuseHandle: ABUSE5137-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-800-461-0585 
+OrgAbuseEmail:  abuse@nextdimensioninc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE5137-ARIN
+
+OrgTechHandle: DIZEP-ARIN
+OrgTechName:   Dizep, Peter 
+OrgTechPhone:  +1-519-968-2158 
+OrgTechEmail:  peter@ndinc.ca
+OrgTechRef:    http://whois.arin.net/rest/poc/DIZEP-ARIN
+
+RTechHandle: GKO11-ARIN
+RTechName:   KOWALSKY, GERRY 
+RTechPhone:  +1-519-945-2032 
+RTechEmail:  gerry@nextdimensioninc.com
+RTechRef:    http://whois.arin.net/rest/poc/GKO11-ARIN
+
+RAbuseHandle: GKO11-ARIN
+RAbuseName:   KOWALSKY, GERRY 
+RAbusePhone:  +1-519-945-2032 
+RAbuseEmail:  gerry@nextdimensioninc.com
+RAbuseRef:    http://whois.arin.net/rest/poc/GKO11-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Port80 staff</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.140.241.0 - 83.140.241.255' is 'abuse@port80.se'
+
+inetnum:        83.140.241.0 - 83.140.241.255
+netname:        XCERION-NET
+descr:          Xcerion AB
+remarks:        ****************************************************
+remarks:        * In case of abuse, send mail to abuse@rixtelecom.se
+remarks:        * Abuse mail to any other address will be ignored!
+remarks:        ****************************************************
+country:        SE
+admin-c:        PORT80-RIPE
+tech-c:         PORT80-RIPE
+status:         ASSIGNED PA
+notify:         ripemodifications@port80.se
+mnt-by:         PORT80-MNT
+changed:        registry@port80.se 20080305
+created:        2008-03-05T07:59:16Z
+last-modified:  2008-03-05T07:59:16Z
+source:         RIPE
+
+role:           Port80 staff
+address:        Availo Networks AB
+address:        Hammarby Fabriksvag 25
+address:        120 33 Stockholm
+address:        Sweden
+phone:          +46 8 5000 3000
+fax-no:         +46 8 5000 3010
+abuse-mailbox:  abuse@port80.se
+remarks:        ********************************
+remarks:        Abuse related issues is reported
+remarks:        to abuse@port80.se
+remarks:        ********************************
+e-mail:         abuse@port80.se
+admin-c:        AO268-RIPE
+admin-c:        CK1578-RIPE
+admin-c:        KO6-RIPE
+tech-c:         CK1578-RIPE
+tech-c:         KO6-RIPE
+tech-c:         AO268-RIPE
+tech-c:         BE652-RIPE
+nic-hdl:        PORT80-RIPE
+mnt-by:         PORT80-MNT
+changed:        registry@port80.se 20001115
+changed:        registry@port80.se 20081020
+changed:        registry@port80.se 20100529
+changed:        brynjar@availo.no 20131024
+created:        2002-08-15T18:25:53Z
+last-modified:  2014-03-20T10:04:57Z
+source:         RIPE
+
+route:          83.140.192.0/18
+descr:          Port80, Pan European Network
+origin:         AS39369
+mnt-by:         PORT80-MNT
+changed:        registry@port80.se 20090821
+created:        2008-04-17T13:06:49Z
+last-modified:  2009-08-21T16:51:18Z
+source:         RIPE
+notify:         ripemodifications@port80.se</record>
+    </whois>
+  </response>
+</whoisapi>
+

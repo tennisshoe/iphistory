@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Akamai International, BV</registrant>
+    <registration>
+      <created>2013-09-23</created>
+      <updated>2013-09-23</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       72.246.51.0 - 72.246.51.255
+CIDR:           72.246.51.0/24
+NetName:        AIBV
+NetHandle:      NET-72-246-51-0-1
+Parent:         AKAMAI-ARIN-1 (NET-72-246-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Akamai International, BV (AIB-17)
+RegDate:        2013-09-23
+Updated:        2013-09-23
+Ref:            http://whois.arin.net/rest/net/NET-72-246-51-0-1
+
+OrgName:        Akamai International, BV
+OrgId:          AIB-17
+Address:        Prins Bernhardplein 200
+City:           Amsterdam
+StateProv:      
+PostalCode:     1097 JB
+Country:        NL
+RegDate:        2013-09-19
+Updated:        2013-09-19
+Ref:            http://whois.arin.net/rest/org/AIB-17
+
+OrgTechHandle: AIBVH-ARIN
+OrgTechName:   AIBV Hostmaster
+OrgTechPhone:  +16174442535 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/AIBVH-ARIN
+
+OrgAbuseHandle: AIBVH-ARIN
+OrgAbuseName:   AIBV Hostmaster
+OrgAbusePhone:  +16174442535 
+OrgAbuseEmail:  ip-admin@akamai.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AIBVH-ARIN
+
+NetRange:       72.246.0.0 - 72.247.255.255
+CIDR:           72.246.0.0/15
+NetName:        AKAMAI-ARIN-1
+NetHandle:      NET-72-246-0-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Akamai Technologies, Inc. (AKAMAI)
+RegDate:        2005-03-14
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-72-246-0-0-1
+
+OrgName:        Akamai Technologies, Inc.
+OrgId:          AKAMAI
+Address:        8 Cambridge Center
+City:           Cambridge
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        1999-01-21
+Updated:        2014-03-19
+Ref:            http://whois.arin.net/rest/org/AKAMAI
+
+OrgTechHandle: SJS98-ARIN
+OrgTechName:   Schecter, Steven Jay
+OrgTechPhone:  +1-617-274-7134 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SJS98-ARIN
+
+OrgAbuseHandle: MHA379-ARIN
+OrgAbuseName:   Hannigan, Martin 
+OrgAbusePhone:  +1-617-444-2535 
+OrgAbuseEmail:  ip-admin@akamai.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MHA379-ARIN
+
+OrgTechHandle: MHA379-ARIN
+OrgTechName:   Hannigan, Martin 
+OrgTechPhone:  +1-617-444-2535 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MHA379-ARIN
+
+OrgTechHandle: ZIPKI-ARIN
+OrgTechName:   Zipkin, Justin 
+OrgTechPhone:  +1-617-444-9713 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZIPKI-ARIN
+
+RNOCHandle: NF81-ARIN
+RNOCName:   Freedman, Noam 
+RNOCPhone:  +1-617-938-3130 
+RNOCEmail:  abuse@akamai.com
+RNOCRef:    http://whois.arin.net/rest/poc/NF81-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

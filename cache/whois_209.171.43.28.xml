@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TELUS Communications Inc.</registrant>
+    <registration>
+      <created>1997-11-17</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.171.0.0 - 209.171.255.255
+CIDR:           209.171.0.0/16
+NetName:        TELUS-209-171-0-0
+NetHandle:      NET-209-171-0-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS852
+Organization:   TELUS Communications Inc. (TACE)
+RegDate:        1997-11-17
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-209-171-0-0-1
+
+OrgName:        TELUS Communications Inc.
+OrgId:          TACE
+Address:        10 - 3777 Kingsway
+City:           Burnaby
+StateProv:      BC
+PostalCode:     V5H-3Z7
+Country:        CA
+RegDate:        
+Updated:        2011-10-25
+Ref:            http://whois.arin.net/rest/org/TACE
+
+ReferralServer:  rwhois://rwhois.telus.net:4321
+
+OrgTechHandle: TBOTP-ARIN
+OrgTechName:   TELUS BC ORG TECH POC
+OrgTechPhone:  +1-877-310-8324 
+OrgTechEmail:  IPadmin@telus.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TBOTP-ARIN
+
+OrgAbuseHandle: AAT-ARIN
+OrgAbuseName:   Abuse at TELUS
+OrgAbusePhone:  +1-877-945-8220 
+OrgAbuseEmail:  abuse@telus.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AAT-ARIN
+
+RTechHandle: PSINET-CA-ARIN
+RTechName:   TELUS IP Address Administration
+RTechPhone:  +1-877-310-8324 
+RTechEmail:  IPAdmin@telus.com
+RTechRef:    http://whois.arin.net/rest/poc/PSINET-CA-ARIN
+
+RNOCHandle: TBOTP-ARIN
+RNOCName:   TELUS BC ORG TECH POC
+RNOCPhone:  +1-877-310-8324 
+RNOCEmail:  IPadmin@telus.com
+RNOCRef:    http://whois.arin.net/rest/poc/TBOTP-ARIN
+
+== Additional Information From rwhois://rwhois.telus.net:4321 ==
+
+%rwhois V-1.5:001ab7:00 rwhois.telus.net (by Network Solutions, Inc. V-1.5.9.5)
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

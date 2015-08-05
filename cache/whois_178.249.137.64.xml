@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Jake Maizel</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '178.249.136.0 - 178.249.137.255' is 'abuse@soundcloud.com'
+
+inetnum:        178.249.136.0 - 178.249.137.255
+netname:        SOUNDCLOUD-NET
+descr:          SoundCloud infrastructure
+country:        DE
+admin-c:        SCLO1-RIPE
+admin-c:        JM7137-RIPE
+admin-c:        RM16160-RIPE
+tech-c:         SCLO1-RIPE
+tech-c:         JM7137-RIPE
+tech-c:         RM16160-RIPE
+status:         ASSIGNED PA
+mnt-by:         SOUNDCLOUD-MNT
+changed:        jake@soundcloud.com 20140616
+created:        2010-05-31T16:24:10Z
+last-modified:  2014-06-16T20:01:00Z
+source:         RIPE
+
+person:         Jake Maizel
+address:        Rheinsberger Str. 76/77
+address:        10115 Berlin
+address:        Germany
+phone:          +49 30 467 247 600
+nic-hdl:        JM7137-RIPE
+changed:        ryan@soundcloud.com 20141027
+mnt-by:         SOUNDCLOUD-MNT
+created:        2010-08-05T15:04:36Z
+last-modified:  2014-10-27T20:43:10Z
+source:         RIPE
+
+person:         Ryan Mortensen
+address:        510 Treat Ave.
+address:        San Francisco, CA 94110
+address:        United States
+phone:          +1 415 535 3676
+nic-hdl:        RM16160-RIPE
+mnt-by:         SOUNDCLOUD-MNT
+changed:        ryan@soundcloud.com 20141027
+created:        2014-06-01T19:05:04Z
+last-modified:  2014-10-27T20:45:17Z
+source:         RIPE
+
+person:         Frederic Jaeckel
+address:        Rheinsberger Str. 76/77
+address:        10115 Berlin
+address:        Germany
+phone:          +49 30 467 247 600
+nic-hdl:        SCLO1-RIPE
+mnt-by:         SOUNDCLOUD-MNT
+changed:        ryan@soundcloud.com 20141027
+created:        2010-05-10T15:51:42Z
+last-modified:  2014-10-27T20:47:09Z
+source:         RIPE
+
+route:          178.249.136.0/21
+descr:          SoundCloud Network
+origin:         AS197157
+mnt-by:         SOUNDCLOUD-MNT
+changed:        frederic@soundcloud.com 20100802
+created:        2010-08-02T15:43:23Z
+last-modified:  2010-08-02T15:43:23Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

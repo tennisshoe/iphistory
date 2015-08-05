@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Team Internet AG</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '185.53.176.0 - 185.53.179.255' is 'abuse@teaminternet.de'
+
+inetnum:        185.53.176.0 - 185.53.179.255
+netname:        DE-TEAMINTERNET-20140411
+descr:          Team Internet AG
+country:        DE
+org:            ORG-TIA27-RIPE
+admin-c:        TI998-RIPE
+tech-c:         TI998-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      TIA27-MNT
+mnt-lower:      IX1-MNT
+mnt-routes:     TIA27-MNT
+mnt-routes:     IX1-MNT
+notify:         whois@teaminternet.de
+changed:        hostmaster@ripe.net 20140411
+changed:        bit-bucket@ripe.net 20140414
+changed:        bit-bucket@ripe.net 20150309
+created:        2014-04-11T09:55:43Z
+last-modified:  2015-03-09T11:02:13Z
+source:         RIPE
+
+organisation:   ORG-TIA27-RIPE
+org-name:       Team Internet AG
+org-type:       LIR
+address:        Team Internet AG
+address:        Liebherrstr. 22
+address:        80538
+address:        Muenchen
+address:        GERMANY
+phone:          +4989416146013
+fax-no:         +4989416146090
+mnt-ref:        TIA27-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        TI913-RIPE
+changed:        bitbucket@ripe.net 20150309
+created:        2014-03-25T15:08:20Z
+last-modified:  2015-03-09T11:03:10Z
+source:         RIPE
+e-mail:         office@teaminternet.de
+
+role:           Network Operations Team
+address:        Team Internet AG
+address:        Network Operations
+e-mail:         abuse@teaminternet.de
+nic-hdl:        TI998-RIPE
+mnt-by:         TIA27-MNT
+changed:        mario@teaminternet.de 20150309
+created:        2015-03-09T10:55:22Z
+last-modified:  2015-03-09T10:55:22Z
+source:         RIPE
+
+route:          185.53.176.0/22
+descr:          TEAM-INTERNET-PA
+origin:         AS61969
+notify:         ripe@internetx.de
+mnt-by:         TIA27-MNT
+mnt-by:         IX1-MNT
+changed:        ripe@internetx.de 20140414
+created:        2014-04-14T16:00:29Z
+last-modified:  2014-04-14T16:06:41Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

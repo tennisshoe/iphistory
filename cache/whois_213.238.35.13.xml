@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>nwork Hostmaster Role Account</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.238.35.0 - 213.238.35.31' is 'abuse@work.de'
+
+inetnum:        213.238.35.0 - 213.238.35.31
+netname:        WORK-NET
+descr:          n@work Informationssysteme GmbH
+country:        DE
+admin-c:        JD35-RIPE
+tech-c:         WORK1-RIPE
+status:         ASSIGNED PA
+mnt-by:         NWORK-MNT
+changed:        joerg@work.de 20091229
+created:        2009-12-29T09:23:13Z
+last-modified:  2009-12-29T09:23:13Z
+source:         RIPE
+
+role:           nwork Hostmaster Role Account
+address:        Wandalenweg 5
+address:        20097 Hamburg
+address:        Germany
+phone:          +49 40 23880900
+fax-no:         +49 40 23880929
+e-mail:         noc@work.de
+remarks:        trouble: Business hours: Monday-Friday 0900-1800 CET
+remarks:        (+49 40 23880900)
+remarks:        trouble:      Other times: Please email
+admin-c:        JD35-RIPE
+tech-c:         JD35-RIPE
+nic-hdl:        WORK1-RIPE
+remarks:        Routing and other technical issues: noc@work.de
+remarks:        Abuse and Security issues: abuse@work.de
+remarks:        Thanks!
+mnt-by:         NWORK-MNT
+changed:        joerg@work.de 20060424
+created:        2001-11-09T13:36:55Z
+last-modified:  2006-04-24T13:29:02Z
+source:         RIPE
+
+person:         Jan Diegelmann
+address:        n@work Internet Informationssysteme GmbH
+address:        Wandalenweg 5
+address:        D-20097 Hamburg
+address:        Germany
+phone:          +49 40 2388090
+fax-no:         +49 40 23880929
+nic-hdl:        JD35-RIPE
+mnt-by:         NWORK-MNT
+created:        2002-02-15T15:21:36Z
+last-modified:  2011-06-10T11:20:56Z
+source:         RIPE
+changed:        diegel@work.de 20110610
+
+route:          213.238.32.0/20
+descr:          n@work Internet Informationssysteme GmbH
+origin:         AS9211
+notify:         noc@work.de
+mnt-by:         NWORK-MNT
+changed:        diegel@work.de 20011113
+changed:        joerg@work.de 20100817
+created:        2010-08-17T09:23:19Z
+last-modified:  2010-08-17T09:23:19Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

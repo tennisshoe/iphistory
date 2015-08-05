@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CWIE, LLC</registrant>
+    <registration>
+      <created>2000-02-22</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.38.192.0 - 64.38.255.255
+CIDR:           64.38.192.0/18
+NetName:        CWIE-BLK-1
+NetHandle:      NET-64-38-192-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   CWIE, LLC (CWIE)
+RegDate:        2000-02-22
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-38-192-0-1
+
+OrgName:        CWIE, LLC
+OrgId:          CWIE
+Address:        2353 W University Bldg A
+City:           Tempe
+StateProv:      AZ
+PostalCode:     85281
+Country:        US
+RegDate:        1999-09-01
+Updated:        2012-03-13
+Ref:            http://whois.arin.net/rest/org/CWIE
+
+ReferralServer:  rwhois://rwhois.cavecreek.net:4321
+
+OrgAbuseHandle: ABUSE1487-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-422-2022 
+OrgAbuseEmail:  abuse@cwie.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1487-ARIN
+
+OrgTechHandle: IPADM336-ARIN
+OrgTechName:   IPAdmin
+OrgTechPhone:  +1-480-422-2022 
+OrgTechEmail:  ipadmin@cwie.net
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM336-ARIN
+
+NetRange:       64.38.230.0 - 64.38.230.255
+CIDR:           64.38.230.0/24
+NetName:        ZMEDIA
+NetHandle:      NET-64-38-230-0-1
+Parent:         CWIE-BLK-1 (NET-64-38-192-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Multi Media LLC (MML-228)
+RegDate:        2015-06-30
+Updated:        2015-06-30
+Ref:            http://whois.arin.net/rest/net/NET-64-38-230-0-1
+
+OrgName:        Multi Media LLC
+OrgId:          MML-228
+Address:        200 Goddard
+City:           Irvine
+StateProv:      CA
+PostalCode:     92618
+Country:        US
+RegDate:        2015-05-20
+Updated:        2015-05-20
+Ref:            http://whois.arin.net/rest/org/MML-228
+
+OrgTechHandle: NOC32324-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-949-428-8723 
+OrgTechEmail:  ipadmin@zmedianow.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC32324-ARIN
+
+OrgNOCHandle: NOC32324-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-949-428-8723 
+OrgNOCEmail:  ipadmin@zmedianow.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC32324-ARIN
+
+OrgAbuseHandle: NOC32324-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-949-428-8723 
+OrgAbuseEmail:  ipadmin@zmedianow.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC32324-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

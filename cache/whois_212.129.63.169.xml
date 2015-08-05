@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Tiscali Telecom France B2B staff</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.129.63.0 - 212.129.63.255' is 'abuse@proxad.net'
+
+inetnum:        212.129.63.0 - 212.129.63.255
+netname:        FR-CLAVIUS
+descr:          Telefun
+country:        FR
+admin-c:        JA278-RIPE
+tech-c:         JB2810-RIPE
+tech-c:         TTFR3-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-TISCALIFR-B2B
+changed:        jerome.fleury@fr.tiscali.com 20050504
+created:        2002-09-24T15:24:20Z
+last-modified:  2005-05-04T10:59:50Z
+source:         RIPE
+
+role:           Tiscali Telecom France B2B staff
+address:        known as Iliad Entreprises
+address:        8, rue de la Ville l'eveque
+address:        75008 Paris
+address:        France
+phone:          +33 1 78 56 90 00
+fax-no:         +33 1 45082529
+e-mail:         ripe@te-dns.com
+remarks:        trouble:      Questions and problem reports: support@iliad-entreprises.fr
+remarks:        trouble:      ALL ABUSE REQUESTS MUST BE SENT TO support@iliad-entreprises.fr
+admin-c:        HS2260-RIPE
+tech-c:         HS2260-RIPE
+nic-hdl:        TTFR3-RIPE
+mnt-by:         MNT-TISCALIFR-B2B
+changed:        henley.saramandif@te-dns.com 20100106
+created:        2004-04-20T13:48:15Z
+last-modified:  2010-01-06T09:35:11Z
+source:         RIPE
+abuse-mailbox:  abuse@te-dns.com
+
+person:         Jerome Aguesse
+address:        Telefun
+address:        37 bis rue greneta
+address:        75002 Paris
+address:        France
+phone:          +33 1 44888282
+e-mail:         jaguesse@skyrock.com
+nic-hdl:        JA278-RIPE
+mnt-by:         MNT-TISCALIFR-B2B
+changed:        jerome.fleury@fr.tiscali.com 20050504
+created:        2005-05-04T10:56:29Z
+last-modified:  2005-05-04T10:56:29Z
+source:         RIPE
+
+person:         Jean Barbezat
+address:        Telefun
+address:        37 bis rue Greneta
+address:        75002 Paris
+address:        France
+phone:          +33 144888941
+e-mail:         jean@skyrock.com
+nic-hdl:        JB2810-RIPE
+mnt-by:         MNT-TISCALIFR-B2B
+changed:        jerome.fleury@fr.tiscali.com 20050504
+created:        2005-05-04T10:55:12Z
+last-modified:  2005-05-04T10:55:12Z
+source:         RIPE
+
+route:          212.129.63.0/24
+descr:          TELEFUN - SKYROCK
+origin:         AS41064
+mnt-by:         MNT-TISCALIFR
+changed:        henley.saramandif@te-dns.com 20071112
+created:        2007-11-12T08:19:45Z
+last-modified:  2007-11-12T08:19:45Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

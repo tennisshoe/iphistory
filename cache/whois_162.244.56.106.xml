@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Unwired</registrant>
+    <registration>
+      <created>2014-03-06</created>
+      <updated>2014-03-06</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       162.244.56.0 - 162.244.63.255
+CIDR:           162.244.56.0/21
+NetName:        UNWIRED-8
+NetHandle:      NET-162-244-56-0-1
+Parent:         NET162 (NET-162-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32354
+Organization:   Unwired (UNWIR-1)
+RegDate:        2014-03-06
+Updated:        2014-03-06
+Ref:            http://whois.arin.net/rest/net/NET-162-244-56-0-1
+
+OrgName:        Unwired
+OrgId:          UNWIR-1
+Address:        1331 7th Street
+Address:        Unit A
+City:           Berkeley
+StateProv:      CA
+PostalCode:     94710
+Country:        US
+RegDate:        2004-01-09
+Updated:        2011-04-04
+Ref:            http://whois.arin.net/rest/org/UNWIR-1
+
+ReferralServer:  rwhois://rwhois.unwiredltd.com:4321
+
+OrgAbuseHandle: UNOC5-ARIN
+OrgAbuseName:   Unwired Network Operations Center
+OrgAbusePhone:  +1-510-868-1614 
+OrgAbuseEmail:  abuse@unwiredltd.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/UNOC5-ARIN
+
+OrgNOCHandle: UNOC5-ARIN
+OrgNOCName:   Unwired Network Operations Center
+OrgNOCPhone:  +1-510-868-1614 
+OrgNOCEmail:  abuse@unwiredltd.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/UNOC5-ARIN
+
+OrgTechHandle: UNOC5-ARIN
+OrgTechName:   Unwired Network Operations Center
+OrgTechPhone:  +1-510-868-1614 
+OrgTechEmail:  abuse@unwiredltd.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UNOC5-ARIN
+
+== Additional Information From rwhois://rwhois.unwiredltd.com:4321 ==
+
+%rwhois V-1.5:003eef:00 svr01-365.unwiredltd.com (by Network Solutions, Inc. V-1.5.9.6)
+network:Class-Name:network
+network:ID:NETBLK-Unwired.162.244.56.0/21
+network:Auth-Area:162.244.56.0/21
+network:Network-Name:Unwired-162.244.56.0-21
+network:IP-Network:162.244.56.0/21
+network:IP-Network-Block:162.244.56.0 - 162.244.63.255
+network:Organization;I:Unwired.162.244.56.0/21
+network:Tech-Contact;I:support@unwiredltd.com
+network:Abuse-Contact;I:abuse@unwiredltd.com
+network:Admin-Contact;I:PK154-ARIN
+network:Created:20100512
+network:Updated:20100512
+network:Updated-By:cmears@unwiredltd.com
+
+network:Class-Name:network
+network:ID:NETBLK-Unwired.162.244.56.0/21
+network:Auth-Area:162.244.56.0/21
+network:Network-Name:BackBlaze-162.244.56.0-21
+network:IP-Network:162.244.56.0/21
+network:IP-Network-Block:162.244.56.0 - 162.244.63.255
+network:Organization;I:BackBlaze.162.244.56.0/21
+network:Tech-Contact;I:support@unwiredltd.com
+network:Abuse-Contact;I:abuse@unwiredltd.com
+network:Admin-Contact;I:PK154-ARIN
+network:Created:20140127
+network:Updated:20140127
+network:Updated-By:pdoherty@unwiredltd.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DACOM Corp.</registrant>
+    <registration>
+      <updated>2002-10-25</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        210.206.0.0 - 210.207.255.255
+netname:        boranet-net
+descr:          DACOM Corp.
+descr:          Facility-based Telecommunication Service Provider
+descr:          providing Internet leased-ine, on-line service, BLL etc.
+country:        KR
+admin-c:        DB50-AP
+tech-c:         DB50-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MNT-KRNIC-AP
+changed:        hm-changed@apnic.net 20021025
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20120124
+source:         APNIC
+
+role:           DACOM BORANET
+address:        DACOM Bldg., 706-1, Yoeksam-dong, Kangnam-ku
+address:        Seoul
+country:        KR
+phone:          +82-2-2089-7755
+fax-no:         +82-2-2089-0706
+e-mail:         ipadm@nic.bora.net
+e-mail:         abuse@bora.net
+e-mail:         security@bora.net
+admin-c:        PE32-AP
+tech-c:         PE32-AP
+nic-hdl:        DB50-AP
+mnt-by:         MNT-KRNIC-AP
+notify:         hostmaster@nic.or.kr
+remarks:        IP address administrator group of NIC team, DACOM Corp.
+remarks:        If related with spam, send mail to abuse@bora.net
+remarks:        If related with security, send mail to security@bora.net
+remarks:        Only for whois information correction, send mail to ipadm@nic.bora.net
+changed:        jeonsi@bora.net 20041105
+changed:        hm-changed@apnic.net 20060428
+source:         APNIC
+
+inetnum:        210.206.0.0 - 210.207.255.255
+netname:        BORANET-KR
+descr:          LG DACOM Corporation
+country:        KR
+admin-c:        IA5-KR
+tech-c:         IA5-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

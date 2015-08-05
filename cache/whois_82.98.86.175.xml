@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Plus.Line Noc</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '82.98.86.0 - 82.98.86.255' is 'abuse@plusline.de'
+
+inetnum:        82.98.86.0 - 82.98.86.255
+netname:        SEDO-1-NET
+descr:          Sedo Domain Parking
+descr:          c/o Plusline
+country:        DE
+admin-c:        UP448-RIPE
+tech-c:         PLN
+status:         ASSIGNED PA
+remarks:        --------------------------------
+remarks:        For abuse issues, please contact abuse@fhe3.com
+remarks:        For networking Issues, please contact notdienst@fhe3.com
+remarks:        --------------------------------
+mnt-by:         PLUSLINE-MNT
+changed:        al@plusline.net 20070615
+created:        2007-06-15T13:35:10Z
+last-modified:  2007-06-15T13:35:10Z
+source:         RIPE
+
+role:           Plus.Line Noc
+address:        Plus.line AG
+address:        Mainzer Landstr. 199
+address:        60326 Frankfurt
+address:        Germany
+phone:          +49 69 758915 0
+fax-no:         +49 69 758915 33
+e-mail:         hostmaster@plusline.net
+admin-c:        RG72-RIPE
+tech-c:         RG72-RIPE
+tech-c:         MBPL-RIPE
+tech-c:         GSPL
+nic-hdl:        PLN
+notify:         hostmaster@plusline.net
+mnt-by:         PLUSLINE-MNT
+created:        2002-01-10T13:29:44Z
+last-modified:  2011-01-17T14:59:39Z
+source:         RIPE
+changed:        cn@plusline.de 20090727
+changed:        gs@plusline.de 20091016
+changed:        gs@plusline.de 20110117
+
+person:         Ulrich Priesner
+address:        Sedo GmbH
+address:        Im Mediapark 6
+address:        50670 Koeln
+address:        Germany
+phone:          +49 221 34030-0
+e-mail:         info@sedo.de
+nic-hdl:        UP448-RIPE
+mnt-by:         PLUSLINE-MNT
+changed:        al@plusline.net 20070615
+created:        2007-06-15T13:31:04Z
+last-modified:  2007-07-09T15:24:12Z
+source:         RIPE
+
+route:          82.98.86.0/24
+descr:          Sedo GmbH
+descr:          c/o Plus.line AG
+origin:         AS47846
+mnt-by:         PLUSLINE-MNT
+changed:        mb@plusline.net 20090616
+created:        2009-06-16T07:02:28Z
+last-modified:  2009-06-16T07:02:28Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

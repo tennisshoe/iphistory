@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>BackBlaze</registrant>
+    <registration>
+      <created>2008-12-18</created>
+      <updated>2008-12-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       70.42.186.64 - 70.42.186.127
+CIDR:           70.42.186.64/26
+NetName:        INAP-SFO-BACKBLAZE-28097
+NetHandle:      NET-70-42-186-64-1
+Parent:         PNAP-09-2005 (NET-70-42-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       BackBlaze (C02118909)
+RegDate:        2008-12-18
+Updated:        2008-12-18
+Ref:            http://whois.arin.net/rest/net/NET-70-42-186-64-1
+
+CustName:       BackBlaze
+Address:        425A Forest Ave.
+City:           Palo Alto
+StateProv:      CA
+PostalCode:     94301
+Country:        US
+RegDate:        2008-12-18
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02118909
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-404-475-0520 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-404-475-0520 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RNOCHandle: INO3-ARIN
+RNOCName:   InterNap Network Operations Center
+RNOCPhone:  +1-404-475-0520 
+RNOCEmail:  noc@internap.com
+RNOCRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RAbuseHandle: IAC3-ARIN
+RAbuseName:   Internap Abuse Contact
+RAbusePhone:  +1-206-256-9500 
+RAbuseEmail:  abuse@internap.com
+RAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+NetRange:       70.42.0.0 - 70.42.255.255
+CIDR:           70.42.0.0/16
+NetName:        PNAP-09-2005
+NetHandle:      NET-70-42-0-0-1
+Parent:         NET70 (NET-70-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internap Network Services Corporation (PNAP)
+RegDate:        2005-09-29
+Updated:        2006-11-13
+Ref:            http://whois.arin.net/rest/net/NET-70-42-0-0-1
+
+OrgName:        Internap Network Services Corporation
+OrgId:          PNAP
+Address:        250 Williams Street
+Address:        Suite E100
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        1996-07-18
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/PNAP
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-404-475-0520 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-404-475-0520 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RNOCHandle: INO3-ARIN
+RNOCName:   InterNap Network Operations Center
+RNOCPhone:  +1-404-475-0520 
+RNOCEmail:  noc@internap.com
+RNOCRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RAbuseHandle: IAC3-ARIN
+RAbuseName:   Internap Abuse Contact
+RAbusePhone:  +1-206-256-9500 
+RAbuseEmail:  abuse@internap.com
+RAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

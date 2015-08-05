@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hostmaster Contact</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.241.176.0 - 212.241.177.255' is 'abuse@daisygroupplc.com'
+
+inetnum:        212.241.176.0 - 212.241.177.255
+netname:        UK-GLOBAL-AGG-LINK-ADDR-AR01-TN5
+descr:          Aggregate Link Addressing-ar01-tn5
+remarks:        INFRA-AW
+country:        GB
+admin-c:        HM655-RIPE
+tech-c:         HM655-RIPE
+status:         ASSIGNED PA
+notify:         ipreq@daisygroupplc.com
+mnt-by:         AS5519-MNT
+changed:        mohammed.tahir@daisygroupplc.com 20120724
+changed:        sjc@eng.daisyplc.net 20140408
+created:        2012-07-24T13:15:53Z
+last-modified:  2014-04-08T12:39:20Z
+source:         RIPE
+
+role:           Hostmaster Contact
+address:        Daisy Communications
+address:        1 Transcentral
+address:        Bennet Road
+address:        Reading, Berks
+address:        RG2 0QX
+address:        UK
+phone:          +44 870 909 8181
+e-mail:         ipreq@daisygroupplc.com
+nic-hdl:        HM655-RIPE
+admin-c:        DUNC2-RIPE
+tech-c:         DUNC2-RIPE
+remarks:        ** please use HM5519-RIPE abuse contact **
+abuse-mailbox:  abuse@daisygroupplc.com
+notify:         ipreq@daisygroupplc.com
+notify:         duncan.lockwood@daisygroup.com
+mnt-by:         AS5519-MNT
+changed:        sjc@eng.pipex.net 20050809
+changed:        ipreq@pipex.net 20050816
+changed:        ipreq@pipex.net 20051018
+changed:        ipreq@pipex.net 20051129
+changed:        ipreq@pipex.net 20060302
+changed:        sjc@eng.pipex.net 20060504
+changed:        sjc@eng.pipex.net 20061012
+changed:        sjc@eng.pipex.net 20061212
+changed:        ipreq@pipex.net 20070216
+changed:        sjc@eng.pipex.net 20070503
+changed:        sjc@eng.pipex.net 20070912
+changed:        sjc@eng.pipex.net 20070917
+changed:        sjc@eng.pipex.net 20071024
+changed:        ipreq@pipex.net 20071113
+changed:        ipreq@pipex.net 20071114
+changed:        sjc@eng.pipex.net 20080213
+changed:        sjc@eng.pipex.net 20080215
+changed:        sjc@eng.gxn.net 20080722
+changed:        sjc@eng.gxn.net 20081029
+changed:        sjc@eng.gxn.net 20090819
+changed:        sjc@eng.gxn.net 20090821
+changed:        sjc@eng.gxn.net 20091020
+changed:        sjc@eng.gxn.net 20100323
+changed:        sjc@eng.gxn.net 20100705
+changed:        sjc@eng.gxn.net 20110126
+changed:        sjc@eng.gxn.net 20120118
+changed:        sjc@eng.daisplc.net 20130315
+changed:        sjc@eng.daisplc.net 20131125
+changed:        sjc@eng.daisplc.net 20140908
+changed:        mohammed.tahir@daisygroupplc.com 20141203
+changed:        mohammed.tahir@daisygroupplc.com 20141204
+changed:        duncan.lockwood@daisygroup.com 20150703
+changed:        duncan.lockwood@daisygroup.com 20150703
+created:        2002-08-06T14:44:45Z
+last-modified:  2015-07-03T16:00:47Z
+source:         RIPE
+
+route:          212.241.176.0/24
+descr:          Daisy Communications
+origin:         AS5413
+member-of:      AS5413:RS-CUSTOMER
+notify:         ipreq@daisygroupplc.com
+mnt-by:         AS5413-MNT
+changed:        ipreq@pipex.net 20051108
+changed:        sjc@eng.pipex.net 20070305
+changed:        sjc@eng.pipex.net 20070911
+changed:        ipreq@pipex.net 20071130
+changed:        sjc@eng.gxn.net 20120116
+changed:        sjc@eng.daisyplc.net 20140408
+created:        2005-11-08T23:30:44Z
+last-modified:  2014-04-08T12:04:05Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

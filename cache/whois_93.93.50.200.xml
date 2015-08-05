@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DuoDecad IT Services Luxembourg S.a r.l.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '93.93.48.0 - 93.93.55.255' is 'abuse@duodecadits.com'
+
+inetnum:        93.93.48.0 - 93.93.55.255
+netname:        LU-DDITS-20080213
+descr:          DuoDecad IT Services Luxembourg S.a r.l.
+country:        LU
+org:            ORG-DISL4-RIPE
+admin-c:        THOM1-RIPE
+tech-c:         DDIT-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      DDITS-MNT
+mnt-routes:     DDITS-MNT
+notify:         noc@duodecadits.com
+changed:        hostmaster@ripe.net 20080213
+changed:        hostmaster@ripe.net 20081218
+changed:        bitbucket@ripe.net 20081219
+changed:        hostmaster@ripe.net 20110804
+changed:        hostmaster@ripe.net 20140327
+created:        2008-02-13T07:28:25Z
+last-modified:  2014-03-27T13:55:24Z
+source:         RIPE
+
+organisation:   ORG-DISL4-RIPE
+org-name:       DuoDecad IT Services Luxembourg S.a r.l.
+org-type:       LIR
+address:        Duodecad IT Services Luxembourg S.a r.l.
+address:        Andras Thomann
+address:        44 Avenue John F. Kennedy
+address:        1855
+address:        Luxembourg
+address:        LUXEMBOURG
+phone:          +3522611181
+fax-no:         +35227397115
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        DDITS-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+tech-c:         DDIT-RIPE
+abuse-c:        DDIT-RIPE
+admin-c:        TAMA5-RIPE
+admin-c:        DDIT-RIPE
+admin-c:        THOM1-RIPE
+created:        2012-12-11T09:25:39Z
+last-modified:  2014-03-28T14:15:21Z
+source:         RIPE
+e-mail:         info@duodecadits.com
+changed:        bitbucket@ripe.net 20140328
+
+role:           Duodecad IT Services NOC
+address:        Duodecad IT Services Luxembourg
+address:        44 Avenue John F. Kennedy
+address:        L-1855 Luxembourg (Kirchberg)
+address:        Luxembourg
+phone:          +352 26111840
+fax-no:         +352 27397115
+e-mail:         noc@duodecadits.com
+admin-c:        THOM1-RIPE
+tech-c:         TAMA5-RIPE
+nic-hdl:        DDIT-RIPE
+mnt-by:         DDITS-MNT
+notify:         noc@duodecadits.com
+abuse-mailbox:  abuse@duodecadits.com
+remarks:        ---------------------------------------------
+remarks:        Please send all abuse and spam complaints to:
+remarks:        abuse@duodecadits.com
+remarks:        ---------------------------------------------
+changed:        janos.angeli@duodecadits.com 20140125
+created:        2012-12-11T11:54:06Z
+last-modified:  2014-01-25T12:48:50Z
+source:         RIPE
+
+person:         Andras Thomann
+address:        Duodecad IT Services Luxembourg
+address:        44 Avenue John F. Kennedy
+address:        L-1855 Luxembourg (Kirchberg)
+address:        Luxembourg
+phone:          +352 26111840
+e-mail:         andras.thomann@duodecadits.com
+nic-hdl:        THOM1-RIPE
+mnt-by:         DDITS-MNT
+notify:         andras.thomann@duodecadits.com
+remarks:        ---------------------------------------------
+remarks:        Please send all abuse and spam complaints to:
+remarks:        abuse@duodecadits.com
+remarks:        ---------------------------------------------
+changed:        janos.angeli@duodecadits.com 20140125
+created:        2014-01-25T12:45:44Z
+last-modified:  2014-01-25T12:45:44Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

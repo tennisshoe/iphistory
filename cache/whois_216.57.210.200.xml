@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Dotzup, Inc.</registrant>
+    <registration>
+      <created>2002-06-14</created>
+      <updated>2002-06-14</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.57.210.192 - 216.57.210.255
+CIDR:           216.57.210.192/26
+NetName:        DOTZUP-1
+NetHandle:      NET-216-57-210-192-1
+Parent:         FIBERC-BLK-2 (NET-216-57-192-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Dotzup, Inc. (DOTZUP)
+RegDate:        2002-06-14
+Updated:        2002-06-14
+Ref:            http://whois.arin.net/rest/net/NET-216-57-210-192-1
+
+OrgName:        Dotzup, Inc.
+OrgId:          DOTZUP
+Address:        2567 Woodbine Place
+City:           Belingham
+StateProv:      WA
+PostalCode:     98226
+Country:        US
+RegDate:        2002-06-14
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/DOTZUP
+
+OrgAbuseHandle: DD1392-ARIN
+OrgAbuseName:   Deboer, Dean 
+OrgAbusePhone:  +1-360-366-0364 
+OrgAbuseEmail:  dean@dotz.info
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DD1392-ARIN
+
+OrgTechHandle: DD1392-ARIN
+OrgTechName:   Deboer, Dean 
+OrgTechPhone:  +1-360-366-0364 
+OrgTechEmail:  dean@dotz.info
+OrgTechRef:    http://whois.arin.net/rest/poc/DD1392-ARIN
+
+RTechHandle: DD1392-ARIN
+RTechName:   Deboer, Dean 
+RTechPhone:  +1-360-366-0364 
+RTechEmail:  dean@dotz.info
+RTechRef:    http://whois.arin.net/rest/poc/DD1392-ARIN
+
+NetRange:       216.57.192.0 - 216.57.223.255
+CIDR:           216.57.192.0/19
+NetName:        FIBERC-BLK-2
+NetHandle:      NET-216-57-192-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   FiberCloud (FBCL)
+RegDate:        2000-06-07
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-216-57-192-0-1
+
+OrgName:        FiberCloud
+OrgId:          FBCL
+Address:        818 Stewart Street
+Address:        Suite 630
+City:           Seattle
+StateProv:      WA
+PostalCode:     98101
+Country:        US
+RegDate:        2000-06-07
+Updated:        2015-02-18
+Ref:            http://whois.arin.net/rest/org/FBCL
+
+OrgTechHandle: SUPPO139-ARIN
+OrgTechName:   Support
+OrgTechPhone:  +1-206-777-9999 
+OrgTechEmail:  support@fibercloud.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SUPPO139-ARIN
+
+OrgAbuseHandle: SUPPO139-ARIN
+OrgAbuseName:   Support
+OrgAbusePhone:  +1-206-777-9999 
+OrgAbuseEmail:  support@fibercloud.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SUPPO139-ARIN
+
+RTechHandle: SUPPO139-ARIN
+RTechName:   Support
+RTechPhone:  +1-206-777-9999 
+RTechEmail:  support@fibercloud.com
+RTechRef:    http://whois.arin.net/rest/poc/SUPPO139-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

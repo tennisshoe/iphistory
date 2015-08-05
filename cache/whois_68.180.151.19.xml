@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Yahoo! Inc.</registrant>
+    <registration>
+      <created>2006-09-22</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       68.180.128.0 - 68.180.255.255
+CIDR:           68.180.128.0/17
+NetName:        A-YAHOO-US6
+NetHandle:      NET-68-180-128-0-1
+Parent:         NET68 (NET-68-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Yahoo! Inc. (YHOO)
+RegDate:        2006-09-22
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-68-180-128-0-1
+
+OrgName:        Yahoo! Inc.
+OrgId:          YHOO
+Address:        701 First Ave
+City:           Sunnyvale
+StateProv:      CA
+PostalCode:     94089
+Country:        US
+RegDate:        2000-10-23
+Updated:        2013-04-02
+Ref:            http://whois.arin.net/rest/org/YHOO
+
+OrgAbuseHandle: NETWO5978-ARIN
+OrgAbuseName:   Network Abuse
+OrgAbusePhone:  +1-408-349-3300 
+OrgAbuseEmail:  abuse@yahoo-inc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO5978-ARIN
+
+OrgTechHandle: NA258-ARIN
+OrgTechName:   Netblock Admin
+OrgTechPhone:  +1-408-349-3300 
+OrgTechEmail:  netblockadmin@yahoo-inc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NA258-ARIN
+
+RTechHandle: NA258-ARIN
+RTechName:   Netblock Admin
+RTechPhone:  +1-408-349-3300 
+RTechEmail:  netblockadmin@yahoo-inc.com
+RTechRef:    http://whois.arin.net/rest/poc/NA258-ARIN
+
+RAbuseHandle: NETWO857-ARIN
+RAbuseName:   Network Abuse
+RAbusePhone:  +1-408-349-3300 
+RAbuseEmail:  network-abuse@cc.yahoo-inc.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NETWO857-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

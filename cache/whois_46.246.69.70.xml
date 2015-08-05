@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Portlane NOC</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '46.246.69.64 - 46.246.69.127' is 'abuse@portlane.com'
+
+inetnum:        46.246.69.64 - 46.246.69.127
+netname:        EVOLUSO
+descr:          Evoluso
+remarks:        www.evoluso.com
+country:        SE
+admin-c:        PN1967-RIPE
+tech-c:         PN1967-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-PORTLANE
+changed:        noc@portlane.com 20130913
+created:        2013-09-13T08:39:27Z
+last-modified:  2013-09-13T08:39:27Z
+source:         RIPE
+
+role:           Portlane NOC
+address:        BOX 174
+address:        31122 Falkenberg
+address:        Sweden
+e-mail:         noc@portlane.com
+abuse-mailbox:  abuse@portlane.com
+nic-hdl:        PN1967-RIPE
+mnt-by:         MNT-PORTLANE
+created:        2007-04-04T23:57:17Z
+last-modified:  2015-02-25T21:42:40Z
+source:         RIPE
+changed:        noc@portlane.com 20150225
+
+route:          46.246.0.0/17
+descr:          Portlane Network
+origin:         AS42708
+mnt-by:         MNT-PORTLANE
+changed:        noc@portlane.com 20110127
+created:        2011-01-27T13:42:49Z
+last-modified:  2011-01-27T13:42:49Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

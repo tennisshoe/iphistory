@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>British Telecommunications plc</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '195.206.64.0 - 195.206.95.255' is 'abuse@eu.bt.net'
+
+inetnum:        195.206.64.0 - 195.206.95.255
+netname:        EU-BT-970228
+descr:          British Telecommunications plc
+country:        NL
+org:            ORG-CNS3-RIPE
+admin-c:        CIA1-RIPE
+tech-c:         BS1836-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      CIP-MNT
+mnt-domains:    CIP-MNT
+mnt-routes:     CIP-MNT
+mnt-lower:      MAINT-AS2007
+mnt-routes:     MAINT-AS2007
+notify:         inna@infonet.com
+changed:        hostmaster@ripe.net 19980727
+changed:        hostmaster@ripe.net 20010605
+changed:        hostmaster@ripe.net 20020612
+changed:        hostmaster@ripe.net 20020919
+changed:        hostmaster@ripe.net 20041208
+changed:        hostmaster@ripe.net 20050121
+changed:        hostmaster@ripe.net 20101028
+changed:        hostmaster@ripe.net 20111216
+changed:        hostmaster@ripe.net 20120208
+created:        2002-09-19T10:35:56Z
+last-modified:  2012-02-08T09:08:38Z
+source:         RIPE
+
+organisation:   ORG-CNS3-RIPE
+org-name:       British Telecommunications plc
+org-type:       LIR
+address:        BT Nederland n.v.
+address:        Jaco de Vries 4th floor; room 4 .8
+address:        Offices Minerva
+                Herikerbergweg 2
+address:        1101 CM
+address:        Amsterdam
+address:        NETHERLANDS
+phone:          +31 2001234
+phone:          +31 2038656
+fax-no:         +31 2037449
+e-mail:         jaco.devries@bt.com
+abuse-c:        AR15037-RIPE
+mnt-ref:        CIP-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        MC9509-RIPE
+admin-c:        JV94-RIPE
+admin-c:        MB19632-RIPE
+admin-c:        SW1173-RIPE
+admin-c:        SP2132-RIPE
+admin-c:        CIA1-RIPE
+admin-c:        BS1836-RIPE
+changed:        bitbucket@ripe.net 20150224
+created:        2004-04-17T11:18:51Z
+last-modified:  2015-02-24T08:50:12Z
+source:         RIPE
+
+role:           BT Support
+address:        BT Global Services
+address:        Offices Minerva &amp; Mercurius
+address:        Herikerbergweg 2
+address:        1101 CM Amsterdam Z-O
+phone:          +31 882128034
+fax-no:         +31 882128083
+e-mail:         network@eu.bt.net
+e-mail:         ip-pi-de@bt.com
+e-mail:         service.provisionig.spoc@bt.com
+admin-c:        CIA1-RIPE
+admin-c:        MB18085-RIPE
+admin-c:        JdV90-RIPE
+admin-c:        SvB110-RIPE
+tech-c:         CIA1-RIPE
+tech-c:         MB18085-RIPE
+tech-c:         JdV90-RIPE
+tech-c:         SvB110-RIPE
+nic-hdl:        BS1836-RIPE
+mnt-by:         CIP-MNT
+created:        2004-01-22T16:13:24Z
+last-modified:  2015-05-20T08:59:04Z
+source:         RIPE
+changed:        jaco.devries@bt.com 20150520
+
+person:         BT IP Admin
+address:        Jaco de Vries
+address:        Floor 4, Postunit 1, Room 4.16
+address:        BT Global Services
+address:        Offices Minerva &amp; Mercurius
+address:        Herikerbergweg 2
+address:        1101 CM Amsterdam Z-O
+phone:          +31 882128034
+fax-no:         +31 882128083
+e-mail:         ipadmin@bt.com
+e-mail:         jaco.devries@bt.com
+nic-hdl:        CIA1-RIPE
+mnt-by:         CIP-MNT
+created:        2002-07-24T07:04:59Z
+last-modified:  2015-05-20T08:51:08Z
+source:         RIPE
+changed:        jaco.devries@bt.com 20150520
+
+route:          195.206.69.0/24
+descr:          BT ICG/GIIB Singapore
+origin:         AS3300
+remarks:        Proxy Registered Object
+mnt-by:         CIP-MNT
+changed:        yasser.hourie@bt.com 20150108
+created:        2015-01-08T11:42:28Z
+last-modified:  2015-01-08T11:42:28Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

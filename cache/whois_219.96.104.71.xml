@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Japan Network Information Center</registrant>
+    <registration>
+      <updated>2002-03-07</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        219.96.0.0 - 219.127.255.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-JPNIC
+changed:        hostmaster@apnic.net 20020307
+status:         ALLOCATED PORTABLE
+source:         APNIC
+
+role:           Japan Network Information Center
+address:        Urbannet-Kanda Bldg 4F
+address:        3-6-2 Uchi-Kanda
+address:        Chiyoda-ku, Tokyo 101-0047,Japan
+country:        JP
+phone:          +81-3-5297-2311
+fax-no:         +81-3-5297-2312
+e-mail:         hostmaster@nic.ad.jp
+admin-c:        JI13-AP
+tech-c:         JE53-AP
+nic-hdl:        JNIC1-AP
+mnt-by:         MAINT-JPNIC
+changed:        hm-changed@apnic.net 20041222
+changed:        hm-changed@apnic.net 20050324
+changed:        ip-apnic@nic.ad.jp 20051027
+changed:        ip-apnic@nic.ad.jp 20120828
+source:         APNIC
+
+inetnum:        219.96.104.0 - 219.96.111.255
+netname:        TOK-HLM-1
+descr:          Hillside (New Media) Ltd
+country:        JP
+admin-c:        CT1212JP
+tech-c:         CT1212JP
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        JPNIC. To obtain more specific information, please use the
+remarks:        JPNIC WHOIS Gateway at
+remarks:        http://www.nic.ad.jp/en/db/whois/en-gateway.html or
+remarks:        whois.nic.ad.jp for WHOIS client. (The WHOIS client
+remarks:        defaults to Japanese output, use the /e switch for English
+remarks:        output)
+changed:        apnic-ftp@nic.ad.jp 20090312
+source:         JPNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

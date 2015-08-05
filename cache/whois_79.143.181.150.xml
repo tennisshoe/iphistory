@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Contabo GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '79.143.181.0 - 79.143.181.255' is 'abuse@contabo.de'
+
+inetnum:        79.143.181.0 - 79.143.181.255
+netname:        CONTABO
+descr:          Contabo GmbH
+country:        DE
+org:            ORG-GH7-RIPE
+admin-c:        MH7476-RIPE
+tech-c:         MH7476-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-CONTABO
+mnt-lower:      MNT-CONTABO
+mnt-routes:     MNT-CONTABO
+mnt-routes:     MNET-MNT
+mnt-domains:    MNT-CONTABO
+changed:        michael.herpich@contabo.de 20121226
+created:        2010-01-14T16:36:49Z
+last-modified:  2012-12-26T06:48:44Z
+source:         RIPE
+
+organisation:   ORG-GH7-RIPE
+org-name:       Contabo GmbH
+org-type:       OTHER
+address:        Contabo GmbH
+address:        Aschauer Str. 32a
+address:        81549 Muenchen
+address:        Germany
+phone:          +49 (0)89 21268372
+fax-no:         +49 (0)89 21665862
+abuse-mailbox:  abuse@contabo.de
+remarks:        * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+remarks:        * Please direct all complaints about Internet abuse     *
+remarks:        * like spam, hacking or scans to abuse@contabo.de       *
+remarks:        * This will guarantee fastest processing possible.      *
+remarks:        * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+tech-c:         MH7476-RIPE
+admin-c:        MH7476-RIPE
+e-mail:         info@contabo.de
+mnt-ref:        MNT-CONTABO
+mnt-by:         MNT-CONTABO
+changed:        michael.herpich@contabo.de 20121226
+created:        2010-01-14T16:19:20Z
+last-modified:  2012-12-26T06:05:51Z
+source:         RIPE
+
+person:         Michael Herpich
+address:        Contabo GmbH
+address:        Aschauer Str. 32a
+address:        81549 Muenchen
+phone:          +49 89 21268372
+fax-no:         +49 89 21665862
+nic-hdl:        MH7476-RIPE
+mnt-by:         MNT-CONTABO
+changed:        michael.herpich@contabo.de 20121226
+created:        2010-01-04T10:41:37Z
+last-modified:  2012-12-26T06:13:37Z
+source:         RIPE
+
+route:          79.143.180.0/23
+descr:          CONTABO
+origin:         AS51167
+mnt-by:         MNT-CONTABO
+changed:        michael.herpich@contabo.de 20130410
+created:        2013-06-24T06:17:20Z
+last-modified:  2013-06-24T06:17:20Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

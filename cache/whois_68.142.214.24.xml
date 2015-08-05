@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Inktomi Corporation</registrant>
+    <registration>
+      <created>2004-03-24</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       68.142.192.0 - 68.142.255.255
+CIDR:           68.142.192.0/18
+NetName:        INKTOMI-BLK-4
+NetHandle:      NET-68-142-192-0-1
+Parent:         NET68 (NET-68-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Inktomi Corporation (INKT)
+RegDate:        2004-03-24
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-68-142-192-0-1
+
+OrgName:        Inktomi Corporation
+OrgId:          INKT
+Address:        701 First Ave
+City:           Sunnyvale
+StateProv:      CA
+PostalCode:     94089
+Country:        US
+RegDate:        1999-07-09
+Updated:        2013-04-02
+Ref:            http://whois.arin.net/rest/org/INKT
+
+OrgTechHandle: NA258-ARIN
+OrgTechName:   Netblock Admin
+OrgTechPhone:  +1-408-349-3300 
+OrgTechEmail:  netblockadmin@yahoo-inc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NA258-ARIN
+
+OrgAbuseHandle: NETWO5978-ARIN
+OrgAbuseName:   Network Abuse
+OrgAbusePhone:  +1-408-349-3300 
+OrgAbuseEmail:  abuse@yahoo-inc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO5978-ARIN
+
+RAbuseHandle: NETWO857-ARIN
+RAbuseName:   Network Abuse
+RAbusePhone:  +1-408-349-3300 
+RAbuseEmail:  network-abuse@cc.yahoo-inc.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NETWO857-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,71 +1,66 @@
 Service,Domain
-ASUS WebStorage[4],asuswebstorage.com
+ASUS WebStorage,asuswebstorage.com
 Drop.io,drop.io
 Ubuntu One,one.ubuntu.com
 Xdrive,xdrive.com
 Windows Live Mesh,live.com
 ZumoDrive,zumodrive.com
 Norton Zone,nortonzone.com
-Dell DataSafe,
-,
-Acronis,
-AltDrive,
-ASUS WebStorage,
-Backblaze,
-Barracuda Backup Service,
-Bitcasa,
-Box,
-BullGuard Backup,
-Carbonite,
-Provider,
-CloudMe,
-Comodo Backup,
-Copy,
-CrashPlan,
-Cubby,
-Dolly Drive,
-Diino,
-Dropbox,
-Dropmysite,
-Druva Insync,
-Egnyte,
-Provider,
-ElephantDrive,
-EVault,
-FilesAnywhere,
-F-Secure,
-Google Drive,
-Handy Backup,
-Trend Micro SafeSync,
-IASO Backup,
-iCloud,
-Infinit,
-Infrascale,
-Iperius Online Storage,
-Intronis,
-Provider,
-Jungle Disk,
-KeepVault,
-KineticD,
-Livedrive,
-MediaFire,
-MEGA,
-Memopal,
-MiMedia,
-Mozy,
-Nextiva Drive,
-OneDrive,
-OwnDrive (ownCloud),
-pCloud,
-SpiderOak,
-SugarSync,
-Syncplicity,
-Tarsnap,
-TeamDrive,
-Tresorit,
-Unitrends Vault2Cloud,
-UpdateStar Online Backup,
-Wuala,
-Yandex.Disk,
-Zetta.net,
-Zmanda Cloud Backup,
+Dell DataSafe,delldatasafe.com
+Acronis,acronis.com
+AltDrive,altdrive.com
+Backblaze,backblaze.com
+Barracuda Backup Service,barracuda.com
+Bitcasa,bitcasa.com
+Box,box.com
+BullGuard Backup,bullguard.com
+Carbonite,carbonite.com
+CloudMe,cloudme.com
+Comodo Backup,comodo.com
+Copy,copy.com
+CrashPlan,code42.com
+Cubby,logmein.com
+Dolly Drive,dollydrive.com
+Diino,diino.com
+Dropbox,dropbox.com
+Dropmysite,dropmysite.com
+Druva Insync,druva.com
+Egnyte,egnyte.com
+ElephantDrive,elephantdrive.com
+EVault,evault.com
+FilesAnywhere,filesanywhere.com
+F-Secure,f-secure.com
+Google Drive,drive.google.com
+Handy Backup,handybackup.net
+Trend Micro SafeSync,humyo.com
+IASO Backup,iaso.com
+iCloud,icloud.com
+Infinit,infinit.io
+Infrascale,sosonlinebackup.com
+Iperius Online Storage,iperiusbackup.com
+Intronis,intronis.com
+Jungle Disk,jungledisk.com
+KeepVault,keepvault.com
+KineticD,kineticd.com
+Livedrive,livedrive.com
+MediaFire,mediafire.com
+MEGA,mega.nz
+Memopal,memopal.com
+MiMedia,mimedia.com
+Mozy,mozy.com
+Nextiva Drive,nextiva.com
+OneDrive,onedrive.com
+OwnDrive (ownCloud),owncloud.org
+pCloud,pcloud.com
+SpiderOak,spideroak.com
+SugarSync,sugarsync.com
+Syncplicity,syncplicity.com
+Tarsnap,tarsnap.com
+TeamDrive,teamdrive.com
+Tresorit,tresorit.com
+Unitrends Vault2Cloud,unitrends.com
+UpdateStar Online Backup,updatestar.com
+Wuala,wuala.com
+Yandex.Disk,disk.yandex.com
+Zetta.net,zetta.com
+Zmanda Cloud Backup,zmanda.com

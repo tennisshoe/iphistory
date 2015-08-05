@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>AKAMAI TECHNOLOGIES, INC</registrant>
+    <registration>
+      <created>2010-10-22</created>
+      <updated>2010-10-22</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.28.14.128 - 208.28.14.255
+CIDR:           208.28.14.128/25
+NetName:        SPRINTLINK
+NetHandle:      NET-208-28-14-128-1
+Parent:         SPRINTLINK-BLKS (NET-208-0-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   AKAMAI TECHNOLOGIES, INC (AKAMA-31)
+RegDate:        2010-10-22
+Updated:        2010-10-22
+Ref:            http://whois.arin.net/rest/net/NET-208-28-14-128-1
+
+OrgName:        AKAMAI TECHNOLOGIES, INC
+OrgId:          AKAMA-31
+Address:        8 CAMBRIDGE CENTER
+City:           CAMBRIDGE
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        2009-11-13
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/AKAMA-31
+
+OrgTechHandle: DHA389-ARIN
+OrgTechName:   Hassler, David 
+OrgTechPhone:  +1-617-444-9717 
+OrgTechEmail:  dhasslers@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DHA389-ARIN
+
+OrgAbuseHandle: DHA389-ARIN
+OrgAbuseName:   Hassler, David 
+OrgAbusePhone:  +1-617-444-9717 
+OrgAbuseEmail:  dhasslers@akamai.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DHA389-ARIN
+
+RTechHandle: DHA369-ARIN
+RTechName:   HASSLER, DAVE 
+RTechPhone:  +1-617-444-9717 
+RTechEmail:  dhassler@akamai.com
+RTechRef:    http://whois.arin.net/rest/poc/DHA369-ARIN
+
+NetRange:       208.0.0.0 - 208.35.255.255
+CIDR:           208.32.0.0/14, 208.0.0.0/11
+NetName:        SPRINTLINK-BLKS
+NetHandle:      NET-208-0-0-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Sprint (SPRN)
+RegDate:        1996-03-13
+Updated:        2000-10-27
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-208-0-0-0-1
+
+OrgName:        Sprint
+OrgId:          SPRN
+Address:        12502 Sunrise Valley Drive
+City:           Reston
+StateProv:      VA
+PostalCode:     20196
+Country:        US
+RegDate:        
+Updated:        2014-12-04
+Comment:        For abuse issues please send email to ABUSE@SPRINT.NET
+Comment:        only. Law Enforcement requests should call the Corporate Security Hotline at 800-877-7330, option 3
+Ref:            http://whois.arin.net/rest/org/SPRN
+
+OrgTechHandle: KRW1-ARIN
+OrgTechName:   West, Ken R
+OrgTechPhone:  +1-703-689-7173 
+OrgTechEmail:  ken.r.west@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KRW1-ARIN
+
+OrgAbuseHandle: SAET-ARIN
+OrgAbuseName:   Sprint AUP Enforcement Team
+OrgAbusePhone:  +1-800-232-6895 
+OrgAbuseEmail:  abuse@sprint.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SAET-ARIN
+
+OrgTechHandle: SIE-ARIN
+OrgTechName:   Sprint IP Engineering
+OrgTechPhone:  +1-703-592-4850 
+OrgTechEmail:  deipaddy@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SIE-ARIN
+
+OrgTechHandle: CHUYI-ARIN
+OrgTechName:   Chu, Yi 
+OrgTechPhone:  +1-703-592-4850 
+OrgTechEmail:  yi.chu@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CHUYI-ARIN
+
+OrgTechHandle: BUDDK-ARIN
+OrgTechName:   Budd, Kenneth 
+OrgTechPhone:  +1-866-886-4187 
+OrgTechEmail:  kenneth.l.budd@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BUDDK-ARIN
+
+OrgNOCHandle: SPRINT-NOC-ARIN
+OrgNOCName:   IP Services
+OrgNOCPhone:  +1-800-232-6895 
+OrgNOCEmail:  ipsa.noc@sprint.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SPRINT-NOC-ARIN
+
+OrgTechHandle: DRW52-ARIN
+OrgTechName:   Williams, David R
+OrgTechPhone:  +1-913-794-7784 
+OrgTechEmail:  david.r.williams@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DRW52-ARIN
+
+OrgTechHandle: ARINS-ARIN
+OrgTechName:   arin-sprint-iprequest
+OrgTechPhone:  +1-800-232-3458 
+OrgTechEmail:  ip-req@sprint.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ARINS-ARIN
+
+RTechHandle: SPRINT-NOC-ARIN
+RTechName:   IP Services
+RTechPhone:  +1-800-232-6895 
+RTechEmail:  ipsa.noc@sprint.com
+RTechRef:    http://whois.arin.net/rest/poc/SPRINT-NOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

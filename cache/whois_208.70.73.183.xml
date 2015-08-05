@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>John Wright</registrant>
+    <registration>
+      <created>2006-09-12</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.70.72.0 - 208.70.79.255
+CIDR:           208.70.72.0/21
+NetName:        AIRLINERES-CALPOP-COM
+NetHandle:      NET-208-70-72-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   AirlineReservations.Com, Inc. (AIRLIN-5)
+RegDate:        2006-09-12
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-208-70-72-0-1
+
+OrgName:        AirlineReservations.Com, Inc.
+OrgId:          AIRLIN-5
+Address:        600 W. 7th Street
+Address:        Suite 360
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90017
+Country:        US
+RegDate:        2002-02-13
+Updated:        2013-12-02
+Ref:            http://whois.arin.net/rest/org/AIRLIN-5
+
+ReferralServer:  rwhois://rwhois.calpop.com:4321
+
+OrgTechHandle: NATHA4-ARIN
+OrgTechName:   Nathan, Naveen 
+OrgTechPhone:  +1-213-627-1937 
+OrgTechEmail:  naveen.poc@calpop.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NATHA4-ARIN
+
+OrgNOCHandle: CNO4-ARIN
+OrgNOCName:   CalPOP Network Operations
+OrgNOCPhone:  +1-213-627-1937 
+OrgNOCEmail:  noc@calpop.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/CNO4-ARIN
+
+OrgAbuseHandle: CALPO-ARIN
+OrgAbuseName:   CalPOP Abuse
+OrgAbusePhone:  +1-213-627-1937 
+OrgAbuseEmail:  abuse@atmlinkinc.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CALPO-ARIN
+
+OrgTechHandle: NOC11778-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-213-627-1937 
+OrgTechEmail:  noc@calpop.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC11778-ARIN
+
+RTechHandle: RH1217-ARIN
+RTechName:   Hoover, Richard 
+RTechPhone:  +1-213-627-1937 
+RTechEmail:  support@calpop.com
+RTechRef:    http://whois.arin.net/rest/poc/RH1217-ARIN
+
+RAbuseHandle: CALPO-ARIN
+RAbuseName:   CalPOP Abuse
+RAbusePhone:  +1-213-627-1937 
+RAbuseEmail:  abuse@atmlinkinc.net
+RAbuseRef:    http://whois.arin.net/rest/poc/CALPO-ARIN
+
+NetRange:       208.70.73.0 - 208.70.73.255
+CIDR:           208.70.73.0/24
+NetName:        CP-13375-001
+NetHandle:      NET-208-70-73-0-1
+Parent:         AIRLINERES-CALPOP-COM (NET-208-70-72-0-1)
+NetType:        Reassigned
+OriginAS:       AS7796
+Customer:       John Wright (C02106504)
+RegDate:        2008-12-03
+Updated:        2008-12-03
+Ref:            http://whois.arin.net/rest/net/NET-208-70-73-0-1
+
+CustName:       John Wright
+Address:        2446 N 102nd St.
+City:           Wauwatosa
+StateProv:      WI
+PostalCode:     53226
+Country:        US
+RegDate:        2008-12-03
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02106504
+
+OrgTechHandle: NATHA4-ARIN
+OrgTechName:   Nathan, Naveen 
+OrgTechPhone:  +1-213-627-1937 
+OrgTechEmail:  naveen.poc@calpop.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NATHA4-ARIN
+
+OrgNOCHandle: CNO4-ARIN
+OrgNOCName:   CalPOP Network Operations
+OrgNOCPhone:  +1-213-627-1937 
+OrgNOCEmail:  noc@calpop.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/CNO4-ARIN
+
+OrgAbuseHandle: CALPO-ARIN
+OrgAbuseName:   CalPOP Abuse
+OrgAbusePhone:  +1-213-627-1937 
+OrgAbuseEmail:  abuse@atmlinkinc.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CALPO-ARIN
+
+OrgTechHandle: NOC11778-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-213-627-1937 
+OrgTechEmail:  noc@calpop.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC11778-ARIN
+
+RTechHandle: RH1217-ARIN
+RTechName:   Hoover, Richard 
+RTechPhone:  +1-213-627-1937 
+RTechEmail:  support@calpop.com
+RTechRef:    http://whois.arin.net/rest/poc/RH1217-ARIN
+
+RAbuseHandle: CALPO-ARIN
+RAbuseName:   CalPOP Abuse
+RAbusePhone:  +1-213-627-1937 
+RAbuseEmail:  abuse@atmlinkinc.net
+RAbuseRef:    http://whois.arin.net/rest/poc/CALPO-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

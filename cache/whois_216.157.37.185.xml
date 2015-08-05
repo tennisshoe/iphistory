@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Peer 1 Dedicated Hosting</registrant>
+    <registration>
+      <created>1998-12-16</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.157.0.0 - 216.157.111.255
+CIDR:           216.157.96.0/20, 216.157.0.0/18, 216.157.64.0/19
+NetName:        216-157-0-0-NET
+NetHandle:      NET-216-157-0-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13601
+Organization:   Peer 1 Dedicated Hosting (P1DH-1)
+RegDate:        1998-12-16
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-216-157-0-0-1
+
+OrgName:        Peer 1 Dedicated Hosting
+OrgId:          P1DH-1
+Address:        101 Marietta Street
+Address:        Suite 500
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        2007-08-03
+Updated:        2010-12-22
+Ref:            http://whois.arin.net/rest/org/P1DH-1
+
+OrgTechHandle: DCOPE2-ARIN
+OrgTechName:   DC Operations
+OrgTechPhone:  +1-678-365-2835 
+OrgTechEmail:  abuse-mh@peer1.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DCOPE2-ARIN
+
+OrgAbuseHandle: ABUSE2465-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-678-365-2835 
+OrgAbuseEmail:  abuse-mh@peer1.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2465-ARIN
+
+RTechHandle: DCOPE2-ARIN
+RTechName:   DC Operations
+RTechPhone:  +1-678-365-2835 
+RTechEmail:  abuse-mh@peer1.com
+RTechRef:    http://whois.arin.net/rest/poc/DCOPE2-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

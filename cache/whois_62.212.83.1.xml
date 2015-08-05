@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>RIP Mean</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.212.83.0 - 62.212.83.255' is 'abuse@leaseweb.com'
+
+inetnum:        62.212.83.0 - 62.212.83.255
+netname:        BRGH
+descr:          Bright Imperial Limited hosted by Leaseweb
+remarks:        Please send email to "abuse@leaseweb.com" for complaints
+remarks:        regarding portscans, DoS attacks and spam.
+admin-c:        LSW1-RIPE
+tech-c:         LSW1-RIPE
+status:         ASSIGNED PA
+mnt-by:         OCOM-MNT
+country:        NL
+created:        2011-07-20T12:12:48Z
+last-modified:  2012-10-15T10:29:30Z
+source:         RIPE
+changed:        ripe@leaseweb.com 20121015
+
+person:         RIP Mean
+address:        P.O. Box 93054
+address:        1090BB AMSTERDAM
+address:        Netherlands
+phone:          +31 20 3162880
+fax-no:         +31 20 3162890
+abuse-mailbox:  abuse@nl.leaseweb.com
+e-mail:         ripe@leaseweb.com
+nic-hdl:        LSW1-RIPE
+notify:         ripe@leaseweb.com
+mnt-by:         OCOM-MNT
+changed:        ripe@ocom.com 20050607
+changed:        ripe@ocom.com 20060215
+changed:        ripe@ocom.com 20060608
+changed:        ripe@ocom.com 20080603
+created:        2005-06-07T14:36:03Z
+last-modified:  2015-03-24T09:01:24Z
+source:         RIPE
+
+route:          62.212.64.0/19
+descr:          LEASEWEB
+origin:         AS16265
+remarks:        Leaseweb
+mnt-by:         OCOM-MNT
+changed:        ripe@ocom.com 20031209
+changed:        ripe@ocom.com 20070610
+created:        2002-07-19T19:51:43Z
+last-modified:  2009-10-15T09:31:14Z
+source:         RIPE
+
+route:          62.212.64.0/19
+descr:          LEASEWEB
+origin:         AS60781
+remarks:        Leaseweb
+mnt-by:         OCOM-MNT
+changed:        ripe@ocom.com 20140310
+created:        2014-03-10T13:56:11Z
+last-modified:  2014-03-10T13:56:11Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

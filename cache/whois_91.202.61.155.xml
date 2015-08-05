@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Akrino Inc</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% No abuse contact registered for 91.202.60.0 - 91.202.63.255
+
+inetnum:        91.202.60.0 - 91.202.63.255
+netname:        AKRINO-NET
+descr:          Akrino Inc
+country:        VG
+org:            ORG-AI38-RIPE
+admin-c:        IVM27-RIPE
+tech-c:         IVM27-RIPE
+status:         ASSIGNED PI
+notify:         noc.akrino@gmail.com
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         MNT-AKRINO
+mnt-routes:     MNT-AKRINO
+mnt-domains:    MNT-AKRINO
+changed:        hostmaster@ripe.net 20080207
+created:        2008-02-07T07:35:44Z
+last-modified:  2015-05-05T01:56:20Z
+source:         RIPE
+sponsoring-org: ORG-ABGL1-RIPE
+
+organisation:   ORG-AI38-RIPE
+org-name:       Akrino Inc
+org-type:       OTHER
+address:        Akrino Inc.
+address:        P.O.Box 146 Trident Chambers
+address:        Road Town, Tortola
+address:        BVI
+e-mail:         noc.akrino@gmail.com
+mnt-ref:        MNT-AKRINO
+mnt-by:         MNT-AKRINO
+created:        2007-12-26T14:02:02Z
+last-modified:  2007-12-27T13:06:54Z
+source:         RIPE
+changed:        noc.akrino@gmail.com 20071227
+
+person:         Igoren V Murzak
+address:        Akrino Inc
+address:        P.O.Box 146 Trident Chambers
+address:        Road Town, Tortola
+address:        BVI
+phone:          +1 914 5952753
+e-mail:         noc.akrino@gmail.com
+nic-hdl:        IVM27-RIPE
+mnt-by:         MNT-AKRINO
+notify:         noc.akrino@gmail.com
+created:        2007-12-26T13:24:19Z
+last-modified:  2007-12-27T13:01:27Z
+source:         RIPE
+changed:        noc.arkino@gmail.com 20071227
+
+route:          91.202.61.0/24
+descr:          DDoS Protection
+origin:         AS44571
+mnt-by:         MNT-AKRINO
+created:        2009-10-23T12:22:12Z
+last-modified:  2009-10-23T12:40:49Z
+source:         RIPE
+changed:        noc.akrino@gmail.com 20080207
+changed:        noc.akrino@gmail.com 20091023</record>
+    </whois>
+  </response>
+</whoisapi>
+

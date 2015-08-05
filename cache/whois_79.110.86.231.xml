@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Gameforge Productions GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '79.110.80.0 - 79.110.95.255' is 'abuse@as47195.net'
+
+inetnum:        79.110.80.0 - 79.110.95.255
+netname:        GAMEFORGE-NET
+descr:          Gameforge Productions GmbH
+country:        DE
+org:            ORG-GF5-RIPE
+admin-c:        GAME-RIPE
+tech-c:         GAME-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         GF-MNT
+mnt-routes:     GF-MNT
+mnt-domains:    GF-MNT
+changed:        hostmaster@ripe.net 20080509
+changed:        kieber@xoo.net 20080918
+changed:        hostmaster@ripe.net 20101022
+created:        2008-05-09T14:00:19Z
+last-modified:  2015-05-05T02:16:02Z
+source:         RIPE
+sponsoring-org: ORG-HC1-RIPE
+
+organisation:   ORG-GF5-RIPE
+org-name:       Gameforge Productions GmbH
+org-type:       OTHER
+address:        Gameforge Productions GmbH
+                Albert-Nestler-Str. 8
+                76131 Karlsruhe
+                DE
+phone:          +49-721-354808-0
+fax-no:         +49-721-354808-152
+e-mail:         info@gameforge.de
+admin-c:        AR5322-RIPE
+tech-c:         GAME-RIPE
+abuse-c:        GPAC1-RIPE
+ref-nfy:        guardian@aixit.com
+mnt-ref:        GF-MNT
+mnt-by:         GF-MNT
+changed:        kieber@xoo.net 20080418
+changed:        kieber@xoo.net 20080509
+changed:        kieber@xoo.net 20080918
+changed:        kieber@xoo.net 20140722
+changed:        kieber@xoo.net 20150710
+created:        2008-04-18T13:35:11Z
+last-modified:  2015-07-10T11:26:43Z
+source:         RIPE
+
+role:           Gameforge Productions Hostmaster
+address:        Gameforge Productions GmbH
+                Albert-Nestler-Str. 8
+                76131 Karlsruhe
+                DE
+phone:          +49-721-354808-0
+fax-no:         +49-721-354808-152
+e-mail:         noc@as47195.net
+remarks:        *************************************************
+remarks:        * abuse@as47195.net in case of Spam,Hack Attacks, *
+remarks:        * Illegal Activity, Violation, Scans, etc.      *
+remarks:        * ALWAYS place the attacking IP in your subject *
+remarks:        *************************************************
+admin-c:        AR5322-RIPE
+tech-c:         AR5322-RIPE
+tech-c:         TS3976-RIPE
+tech-c:         AGN13-RIPE
+nic-hdl:        GAME-RIPE
+mnt-by:         GF-MNT
+changed:        kieber@xoo.net 20080918
+changed:        kieber@xoo.net 20081002
+changed:        hg@aixit.com 20090615
+changed:        kieber@xoo.net 20150710
+created:        2008-09-18T15:06:08Z
+last-modified:  2015-07-10T17:27:28Z
+source:         RIPE
+
+route:          79.110.80.0/20
+descr:          Gameforge Productions GmbH
+origin:         AS47195
+mnt-by:         GF-MNT
+changed:        kieber@xoo.net 20080514
+created:        2008-05-14T15:40:27Z
+last-modified:  2008-05-14T15:40:27Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

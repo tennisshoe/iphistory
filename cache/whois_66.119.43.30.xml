@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Savvis</registrant>
+    <registration>
+      <created>2001-06-01</created>
+      <updated>2007-09-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.119.32.0 - 66.119.47.255
+CIDR:           66.119.32.0/20
+NetName:        SAVVIS
+NetHandle:      NET-66-119-32-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        2001-06-01
+Updated:        2007-09-18
+Ref:            http://whois.arin.net/rest/net/NET-66-119-32-0-1
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-07-17
+Comment:        Abuse complaints to abuse@centurylinkservices.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  incident@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-888-638-6771 
+OrgTechEmail:  ipadmin2@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN
+
+NetRange:       66.119.43.0 - 66.119.43.255
+CIDR:           66.119.43.0/24
+NetName:        NET-206-30-164-0-1
+NetHandle:      NET-66-119-43-0-1
+Parent:         SAVVIS (NET-66-119-32-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   AGCM, Inc (AGCMI)
+RegDate:        2007-12-04
+Updated:        2010-09-14
+Ref:            http://whois.arin.net/rest/net/NET-66-119-43-0-1
+
+OrgName:        AGCM, Inc
+OrgId:          AGCMI
+Address:        One American Road
+City:           Cleveland
+StateProv:      OH
+PostalCode:     44144
+Country:        US
+RegDate:        2006-11-06
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/AGCMI
+
+OrgTechHandle: GVA21-ARIN
+OrgTechName:   Van Hoch, Gary 
+OrgTechPhone:  +1-216-849-4314 
+OrgTechEmail:  gvonhoch@ag.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GVA21-ARIN
+
+OrgAbuseHandle: GVA21-ARIN
+OrgAbuseName:   Van Hoch, Gary 
+OrgAbusePhone:  +1-216-849-4314 
+OrgAbuseEmail:  gvonhoch@ag.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GVA21-ARIN
+
+RTechHandle: GVA21-ARIN
+RTechName:   Van Hoch, Gary 
+RTechPhone:  +1-216-849-4314 
+RTechEmail:  gvonhoch@ag.com
+RTechRef:    http://whois.arin.net/rest/poc/GVA21-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

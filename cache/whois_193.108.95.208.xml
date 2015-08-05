@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Akamai International B.V.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '193.108.88.0 - 193.108.95.255' is 'abuse@akamai.com'
+
+inetnum:        193.108.88.0 - 193.108.95.255
+netname:        AKAMAI-PI-1
+descr:          Akamai International B.V.
+country:        EU
+org:            ORG-AT1-RIPE
+admin-c:        NARA1-RIPE
+admin-c:        NF1714-RIPE
+admin-c:        JP1944-RIPE
+tech-c:         NARA1-RIPE
+tech-c:         NF1714-RIPE
+tech-c:         JP1944-RIPE
+status:         ASSIGNED PI
+mnt-by:         AKAM1-RIPE-MNT
+mnt-by:         RIPE-NCC-END-MNT
+mnt-routes:     AKAM1-RIPE-MNT
+notify:         ip-admin@akamai.com
+changed:        ip-admin@akamai.com 20021025
+changed:        hostmaster@ripe.net 20130208
+created:        2002-06-19T20:07:55Z
+last-modified:  2015-05-05T01:38:43Z
+source:         RIPE
+
+organisation:   ORG-AT1-RIPE
+org-name:       Akamai International B.V.
+org-type:       LIR
+address:        8 Cambridge Center
+address:        02142
+address:        Cambridge, MA
+address:        UNITED STATES
+phone:          +16174444768
+fax-no:         +16174444768
+abuse-c:        AR15028-RIPE
+admin-c:        NF1714-RIPE
+admin-c:        MH7314-RIPE
+admin-c:        NARA1-RIPE
+admin-c:        CKAK-RIPE
+admin-c:        JZ2012-RIPE
+admin-c:        RM4844-RIPE
+admin-c:        NB782-RIPE
+mnt-ref:        AKAM1-RIPE-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2004-04-17T11:18:43Z
+changed:        bitbucket@ripe.net 20150716
+last-modified:  2015-07-16T18:54:44Z
+source:         RIPE
+e-mail:         noam@akamai.com
+
+role:           Network Architecture Role Account
+address:        Akamai Technologies
+address:        8 Cambridge Center
+address:        Cambridge, MA 02142
+phone:          +1-617-938-3130
+e-mail:         ip-admin@akamai.com
+abuse-mailbox:  abuse@akamai.com
+admin-c:        NF1714-RIPE
+admin-c:        CKAK-RIPE
+tech-c:         NF1714-RIPE
+tech-c:         JP1944-RIPE
+tech-c:         APB15-RIPE
+tech-c:         CKAK-RIPE
+tech-c:         MH7314-RIPE
+tech-c:         TBAK-RIPE
+tech-c:         MJAK-RIPE
+tech-c:         NB782-RIPE
+tech-c:         RM4844-RIPE
+nic-hdl:        NARA1-RIPE
+notify:         ip-admin@akamai.com
+changed:        mj@akamai.com 20130806
+changed:        torstenb@akamai.com 20140317
+changed:        torstenb@akamai.com 20140728
+mnt-by:         AKAM1-RIPE-MNT
+created:        2002-03-06T09:02:17Z
+last-modified:  2014-07-28T11:14:13Z
+source:         RIPE
+
+person:         John Payne
+address:        8 Cambridge Center
+address:        Cambridge
+address:        MA, 02142
+phone:          +1 617 444 2562
+fax-no:         +1 617 444 2562
+e-mail:         jpayne@akamai.com
+abuse-mailbox:  abuse@akamai.com
+nic-hdl:        JP1944-RIPE
+mnt-by:         AKAM1-RIPE-MNT
+changed:        jpayne@akamai.com 20100616
+created:        1970-01-01T00:00:00Z
+last-modified:  2010-06-16T19:28:01Z
+source:         RIPE
+
+person:         Noam Freedman
+address:        Akamai Technologies
+address:        8 Cambridge Center
+address:        Cambridge, MA 02142
+phone:          +1-617-938-3130
+e-mail:         noam+ripe@akamai.com
+abuse-mailbox:  abuse@akamai.com
+nic-hdl:        NF1714-RIPE
+notify:         noam+ripe@akamai.com
+changed:        abuse@akamai.com 20080122
+mnt-by:         AKAM1-RIPE-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2008-01-22T21:42:49Z
+source:         RIPE
+
+route:          193.108.94.0/23
+descr:          Akamai Technologies
+origin:         AS20940
+mnt-by:         AKAM1-RIPE-MNT
+changed:        jpayne@akamai.com 20060306
+created:        2006-03-06T20:44:45Z
+last-modified:  2006-03-06T20:44:45Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

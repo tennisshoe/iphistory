@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CHIARA TAVANI</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.215.131.232 - 213.215.131.239' is 'abuse@colt.net'
+
+inetnum:        213.215.131.232 - 213.215.131.239
+netname:        NET-IT-LVMH-ITALIA-SPA
+descr:          LVMH ITALIA SPA
+country:        IT
+admin-c:        CT5194-RIPE
+tech-c:         CT5194-RIPE
+status:         ASSIGNED PA
+mnt-by:         COLT-IT-MNT
+changed:        Raminder.Kaur@colt.net 20131217
+created:        2013-12-17T15:46:42Z
+last-modified:  2013-12-17T15:46:42Z
+source:         RIPE
+
+person:         CHIARA TAVANI
+address:        LVMH ITALIA SPA
+address:        PIAZZA SAN LORENZO IN LUCINA 41
+address:        ROMA, 00186, Italy
+phone:          +39 02 723341
+nic-hdl:        CT5194-RIPE
+mnt-by:         COLT-IT-MNT
+changed:        Raminder.Kaur@colt.net 20131217
+created:        2013-12-17T15:45:55Z
+last-modified:  2013-12-17T15:45:55Z
+source:         RIPE
+
+route:          213.215.128.0/17
+descr:          COLT Internet IT
+origin:         AS8220
+mnt-by:         COLT-IT-MNT
+changed:        morigoni@colt-telecom.it 20030310
+created:        2003-03-10T09:19:03Z
+last-modified:  2003-03-10T09:19:03Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

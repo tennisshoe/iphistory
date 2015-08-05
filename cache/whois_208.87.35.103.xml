@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Secure Hosting Ltd.</registrant>
+    <registration>
+      <created>2008-02-14</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.87.32.0 - 208.87.39.255
+CIDR:           208.87.32.0/21
+NetName:        SECUREHOST
+NetHandle:      NET-208-87-32-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Secure Hosting Ltd. (SHTD)
+RegDate:        2008-02-14
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-208-87-32-0-1
+
+OrgName:        Secure Hosting Ltd.
+OrgId:          SHTD
+Address:        PO BOX CB13862
+City:           Nassau
+StateProv:      NP
+PostalCode:     CB13862
+Country:        BS
+RegDate:        2002-05-20
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/SHTD
+
+OrgTechHandle: RD1004-ARIN
+OrgTechName:   Douglas, Richard 
+OrgTechPhone:  242-502-8700 
+OrgTechEmail:  hostmaster@securehost.com
+OrgTechRef:    http://whois.arin.net/rest/poc/RD1004-ARIN
+
+OrgAbuseHandle: ABUSE349-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  242-502-8700 
+OrgAbuseEmail:  abuse@securehost.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE349-ARIN
+
+RAbuseHandle: ABUSE349-ARIN
+RAbuseName:   Abuse Contact
+RAbusePhone:  242-502-8700 
+RAbuseEmail:  abuse@securehost.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE349-ARIN
+
+RNOCHandle: RD1004-ARIN
+RNOCName:   Douglas, Richard 
+RNOCPhone:  242-502-8700 
+RNOCEmail:  hostmaster@securehost.com
+RNOCRef:    http://whois.arin.net/rest/poc/RD1004-ARIN
+
+RTechHandle: RD1004-ARIN
+RTechName:   Douglas, Richard 
+RTechPhone:  242-502-8700 
+RTechEmail:  hostmaster@securehost.com
+RTechRef:    http://whois.arin.net/rest/poc/RD1004-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

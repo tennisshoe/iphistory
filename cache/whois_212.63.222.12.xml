@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>SpaceDump IT Registry</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.63.222.0 - 212.63.222.255' is 'abuse@spacedump.net'
+
+inetnum:        212.63.222.0 - 212.63.222.255
+netname:        SPACEDUMPIT-INFRA
+descr:          Network equipment
+country:        SE
+admin-c:        SIR15-RIPE
+tech-c:         SIR15-RIPE
+tech-c:         SIR15-RIPE
+mnt-by:         MNT-SPACEDUMP
+status:         ASSIGNED PA
+remarks:        INFRA-AW
+notify:         ripe@spacedump.net
+changed:        registry@spacedump.net 20110206
+created:        2011-02-06T13:36:37Z
+last-modified:  2011-02-06T13:36:37Z
+source:         RIPE
+
+role:           SpaceDump IT Registry
+remarks:        $Id: SIR15-RIPE,v 1.4 2012/06/03 10:09:34 anders Exp $
+address:        SpaceDump IT AB
+address:        Ramstorpsvagen 72
+address:        52232 Tidaholm
+phone:          +46765820000
+e-mail:         registry@spacedump.net
+admin-c:        SIR15-RIPE
+tech-c:         SIR15-RIPE
+nic-hdl:        SIR15-RIPE
+mnt-by:         MNT-SPACEDUMP
+changed:        registry@spacedump.net 20100923
+changed:        registry@spacedump.net 20120603
+created:        2010-09-23T20:54:03Z
+last-modified:  2012-06-03T10:09:58Z
+source:         RIPE
+
+route:          212.63.192.0/19
+descr:          SpaceDump IT AB aggregated route
+remarks:        $Id: 212.63.192.0-19,v 1.1 2011/02/09 12:24:50 anders Exp $
+origin:         AS30880
+mnt-by:         MNT-SPACEDUMP
+changed:        ripe@spacedump.net 20110209
+created:        2007-01-24T11:37:10Z
+last-modified:  2011-02-09T12:24:32Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

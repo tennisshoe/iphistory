@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>stargames.com</domain_name>
+    <ip_history>
+      <domain>STARGAMES.COM</domain>
+      <post_ip>62.116.24.8</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2004-05-15</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>STARGAMES.COM</domain>
+      <post_ip>62.116.24.13</post_ip>
+      <pre_ip>62.116.24.8</pre_ip>
+      <action>C</action>
+      <actiondate>2007-05-13</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>STARGAMES.COM</domain>
+      <post_ip>78.110.18.103</post_ip>
+      <pre_ip>62.116.24.13</pre_ip>
+      <action>C</action>
+      <actiondate>2008-04-13</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>STARGAMES.COM</domain>
+      <post_ip>78.110.18.103</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2011-04-10</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>STARGAMES.COM</domain>
+      <post_ip>95.131.236.103</post_ip>
+      <pre_ip>78.110.18.103</pre_ip>
+      <action>C</action>
+      <actiondate>2011-11-18</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>STARGAMES.COM</domain>
+      <post_ip>95.131.236.82</post_ip>
+      <pre_ip>95.131.236.103</pre_ip>
+      <action>C</action>
+      <actiondate>2014-09-07</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>STARGAMES.COM</domain>
+      <date_updated>2006-09-07</date_updated>
+      <date_created>2001-02-14</date_created>
+      <date_expires>2011-02-14</date_expires>
+      <date_lastchecked>2006-11-20</date_lastchecked>
+      <registrar>Tucows</registrar>
+      <registrartag>Tucows</registrartag>
+    </registrar_history>
+    <registrar_history>
+      <domain>STARGAMES.COM</domain>
+      <date_updated>2007-07-30</date_updated>
+      <date_created>2001-02-14</date_created>
+      <date_expires>2012-02-14</date_expires>
+      <date_lastchecked>2007-08-20</date_lastchecked>
+      <registrar>Ascio Inc.</registrar>
+      <registrartag>Ascio Inc.</registrartag>
+    </registrar_history>
+    <registrar_history>
+      <domain>STARGAMES.COM</domain>
+      <date_updated>2014-02-15</date_updated>
+      <date_created>2001-02-14</date_created>
+      <date_expires>2015-02-14</date_expires>
+      <date_lastchecked>2014-10-15</date_lastchecked>
+      <registrar>Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA</registrar>
+      <registrartag>ASCIO TECHNOLOGIES, INC. DANMARK ? FILIAL AF ASCIO TECHNOLOGIES, INC. USA</registrartag>
+    </registrar_history>
+    <nameserver_history/>
+  </response>
+</whoisapi>
+

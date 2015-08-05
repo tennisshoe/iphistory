@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>International Widespread Services Limited</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% No abuse contact registered for 91.223.82.0 - 91.223.82.255
+
+inetnum:        91.223.82.0 - 91.223.82.255
+netname:        IWS-NETWORK
+descr:          International Widespread Services Limited
+country:        NL
+org:            ORG-IWSL2-RIPE
+admin-c:        IIWS-RIPE
+tech-c:         IIWS-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         IWSCO-MNT
+mnt-routes:     IWSCO-MNT
+mnt-domains:    IWSCO-MNT
+notify:         info@iws.co
+changed:        hostmaster@ripe.net 20131114
+created:        2011-02-03T15:46:53Z
+last-modified:  2015-05-05T01:36:31Z
+source:         RIPE
+sponsoring-org: ORG-AI49-RIPE
+
+organisation:   ORG-IWSL2-RIPE
+org-name:       International Widespread Services Limited
+org-type:       other
+address:        Ras Al Khaimah
+address:        P.O. Box 1055
+address:        UAE
+phone:          +971 56 653 9955
+e-mail:         info@hostplay.com
+remarks:        *************************************************************
+remarks:        | We are Internet Services Provider
+remarks:        *-----------------------------------------------------------*
+remarks:        | In case of Spam/Virus/Portscans/Attacks/Fraud Activity etc
+remarks:        | please send an email to abuse@iws.co
+remarks:        | for any other questions  info@iws.co
+remarks:        | Be friendly ...!
+remarks:        | Unfriendly emails will be ignored!
+remarks:        *************************************************************
+e-mail:         info@hostplay.com
+e-mail:         info@iws.co
+mnt-ref:        IWS-NETWORK
+mnt-by:         IWS-NETWORK
+changed:        info@iws.co 20110208
+created:        2011-02-02T19:38:26Z
+last-modified:  2013-09-19T11:41:28Z
+source:         RIPE
+
+person:         IWS Networks Ltd
+address:        International Widespread Services Limited
+address:        Ras Al Khaimah
+address:        P.O. Box 10559
+address:        UAE
+phone:          +971 56 653 9955
+abuse-mailbox:  abuse@iws.co
+abuse-mailbox:  abuse@hostplay.com
+nic-hdl:        IIWS-RIPE
+mnt-by:         IWS-NETWORK
+changed:        info@iws.co 20130916
+created:        2013-09-16T11:32:43Z
+last-modified:  2013-09-16T11:32:43Z
+source:         RIPE
+
+route:          91.223.82.0/24
+descr:          International Widespread Services Limited
+origin:         AS199968
+mnt-by:         IWSCO-MNT
+changed:        info@iws.co 20140529
+created:        2014-05-29T20:29:02Z
+last-modified:  2014-05-29T20:29:02Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

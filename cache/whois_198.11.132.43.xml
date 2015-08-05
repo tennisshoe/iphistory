@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Alibaba.com LLC</registrant>
+    <registration>
+      <created>2013-04-23</created>
+      <updated>2013-04-23</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       198.11.128.0 - 198.11.191.255
+CIDR:           198.11.128.0/18
+NetName:        ALIBABA-US-CDN
+NetHandle:      NET-198-11-128-0-1
+Parent:         NET198 (NET-198-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS45102
+Organization:   Alibaba.com LLC (AL-3)
+RegDate:        2013-04-23
+Updated:        2013-04-23
+Ref:            http://whois.arin.net/rest/net/NET-198-11-128-0-1
+
+OrgName:        Alibaba.com LLC
+OrgId:          AL-3
+Address:        400 S El Camino Real, Suite 400
+City:           San Mateo
+StateProv:      CA
+PostalCode:     94402
+Country:        US
+RegDate:        2010-10-29
+Updated:        2015-05-18
+Comment:        http://www.alibaba.com
+Ref:            http://whois.arin.net/rest/org/AL-3
+
+OrgNOCHandle: ALIBA-ARIN
+OrgNOCName:   Alibaba NOC
+OrgNOCPhone:  +1-408-748-1200 
+OrgNOCEmail:  noc@list.alibaba-inc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ALIBA-ARIN
+
+OrgAbuseHandle: NETWO4028-ARIN
+OrgAbuseName:   Network Abuse
+OrgAbusePhone:  86-571-85022088 
+OrgAbuseEmail:  abuse@alibaba-inc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO4028-ARIN
+
+OrgTechHandle: ALIBA-ARIN
+OrgTechName:   Alibaba NOC
+OrgTechPhone:  +1-408-748-1200 
+OrgTechEmail:  noc@list.alibaba-inc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ALIBA-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

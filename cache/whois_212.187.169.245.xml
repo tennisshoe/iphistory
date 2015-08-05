@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Michel Freiha</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.187.169.128 - 212.187.169.255' is 'abuse@eu.level3.net'
+
+inetnum:        212.187.169.128 - 212.187.169.255
+netname:        SPLENDOR-TELECOM
+descr:          BBSQ2478
+country:        GB
+admin-c:        MF150377-RIPE
+tech-c:         MF150377-RIPE
+status:         ASSIGNED PA
+remarks:        all abuse reports to abuse@level3.com
+mnt-by:         LEVEL3-MNT
+mnt-lower:      LEVEL3-MNT
+mnt-routes:     LEVEL3-MNT
+notify:         ripehostmaster@eu.level3.net
+changed:        dl-euipsa@level3.com 20120904
+created:        2012-09-04T09:10:56Z
+last-modified:  2012-09-04T09:10:56Z
+source:         RIPE
+
+person:         Michel Freiha
+address:        Splendor UK Ltd
+mnt-by:         SPL-UK-MNT
+phone:          +44 203 3553209
+nic-hdl:        MF150377-RIPE
+abuse-mailbox:  abuse@splendor.net
+changed:        ripe@splendor.net20050823 20050823
+created:        2010-04-06T14:43:32Z
+last-modified:  2013-06-26T10:19:28Z
+source:         RIPE
+
+route:          212.187.128.0/17
+descr:          Level 3 RIPE block
+origin:         AS3356
+remarks:        Abuse reports to abuse@Level3.com
+remarks:        Peering contact is peering@Level3.net
+notify:         routing@Level3.net
+mnt-by:         LEVEL3-MNT
+created:        2003-09-05T11:31:30Z
+last-modified:  2010-04-06T22:00:23Z
+source:         RIPE
+changed:        roy@Level3.net 20100406
+
+route:          212.187.128.0/17
+descr:          Level 3 RIPE block
+origin:         AS9057
+remarks:        Abuse reports to abuse@Level3.com
+remarks:        Peering contact is peering@Level3.net
+notify:         routing@Level3.net
+mnt-by:         LEVEL3-MNT
+created:        2002-03-13T18:59:48Z
+last-modified:  2010-04-06T22:00:19Z
+source:         RIPE
+changed:        roy@Level3.net 20100406</record>
+    </whois>
+  </response>
+</whoisapi>
+

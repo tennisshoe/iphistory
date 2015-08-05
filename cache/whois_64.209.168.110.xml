@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Savvis</registrant>
+    <registration>
+      <created>2000-03-15</created>
+      <updated>2007-09-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.209.160.0 - 64.209.191.255
+CIDR:           64.209.160.0/19
+NetName:        SAVVIS
+NetHandle:      NET-64-209-160-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        2000-03-15
+Updated:        2007-09-18
+Ref:            http://whois.arin.net/rest/net/NET-64-209-160-0-1
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-07-17
+Comment:        Abuse complaints to abuse@centurylinkservices.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  noc@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-314-628-7305 
+OrgTechEmail:  ibrahim.seremet@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN
+
+NetRange:       64.209.168.0 - 64.209.168.127
+CIDR:           64.209.168.0/25
+NetName:        SAVV-S233390-11
+NetHandle:      NET-64-209-168-0-1
+Parent:         SAVVIS (NET-64-209-160-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Kodak Imaging Network (KIN-2)
+RegDate:        2008-02-06
+Updated:        2008-02-06
+Ref:            http://whois.arin.net/rest/net/NET-64-209-168-0-1
+
+OrgName:        Kodak Imaging Network
+OrgId:          KIN-2
+Address:        1480 64th street
+Address:        suite 125
+City:           emeryville
+StateProv:      CA
+PostalCode:     94608
+Country:        US
+RegDate:        2007-11-16
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/KIN-2
+
+OrgTechHandle: NETWO2117-ARIN
+OrgTechName:   network engineering
+OrgTechPhone:  +1-510-229-1200 
+OrgTechEmail:  jagnese@kodakgallery.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2117-ARIN
+
+OrgAbuseHandle: NETWO2117-ARIN
+OrgAbuseName:   network engineering
+OrgAbusePhone:  +1-510-229-1200 
+OrgAbuseEmail:  jagnese@kodakgallery.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO2117-ARIN
+
+RTechHandle: JAG83-ARIN
+RTechName:   Agnese, Joseph 
+RTechPhone:  +1-510-229-1327 
+RTechEmail:  jagnese@kodakgallery.com
+RTechRef:    http://whois.arin.net/rest/poc/JAG83-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

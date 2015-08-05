@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Microsoft Informatica Ltda</registrant>
+    <registration>
+      <created>2013-09-11</created>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:     191.232/14
+aut-num:     AS8075
+abuse-c:     BEORN2
+owner:       Microsoft Informatica Ltda
+ownerid:     060.316.817/0001-03
+responsible: Benjamin Orndorff
+country:     BR
+owner-c:     BEORN2
+tech-c:      BEORN2
+inetrev:     191.235.128/18
+nserver:     prd1.azuredns-cloud.net 
+nsstat:      20150805 AA
+nslastaa:    20150805
+nserver:     prd2.azuredns-cloud.net 
+nsstat:      20150805 NOT SYNC ZONE
+nslastaa:    20150704
+nserver:     prd3.azuredns-cloud.net 
+nsstat:      20150805 NOT SYNC ZONE
+nslastaa:    20150729
+nserver:     prd4.azuredns-cloud.net 
+nsstat:      20150805 NOT SYNC ZONE
+nslastaa:    20150802
+nserver:     prd5.azuredns-cloud.net 
+nsstat:      20150805 NOT SYNC ZONE
+nslastaa:    20150803
+created:     20130911
+changed:     20130911
+
+nic-hdl-br:  BEORN2
+person:      Benjamin Orndorff
+e-mail:      domains@microsoft.com
+created:     20110810
+changed:     20140812</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CDISCOUNT Administrative contact</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '86.65.30.0 - 86.65.30.255' is 'abuse@gaoland.net'
+
+inetnum:        86.65.30.0 - 86.65.30.255
+netname:        CDISCOUNT
+descr:          Internet Services
+descr:          Gaoland
+country:        FR
+admin-c:        CD4201-RIPE
+tech-c:         CD4201-RIPE
+status:         ASSIGNED PA
+remarks:        **********************************************
+remarks:        * for hacking, spamming or security problems *
+remarks:        * send mail to : abuse@cdiscount.com         *
+remarks:        **********************************************
+mnt-by:         LDCOM-MNT
+changed:        lir@gaoland.net 20080729
+changed:        lir@gaoland.net 20110321
+created:        2008-07-29T12:26:45Z
+last-modified:  2011-03-21T13:30:57Z
+source:         RIPE
+
+role:           CDISCOUNT Administrative contact
+address:        4-6 cours de l'Intendance
+address:        33000 Bordeaux
+address:        France
+phone:          +33 557144500
+fax-no:         +33 1 70 18 19 07
+e-mail:         noc@cdiscount.com
+admin-c:        LD699-RIPE
+tech-c:         LDC76-RIPE
+nic-hdl:        CD4201-RIPE
+mnt-by:         LDCOM-MNT
+changed:        lir@gaoland.net 20110321
+created:        2011-03-21T13:30:24Z
+last-modified:  2011-03-21T13:30:24Z
+source:         RIPE
+
+route:          86.64.0.0/12
+descr:          LDCOM-NET
+origin:         AS15557
+mnt-by:         LDCOM-MNT
+changed:        lir@gaoland.net 20050302
+created:        2005-03-02T13:51:43Z
+last-modified:  2005-03-02T13:51:43Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

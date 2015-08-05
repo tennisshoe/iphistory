@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Savvis</registrant>
+    <registration>
+      <created>1998-07-30</created>
+      <updated>2007-09-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.32.0.0 - 216.35.255.255
+CIDR:           216.32.0.0/14
+NetName:        SAVVIS
+NetHandle:      NET-216-32-0-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        1998-07-30
+Updated:        2007-09-18
+Ref:            http://whois.arin.net/rest/net/NET-216-32-0-0-1
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-07-17
+Comment:        Abuse complaints to abuse@centurylinkservices.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  incident@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-314-628-7305 
+OrgTechEmail:  james.goldsmith@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

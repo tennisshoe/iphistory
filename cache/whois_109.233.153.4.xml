@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>XING AG Hosting and Services</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '109.233.153.0 - 109.233.153.255' is 'postmaster@xing.com'
+
+inetnum:        109.233.153.0 - 109.233.153.255
+netname:        XING-NET
+descr:          XING FRA1 Loadbalancing Pool
+country:        DE
+org:            ORG-XHAS1-RIPE
+admin-c:        XNOG-RIPE
+tech-c:         XHAS-RIPE
+status:         ASSIGNED PA
+mnt-by:         XING-HM-MNT
+mnt-by:         XING-HS-MNT
+changed:        christoph.neukirch@xing.com 20120404
+changed:        christoph.neukirch@xing.com 20120621
+changed:        christoph.neukirch@xing.com 20130404
+created:        2012-04-04T16:01:13Z
+last-modified:  2013-04-04T15:10:11Z
+source:         RIPE
+
+organisation:   ORG-XHAS1-RIPE
+org-name:       XING AG Hosting and Services
+org-type:       OTHER
+address:        XING AG
+address:        Dammtorstrasse 30
+address:        20354 Hamburg
+address:        GERMANY
+e-mail:         postmaster@xing.com
+admin-c:        XNOG-RIPE
+tech-c:         XHAS-RIPE
+abuse-c:        XHAS4853-RIPE
+mnt-ref:        XING-HM-MNT
+mnt-by:         XING-HM-MNT
+changed:        christoph.neukirch@xing.com 20130404
+changed:        christoph.neukirch@xing.com 20130418
+changed:        christoph.neukirch@xing.com 20150511
+created:        2013-04-04T15:07:01Z
+last-modified:  2015-05-11T10:53:17Z
+source:         RIPE
+
+role:           XING Hosting and Services
+address:        XING AG
+address:        Dammtorstrasse 30
+address:        20354 Hamburg
+e-mail:         postmaster@xing.com
+admin-c:        CN202-RIPE
+tech-c:         FS9593-RIPE
+tech-c:         GL7425-RIPE
+tech-c:         HG2695-RIPE
+tech-c:         ME4003-RIPE
+tech-c:         ML15497-RIPE
+mnt-by:         XING-HM-MNT
+nic-hdl:        XHAS-RIPE
+changed:        christoph.neukirch@xing.com 20120404
+changed:        christoph.neukirch@xing.com 20120621
+changed:        christoph.neukirch@xing.com 20120709
+changed:        christoph.neukirch@xing.com 20121029
+changed:        christoph.neukirch@xing.com 20130404
+changed:        christoph.neukirch@xing.com 20130418
+changed:        christoph.neukirch@xing.com 20150511
+created:        2012-04-04T13:55:42Z
+last-modified:  2015-05-11T10:53:17Z
+source:         RIPE
+
+role:           XING NOG
+address:        XING AG
+address:        Dammtorstrasse 30
+address:        20354 Hamburg
+e-mail:         ripe@lists.xing.com
+admin-c:        CN202-RIPE
+tech-c:         CN202-RIPE
+tech-c:         DN379-RIPE
+mnt-by:         XING-HM-MNT
+nic-hdl:        XNOG-RIPE
+changed:        christoph.neukirch@xing.com 20120404
+changed:        christoph.neukirch@xing.com 20130418
+changed:        christoph.neukirch@xing.com 20140110
+changed:        christoph.neukirch@xing.com 20140403
+changed:        christoph.neukirch@xing.com 20150511
+changed:        christoph.neukirch@xing.com 20150618
+changed:        christoph.neukirch@xing.com 20150701
+created:        2012-04-04T13:45:22Z
+last-modified:  2015-07-01T15:49:21Z
+source:         RIPE
+
+route:          109.233.152.0/22
+org:            ORG-XA39-RIPE
+descr:          Hamburg
+descr:          Germany
+remarks:        FRA1
+origin:         AS50343
+mnt-by:         XING-HM-MNT
+changed:        bm@neteligent.de 20100216
+changed:        christoph.neukirch@xing.com 20110622
+changed:        christoph.neukirch@xing.com 20111101
+changed:        christoph.neukirch@xing.com 20120404
+changed:        christoph.neukirch@xing.com 20150226
+created:        2015-02-26T13:38:52Z
+last-modified:  2015-02-26T13:38:52Z
+source:         RIPE
+
+organisation:   ORG-XA39-RIPE
+org-name:       XING AG
+org-type:       LIR
+address:        Dammtorstrasse 30
+address:        20354
+address:        Hamburg
+address:        GERMANY
+phone:          +494041913110
+fax-no:         +494041913111
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        XING-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        CN202-RIPE
+admin-c:        JP5371-RIPE
+admin-c:        DN379-RIPE
+admin-c:        HW2926-RIPE
+abuse-c:        XNOG4853-RIPE
+created:        2009-09-15T08:16:30Z
+changed:        bitbucket@ripe.net 20150701
+last-modified:  2015-07-01T15:47:21Z
+source:         RIPE
+e-mail:         ripe@lists.xing.com</record>
+    </whois>
+  </response>
+</whoisapi>
+

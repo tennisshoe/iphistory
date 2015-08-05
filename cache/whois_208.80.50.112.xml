@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Capital One Financial Corporation</registrant>
+    <registration>
+      <created>2007-07-10</created>
+      <updated>2012-06-28</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.80.48.0 - 208.80.51.255
+CIDR:           208.80.48.0/22
+NetName:        CAPITALONE
+NetHandle:      NET-208-80-48-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS14392
+Organization:   Capital One Financial Corporation (CAPITA-120)
+RegDate:        2007-07-10
+Updated:        2012-06-28
+Ref:            http://whois.arin.net/rest/net/NET-208-80-48-0-1
+
+OrgName:        Capital One Financial Corporation
+OrgId:          CAPITA-120
+Address:        1680 Capital One Drive
+City:           McLean
+StateProv:      VA
+PostalCode:     22102
+Country:        US
+RegDate:        2001-02-12
+Updated:        2011-07-25
+Ref:            http://whois.arin.net/rest/org/CAPITA-120
+
+OrgAbuseHandle: NETWO4375-ARIN
+OrgAbuseName:   Network Engineering
+OrgAbusePhone:  +1-804-314-4829 
+OrgAbuseEmail:  brian.dymon@capitalone.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN
+
+OrgTechHandle: NETWO4375-ARIN
+OrgTechName:   Network Engineering
+OrgTechPhone:  +1-804-314-4829 
+OrgTechEmail:  brian.dymon@capitalone.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN
+
+OrgNOCHandle: NETWO4375-ARIN
+OrgNOCName:   Network Engineering
+OrgNOCPhone:  +1-804-314-4829 
+OrgNOCEmail:  brian.dymon@capitalone.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN
+
+RNOCHandle: NETWO4375-ARIN
+RNOCName:   Network Engineering
+RNOCPhone:  +1-804-314-4829 
+RNOCEmail:  brian.dymon@capitalone.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN
+
+RTechHandle: NETWO4375-ARIN
+RTechName:   Network Engineering
+RTechPhone:  +1-804-314-4829 
+RTechEmail:  brian.dymon@capitalone.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN
+
+RAbuseHandle: NETWO4375-ARIN
+RAbuseName:   Network Engineering
+RAbusePhone:  +1-804-314-4829 
+RAbuseEmail:  brian.dymon@capitalone.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

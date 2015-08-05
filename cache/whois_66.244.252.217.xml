@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Shaw Telecom G.P.</registrant>
+    <registration>
+      <created>2002-03-14</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.244.192.0 - 66.244.255.255
+CIDR:           66.244.192.0/18
+NetName:        BIGPIPE-2
+NetHandle:      NET-66-244-192-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Shaw Telecom G.P. (BGPP)
+RegDate:        2002-03-14
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-66-244-192-0-1
+
+OrgName:        Shaw Telecom G.P.
+OrgId:          BGPP
+Address:        Suite 400
+Address:        630 - 3rd Ave. SW
+City:           Calgary
+StateProv:      AB
+PostalCode:     T2P-4L4
+Country:        CA
+RegDate:        2001-02-05
+Updated:        2015-06-30
+Ref:            http://whois.arin.net/rest/org/BGPP
+
+ReferralServer:  rwhois://rwhois.shawcable.net:4321
+
+OrgTechHandle: ZI94-ARIN
+OrgTechName:   Shaw Business Solutions
+OrgTechPhone:  +1-403-750-7428 
+OrgTechEmail:  ipadmin-sb@sjrb.ca
+OrgTechRef:    http://whois.arin.net/rest/poc/ZI94-ARIN
+
+OrgAbuseHandle: BPA15-ARIN
+OrgAbuseName:   Shaw Business Solutions - Abuse
+OrgAbusePhone:  +1-866-244-7474 
+OrgAbuseEmail:  abuse@shawbusinesssolutions.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BPA15-ARIN
+
+RTechHandle: ZB106-ARIN
+RTechName:   Big Pipe Inc
+RTechPhone:  +1-403-750-7428 
+RTechEmail:  ipadmin_bigpipe@bigpipeinc.com
+RTechRef:    http://whois.arin.net/rest/poc/ZB106-ARIN
+
+== Additional Information From rwhois://rwhois.shawcable.net:4321 ==
+
+%rwhois V-1.5:003fff:00 rs1so.cg.shawcable.net (by Network Solutions, Inc. V-1.5.9.5)
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

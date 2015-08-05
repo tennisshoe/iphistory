@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Andre Scholz</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '85.236.205.0 - 85.236.205.63' is 'hostmaster@ripe.net'
+
+inetnum:        85.236.205.0 - 85.236.205.63
+netname:        wetter-com-serverfarm
+remarks:        INFRA-AW
+descr:          WETTER.COM AG
+descr:          Werner-Siemens-Strasse 22
+descr:          78224 Singen
+country:        DE
+admin-c:        SB5132-RIPE
+tech-c:         ISCH-RIPE
+status:         ASSIGNED PA
+mnt-by:         ISCH-MNT
+changed:        ascholz@interscholz.net 20070903
+created:        2007-09-03T12:39:40Z
+last-modified:  2007-09-03T12:39:40Z
+source:         RIPE
+
+person:         Andre Scholz
+address:        interscholz Internet Services GmbH &amp; Co. KG
+address:        role-account HOSTMASTER INTERSCHOLZ
+address:        Internet Service Provider / Telekommunikationsbetreiber
+address:        Heinrich-Laengerer-Strasse 10
+address:        71229 Leonberg
+address:        DE
+phone:          +49 7152 33110-0
+fax-no:         +49 7152 33110-288
+e-mail:         info@interscholz.net
+nic-hdl:        ISCH-RIPE
+mnt-by:         ISCH-MNT
+abuse-mailbox:  hostmaster@ripe.net
+changed:        ascholz@interscholz.net 20130528
+created:        2002-04-22T20:00:38Z
+last-modified:  2013-05-28T11:31:43Z
+source:         RIPE
+
+person:         Stefan Blondzik
+address:        Werner-von-Siemens-Str. 22
+address:        78224 Singen
+address:        DE
+e-mail:         techcontact@wetter.com
+phone:          +49 7731 8380
+mnt-by:         ISCH-MNT
+nic-hdl:        SB5132-RIPE
+changed:        ascholz@interscholz.net 20050603
+created:        2005-06-03T06:56:28Z
+last-modified:  2005-06-03T06:56:28Z
+source:         RIPE
+
+route:          85.236.192.0/19
+descr:          interscholz Internet Services GmbH Co. KG - Leonberg - DE
+origin:         AS33843
+mnt-by:         ISCH-MNT
+changed:        ascholz@interscholz.net 20050523
+created:        2005-05-23T11:19:39Z
+last-modified:  2005-05-23T11:19:39Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

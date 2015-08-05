@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CloudFlare Latin America S.R.L</registrant>
+    <registration>
+      <created>2012-03-19</created>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:     190.93.240/20
+status:      allocated
+aut-num:     N/A
+owner:       CloudFlare Latin America S.R.L
+ownerid:     CR-CLAS1-LACNIC
+responsible: Matthew Prince
+address:     Santa Ana, Lindora, Forum II, Edificio A, Cuarto Piso, , 
+address:      - San Jos&#xE9; - 
+country:     CR
+phone:       +1 650 31398930 []
+owner-c:     CNO2
+tech-c:      CNO2
+abuse-c:     CLA17
+inetrev:     190.93.240/20
+nserver:     NS1.CLOUDFLARE.COM  [lame - not published]
+nsstat:      20150804 UDN
+nslastaa:    20140925
+nserver:     NS2.CLOUDFLARE.COM  [lame - not published]
+nsstat:      20150804 UDN
+nslastaa:    20140925
+created:     20120319
+changed:     20130206
+
+nic-hdl:     CLA17
+person:      CloudFlare Abuse
+e-mail:      abuse@CLOUDFLARE.COM
+address:     665 3rd Street, Suite 207, , 
+address:     94107 - San Francisco - CA
+country:     US
+phone:       +1 650 3198930 []
+created:     20130204
+changed:     20130204
+
+nic-hdl:     CNO2
+person:      CloudFlare Network Operations
+e-mail:      noc@CLOUDFLARE.COM
+address:     665 3rd Street, Suite 207, , 
+address:     94107 - San Francisco - CA
+country:     US
+phone:       +1 650 3198930 []
+created:     20130206
+changed:     20130206</record>
+    </whois>
+  </response>
+</whoisapi>
+

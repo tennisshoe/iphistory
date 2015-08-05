@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Comodo CA Ltd</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '91.199.212.0 - 91.199.212.255' is 'abuse@ccanet.co.uk'
+
+inetnum:        91.199.212.0 - 91.199.212.255
+netname:        COMODO
+descr:          Comodo CA Ltd
+country:        GB
+org:            ORG-CA909-RIPE
+admin-c:        AH1425-RIPE
+tech-c:         AH1425-RIPE
+status:         ASSIGNED PI
+notify:         andy@inetc.co.uk
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         INETCMNT
+mnt-routes:     INETCMNT
+mnt-domains:    INETCMNT
+changed:        hostmaster@ripe.net 20080222
+created:        2008-02-22T14:48:25Z
+last-modified:  2015-05-05T01:43:58Z
+source:         RIPE
+sponsoring-org: ORG-CL145-RIPE
+
+organisation:   ORG-CA909-RIPE
+org-name:       Comodo CA Ltd
+org-type:       OTHER
+address:        3rd Floor, Building 26
+address:        Office Village
+address:        Exchange Quay
+address:        Salford
+address:        M5 3EQ
+e-mail:         infra@lists.comodo.net
+mnt-ref:        CCAMNT
+mnt-by:         CCAMNT
+changed:        mike@ccanet.co.uk 20130208
+abuse-c:        CN1932-RIPE
+changed:        hostmaster@ripe.net 20140904
+created:        2008-02-20T17:13:14Z
+last-modified:  2014-09-04T13:58:10Z
+source:         RIPE
+
+person:         Andy Harding
+address:        Internet Connections Ltd
+address:        Lower Washford Mill
+address:        Mill Street
+address:        Buglawton
+address:        Congleton
+address:        CW12 2AD
+address:        United Kingdom
+phone:          +800 2888 680
+e-mail:         andy@inetc.co.uk
+nic-hdl:        AH1425-RIPE
+mnt-by:         INETCMNT
+changed:        andy@inetc.co.uk 20041130
+changed:        andy@inetc.co.uk 20041201
+created:        2004-11-30T11:28:14Z
+last-modified:  2007-12-18T13:45:09Z
+source:         RIPE
+
+route:          91.199.212.0/24
+descr:          Internet Connections Ltd
+origin:         AS48447
+mnt-by:         INETCMNT
+created:        2010-03-24T16:26:01Z
+last-modified:  2010-03-24T16:26:01Z
+source:         RIPE
+changed:        andy@inetc.co.uk 20080325</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Societe Francaise du Radiotelephone S.A.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.39.0.0 - 62.39.255.255' is 'abuse@gaoland.net'
+
+inetnum:        62.39.0.0 - 62.39.255.255
+descr:          Societe Francaise du Radiotelephone S.A.
+org:            ORG-LA7-RIPE
+netname:        FR-LDCOMNET-20010607
+country:        FR
+admin-c:        LD699-RIPE
+tech-c:         LDC76-RIPE
+status:         ALLOCATED PA
+remarks:        For Hacking, Spamming or Security problems
+remarks:        send email to abuse@gaoland.net
+notify:         lir@gaoland.net
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      LDCOM-MNT
+mnt-routes:     LDCOM-MNT
+changed:        hostmaster@ripe.net 20010607
+changed:        lir-help@ripe.net 20011217
+changed:        hostmaster@ripe.net 20031103
+changed:        hostmaster@ripe.net 20031105
+changed:        hostmaster@ripe.net 20040820
+changed:        hostmaster@ripe.net 20041013
+changed:        bitbucket@ripe.net 20060803
+changed:        bitbucket@ripe.net 20060803
+changed:        hostmaster@ripe.net 20110729
+changed:        hostmaster@ripe.net 20110804
+created:        2001-12-17T10:50:48Z
+last-modified:  2011-08-04T16:00:34Z
+source:         RIPE
+
+organisation:   ORG-LA7-RIPE
+org-name:       Societe Francaise du Radiotelephone S.A.
+org-type:       LIR
+address:        12 rue Jean-Philippe Rameau
+                CS 80001
+address:        93634
+address:        La-Plaine-Saint-Denis Cedex
+address:        FRANCE
+phone:          +33 1 70 18 52 00
+fax-no:         +33 1 70 18 11 61
+fax-no:         +33 1 70 18 19 07
+e-mail:         lir@gaoland.net
+abuse-c:        AR15297-RIPE
+mnt-ref:        LDCOM-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+notify:         lir@gaoland.net
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        PG3184-RIPE
+admin-c:        RB14609-RIPE
+created:        2004-04-17T11:22:43Z
+changed:        bitbucket@ripe.net 20150608
+last-modified:  2015-06-08T07:51:50Z
+source:         RIPE
+
+role:           SFR Legal Contact
+address:        Campus SFR
+address:        12 rue Jean-Philippe Rameau
+address:        CS 80001
+address:        93634 La-Plaine-Saint-Denis Cedex
+address:        France
+phone:          +33 1 70 18 52 00
+admin-c:        LDC76-RIPE
+tech-c:         RB14609-RIPE
+e-mail:         lir@gaoland.net
+nic-hdl:        LD699-RIPE
+abuse-mailbox:  abuse@gaoland.net
+mnt-by:         LDCOM-MNT
+changed:        lir@gaoland.net 20041013
+changed:        lir@gaoland.net 20050624
+changed:        lir@gaoland.net 20071022
+changed:        lir@gaoland.net 20110329
+changed:        lir@gaoland.net 20110404
+created:        2003-10-23T09:15:54Z
+last-modified:  2015-05-26T11:32:33Z
+source:         RIPE
+
+role:           LDCOM Networks Tech Contact
+address:        SFR
+address:        CAMPUS SFR
+address:        12 rue Jean-Philippe Rameau
+address:        CS 80001
+address:        93634 La Plaine Saint-Denis Cedex
+address:        France
+phone:          +33 1 70 18 52 00
+e-mail:         noc@gaoland.net
+e-mail:         lir@gaoland.net
+admin-c:        LD699-RIPE
+admin-c:        LM5867-RIPE
+tech-c:         DG1056-RIPE
+nic-hdl:        LDC76-RIPE
+abuse-mailbox:  abuse@gaoland.net
+mnt-by:         LDCOM-MNT
+changed:        lir@gaoland.net 20041013
+changed:        lir@gaoland.net 20050624
+changed:        lir@gaoland.net 20071022
+changed:        lir@gaoland.net 20110329
+changed:        lir@gaoland.net 20110404
+changed:        lir@gaoland.net 20110428
+created:        2001-12-20T14:34:14Z
+last-modified:  2015-05-26T11:34:27Z
+source:         RIPE
+
+route:          62.39.0.0/16
+descr:          LDCOM-NETWORKS CIDR BLOCK
+descr:          FRANCE
+origin:         AS15557
+mnt-by:         LDCOM-MNT
+changed:        sekou.drame@ldcom.fr 20010619
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:33:57Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hillside (Australia New Media) Pty Ltd</registrant>
+    <registration>
+      <updated>2011-11-01</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        103.11.212.0 - 103.11.215.255
+netname:        HILLSIDE-NEW-MEDIA-AP
+descr:          Hillside (Australia New Media) Pty Ltd
+descr:          C/O ADDISONS, Commercial Lawyers
+descr:          Level 12, 60 Carrington Street
+country:        AU
+admin-c:        HANM1-AP
+tech-c:         HANM1-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HILLSIDE-NEW-MEDIA-AU
+mnt-routes:     MAINT-HILLSIDE-NEW-MEDIA-AU
+mnt-irt:        IRT-HILLSIDE-NEW-MEDIA-AU
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20111101
+source:         APNIC
+
+irt:            IRT-HILLSIDE-NEW-MEDIA-AU
+address:        C/O ADDISONS, Commercial Lawyers, Level 12, 60 Carrington Street, Sydney, NSW 2000
+e-mail:         infrastructure@hillsidenewmedia.com
+abuse-mailbox:  infrastructure@hillsidenewmedia.com
+admin-c:        HANM1-AP
+tech-c:         HANM1-AP
+auth:           # Filtered
+mnt-by:         MAINT-HILLSIDE-NEW-MEDIA-AU
+changed:        hm-changed@apnic.net 20110930
+source:         APNIC
+
+role:           HILLSIDE AUSTRALIA NEW MEDIA PTY LIMITED - netwo
+address:        C/O ADDISONS, Commercial Lawyers, Level 12, 60 Carrington Street, Sydney, NSW 2000
+country:        AU
+phone:          +441782684705
+fax-no:         +441782684953
+e-mail:         netarch@hillsidenewmedia.com
+admin-c:        HANM1-AP
+tech-c:         HANM1-AP
+nic-hdl:        HANM1-AP
+mnt-by:         MAINT-HILLSIDE-NEW-MEDIA-AU
+changed:        hm-changed@apnic.net 20110930
+source:         APNIC
+
+route:          103.11.213.0/24
+descr:          HKG-2
+origin:         AS58431
+country:        AU
+mnt-lower:      MAINT-HILLSIDE-NEW-MEDIA-AU
+mnt-routes:     MAINT-HILLSIDE-NEW-MEDIA-AU
+mnt-by:         MAINT-HILLSIDE-NEW-MEDIA-AU
+changed:        neal.quinn@bet365.com 20120203
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

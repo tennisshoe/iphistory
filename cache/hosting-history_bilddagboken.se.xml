@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>bilddagboken.se</domain_name>
+    <ip_history/>
+    <registrar_history/>
+    <nameserver_history>
+      <domain>BILDDAGBOKEN.SE</domain>
+      <action>T</action>
+      <actiondate>2014-02-02</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Ns01.com</post_mns>
+      <pre_mns>Port80.se</pre_mns>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

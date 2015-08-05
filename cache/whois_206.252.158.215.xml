@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Digital Telemedia</registrant>
+    <registration>
+      <created>1998-08-28</created>
+      <updated>1998-08-28</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       206.252.158.0 - 206.252.158.255
+CIDR:           206.252.158.0/24
+NetName:        DTI-DIALUP-DTI-NET
+NetHandle:      NET-206-252-158-0-1
+Parent:         LOGICWORKS-206-CIDR (NET-206-252-128-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Digital Telemedia (C00014770)
+RegDate:        1998-08-28
+Updated:        1998-08-28
+Ref:            http://whois.arin.net/rest/net/NET-206-252-158-0-1
+
+CustName:       Digital Telemedia
+Address:        11-17 Beach Street
+City:           New York
+StateProv:      NY
+PostalCode:     10013
+Country:        US
+RegDate:        1998-08-28
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C00014770
+
+OrgTechHandle: HOSTM1077-ARIN
+OrgTechName:   hostmaster, Logicworks
+OrgTechPhone:  +1-212-625-5300 
+OrgTechEmail:  hostmaster@logicworks.net
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM1077-ARIN
+
+OrgNOCHandle: HOSTM1077-ARIN
+OrgNOCName:   hostmaster, Logicworks
+OrgNOCPhone:  +1-212-625-5300 
+OrgNOCEmail:  hostmaster@logicworks.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/HOSTM1077-ARIN
+
+OrgAbuseHandle: HOSTM1077-ARIN
+OrgAbuseName:   hostmaster, Logicworks
+OrgAbusePhone:  +1-212-625-5300 
+OrgAbuseEmail:  hostmaster@logicworks.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HOSTM1077-ARIN
+
+NetRange:       206.252.128.0 - 206.252.159.255
+CIDR:           206.252.128.0/19
+NetName:        LOGICWORKS-206-CIDR
+NetHandle:      NET-206-252-128-0-1
+Parent:         NET206 (NET-206-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS6650
+Organization:   Logicworks Corporation (LOGIC-23-Z)
+RegDate:        1996-07-31
+Updated:        2012-04-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-206-252-128-0-1
+
+OrgName:        Logicworks Corporation
+OrgId:          LOGIC-23-Z
+Address:        155 Avenue of Americas, 5th floor
+City:           New York
+StateProv:      NY
+PostalCode:     10013
+Country:        US
+RegDate:        2007-11-21
+Updated:        2009-02-17
+Ref:            http://whois.arin.net/rest/org/LOGIC-23-Z
+
+OrgTechHandle: HOSTM1077-ARIN
+OrgTechName:   hostmaster, Logicworks
+OrgTechPhone:  +1-212-625-5300 
+OrgTechEmail:  hostmaster@logicworks.net
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM1077-ARIN
+
+OrgNOCHandle: HOSTM1077-ARIN
+OrgNOCName:   hostmaster, Logicworks
+OrgNOCPhone:  +1-212-625-5300 
+OrgNOCEmail:  hostmaster@logicworks.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/HOSTM1077-ARIN
+
+OrgAbuseHandle: HOSTM1077-ARIN
+OrgAbuseName:   hostmaster, Logicworks
+OrgAbusePhone:  +1-212-625-5300 
+OrgAbuseEmail:  hostmaster@logicworks.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HOSTM1077-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

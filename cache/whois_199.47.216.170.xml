@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Dropbox, Inc.</registrant>
+    <registration>
+      <created>2010-10-15</created>
+      <updated>2013-11-19</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       199.47.216.0 - 199.47.219.255
+CIDR:           199.47.216.0/22
+NetName:        DROPBOX
+NetHandle:      NET-199-47-216-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS19679
+Organization:   Dropbox, Inc. (DROPB)
+RegDate:        2010-10-15
+Updated:        2013-11-19
+Ref:            http://whois.arin.net/rest/net/NET-199-47-216-0-1
+
+OrgName:        Dropbox, Inc.
+OrgId:          DROPB
+Address:        185 Berry Street
+Address:        Suite 400
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2010-05-05
+Updated:        2014-06-10
+Ref:            http://whois.arin.net/rest/org/DROPB
+
+OrgNOCHandle: DROPB-ARIN
+OrgNOCName:   Dropbox NOC
+OrgNOCPhone:  +1-415-986-7057 
+OrgNOCEmail:  noc@dropbox.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/DROPB-ARIN
+
+OrgTechHandle: DROPB-ARIN
+OrgTechName:   Dropbox NOC
+OrgTechPhone:  +1-415-986-7057 
+OrgTechEmail:  noc@dropbox.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DROPB-ARIN
+
+OrgAbuseHandle: DROPB2-ARIN
+OrgAbuseName:   DROPB-ABUSE
+OrgAbusePhone:  +1-415-986-7057 
+OrgAbuseEmail:  abuse@dropbox.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DROPB2-ARIN
+
+RNOCHandle: DROPB-ARIN
+RNOCName:   Dropbox NOC
+RNOCPhone:  +1-415-986-7057 
+RNOCEmail:  noc@dropbox.com
+RNOCRef:    http://whois.arin.net/rest/poc/DROPB-ARIN
+
+RTechHandle: DROPB1-ARIN
+RTechName:   DROPBOX-ADMIN
+RTechPhone:  +1-415-857-6881 
+RTechEmail:  wood@dropbox.com
+RTechRef:    http://whois.arin.net/rest/poc/DROPB1-ARIN
+
+RAbuseHandle: DROPB-ARIN
+RAbuseName:   Dropbox NOC
+RAbusePhone:  +1-415-986-7057 
+RAbuseEmail:  noc@dropbox.com
+RAbuseRef:    http://whois.arin.net/rest/poc/DROPB-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

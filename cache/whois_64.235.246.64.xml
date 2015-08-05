@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PacketExchange, Inc</registrant>
+    <registration>
+      <created>2002-09-20</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.235.224.0 - 64.235.255.255
+CIDR:           64.235.224.0/19
+NetName:        NETBLK-PACKETEXCHANGE-V4-01
+NetHandle:      NET-64-235-224-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS25973
+Organization:   PacketExchange, Inc (PACKE-25)
+RegDate:        2002-09-20
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-64-235-224-0-1
+
+OrgName:        PacketExchange, Inc
+OrgId:          PACKE-25
+Address:        GTT Communications, Inc.
+Address:        8484 Westpark Drive
+Address:        Suite 720
+City:           McLean
+StateProv:      VA
+PostalCode:     22102
+Country:        US
+RegDate:        2008-02-26
+Updated:        2014-04-16
+Ref:            http://whois.arin.net/rest/org/PACKE-25
+
+OrgTechHandle: AS3251-ARIN
+OrgTechName:   AS3257 Netguard
+OrgTechPhone:  +49 6102 8235 381 
+OrgTechEmail:  netguard@gtt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AS3251-ARIN
+
+OrgNOCHandle: GNOC16-ARIN
+OrgNOCName:   GTT Network Operations Center
+OrgNOCPhone:  +1-866-250-3887 
+OrgNOCEmail:  noc@gtt.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/GNOC16-ARIN
+
+OrgAbuseHandle: GAD46-ARIN
+OrgAbuseName:   GTT Abuse Department
+OrgAbusePhone:  +1-703-442-5501 
+OrgAbuseEmail:  abuse@gtt.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GAD46-ARIN
+
+OrgTechHandle: GNOC16-ARIN
+OrgTechName:   GTT Network Operations Center
+OrgTechPhone:  +1-866-250-3887 
+OrgTechEmail:  noc@gtt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/GNOC16-ARIN
+
+NetRange:       64.235.246.0 - 64.235.246.255
+CIDR:           64.235.246.0/24
+NetName:        MZIMA01-CUST-ELEPHANTDRIVE01
+NetHandle:      NET-64-235-246-0-1
+Parent:         NETBLK-PACKETEXCHANGE-V4-01 (NET-64-235-224-0-1)
+NetType:        Reallocated
+OriginAS:       AS25973
+Organization:   ElephantDrive Inc. (ELEPH-3)
+RegDate:        2009-01-15
+Updated:        2009-01-15
+Ref:            http://whois.arin.net/rest/net/NET-64-235-246-0-1
+
+OrgName:        ElephantDrive Inc.
+OrgId:          ELEPH-3
+Address:        9663 Santa Monica Blvd
+Address:        Suite 832
+City:           Beverly Hills
+StateProv:      CA
+PostalCode:     90210
+Country:        US
+RegDate:        2006-11-15
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/ELEPH-3
+
+OrgTechHandle: EDTS-ARIN
+OrgTechName:   Elephant Drive Technical Support
+OrgTechPhone:  +1-310-295-2080 
+OrgTechEmail:  tech@elephantdrive.com
+OrgTechRef:    http://whois.arin.net/rest/poc/EDTS-ARIN
+
+OrgAbuseHandle: EDTS-ARIN
+OrgAbuseName:   Elephant Drive Technical Support
+OrgAbusePhone:  +1-310-295-2080 
+OrgAbuseEmail:  tech@elephantdrive.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/EDTS-ARIN
+
+RTechHandle: EDAD-ARIN
+RTechName:   Elephant Drive Abuse Department
+RTechPhone:  +1-310-933-5562 
+RTechEmail:  abuse@elephantdrive.com
+RTechRef:    http://whois.arin.net/rest/poc/EDAD-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

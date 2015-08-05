@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>AFNCA Inc.</registrant>
+    <registration>
+      <created>2009-07-25</created>
+      <updated>2009-07-25</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       74.115.0.0 - 74.115.0.255
+CIDR:           74.115.0.0/24
+NetName:        NET-4-AFNCA
+NetHandle:      NET-74-115-0-0-2
+Parent:         AFNETWORK-1 (NET-74-115-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS2828, AS26642
+Customer:       AFNCA Inc. (C02282306)
+RegDate:        2009-07-25
+Updated:        2009-07-25
+Ref:            http://whois.arin.net/rest/net/NET-74-115-0-0-2
+
+CustName:       AFNCA Inc.
+Address:        250 Stockton Avenue
+City:           San Jose
+StateProv:      CA
+PostalCode:     95126
+Country:        US
+RegDate:        2009-07-25
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02282306
+
+OrgAbuseHandle: ABUSE2350-ARIN
+OrgAbuseName:   ABUSE
+OrgAbusePhone:  +1-408-744-1002 
+OrgAbuseEmail:  abuse@anchorfree.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2350-ARIN
+
+OrgTechHandle: TECHN603-ARIN
+OrgTechName:   Technical
+OrgTechPhone:  +1-408-744-1002 
+OrgTechEmail:  afnet@anchorfree.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN603-ARIN
+
+RTechHandle: TECHN603-ARIN
+RTechName:   Technical
+RTechPhone:  +1-408-744-1002 
+RTechEmail:  afnet@anchorfree.com
+RTechRef:    http://whois.arin.net/rest/poc/TECHN603-ARIN
+
+NetRange:       74.115.0.0 - 74.115.7.255
+CIDR:           74.115.0.0/21
+NetName:        AFNETWORK-1
+NetHandle:      NET-74-115-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS26642
+Organization:   AnchorFree Inc. (ANCHO-7)
+RegDate:        2009-06-18
+Updated:        2012-03-02
+Comment:        http://www.anchorfree.com
+Ref:            http://whois.arin.net/rest/net/NET-74-115-0-0-1
+
+OrgName:        AnchorFree Inc.
+OrgId:          ANCHO-7
+Address:        155 Constitution Dr.
+City:           Menlo Park
+StateProv:      CA
+PostalCode:     94025
+Country:        US
+RegDate:        2007-09-05
+Updated:        2015-05-30
+Comment:        http://www.anchorfree.com
+Ref:            http://whois.arin.net/rest/org/ANCHO-7
+
+OrgAbuseHandle: ABUSE2350-ARIN
+OrgAbuseName:   ABUSE
+OrgAbusePhone:  +1-408-744-1002 
+OrgAbuseEmail:  abuse@anchorfree.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2350-ARIN
+
+OrgTechHandle: TECHN603-ARIN
+OrgTechName:   Technical
+OrgTechPhone:  +1-408-744-1002 
+OrgTechEmail:  afnet@anchorfree.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN603-ARIN
+
+RTechHandle: TECHN603-ARIN
+RTechName:   Technical
+RTechPhone:  +1-408-744-1002 
+RTechEmail:  afnet@anchorfree.com
+RTechRef:    http://whois.arin.net/rest/poc/TECHN603-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

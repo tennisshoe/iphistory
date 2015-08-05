@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Metaswitch Networks</registrant>
+    <registration>
+      <created>1998-06-15</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.249.0.0 - 209.249.255.255
+CIDR:           209.249.0.0/16
+NetName:        ABOVENET-4
+NetHandle:      NET-209-249-0-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Abovenet Communications, Inc (ABVE)
+RegDate:        1998-06-15
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-209-249-0-0-1
+
+OrgName:        Abovenet Communications, Inc
+OrgId:          ABVE
+Address:        360 Hamilton Ave
+City:           White Plains
+StateProv:      NY
+PostalCode:     10601
+Country:        US
+RegDate:        1996-04-22
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/ABVE
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ipncc@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+NetRange:       209.249.115.0 - 209.249.115.255
+CIDR:           209.249.115.0/24
+NetName:        ABOV-T01340-209-249-115-0-24
+NetHandle:      NET-209-249-115-0-1
+Parent:         ABOVENET-4 (NET-209-249-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Metaswitch Networks (C02858755)
+RegDate:        2011-09-09
+Updated:        2011-09-09
+Comment:        alex.moore@metaswitch.com
+Ref:            http://whois.arin.net/rest/net/NET-209-249-115-0-1
+
+CustName:       Metaswitch Networks
+Address:        11600 Sunrise Valley Drive
+City:           Reston
+StateProv:      VA
+PostalCode:     20191-1412
+Country:        US
+RegDate:        2011-09-09
+Updated:        2011-09-09
+Ref:            http://whois.arin.net/rest/customer/C02858755
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ipncc@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

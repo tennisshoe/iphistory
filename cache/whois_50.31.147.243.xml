@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Mochanin Corp.</registrant>
+    <registration>
+      <created>2012-02-20</created>
+      <updated>2012-02-20</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       50.31.147.0 - 50.31.147.255
+CIDR:           50.31.147.0/24
+NetName:        SCNET-50-31-147-0-24
+NetHandle:      NET-50-31-147-0-1
+Parent:         SCN-3 (NET-50-31-128-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Mochanin Corp. (C02935008)
+RegDate:        2012-02-20
+Updated:        2012-02-20
+Ref:            http://whois.arin.net/rest/net/NET-50-31-147-0-1
+
+CustName:       Mochanin Corp.
+Address:        2880 Zanker Rd.
+Address:        # 203
+City:           San Jose
+StateProv:      CA
+PostalCode:     95134
+Country:        US
+RegDate:        2012-02-20
+Updated:        2012-02-20
+Ref:            http://whois.arin.net/rest/customer/C02935008
+
+OrgNOCHandle: NETWO1779-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-312-829-1111 
+OrgNOCEmail:  support@servercentral.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO1779-ARIN
+
+OrgTechHandle: NETWO1779-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-312-829-1111 
+OrgTechEmail:  support@servercentral.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO1779-ARIN
+
+OrgAbuseHandle: ABUSE1669-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-312-829-1111 
+OrgAbuseEmail:  abuse@servercentral.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1669-ARIN
+
+RTechHandle: NETWO1779-ARIN
+RTechName:   Network Operations
+RTechPhone:  +1-312-829-1111 
+RTechEmail:  support@servercentral.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO1779-ARIN
+
+RAbuseHandle: ABUSE1669-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-312-829-1111 
+RAbuseEmail:  abuse@servercentral.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1669-ARIN
+
+RNOCHandle: NETWO1779-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-312-829-1111 
+RNOCEmail:  support@servercentral.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO1779-ARIN
+
+NetRange:       50.31.128.0 - 50.31.255.255
+CIDR:           50.31.128.0/17
+NetName:        SCN-3
+NetHandle:      NET-50-31-128-0-1
+Parent:         NET50 (NET-50-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS23352
+Organization:   Server Central Network (SCN-18)
+RegDate:        2011-02-03
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-50-31-128-0-1
+
+OrgName:        Server Central Network
+OrgId:          SCN-18
+Address:        111 W. Jackson Blvd.
+Address:        Suite 1600
+City:           Chicago
+StateProv:      IL
+PostalCode:     60604
+Country:        US
+RegDate:        2002-03-05
+Updated:        2013-03-25
+Ref:            http://whois.arin.net/rest/org/SCN-18
+
+ReferralServer:  rwhois://rwhois.servercentral.net:4321
+
+OrgNOCHandle: NETWO1779-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-312-829-1111 
+OrgNOCEmail:  support@servercentral.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO1779-ARIN
+
+OrgTechHandle: NETWO1779-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-312-829-1111 
+OrgTechEmail:  support@servercentral.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO1779-ARIN
+
+OrgAbuseHandle: ABUSE1669-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-312-829-1111 
+OrgAbuseEmail:  abuse@servercentral.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1669-ARIN
+
+RTechHandle: NETWO1779-ARIN
+RTechName:   Network Operations
+RTechPhone:  +1-312-829-1111 
+RTechEmail:  support@servercentral.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO1779-ARIN
+
+RAbuseHandle: ABUSE1669-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-312-829-1111 
+RAbuseEmail:  abuse@servercentral.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1669-ARIN
+
+RNOCHandle: NETWO1779-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-312-829-1111 
+RNOCEmail:  support@servercentral.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO1779-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ThePlanet.com Internet Services, Inc.</registrant>
+    <registration>
+      <created>2009-03-23</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       174.120.0.0 - 174.123.255.255
+CIDR:           174.120.0.0/14
+NetName:        NETBLK-THEPLANET-BLK-16
+NetHandle:      NET-174-120-0-0-1
+Parent:         NET174 (NET-174-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36420, AS30315, AS13749, AS21844
+Organization:   ThePlanet.com Internet Services, Inc. (TPCM)
+RegDate:        2009-03-23
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-174-120-0-0-1
+
+OrgName:        ThePlanet.com Internet Services, Inc.
+OrgId:          TPCM
+Address:        315 Capitol
+Address:        Suite 205
+City:           Houston
+StateProv:      TX
+PostalCode:     77002
+Country:        US
+RegDate:        1999-08-31
+Updated:        2015-02-10
+Ref:            http://whois.arin.net/rest/org/TPCM
+
+ReferralServer:  rwhois://rwhois.theplanet.com:4321
+
+OrgNOCHandle: THEPL-ARIN
+OrgNOCName:   The Planet NOC
+OrgNOCPhone:  +1-281-714-3000 
+OrgNOCEmail:  noc@theplanet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+OrgTechHandle: TECHN33-ARIN
+OrgTechName:   Technical Support
+OrgTechPhone:  +1-281-714-3000 
+OrgTechEmail:  admins@theplanet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN
+
+OrgAbuseHandle: ABUSE271-ARIN
+OrgAbuseName:   The Planet Abuse
+OrgAbusePhone:  +1-281-714-3560 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+RAbuseHandle: ABUSE271-ARIN
+RAbuseName:   The Planet Abuse
+RAbusePhone:  +1-281-714-3560 
+RAbuseEmail:  abuse@softlayer.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+RNOCHandle: THEPL-ARIN
+RNOCName:   The Planet NOC
+RNOCPhone:  +1-281-714-3000 
+RNOCEmail:  noc@theplanet.com
+RNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+RTechHandle: TECHN33-ARIN
+RTechName:   Technical Support
+RTechPhone:  +1-281-714-3000 
+RTechEmail:  admins@theplanet.com
+RTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN
+
+== Additional Information From rwhois://rwhois.theplanet.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.softlayer.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:NETBLK-SOFTLAYER.174.120.0.0/14
+network:Auth-Area:174.120.0.0/14
+network:Network-Name:SOFTLAYER-174.120.0.0
+network:IP-Network:174.120.0.0/15
+network:IP-Network-Block:174.120.0.0-174.121.255.255
+network:Organization;I:SoftLayer
+network:Street-Address:4849 Alpha Road
+network:City:Dallas
+network:State:TX
+network:Postal-Code:75244
+network:Country-Code:US
+network:Tech-Contact;I:sysadmins@softlayer.com
+network:Abuse-Contact;I:abuse@softlayer.com
+network:Admin-Contact;I:IPADM258-ARIN
+network:Created:2013-01-09 09:56:44
+network:Updated:2015-04-18 20:08:19
+network:Updated-By:ipadmin@softlayer.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

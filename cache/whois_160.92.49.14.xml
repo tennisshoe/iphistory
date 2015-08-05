@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Pierre Francois Rudant</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% No abuse contact registered for 160.92.0.0 - 160.92.255.255
+
+inetnum:        160.92.0.0 - 160.92.255.255
+netname:        NET-ATOSWORLDLINE
+descr:          Atos Worldline IPv4 Subnet
+country:        FR
+admin-c:        PFR1-RIPE
+admin-c:        PWL3-RIPE
+tech-c:         PFR1-RIPE
+tech-c:         PWL3-RIPE
+tech-c:         SKL16-RIPE
+status:         LEGACY
+remarks:        For information on "status:" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources
+notify:         PierreFrancois.Rudant@atosorigin.com
+notify:         pierre.westeel@atosorigin.com
+mnt-by:         AS8677-MNT
+mnt-by:         AWL-MNT
+changed:        pierre.westeel-no-spam@atosorigin.com 20110202
+created:        2001-11-14T15:06:52Z
+last-modified:  2015-05-05T02:15:42Z
+source:         RIPE
+
+person:         Pierre Francois Rudant
+address:        Atos Worldline
+address:        ZI A rue de la Pointe
+address:        59113 SECLIN - FRANCE
+phone:          +33 320 607 979
+e-mail:         PierreFrancois.Rudant@atosorigin.com
+nic-hdl:        PFR1-RIPE
+notify:         PierreFrancois.Rudant@atosorigin.com
+mnt-by:         AWL-MNT
+changed:        PierreFrancois.Rudant@atosorigin.com 20060403
+created:        2001-11-14T15:05:41Z
+last-modified:  2008-01-07T17:30:42Z
+source:         RIPE
+
+person:         Pierre Westeel
+address:        Atos Worldline
+address:        ZI A rue de la pointe
+address:        59113 SECLIN, FRANCE
+e-mail:         dlfr-noc-mutu@atosorigin.com
+notify:         pierre.westeel@atosorigin.com
+mnt-by:         AWL-MNT
+phone:          +33 3 20 60 79 79
+nic-hdl:        PWL3-RIPE
+changed:        no-spam-pierre.westeel@atosorigin.com 20110202
+created:        2009-08-31T13:48:18Z
+last-modified:  2011-02-02T11:13:52Z
+source:         RIPE
+
+person:         Samuel Kling
+address:        ZI a rue de la pointe, 59113 SECLIN, FR
+notify:         samuel.kling@atosorigin.com
+e-mail:         dlfr-noc-mutu@atosorigin.com
+mnt-by:         AWL-MNT
+phone:          +33 3 20 60 79 79
+nic-hdl:        SKL16-RIPE
+changed:        no-spam-pierre.westeel@atosorigin.com 20110202
+created:        2011-02-02T10:28:01Z
+last-modified:  2011-02-02T10:36:27Z
+source:         RIPE
+
+route:          160.92.49.0/24
+descr:          Worldline France Hosting
+origin:         AS8677
+mnt-by:         AWL-MNT
+mnt-by:         AS8677-MNT
+changed:        dlfr-aw-peering@worldline.com 20131217
+created:        2013-12-17T16:54:12Z
+last-modified:  2013-12-17T16:54:12Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

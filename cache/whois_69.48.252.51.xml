@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CORT</registrant>
+    <registration>
+      <created>2004-07-30</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.48.192.0 - 69.48.255.255
+CIDR:           69.48.192.0/18
+NetName:        NFLOW-AR-4
+NetHandle:      NET-69-48-192-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Inflow Inc. (NFLO)
+RegDate:        2004-07-30
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-69-48-192-0-1
+
+OrgName:        Inflow Inc.
+OrgId:          NFLO
+Address:        550 E 84th Avenue
+Address:        Suite E-5
+City:           Thornton
+StateProv:      CO
+PostalCode:     80229
+Country:        US
+RegDate:        1999-08-24
+Updated:        2015-06-24
+Ref:            http://whois.arin.net/rest/org/NFLO
+
+OrgTechHandle: SN221-ARIN
+OrgTechName:   SGNS NOC
+OrgTechPhone:  +1-800-441-1181 
+OrgTechEmail:  noc@sgns.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SN221-ARIN
+
+OrgNOCHandle: SN221-ARIN
+OrgNOCName:   SGNS NOC
+OrgNOCPhone:  +1-800-441-1181 
+OrgNOCEmail:  noc@sgns.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/SN221-ARIN
+
+OrgTechHandle: SWIPA2-ARIN
+OrgTechName:   SWIP Automation
+OrgTechPhone:  +1-215-446-1617 
+OrgTechEmail:  swip@sgns.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPA2-ARIN
+
+OrgAbuseHandle: ABUSE4810-ARIN
+OrgAbuseName:   Abuse-SAS
+OrgAbusePhone:  +1-800-441-1181 
+OrgAbuseEmail:  as.us.abuse@sungardas.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4810-ARIN
+
+RTechHandle: JI133-ARIN
+RTechName:   Inflow, Joe 
+RTechPhone:  +1-303-942-3230 
+RTechEmail:  sas.hostmaster@sungard.com
+RTechRef:    http://whois.arin.net/rest/poc/JI133-ARIN
+
+RAbuseHandle: ABUSE40-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-800-441-1181 
+RAbuseEmail:  sas.abuse@sungard.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE40-ARIN
+
+NetRange:       69.48.240.0 - 69.48.255.255
+CIDR:           69.48.240.0/20
+NetName:        SGNS-BLK-NFLO-AR-4
+NetHandle:      NET-69-48-240-0-1
+Parent:         NFLOW-AR-4 (NET-69-48-192-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Sungard Network Solutions, Inc. (SGNS)
+RegDate:        2007-03-14
+Updated:        2007-03-14
+Ref:            http://whois.arin.net/rest/net/NET-69-48-240-0-1
+
+OrgName:        Sungard Network Solutions, Inc.
+OrgId:          SGNS
+Address:        401 N Broad St
+Address:        Suite 600
+City:           Philadelphia
+StateProv:      PA
+PostalCode:     19108
+Country:        US
+RegDate:        1999-01-28
+Updated:        2014-07-21
+Ref:            http://whois.arin.net/rest/org/SGNS
+
+OrgAbuseHandle: ABUSE4810-ARIN
+OrgAbuseName:   Abuse-SAS
+OrgAbusePhone:  +1-800-441-1181 
+OrgAbuseEmail:  as.us.abuse@sungardas.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4810-ARIN
+
+OrgNOCHandle: SN221-ARIN
+OrgNOCName:   SGNS NOC
+OrgNOCPhone:  +1-800-441-1181 
+OrgNOCEmail:  noc@sgns.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/SN221-ARIN
+
+OrgTechHandle: SWIPA2-ARIN
+OrgTechName:   SWIP Automation
+OrgTechPhone:  +1-215-446-1617 
+OrgTechEmail:  swip@sgns.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPA2-ARIN
+
+OrgTechHandle: SN221-ARIN
+OrgTechName:   SGNS NOC
+OrgTechPhone:  +1-800-441-1181 
+OrgTechEmail:  noc@sgns.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SN221-ARIN
+
+RTechHandle: SN221-ARIN
+RTechName:   SGNS NOC
+RTechPhone:  +1-800-441-1181 
+RTechEmail:  noc@sgns.net
+RTechRef:    http://whois.arin.net/rest/poc/SN221-ARIN
+
+NetRange:       69.48.252.0 - 69.48.252.127
+CIDR:           69.48.252.0/25
+NetName:        SUNGARD-A713A72A-4FAF-4185-9C4
+NetHandle:      NET-69-48-252-0-1
+Parent:         SGNS-BLK-NFLO-AR-4 (NET-69-48-240-0-1)
+NetType:        Reassigned
+OriginAS:       AS19290, AS18832, AS19, AS19288, AS19289, AS19287, AS19293, AS19291, AS19292
+Customer:       CORT (C05185030)
+RegDate:        2014-07-24
+Updated:        2014-07-24
+Ref:            http://whois.arin.net/rest/net/NET-69-48-252-0-1
+
+CustName:       CORT
+Address:        8025 I.H. 35 North
+Address:        N/A
+City:           Austin
+StateProv:      TX
+PostalCode:     78753
+Country:        US
+RegDate:        2014-07-24
+Updated:        2014-07-24
+Ref:            http://whois.arin.net/rest/customer/C05185030
+
+OrgAbuseHandle: ABUSE4810-ARIN
+OrgAbuseName:   Abuse-SAS
+OrgAbusePhone:  +1-800-441-1181 
+OrgAbuseEmail:  as.us.abuse@sungardas.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4810-ARIN
+
+OrgNOCHandle: SN221-ARIN
+OrgNOCName:   SGNS NOC
+OrgNOCPhone:  +1-800-441-1181 
+OrgNOCEmail:  noc@sgns.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/SN221-ARIN
+
+OrgTechHandle: SWIPA2-ARIN
+OrgTechName:   SWIP Automation
+OrgTechPhone:  +1-215-446-1617 
+OrgTechEmail:  swip@sgns.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPA2-ARIN
+
+OrgTechHandle: SN221-ARIN
+OrgTechName:   SGNS NOC
+OrgTechPhone:  +1-800-441-1181 
+OrgTechEmail:  noc@sgns.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SN221-ARIN
+
+RTechHandle: SN221-ARIN
+RTechName:   SGNS NOC
+RTechPhone:  +1-800-441-1181 
+RTechEmail:  noc@sgns.net
+RTechRef:    http://whois.arin.net/rest/poc/SN221-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

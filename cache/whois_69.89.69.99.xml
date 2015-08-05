@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Datamaze</registrant>
+    <registration>
+      <created>2012-10-04</created>
+      <updated>2012-10-04</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.89.69.96 - 69.89.69.127
+CIDR:           69.89.69.96/27
+NetName:        DATAMAZE
+NetHandle:      NET-69-89-69-96-1
+Parent:         NETDC (NET-69-89-64-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Datamaze (C03173946)
+RegDate:        2012-10-04
+Updated:        2012-10-04
+Ref:            http://whois.arin.net/rest/net/NET-69-89-69-96-1
+
+CustName:       Datamaze
+Address:        10811 Washington Blvd
+City:           Culver City
+StateProv:      CA
+PostalCode:     90232
+Country:        US
+RegDate:        2012-10-04
+Updated:        2012-10-04
+Ref:            http://whois.arin.net/rest/customer/C03173946
+
+OrgNOCHandle: NOC31864-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-310-426-9933 
+OrgNOCEmail:  support@netdc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC31864-ARIN
+
+OrgAbuseHandle: ABUSE4716-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-310-426-9933 
+OrgAbuseEmail:  abuse@netdc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4716-ARIN
+
+OrgTechHandle: NET2E-ARIN
+OrgTechName:   Net2EZ Support
+OrgTechPhone:  +1-310-426-9933 
+OrgTechEmail:  support@net2ez.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NET2E-ARIN
+
+NetRange:       69.89.64.0 - 69.89.95.255
+CIDR:           69.89.64.0/19
+NetName:        NETDC
+NetHandle:      NET-69-89-64-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Net Data Centers, Inc. (NET2E)
+RegDate:        2003-11-07
+Updated:        2014-05-13
+Ref:            http://whois.arin.net/rest/net/NET-69-89-64-0-1
+
+OrgName:        Net Data Centers, Inc.
+OrgId:          NET2E
+Address:        898 N Sepulveda Blvd
+City:           El Segundo
+StateProv:      CA
+PostalCode:     90245
+Country:        US
+RegDate:        2003-06-19
+Updated:        2014-05-13
+Ref:            http://whois.arin.net/rest/org/NET2E
+
+OrgNOCHandle: NOC31864-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-310-426-9933 
+OrgNOCEmail:  support@netdc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC31864-ARIN
+
+OrgAbuseHandle: ABUSE4716-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-310-426-9933 
+OrgAbuseEmail:  abuse@netdc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4716-ARIN
+
+OrgTechHandle: NET2E-ARIN
+OrgTechName:   Net2EZ Support
+OrgTechPhone:  +1-310-426-9933 
+OrgTechEmail:  support@net2ez.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NET2E-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

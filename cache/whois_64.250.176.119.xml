@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Dr Data Spot, Inc</registrant>
+    <registration>
+      <created>2010-04-27</created>
+      <updated>2010-04-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.250.176.96 - 64.250.176.127
+CIDR:           64.250.176.96/27
+NetName:        COLOCUBE-DRDATASPOT-176-96-27
+NetHandle:      NET-64-250-176-96-1
+Parent:         CIRRACORE-NA (NET-64-250-176-0-1)
+NetType:        Reassigned
+OriginAS:       AS46691
+Customer:       Dr Data Spot, Inc (C02480446)
+RegDate:        2010-04-27
+Updated:        2010-04-27
+Ref:            http://whois.arin.net/rest/net/NET-64-250-176-96-1
+
+CustName:       Dr Data Spot, Inc
+Address:        211 Pickwick Drive
+City:           Columbia
+StateProv:      SC
+PostalCode:     29223
+Country:        US
+RegDate:        2010-04-27
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02480446
+
+OrgAbuseHandle: DDH10-ARIN
+OrgAbuseName:   Householder, Dennis Dwayne
+OrgAbusePhone:  +1-770-330-3869 
+OrgAbuseEmail:  dhouseholder@cirracore.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DDH10-ARIN
+
+OrgNOCHandle: DDH10-ARIN
+OrgNOCName:   Householder, Dennis Dwayne
+OrgNOCPhone:  +1-770-330-3869 
+OrgNOCEmail:  dhouseholder@cirracore.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/DDH10-ARIN
+
+OrgNOCHandle: JWH203-ARIN
+OrgNOCName:   Hardeman, Joseph Winchester
+OrgNOCPhone:  +1-678-427-5890 
+OrgNOCEmail:  jhardeman@cirracore.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/JWH203-ARIN
+
+OrgAbuseHandle: JWH203-ARIN
+OrgAbuseName:   Hardeman, Joseph Winchester
+OrgAbusePhone:  +1-678-427-5890 
+OrgAbuseEmail:  jhardeman@cirracore.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JWH203-ARIN
+
+OrgTechHandle: DDH10-ARIN
+OrgTechName:   Householder, Dennis Dwayne
+OrgTechPhone:  +1-770-330-3869 
+OrgTechEmail:  dhouseholder@cirracore.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DDH10-ARIN
+
+OrgTechHandle: CNS14-ARIN
+OrgTechName:   Colocube NOC Services
+OrgTechPhone:  +1-770-736-6375 
+OrgTechEmail:  techsupport@cirracore.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CNS14-ARIN
+
+RTechHandle: CNS14-ARIN
+RTechName:   Colocube NOC Services
+RTechPhone:  +1-770-335-6321 
+RTechEmail:  techsupport@cirracore.com
+RTechRef:    http://whois.arin.net/rest/poc/CNS14-ARIN
+
+RNOCHandle: CNS14-ARIN
+RNOCName:   Colocube NOC Services
+RNOCPhone:  +1-770-335-6321 
+RNOCEmail:  techsupport@cirracore.com
+RNOCRef:    http://whois.arin.net/rest/poc/CNS14-ARIN
+
+RAbuseHandle: CNS14-ARIN
+RAbuseName:   Colocube NOC Services
+RAbusePhone:  +1-770-335-6321 
+RAbuseEmail:  techsupport@cirracore.com
+RAbuseRef:    http://whois.arin.net/rest/poc/CNS14-ARIN
+
+NetRange:       64.250.176.0 - 64.250.191.255
+CIDR:           64.250.176.0/20
+NetName:        CIRRACORE-NA
+NetHandle:      NET-64-250-176-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS46691
+Organization:   Cirracore, LLC (COLOC-5)
+RegDate:        2009-09-25
+Updated:        2012-03-02
+Comment:        http://www.cirracore.com
+Ref:            http://whois.arin.net/rest/net/NET-64-250-176-0-1
+
+OrgName:        Cirracore, LLC
+OrgId:          COLOC-5
+Address:        180 Peachtree St.
+Address:        6th Floor
+City:           ATLANTA
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        2008-10-09
+Updated:        2014-06-17
+Comment:        http://www.cirracore.com
+Ref:            http://whois.arin.net/rest/org/COLOC-5
+
+ReferralServer:  rwhois://rwhois.cirracore.com:4321
+
+OrgAbuseHandle: DDH10-ARIN
+OrgAbuseName:   Householder, Dennis Dwayne
+OrgAbusePhone:  +1-770-330-3869 
+OrgAbuseEmail:  dhouseholder@cirracore.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DDH10-ARIN
+
+OrgNOCHandle: DDH10-ARIN
+OrgNOCName:   Householder, Dennis Dwayne
+OrgNOCPhone:  +1-770-330-3869 
+OrgNOCEmail:  dhouseholder@cirracore.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/DDH10-ARIN
+
+OrgNOCHandle: JWH203-ARIN
+OrgNOCName:   Hardeman, Joseph Winchester
+OrgNOCPhone:  +1-678-427-5890 
+OrgNOCEmail:  jhardeman@cirracore.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/JWH203-ARIN
+
+OrgAbuseHandle: JWH203-ARIN
+OrgAbuseName:   Hardeman, Joseph Winchester
+OrgAbusePhone:  +1-678-427-5890 
+OrgAbuseEmail:  jhardeman@cirracore.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JWH203-ARIN
+
+OrgTechHandle: DDH10-ARIN
+OrgTechName:   Householder, Dennis Dwayne
+OrgTechPhone:  +1-770-330-3869 
+OrgTechEmail:  dhouseholder@cirracore.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DDH10-ARIN
+
+OrgTechHandle: CNS14-ARIN
+OrgTechName:   Colocube NOC Services
+OrgTechPhone:  +1-770-335-6321 
+OrgTechEmail:  techsupport@cirracore.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CNS14-ARIN
+
+RTechHandle: CNS14-ARIN
+RTechName:   Colocube NOC Services
+RTechPhone:  +1-770-335-6321 
+RTechEmail:  techsupport@cirracore.com
+RTechRef:    http://whois.arin.net/rest/poc/CNS14-ARIN
+
+RNOCHandle: CNS14-ARIN
+RNOCName:   Colocube NOC Services
+RNOCPhone:  +1-770-335-6321 
+RNOCEmail:  techsupport@cirracore.com
+RNOCRef:    http://whois.arin.net/rest/poc/CNS14-ARIN
+
+RAbuseHandle: CNS14-ARIN
+RAbuseName:   Colocube NOC Services
+RAbusePhone:  +1-770-335-6321 
+RAbuseEmail:  techsupport@cirracore.com
+RAbuseRef:    http://whois.arin.net/rest/poc/CNS14-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Yahoo! Inc.</registrant>
+    <registration>
+      <created>2006-10-09</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.71.40.0 - 208.71.47.255
+CIDR:           208.71.40.0/21
+NetName:        RM-YHOO-1
+NetHandle:      NET-208-71-40-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS36839, AS25973, AS19571, AS10310
+Organization:   Yahoo! Inc. (YHOO)
+RegDate:        2006-10-09
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-208-71-40-0-1
+
+OrgName:        Yahoo! Inc.
+OrgId:          YHOO
+Address:        701 First Ave
+City:           Sunnyvale
+StateProv:      CA
+PostalCode:     94089
+Country:        US
+RegDate:        2000-10-23
+Updated:        2013-04-02
+Ref:            http://whois.arin.net/rest/org/YHOO
+
+OrgTechHandle: NA258-ARIN
+OrgTechName:   Netblock Admin
+OrgTechPhone:  +1-408-349-3300 
+OrgTechEmail:  netblockadmin@yahoo-inc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NA258-ARIN
+
+OrgAbuseHandle: NETWO5978-ARIN
+OrgAbuseName:   Network Abuse
+OrgAbusePhone:  +1-408-349-3300 
+OrgAbuseEmail:  abuse@yahoo-inc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO5978-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

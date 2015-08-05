@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>HostDime.com, Inc.</registrant>
+    <registration>
+      <created>2006-05-18</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.7.192.0 - 66.7.223.255
+CIDR:           66.7.192.0/19
+NetName:        DIMECNET
+NetHandle:      NET-66-7-192-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   HostDime.com, Inc. (DIMEN-6)
+RegDate:        2006-05-18
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-66-7-192-0-1
+
+OrgName:        HostDime.com, Inc.
+OrgId:          DIMEN-6
+Address:        2603 Challenger Tech CT
+Address:        Suite 140
+City:           Orlando
+StateProv:      FL
+PostalCode:     32826
+Country:        US
+RegDate:        2004-06-30
+Updated:        2014-05-13
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.dimenoc.com port 4321
+Ref:            http://whois.arin.net/rest/org/DIMEN-6
+
+ReferralServer:  rwhois://rwhois.dimenoc.com:4321
+
+OrgTechHandle: NETWO742-ARIN
+OrgTechName:   Network Engineers
+OrgTechPhone:  407-756-1126 
+OrgTechEmail:  network@dimenoc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO742-ARIN
+
+OrgAbuseHandle: ABUSE796-ARIN
+OrgAbuseName:   Abuse Group
+OrgAbusePhone:  +1-407-756-1126 
+OrgAbuseEmail:  abuse@dimenoc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE796-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

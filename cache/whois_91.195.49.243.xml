@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>mobile.international GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '91.195.48.0 - 91.195.49.255' is 'auftrag@nic.telekom.de'
+
+inetnum:        91.195.48.0 - 91.195.49.255
+netname:        MOBILE-DE
+descr:          Mobile.international GmbH
+country:        DE
+org:            ORG-MOB1-RIPE
+admin-c:        NOC90-RIPE
+tech-c:         NOC90-RIPE
+status:         ASSIGNED PI
+notify:         noc@team.mobile.de
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         MOBILE-MNT
+mnt-by:         ECG-MNT
+mnt-routes:     MOBILE-MNT
+mnt-domains:    MOBILE-MNT
+changed:        hostmaster@ripe.net 20070823
+changed:        fdudek@team.mobile.de 20091029
+changed:        hostmaster@ripe.net 20110203
+created:        2007-08-23T13:29:29Z
+last-modified:  2015-05-05T02:08:27Z
+source:         RIPE
+sponsoring-org: ORG-DTA2-RIPE
+
+organisation:   ORG-MOB1-RIPE
+org-name:       mobile.international GmbH
+org-type:       OTHER
+address:        Germany
+e-mail:         noc@team.mobile.de
+abuse-c:        AR28374-RIPE
+notify:         noc@team.mobile.de
+admin-c:        NOC90-RIPE
+tech-c:         NOC90-RIPE
+mnt-ref:        MOBILE-MNT
+mnt-by:         MOBILE-MNT
+mnt-by:         ECG-MNT
+changed:        fdudek@team.mobile.de 20091029
+created:        2006-03-20T12:01:34Z
+last-modified:  2014-11-17T22:36:06Z
+source:         RIPE
+
+role:           Mobile.de GmbH Network Operating Center
+address:        Marktplatz 1
+address:        14532 Europarc Dreilinden
+address:        Germany
+phone:          +49 30 81097 135
+e-mail:         noc@team.mobile.de
+admin-c:        FD402-RIPE
+admin-c:        MJ2457-RIPE
+tech-c:         FD402-RIPE
+tech-c:         MJ2457-RIPE
+nic-hdl:        NOC90-RIPE
+mnt-by:         MOBILE-MNT
+mnt-by:         ECG-MNT
+changed:        fdudek@team.mobile.de 20091102
+created:        2006-03-28T13:17:53Z
+last-modified:  2011-01-13T12:38:07Z
+source:         RIPE
+
+route:          91.195.48.0/23
+descr:          eCG
+origin:         AS29454
+mnt-by:         MOBILE-MNT
+mnt-by:         ECG-MNT
+created:        2011-02-04T11:22:21Z
+last-modified:  2013-11-26T10:18:13Z
+source:         RIPE
+changed:        wbont@ebay.com 20131126
+
+route:          91.195.48.0/23
+descr:          eCG
+origin:         AS41552
+mnt-lower:      ECG-MNT
+mnt-routes:     ECG-MNT
+mnt-by:         ECG-MNT
+changed:        maelmans@ebay.com 20131001
+created:        2013-10-02T13:06:13Z
+last-modified:  2013-10-02T13:06:13Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

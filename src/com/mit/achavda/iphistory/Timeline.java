@@ -20,6 +20,7 @@ public class Timeline  extends DomainToolsSAX {
 	public Timeline() {
 		super("hosting-history");
 		iplookup = new IPLookup();
+		iplookup.useFreeAPI = false;
 		try {
 			writer = new PrintWriter(Main.OUTPUT_PATH + "timeline.csv");
 		} catch (IOException e) {

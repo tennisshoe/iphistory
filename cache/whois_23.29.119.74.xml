@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Wablecom Incero LLC</registrant>
+    <registration>
+      <created>2012-03-16</created>
+      <updated>2012-03-16</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       23.29.112.0 - 23.29.127.255
+CIDR:           23.29.112.0/20
+NetName:        INCERO
+NetHandle:      NET-23-29-112-0-1
+Parent:         NET23 (NET-23-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS174, AS13354
+Organization:   Incero LLC (IL-38)
+RegDate:        2012-03-16
+Updated:        2012-03-16
+Comment:        http://www.Incero.com
+Ref:            http://whois.arin.net/rest/net/NET-23-29-112-0-1
+
+OrgName:        Incero LLC
+OrgId:          IL-38
+Address:        5555 N LAMAR, STE L-121
+City:           AUSTIN
+StateProv:      TX
+PostalCode:     78751
+Country:        US
+RegDate:        2012-02-16
+Updated:        2013-12-05
+Ref:            http://whois.arin.net/rest/org/IL-38
+
+ReferralServer:  rwhois://166.78.186.152:4321
+
+OrgAbuseHandle: NONO-ARIN
+OrgAbuseName:   Network Operations, Network Operations
+OrgAbusePhone:  +1-512-394-8803 
+OrgAbuseEmail:  abuse@inceronetwork.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NONO-ARIN
+
+OrgTechHandle: NONO-ARIN
+OrgTechName:   Network Operations, Network Operations
+OrgTechPhone:  +1-512-394-8803 
+OrgTechEmail:  abuse@inceronetwork.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NONO-ARIN
+
+OrgNOCHandle: NONO-ARIN
+OrgNOCName:   Network Operations, Network Operations
+OrgNOCPhone:  +1-512-394-8803 
+OrgNOCEmail:  abuse@inceronetwork.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NONO-ARIN
+
+NetRange:       23.29.119.72 - 23.29.119.79
+CIDR:           23.29.119.72/29
+NetName:        INCERONETWORK-COM
+NetHandle:      NET-23-29-119-72-1
+Parent:         INCERO (NET-23-29-112-0-1)
+NetType:        Reassigned
+OriginAS:       AS54540
+Customer:       Wablecom Incero LLC (C05776862)
+RegDate:        2015-06-18
+Updated:        2015-06-18
+Ref:            http://whois.arin.net/rest/net/NET-23-29-119-72-1
+
+CustName:       Wablecom Incero LLC
+Address:        8600 Harry Hines Ste 200
+City:           Dallas
+StateProv:      TX
+PostalCode:     75235
+Country:        US
+RegDate:        2015-06-18
+Updated:        2015-06-18
+Ref:            http://whois.arin.net/rest/customer/C05776862
+
+OrgAbuseHandle: NONO-ARIN
+OrgAbuseName:   Network Operations, Network Operations
+OrgAbusePhone:  +1-512-394-8803 
+OrgAbuseEmail:  abuse@inceronetwork.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NONO-ARIN
+
+OrgTechHandle: NONO-ARIN
+OrgTechName:   Network Operations, Network Operations
+OrgTechPhone:  +1-512-394-8803 
+OrgTechEmail:  abuse@inceronetwork.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NONO-ARIN
+
+OrgNOCHandle: NONO-ARIN
+OrgNOCName:   Network Operations, Network Operations
+OrgNOCPhone:  +1-512-394-8803 
+OrgNOCEmail:  abuse@inceronetwork.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NONO-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

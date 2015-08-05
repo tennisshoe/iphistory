@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>William Hill Network Services</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '95.131.186.0 - 95.131.186.63' is 'networkservices@williamhill.co.uk'
+
+inetnum:        95.131.186.0 - 95.131.186.63
+netname:        WHORG
+descr:          William Hill Organisation Ltd
+country:        GI
+admin-c:        WHNS1-RIPE
+tech-c:         WHNS1-RIPE
+status:         ASSIGNED PA
+mnt-by:         WHNS1-MNT
+changed:        amcwilliam@williamhill.co.uk 20090414
+created:        2009-04-14T11:57:33Z
+last-modified:  2009-04-16T13:50:29Z
+source:         RIPE
+
+role:           William Hill Network Services
+abuse-mailbox:  networkservices@williamhill.co.uk
+address:        Infrastructure Services 2 City Walk Sweet Street Leeds LS11 9AR
+mnt-by:         WHNS1-MNT
+tech-c:         RC7763-RIPE
+admin-c:        RC7763-RIPE
+e-mail:         networkservices@williamhill.co.uk
+admin-c:        AM15087-RIPE
+tech-c:         AM15087-RIPE
+nic-hdl:        WHNS1-RIPE
+changed:        amcwilliam@williamhill.co.uk 20101108
+created:        2009-04-01T12:48:23Z
+last-modified:  2013-06-18T12:46:00Z
+source:         RIPE
+
+route:          95.131.186.0/24
+descr:          William Hill Organisation Ltd
+origin:         AS49061
+mnt-by:         WHNS1-MNT
+changed:        amcwilliam@williamhill.co.uk 20090414
+created:        2009-04-14T12:00:28Z
+last-modified:  2009-04-14T12:00:28Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Guardian Life Insurance Co.</registrant>
+    <registration>
+      <created>2005-03-09</created>
+      <updated>2005-03-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       63.66.47.0 - 63.66.47.255
+CIDR:           63.66.47.0/24
+NetName:        UU-63-66-47
+NetHandle:      NET-63-66-47-0-1
+Parent:         UUNET63 (NET-63-64-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Guardian Life Insurance Co. (GLI-14)
+RegDate:        2005-03-09
+Updated:        2005-03-09
+Comment:        Addresses within this block are non-portable.
+Ref:            http://whois.arin.net/rest/net/NET-63-66-47-0-1
+
+OrgName:        Guardian Life Insurance Co.
+OrgId:          GLI-14
+Address:        3900 Burgess Place
+Address:        1st floor
+Address:        Telco Room
+City:           Bethlehem
+StateProv:      PA
+PostalCode:     18002
+Country:        US
+RegDate:        2005-03-01
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/GLI-14
+
+OrgAbuseHandle: MZE2-ARIN
+OrgAbuseName:   Zelios, Mark 
+OrgAbusePhone:  +1-610-807-6359 
+OrgAbuseEmail:  mzelios@glic.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MZE2-ARIN
+
+OrgTechHandle: MZE2-ARIN
+OrgTechName:   Zelios, Mark 
+OrgTechPhone:  +1-610-807-6359 
+OrgTechEmail:  mzelios@glic.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MZE2-ARIN
+
+NetRange:       63.64.0.0 - 63.127.255.255
+CIDR:           63.64.0.0/10
+NetName:        UUNET63
+NetHandle:      NET-63-64-0-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+RegDate:        1999-01-22
+Updated:        2012-03-20
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-63-64-0-0-1
+
+OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+OrgId:          MCICS
+Address:        22001 Loudoun County Pkwy
+City:           Ashburn
+StateProv:      VA
+PostalCode:     20147
+Country:        US
+RegDate:        2006-05-30
+Updated:        2014-06-23
+Ref:            http://whois.arin.net/rest/org/MCICS
+
+OrgNOCHandle: OA12-ARIN
+OrgNOCName:   UUnet Technologies, Inc., Technologies 
+OrgNOCPhone:  +1-800-900-0241 
+OrgNOCEmail:  help4u@verizonbusiness.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/OA12-ARIN
+
+OrgTechHandle: SWIPP9-ARIN
+OrgTechName:   SWIPPER
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP9-ARIN
+
+OrgTechHandle: SWIPP-ARIN
+OrgTechName:   swipper
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizonbusiness.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP-ARIN
+
+OrgAbuseHandle: ABUSE3-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-800-900-0241 
+OrgAbuseEmail:  abuse-mail@verizonbusiness.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3-ARIN
+
+RTechHandle: OA12-ARIN
+RTechName:   UUnet Technologies, Inc., Technologies 
+RTechPhone:  +1-800-900-0241 
+RTechEmail:  help4u@verizonbusiness.com
+RTechRef:    http://whois.arin.net/rest/poc/OA12-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

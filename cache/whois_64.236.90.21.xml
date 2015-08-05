@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ADTECH AG</registrant>
+    <registration>
+      <created>2009-10-09</created>
+      <updated>2009-10-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.236.90.0 - 64.236.90.31
+CIDR:           64.236.90.0/27
+NetName:        ADTECHHQ-EGRESS
+NetHandle:      NET-64-236-90-0-1
+Parent:         ATDN-ISP (NET-64-236-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS1668
+Customer:       ADTECH AG (C02336088)
+RegDate:        2009-10-09
+Updated:        2009-10-09
+Ref:            http://whois.arin.net/rest/net/NET-64-236-90-0-1
+
+CustName:       ADTECH AG
+Address:        Robert-Bosch-Str. 32
+City:           Dreieich
+StateProv:      
+PostalCode:     63303
+Country:        DE
+RegDate:        2009-10-09
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02336088
+
+OrgTechHandle: AOL-NOC-ARIN
+OrgTechName:   America Online Inc
+OrgTechPhone:  +1-703-265-4462 
+OrgTechEmail:  domains@aol.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN
+
+OrgAbuseHandle: AOL382-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-703-265-4670 
+OrgAbuseEmail:  abuse@aol.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AOL382-ARIN
+
+OrgNOCHandle: AOL236-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-703-265-4670 
+OrgNOCEmail:  noc@aol.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/AOL236-ARIN
+
+RTechHandle: AOL-NOC-ARIN
+RTechName:   America Online Inc
+RTechPhone:  +1-703-265-4462 
+RTechEmail:  domains@aol.net
+RTechRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN
+
+NetRange:       64.236.0.0 - 64.236.255.255
+CIDR:           64.236.0.0/16
+NetName:        ATDN-ISP
+NetHandle:      NET-64-236-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   AOL Transit Data Network (ATDN)
+RegDate:        2000-02-02
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-236-0-0-1
+
+OrgName:        AOL Transit Data Network
+OrgId:          ATDN
+Address:        22000 AOL Way
+City:           Dulles
+StateProv:      VA
+PostalCode:     20166
+Country:        US
+RegDate:        2000-02-02
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/ATDN
+
+OrgTechHandle: AOL-NOC-ARIN
+OrgTechName:   America Online Inc
+OrgTechPhone:  +1-703-265-4462 
+OrgTechEmail:  domains@aol.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN
+
+OrgAbuseHandle: AOL382-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-703-265-4670 
+OrgAbuseEmail:  abuse@aol.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AOL382-ARIN
+
+OrgNOCHandle: AOL236-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-703-265-4670 
+OrgNOCEmail:  noc@aol.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/AOL236-ARIN
+
+RTechHandle: AOL-NOC-ARIN
+RTechName:   America Online Inc
+RTechPhone:  +1-703-265-4462 
+RTechEmail:  domains@aol.net
+RTechRef:    http://whois.arin.net/rest/poc/AOL-NOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

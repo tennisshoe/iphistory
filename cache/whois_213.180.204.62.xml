@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Yandex LLC Network Operations</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.180.204.0 - 213.180.204.255' is 'abuse@yandex.ru'
+
+inetnum:        213.180.204.0 - 213.180.204.255
+netname:        YANDEX-213-180-204
+status:         ASSIGNED PA
+country:        RU
+descr:          Yandex enterprise network
+admin-c:        YNDX1-RIPE
+tech-c:         YNDX1-RIPE
+remarks:        INFRA-AW
+mnt-by:         YANDEX-MNT
+changed:        abuse@yandex.ru 20140326
+created:        2009-11-16T14:10:55Z
+last-modified:  2014-03-26T08:38:49Z
+source:         RIPE
+
+role:           Yandex LLC Network Operations
+address:        Yandex LLC
+address:        16, Leo Tolstoy St.
+address:        119021
+address:        Moscow
+address:        Russian Federation
+phone:          +7 495 739 7000
+fax-no:         +7 495 739 7070
+e-mail:         noc@yandex.net
+remarks:        trouble:      ------------------------------------------------------
+remarks:        trouble:      Points of contact for Yandex LLC Network Operations
+remarks:        trouble:      ------------------------------------------------------
+remarks:        trouble:      Routing and peering issues:  noc@yandex.net
+remarks:        trouble:      SPAM issues:                 abuse@yandex.ru
+remarks:        trouble:      Network security issues:     abuse@yandex.ru
+remarks:        trouble:      Mail issues:                 postmaster@yandex.ru
+remarks:        trouble:      General information:         info@yandex.ru
+remarks:        trouble:      ------------------------------------------------------
+admin-c:        PGR777-RIPE
+admin-c:        TVB11-RIPE
+tech-c:         EM3673-RIPE
+tech-c:         AUR2-RIPE
+nic-hdl:        YNDX1-RIPE
+mnt-by:         YANDEX-MNT
+created:        2002-06-07T05:35:50Z
+last-modified:  2013-09-03T08:16:13Z
+source:         RIPE
+changed:        ya-lilo@yandex-team.ru 20130903
+abuse-mailbox:  abuse@yandex.ru
+
+route:          213.180.204.0/24
+descr:          Yandex enterprise network
+origin:         AS13238
+mnt-by:         YANDEX-MNT
+changed:        wawa@yandex-team.ru 20050913
+created:        2005-09-13T13:55:58Z
+last-modified:  2005-09-13T13:55:58Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

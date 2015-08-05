@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Corporation Service Company</registrant>
+    <registration>
+      <created>1993-06-24</created>
+      <updated>2012-04-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       165.160.0.0 - 165.160.255.255
+CIDR:           165.160.0.0/16
+NetName:        CSCNET
+NetHandle:      NET-165-160-0-0-1
+Parent:         NET165 (NET-165-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Corporation Service Company (CORPO-9-Z)
+RegDate:        1993-06-24
+Updated:        2012-04-02
+Ref:            http://whois.arin.net/rest/net/NET-165-160-0-0-1
+
+OrgName:        Corporation Service Company
+OrgId:          CORPO-9-Z
+Address:        2711 Centerville Rd
+City:           Wilmington
+StateProv:      DE
+PostalCode:     19808
+Country:        US
+RegDate:        2008-01-11
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/CORPO-9-Z
+
+OrgAbuseHandle: ARINT19-ARIN
+OrgAbuseName:   ArinTech
+OrgAbusePhone:  +1-302-636-5400 
+OrgAbuseEmail:  arintech@cscinfo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ARINT19-ARIN
+
+OrgTechHandle: ARINT19-ARIN
+OrgTechName:   ArinTech
+OrgTechPhone:  +1-302-636-5400 
+OrgTechEmail:  arintech@cscinfo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ARINT19-ARIN
+
+RTechHandle: ARINT19-ARIN
+RTechName:   ArinTech
+RTechPhone:  +1-302-636-5400 
+RTechEmail:  arintech@cscinfo.com
+RTechRef:    http://whois.arin.net/rest/poc/ARINT19-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

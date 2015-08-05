@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NOC4Hosts Inc.</registrant>
+    <registration>
+      <created>2008-12-16</created>
+      <updated>2012-06-15</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       96.31.64.0 - 96.31.95.255
+CIDR:           96.31.64.0/19
+NetName:        NOC4HOSTS1
+NetHandle:      NET-96-31-64-0-1
+Parent:         NET96 (NET-96-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   NOC4Hosts Inc. (NOC4H)
+RegDate:        2008-12-16
+Updated:        2012-06-15
+Ref:            http://whois.arin.net/rest/net/NET-96-31-64-0-1
+
+OrgName:        NOC4Hosts Inc.
+OrgId:          NOC4H
+Address:        8010 Woodland Center Blvd
+Address:        Suite 700
+City:           Tampa
+StateProv:      FL
+PostalCode:     33614
+Country:        US
+RegDate:        2004-04-26
+Updated:        2012-06-15
+Ref:            http://whois.arin.net/rest/org/NOC4H
+
+ReferralServer:  rwhois://manage.hivelocity.net:4321
+
+OrgTechHandle: IPADM158-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-888-869-4678 
+OrgTechEmail:  noc@noc4hosts.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM158-ARIN
+
+OrgAbuseHandle: HNAA-ARIN
+OrgAbuseName:   HIvelocity Network Abuse Administrator
+OrgAbusePhone:  +1-888-869-4678 
+OrgAbuseEmail:  abuse@hivelocity.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HNAA-ARIN
+
+RAbuseHandle: HNAA-ARIN
+RAbuseName:   HIvelocity Network Abuse Administrator
+RAbusePhone:  +1-888-869-4678 
+RAbuseEmail:  abuse@hivelocity.net
+RAbuseRef:    http://whois.arin.net/rest/poc/HNAA-ARIN
+
+RTechHandle: IPADM158-ARIN
+RTechName:   IP Admin
+RTechPhone:  +1-888-869-4678 
+RTechEmail:  noc@noc4hosts.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM158-ARIN
+
+== Additional Information From rwhois://manage.hivelocity.net:4321 ==
+
+%rwhois V-1.0,V-1.5:00090h:00 manage.hivelocity.net (Ubersmith RWhois Server V-2.4.0)
+autharea=96.31.64.0/19
+xautharea=96.31.64.0/19
+network:Class-Name:network
+network:Auth-Area:96.31.64.0/19
+network:ID:NET-36450.96.31.69.170
+network:Network-Name:Secondary Assignment
+network:IP-Network:96.31.69.170
+network:IP-Network-Block:96.31.69.170
+network:Org-Name:Rickford, Ranveer
+network:Street-Address:165 Newport Road
+network:City:Uniondale
+network:State:NY
+network:Postal-Code:11553
+network:Country-Code:US
+network:Tech-Contact:MAINT-36450.96.31.69.170
+network:Created:20111117152220000
+network:Updated:20141124154556000
+network:Updated-By:ipAdmin@hivelocity.net
+contact:POC-Name:Network Administrator
+contact:POC-Email:ipAdmin@hivelocity.net
+contact:POC-Phone:888-869-4678
+contact:Tech-Name:Network Administrator
+contact:Tech-Email:ipAdmin@hivelocity.net
+contact:Tech-Phone:888-869-4678
+contact:Abuse-Name:Hivelocity Abuse Department
+contact:Abuse-Email:abuse@hivelocity.net
+contact:Abuse-Phone:888-869-4678
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

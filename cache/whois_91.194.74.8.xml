@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Every City Limited</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '91.194.74.0 - 91.194.75.255' is 'ripe@everycity.co.uk'
+
+inetnum:        91.194.74.0 - 91.194.75.255
+netname:        ECMANAGED00
+descr:          Every City Limited
+country:        GB
+org:            ORG-ECL12-RIPE
+admin-c:        ALEC1-RIPE
+tech-c:         ALEC1-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         EVERYCITY-MNT
+mnt-routes:     EVERYCITY-MNT
+mnt-domains:    EVERYCITY-MNT
+changed:        ripe@everycity.co.uk 20090409
+created:        2007-06-07T09:59:28Z
+last-modified:  2015-05-05T02:02:32Z
+source:         RIPE
+
+organisation:   ORG-ECL12-RIPE
+org-name:       Every City Limited
+org-type:       LIR
+address:        Studio 18 Bluelion Place 237 Long Lane
+address:        SE1 4PU
+address:        London
+address:        UNITED KINGDOM
+phone:          +442071832800
+fax-no:         +442071832802
+e-mail:         ripe@everycity.co.uk
+abuse-c:        AR17638-RIPE
+admin-c:        DG2688-RIPE
+admin-c:        ALEC1-RIPE
+mnt-ref:        EVERYCITY-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2009-03-03T11:42:20Z
+changed:        bitbucket@ripe.net 20150618
+last-modified:  2015-06-18T07:56:54Z
+source:         RIPE
+
+person:         Alasdair Lumsden
+address:        Studio 18 Bluelion Place 237 Long Lane
+mnt-by:         EVERYCITY-MNT
+phone:          +44 207 1832 800
+nic-hdl:        ALEC1-RIPE
+changed:        am@everycity.co.uk 20090313
+created:        2009-03-13T18:26:49Z
+last-modified:  2010-11-08T15:52:31Z
+source:         RIPE
+
+route:          91.194.74.0/23
+descr:          Every City Limited
+origin:         AS43219
+mnt-by:         EVERYCITY-MNT
+created:        2007-06-29T10:59:44Z
+last-modified:  2009-04-09T14:13:48Z
+source:         RIPE
+changed:        al@everycity.co.uk 20090409</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Phanfare</registrant>
+    <registration>
+      <created>2004-05-03</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.18.64.0 - 209.18.127.255
+CIDR:           209.18.64.0/18
+NetName:        DATAPIPE-NETBLK6
+NetHandle:      NET-209-18-64-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   DataPipe, Inc. (DATAPI-2)
+RegDate:        2004-05-03
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-209-18-64-0-1
+
+OrgName:        DataPipe, Inc.
+OrgId:          DATAPI-2
+Address:        10 Exchange Place, Suite 1200
+City:           Jersey City
+StateProv:      NJ
+PostalCode:     07302
+Country:        US
+RegDate:        2001-08-21
+Updated:        2013-02-27
+Ref:            http://whois.arin.net/rest/org/DATAPI-2
+
+OrgTechHandle: DATAP3-ARIN
+OrgTechName:   DataPipe Swipper
+OrgTechPhone:  +1-201-792-1918 
+OrgTechEmail:  arin@datapipe.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DATAP3-ARIN
+
+OrgAbuseHandle: DATAP-ARIN
+OrgAbuseName:   DataPipe Abuse
+OrgAbusePhone:  +1-201-792-1918 
+OrgAbuseEmail:  abuse@datapipe.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DATAP-ARIN
+
+RAbuseHandle: DATAP-ARIN
+RAbuseName:   DataPipe Abuse
+RAbusePhone:  +1-201-792-1918 
+RAbuseEmail:  abuse@datapipe.com
+RAbuseRef:    http://whois.arin.net/rest/poc/DATAP-ARIN
+
+RTechHandle: DH1029-ARIN
+RTechName:   DataPipe Hostmaster
+RTechPhone:  +1-201-792-1918 
+RTechEmail:  hostmaster@datapipe.com
+RTechRef:    http://whois.arin.net/rest/poc/DH1029-ARIN
+
+NetRange:       209.18.73.128 - 209.18.73.191
+CIDR:           209.18.73.128/26
+NetName:        DP-209-18-73-128-1
+NetHandle:      NET-209-18-73-128-1
+Parent:         DATAPIPE-NETBLK6 (NET-209-18-64-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Phanfare (C01134139)
+RegDate:        2005-07-15
+Updated:        2005-07-15
+Ref:            http://whois.arin.net/rest/net/NET-209-18-73-128-1
+
+CustName:       Phanfare
+Address:        402 Main Street
+City:           Metuchen
+StateProv:      NJ
+PostalCode:     08840
+Country:        US
+RegDate:        2005-07-15
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01134139
+
+OrgTechHandle: DATAP3-ARIN
+OrgTechName:   DataPipe Swipper
+OrgTechPhone:  +1-201-792-1918 
+OrgTechEmail:  arin@datapipe.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DATAP3-ARIN
+
+OrgAbuseHandle: DATAP-ARIN
+OrgAbuseName:   DataPipe Abuse
+OrgAbusePhone:  +1-201-792-1918 
+OrgAbuseEmail:  abuse@datapipe.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DATAP-ARIN
+
+RAbuseHandle: DATAP-ARIN
+RAbuseName:   DataPipe Abuse
+RAbusePhone:  +1-201-792-1918 
+RAbuseEmail:  abuse@datapipe.com
+RAbuseRef:    http://whois.arin.net/rest/poc/DATAP-ARIN
+
+RTechHandle: DH1029-ARIN
+RTechName:   DataPipe Hostmaster
+RTechPhone:  +1-201-792-1918 
+RTechEmail:  hostmaster@datapipe.com
+RTechRef:    http://whois.arin.net/rest/poc/DH1029-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

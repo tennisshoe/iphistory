@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TELUS Communications Inc.</registrant>
+    <registration>
+      <created>1995-04-08</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       205.206.0.0 - 205.206.255.255
+CIDR:           205.206.0.0/16
+NetName:        TELUS-205-206-0-0
+NetHandle:      NET-205-206-0-0-1
+Parent:         NET205 (NET-205-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   TELUS Communications Inc. (TACE)
+RegDate:        1995-04-08
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-205-206-0-0-1
+
+OrgName:        TELUS Communications Inc.
+OrgId:          TACE
+Address:        10 - 3777 Kingsway
+City:           Burnaby
+StateProv:      BC
+PostalCode:     V5H-3Z7
+Country:        CA
+RegDate:        
+Updated:        2011-10-25
+Ref:            http://whois.arin.net/rest/org/TACE
+
+ReferralServer:  rwhois://rwhois.telus.net:4321
+
+OrgAbuseHandle: AAT-ARIN
+OrgAbuseName:   Abuse at TELUS
+OrgAbusePhone:  +1-877-945-8220 
+OrgAbuseEmail:  abuse@telus.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AAT-ARIN
+
+OrgTechHandle: TBOTP-ARIN
+OrgTechName:   TELUS BC ORG TECH POC
+OrgTechPhone:  +1-877-310-8324 
+OrgTechEmail:  IPadmin@telus.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TBOTP-ARIN
+
+RTechHandle: PSINET-CA-ARIN
+RTechName:   TELUS IP Address Administration
+RTechPhone:  +1-877-310-8324 
+RTechEmail:  IPAdmin@telus.com
+RTechRef:    http://whois.arin.net/rest/poc/PSINET-CA-ARIN
+
+== Additional Information From rwhois://rwhois.telus.net:4321 ==
+
+%rwhois V-1.5:001ab7:00 rwhois.telus.net (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:100123577937236773.205.206.0.0/16
+network:Auth-Area:205.206.0.0/16
+network:Network-Name:Internal
+network:IP-Network:205.206.208.0/22
+network:Org-Name:Internal
+network:Street-Address:3777 Kingsway
+network:City:Burnaby
+network:State-Province:BC
+network:Country-Code:CA
+network:Postal-Code:V5H 3Z7
+network:Admin-Contact:hostmaster@telus.com
+network:Abuse-Contact:abuse@telus.com (1-604-444-5791)
+network:Tech-Contact:ipadmin@telus.com
+network:Created:2004-01-06 (12:00:00)
+network:Updated:2010-01-28 (12:00:00)
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Corporate Colocation Inc.</registrant>
+    <registration>
+      <created>2010-07-29</created>
+      <updated>2012-09-22</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       173.247.224.0 - 173.247.255.255
+CIDR:           173.247.224.0/19
+NetName:        CORPCOLO-NET04
+NetHandle:      NET-173-247-224-0-1
+Parent:         NET173 (NET-173-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS17139
+Organization:   Corporate Colocation Inc. (CORPO-6)
+RegDate:        2010-07-29
+Updated:        2012-09-22
+Ref:            http://whois.arin.net/rest/net/NET-173-247-224-0-1
+
+OrgName:        Corporate Colocation Inc.
+OrgId:          CORPO-6
+Address:        563 W main
+City:           LOS ANGELES
+StateProv:      CA
+PostalCode:     90038
+Country:        US
+RegDate:        2003-11-11
+Updated:        2015-05-26
+Ref:            http://whois.arin.net/rest/org/CORPO-6
+
+OrgTechHandle: NOC1601-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-323-350-5596 
+OrgTechEmail:  victor@corporatecolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+OrgAbuseHandle: ABUSE657-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-888-742-4147 
+OrgAbuseEmail:  abuse@corporatecolo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE657-ARIN
+
+RAbuseHandle: NOC1601-ARIN
+RAbuseName:   Network Operations Center
+RAbusePhone:  +1-323-350-5596 
+RAbuseEmail:  victor@corporatecolo.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+RNOCHandle: NOC1601-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-323-350-5596 
+RNOCEmail:  victor@corporatecolo.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+RTechHandle: NOC1601-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-323-350-5596 
+RTechEmail:  victor@corporatecolo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+NetRange:       173.247.248.0 - 173.247.255.255
+CIDR:           173.247.248.0/21
+NetName:        CORPCOLO-NET05-INMOTION-21
+NetHandle:      NET-173-247-248-0-1
+Parent:         CORPCOLO-NET04 (NET-173-247-224-0-1)
+NetType:        Reallocated
+OriginAS:       AS17139
+Organization:   InMotion Hosting (INMOT)
+RegDate:        2011-02-11
+Updated:        2011-02-11
+Ref:            http://whois.arin.net/rest/net/NET-173-247-248-0-1
+
+OrgName:        InMotion Hosting
+OrgId:          INMOT
+Address:        2800 28th St.
+Address:        Suite 321
+City:           Santa Monica
+StateProv:      CA
+PostalCode:     90405
+Country:        US
+RegDate:        2004-06-14
+Updated:        2004-06-16
+Ref:            http://whois.arin.net/rest/org/INMOT
+
+OrgTechHandle: TRO37-ARIN
+OrgTechName:   Robinson, Todd 
+OrgTechPhone:  +1-323-864-9049 
+OrgTechEmail:  todd@inmotionhosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TRO37-ARIN
+
+OrgAbuseHandle: ABUSE659-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-323-864-9049 
+OrgAbuseEmail:  abuse@inmotionhosting.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE659-ARIN
+
+RTechHandle: WGW17-ARIN
+RTechName:   Wilkins, William Golden
+RTechPhone:  +1-805-551-9220 
+RTechEmail:  wgw@integral-identity.com
+RTechRef:    http://whois.arin.net/rest/poc/WGW17-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

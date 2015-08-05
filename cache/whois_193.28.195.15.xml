@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ProSiebenSat.1 Produktion GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '193.28.192.0 - 193.28.199.255' is 'abuse@P7S1Produktion.de'
+
+inetnum:        193.28.192.0 - 193.28.199.255
+netname:        PSP-LAN
+descr:          ProSiebenSat.1 Produktion GmbH
+descr:          D-85774 Unterfoehring
+country:        DE
+org:            ORG-SA19-RIPE
+admin-c:        PSPN-RIPE
+tech-c:         PSPN-RIPE
+status:         ASSIGNED PI
+mnt-by:         PSP-MNT
+mnt-by:         RIPE-NCC-END-MNT
+mnt-domains:    PSP-MNT
+changed:        claus.reymers@att.com 20110228
+changed:        harald.mayr@p7s1produktion.de 20120215
+changed:        harald.mayr@p7s1produktion.de 20120220
+changed:        Harald.Mayr@P7S1Produktion.de 20140702
+created:        2002-02-22T05:05:42Z
+last-modified:  2015-05-05T02:05:02Z
+source:         RIPE
+
+organisation:   ORG-SA19-RIPE
+org-name:       ProSiebenSat.1 Produktion GmbH
+org-type:       LIR
+address:        ProSiebenSat.1 Produktion GmbH
+address:        Film-, TV- und Multimedia-Produktions GmbH
+address:        Medienallee 7
+address:        85774
+address:        Unterfoehring
+address:        GERMANY
+phone:          +4989950760
+fax-no:         +498995076100
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        PSP-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+tech-c:         PSPN-RIPE
+e-mail:         netzwerk@p7s1produktion.de
+admin-c:        HM3601-RIPE
+admin-c:        RD4121-RIPE
+admin-c:        SK46-RIPE
+abuse-c:        PAH38-RIPE
+changed:        bitbucket@ripe.net 20140731
+created:        2004-04-17T11:12:33Z
+last-modified:  2014-07-31T13:21:02Z
+source:         RIPE
+
+role:           ProSiebenSat.1 Produktion Network Administration
+address:        ProSiebenSat.1 Produktion GmbH
+address:        Film-, TV- und Multimedia-Produktions GmbH
+address:        Medienallee 7
+address:        85774 Unterfoehring
+address:        GERMANY
+phone:          +49 89 9507 60
+fax-no:         +49 89 9507 6100
+e-mail:         Netzwerk@P7S1Produktion.de
+tech-c:         HM3601-RIPE
+tech-c:         SK46-RIPE
+admin-c:        HM3601-RIPE
+admin-c:        SK46-RIPE
+admin-c:        RD4121-RIPE
+nic-hdl:        PSPN-RIPE
+mnt-by:         PSP-MNT
+changed:        Harald.Mayr@P7S1Produktion.de 20140702
+created:        2014-07-02T12:37:42Z
+last-modified:  2014-07-02T12:37:42Z
+source:         RIPE
+
+route:          193.28.192.0/21
+descr:          ProSiebenSat.1 Produktion GmbH
+descr:          D-85774 Unterfoehring
+origin:         AS24786
+notify:         netzwerk@p7s1produktion.de
+mnt-by:         PSP-MNT
+changed:        hostmaster@szm.de 20020523
+changed:        claus.reymers@p7s1produktion.de 20040616
+changed:        harald.mayr@p7s1produktion.de 20120215
+created:        2002-05-23T10:16:08Z
+last-modified:  2012-02-15T07:36:50Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

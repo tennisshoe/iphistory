@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hewlett-Packard Company</registrant>
+    <registration>
+      <created>1988-11-17</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       131.124.0.0 - 131.124.255.255
+CIDR:           131.124.0.0/16
+NetName:        TANDEM-MPD
+NetHandle:      NET-131-124-0-0-1
+Parent:         NET131 (NET-131-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Hewlett-Packard Company (HP)
+RegDate:        1988-11-17
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-131-124-0-0-1
+
+OrgName:        Hewlett-Packard Company
+OrgId:          HP
+Address:        3000 Hanover Street
+City:           Palo Alto
+StateProv:      CA
+PostalCode:     94304
+Country:        US
+RegDate:        
+Updated:        2014-07-23
+Ref:            http://whois.arin.net/rest/org/HP
+
+OrgAbuseHandle: HH15-ORG-ARIN
+OrgAbuseName:   Hewlett-Packard Company
+OrgAbusePhone:  +1-800-524-7638 
+OrgAbuseEmail:  ipaddr@hp.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HH15-ORG-ARIN
+
+OrgTechHandle: HH15-ORG-ARIN
+OrgTechName:   Hewlett-Packard Company
+OrgTechPhone:  +1-800-524-7638 
+OrgTechEmail:  ipaddr@hp.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HH15-ORG-ARIN
+
+RAbuseHandle: NAR-ARIN
+RAbuseName:   Network Abuse Response
+RAbusePhone:  +1-650-857-5120 
+RAbuseEmail:  abuse@hp.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NAR-ARIN
+
+RTechHandle: HH15-ORG-ARIN
+RTechName:   Hewlett-Packard Company
+RTechPhone:  +1-800-524-7638 
+RTechEmail:  ipaddr@hp.com
+RTechRef:    http://whois.arin.net/rest/poc/HH15-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

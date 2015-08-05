@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CloudFlare, Inc.</registrant>
+    <registration>
+      <created>2014-03-28</created>
+      <updated>2014-03-28</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       104.16.0.0 - 104.31.255.255
+CIDR:           104.16.0.0/12
+NetName:        CLOUDFLARENET
+NetHandle:      NET-104-16-0-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS13335
+Organization:   CloudFlare, Inc. (CLOUD14)
+RegDate:        2014-03-28
+Updated:        2014-03-28
+Comment:        https://www.cloudflare.com
+Ref:            http://whois.arin.net/rest/net/NET-104-16-0-0-1
+
+OrgName:        CloudFlare, Inc.
+OrgId:          CLOUD14
+Address:        665 Third Street #207
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2010-07-09
+Updated:        2013-01-04
+Comment:        http://www.cloudflare.com/
+Ref:            http://whois.arin.net/rest/org/CLOUD14
+
+OrgTechHandle: ADMIN2521-ARIN
+OrgTechName:   Admin
+OrgTechPhone:  +1-650-319-8930 
+OrgTechEmail:  admin@cloudflare.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ADMIN2521-ARIN
+
+OrgAbuseHandle: ABUSE2916-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-319-8930 
+OrgAbuseEmail:  abuse@cloudflare.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2916-ARIN
+
+OrgNOCHandle: NOC11962-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-650-319-8930 
+OrgNOCEmail:  noc@cloudflare.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC11962-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

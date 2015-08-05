@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Atos Worldline SAS</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '193.201.76.0 - 193.201.77.255' is 'dl-abuse@worldline.com'
+
+inetnum:        193.201.76.0 - 193.201.77.255
+netname:        NET-ATOSWORLDLINE
+descr:          Atos WorldlineSAS
+country:        FR
+org:            ORG-AOS1-RIPE
+admin-c:        PFR1-RIPE
+admin-c:        PWL3-RIPE
+admin-c:        SKL16-RIPE
+tech-c:         PFR1-RIPE
+tech-c:         PWL3-RIPE
+tech-c:         SKL16-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         AS8677-MNT
+mnt-routes:     AS8677-MNT
+changed:        hostmaster@ripe.net 20020618
+changed:        pierre.westeel-nospam@atosorigin.com 20110202
+changed:        hostmaster@ripe.net 20110302
+changed:        hostmaster@ripe.net 20130221
+changed:        hostmaster@ripe.net 20130322
+created:        2002-06-18T13:15:48Z
+last-modified:  2015-05-05T01:49:27Z
+source:         RIPE
+
+organisation:   ORG-AOS1-RIPE
+org-name:       Atos Worldline SAS
+org-type:       LIR
+address:        Rue de la Pointe
+address:        59113
+address:        SECLIN
+address:        FRANCE
+phone:          +33320607979
+fax-no:         +33320607676
+e-mail:         PierreFrancois.Rudant@atosorigin.com
+admin-c:        SKL16-RIPE
+admin-c:        RR7666-RIPE
+admin-c:        PFR1-RIPE
+admin-c:        PWL3-RIPE
+mnt-ref:        AWL-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+notify:         pierrefrancois.rudant@atosorigin.com
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        AC24742-RIPE
+changed:        bitbucket@ripe.net 20150410
+created:        2004-04-17T11:21:47Z
+last-modified:  2015-04-10T10:44:26Z
+source:         RIPE
+
+person:         Pierre Francois Rudant
+address:        Atos Worldline
+address:        ZI A rue de la Pointe
+address:        59113 SECLIN - FRANCE
+phone:          +33 320 607 979
+e-mail:         PierreFrancois.Rudant@atosorigin.com
+nic-hdl:        PFR1-RIPE
+notify:         PierreFrancois.Rudant@atosorigin.com
+mnt-by:         AWL-MNT
+changed:        PierreFrancois.Rudant@atosorigin.com 20060403
+created:        2001-11-14T15:05:41Z
+last-modified:  2008-01-07T17:30:42Z
+source:         RIPE
+
+person:         Pierre Westeel
+address:        Atos Worldline
+address:        ZI A rue de la pointe
+address:        59113 SECLIN, FRANCE
+e-mail:         dlfr-noc-mutu@atosorigin.com
+notify:         pierre.westeel@atosorigin.com
+mnt-by:         AWL-MNT
+phone:          +33 3 20 60 79 79
+nic-hdl:        PWL3-RIPE
+changed:        no-spam-pierre.westeel@atosorigin.com 20110202
+created:        2009-08-31T13:48:18Z
+last-modified:  2011-02-02T11:13:52Z
+source:         RIPE
+
+person:         Samuel Kling
+address:        ZI a rue de la pointe, 59113 SECLIN, FR
+notify:         samuel.kling@atosorigin.com
+e-mail:         dlfr-noc-mutu@atosorigin.com
+mnt-by:         AWL-MNT
+phone:          +33 3 20 60 79 79
+nic-hdl:        SKL16-RIPE
+changed:        no-spam-pierre.westeel@atosorigin.com 20110202
+created:        2011-02-02T10:28:01Z
+last-modified:  2011-02-02T10:36:27Z
+source:         RIPE
+
+route:          193.201.77.0/24
+descr:          Worldline France hosting
+origin:         AS8677
+mnt-by:         AS8677-MNT
+mnt-by:         AWL-MNT
+changed:        dlfr-aw-peering@worldline.com 20131212
+created:        2006-10-09T15:33:33Z
+last-modified:  2013-12-12T10:50:37Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

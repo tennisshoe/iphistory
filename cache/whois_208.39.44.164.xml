@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Data Return</registrant>
+    <registration>
+      <created>1999-06-25</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.39.0.0 - 208.39.127.255
+CIDR:           208.39.0.0/17
+NetName:        DATARETURN-3BLK
+NetHandle:      NET-208-39-0-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Data Return (DATR)
+RegDate:        1999-06-25
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-208-39-0-0-1
+
+OrgName:        Data Return
+OrgId:          DATR
+Address:        Millennium Center
+Address:        222 W. Las Colinas Blvd.
+Address:        5c. Suite 450
+City:           Irving
+StateProv:      TX
+PostalCode:     75039
+Country:        US
+RegDate:        1998-08-31
+Updated:        2011-06-16
+Ref:            http://whois.arin.net/rest/org/DATR
+
+OrgAbuseHandle: ABUSE676-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-305-328-8000 
+OrgAbuseEmail:  abuse@terremark.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE676-ARIN
+
+OrgTechHandle: SS2510-ARIN
+OrgTechName:   Spaller, Steven 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  sspaller@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SS2510-ARIN
+
+OrgTechHandle: WALLS1-ARIN
+OrgTechName:   Walls, Michael 
+OrgTechPhone:  +1-469-461-9229 
+OrgTechEmail:  mwalls@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WALLS1-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

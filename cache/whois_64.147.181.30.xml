@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>FusionStorm</registrant>
+    <registration>
+      <created>2003-05-13</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.147.160.0 - 64.147.191.255
+CIDR:           64.147.160.0/19
+NetName:        FUSIONSTORM-GNI-2
+NetHandle:      NET-64-147-160-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   FusionStorm (FUSIO-12)
+RegDate:        2003-05-13
+Updated:        2012-02-24
+Comment:        RWHOIS ns1.sfcolocation.com 4321
+Ref:            http://whois.arin.net/rest/net/NET-64-147-160-0-1
+
+OrgName:        FusionStorm
+OrgId:          FUSIO-12
+Address:        3200 Douglas Blvd.
+Address:        Suite 320
+City:           Roseville
+StateProv:      CA
+PostalCode:     95661
+Country:        US
+RegDate:        2006-03-13
+Updated:        2015-06-22
+Comment:        http://www.synoptek.com
+Ref:            http://whois.arin.net/rest/org/FUSIO-12
+
+OrgTechHandle: VIR1-ARIN
+OrgTechName:   VanNostrand III, Rob 
+OrgTechPhone:  +1-208-422-9100 
+OrgTechEmail:  rvannostrand@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/VIR1-ARIN
+
+OrgTechHandle: AKINT-ARIN
+OrgTechName:   Akintade, Olushile 
+OrgTechPhone:  +1-916-563-1426 
+OrgTechEmail:  oakintade@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/AKINT-ARIN
+
+OrgAbuseHandle: NOCFU-ARIN
+OrgAbuseName:   NOC-FUSIONSTORM
+OrgAbusePhone:  +1-916-646-8939 
+OrgAbuseEmail:  service@synoptek.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOCFU-ARIN
+
+OrgNOCHandle: NOCFU-ARIN
+OrgNOCName:   NOC-FUSIONSTORM
+OrgNOCPhone:  +1-916-646-8939 
+OrgNOCEmail:  service@synoptek.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCFU-ARIN
+
+OrgTechHandle: MARTE52-ARIN
+OrgTechName:   Martens, Michael 
+OrgTechPhone:  +1-916-564-1429 
+OrgTechEmail:  mmartens@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MARTE52-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

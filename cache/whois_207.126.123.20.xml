@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>About.com</registrant>
+    <registration>
+      <created>1996-05-20</created>
+      <updated>2001-04-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       207.126.96.0 - 207.126.127.255
+CIDR:           207.126.96.0/19
+NetName:        ABOVENET-1
+NetHandle:      NET-207-126-96-0-1
+Parent:         NET207 (NET-207-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Abovenet Communications, Inc (ABVE)
+RegDate:        1996-05-20
+Updated:        2001-04-27
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-207-126-96-0-1
+
+OrgName:        Abovenet Communications, Inc
+OrgId:          ABVE
+Address:        360 Hamilton Ave
+City:           White Plains
+StateProv:      NY
+PostalCode:     10601
+Country:        US
+RegDate:        1996-04-22
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/ABVE
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ipncc@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+NetRange:       207.126.123.0 - 207.126.123.255
+CIDR:           207.126.123.0/24
+NetName:        ZAYO-IPYX-073207-207-126-123-0-24
+NetHandle:      NET-207-126-123-0-1
+Parent:         ABOVENET-1 (NET-207-126-96-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       About.com (C05781295)
+RegDate:        2015-06-22
+Updated:        2015-06-22
+Comment:        abuse@zayo.com
+Ref:            http://whois.arin.net/rest/net/NET-207-126-123-0-1
+
+CustName:       About.com
+Address:        1950 N. Stemmons Way
+City:           Dallas
+StateProv:      TX
+PostalCode:     75207
+Country:        US
+RegDate:        2015-06-22
+Updated:        2015-06-22
+Ref:            http://whois.arin.net/rest/customer/C05781295
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ipncc@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Lemuria Communications Inc.</registrant>
+    <registration>
+      <created>2010-06-15</created>
+      <updated>2010-06-15</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       199.7.176.0 - 199.7.183.255
+CIDR:           199.7.176.0/21
+NetName:        LEMURIA-COMMUNICATIONS
+NetHandle:      NET-199-7-176-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS7366
+Organization:   Lemuria Communications Inc. (LEMUR)
+RegDate:        2010-06-15
+Updated:        2010-06-15
+Comment:        Please send abuse to abuse@lemuriaco.com
+Ref:            http://whois.arin.net/rest/net/NET-199-7-176-0-1
+
+OrgName:        Lemuria Communications Inc.
+OrgId:          LEMUR
+Address:        110 E BROWARD BLVD STE 1736
+City:           FORT LAUDERDALE
+StateProv:      FL
+PostalCode:     33301
+Country:        US
+RegDate:        2009-10-16
+Updated:        2010-10-20
+Ref:            http://whois.arin.net/rest/org/LEMUR
+
+OrgAbuseHandle: ABUSE2438-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-305-424-1359 
+OrgAbuseEmail:  abuse@lemuriaco.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2438-ARIN
+
+OrgTechHandle: TITOV-ARIN
+OrgTechName:   Titov, Anton 
+OrgTechPhone:  +1-954-337-3329 
+OrgTechEmail:  anton@lemuriaco.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TITOV-ARIN
+
+RAbuseHandle: ABUSE2438-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-305-424-1359 
+RAbuseEmail:  abuse@lemuriaco.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2438-ARIN
+
+RTechHandle: TITOV-ARIN
+RTechName:   Titov, Anton 
+RTechPhone:  +1-954-337-3329 
+RTechEmail:  anton@lemuriaco.com
+RTechRef:    http://whois.arin.net/rest/poc/TITOV-ARIN
+
+RNOCHandle: TITOV-ARIN
+RNOCName:   Titov, Anton 
+RNOCPhone:  +1-954-337-3329 
+RNOCEmail:  anton@lemuriaco.com
+RNOCRef:    http://whois.arin.net/rest/poc/TITOV-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Orange S.A.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '81.248.0.0 - 81.255.255.255' is 'gestionip.ft@orange.com'
+
+inetnum:        81.248.0.0 - 81.255.255.255
+netname:        FR-TELECOM-20030213
+descr:          Orange S.A.
+country:        FR
+org:            ORG-FT2-RIPE
+admin-c:        AB5579-RIPE
+tech-c:         PG5119-RIPE
+tech-c:         ML2808-RIPE
+status:         ALLOCATED PA
+notify:         addr-reg@rain.fr
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      RAIN-TRANSPAC
+mnt-lower:      FT-BRX
+mnt-routes:     FT-BRX
+mnt-routes:     RAIN-TRANSPAC
+changed:        hostmaster@ripe.net 20030213
+changed:        hostmaster@ripe.net 20030319
+changed:        hostmaster@ripe.net 20050330
+changed:        hostmaster@ripe.net 20050902
+changed:        bitbucket@ripe.net 20061110
+changed:        hostmaster@ripe.net 20111027
+changed:        hostmaster@ripe.net 20130719
+created:        2003-02-13T09:42:13Z
+last-modified:  2013-07-19T12:05:14Z
+source:         RIPE
+
+organisation:   ORG-FT2-RIPE
+org-name:       Orange S.A.
+org-type:       LIR
+address:        Orange Labs
+address:        Alain BIDRON OLNC/OLN/AQS/NAN
+address:        48 rue Camille Desmoulins
+address:        92791
+address:        Issy-les-Moulineaux Cedex 9
+address:        FRANCE
+phone:          +33157361724
+fax-no:         +33146427632
+e-mail:         alain.bidron@orange.com
+admin-c:        AB5579-RIPE
+admin-c:        ML2808-RIPE
+admin-c:        PG5119-RIPE
+admin-c:        BP2199-RIPE
+admin-c:        BRX1-RIPE
+mnt-ref:        OLEANE-NOC
+mnt-ref:        FT-BRX
+mnt-ref:        RAIN-TRANSPAC
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        BRX1-RIPE
+changed:        bitbucket@ripe.net 20150202
+created:        2004-04-17T11:23:51Z
+last-modified:  2015-02-02T10:14:54Z
+source:         RIPE
+
+person:         Alain Bidron
+address:        France Telecom
+address:        FT/ ROSI/ ITNPS/ NAD/ EAS
+address:        48 rue Camille Desmoulins
+address:        92791 ISSY LES MOULINEAUX Cedex
+address:        France
+phone:          +33 1 57 36 17 24
+e-mail:         alain.bidron@orange.com
+nic-hdl:        AB5579-RIPE
+mnt-by:         FT-BRX
+changed:        noc@rain.fr 19990520
+changed:        gestionip.ft@francetelecom.com 20010116
+changed:        gestionip.ft@francetelecom.com 20070419
+changed:        gestionip.ft@francetelecom.com 20070831
+changed:        gestionip.ft@orange-ftgroup.com 20090220
+changed:        gestionip.ft@orange.com 20110922
+created:        1970-01-01T00:00:00Z
+last-modified:  2011-09-22T11:32:33Z
+source:         RIPE
+
+person:         Marc Lapeyre
+address:        France Telecom
+address:        ROSI/DRSA/DOR/CSS
+address:        13, quai Gailleton - BP 2216
+address:        69214 LYON CEDEX 02
+phone:          +33 4 72 35 41 72
+e-mail:         marc.lapeyre@orange.com
+nic-hdl:        ML2808-RIPE
+mnt-by:         FT-BRX
+changed:        noc@rain.fr 19990205
+changed:        gestionip.ft@francetelecom.fr 20000428
+changed:        gestionip.ft@francetelecom.com 20010116
+changed:        gestionip.ft@francetelecom.com 20030910
+changed:        gestionip.ft@francetelecom.com 20040204
+changed:        gestionip.ft@francetelecom.com 20050203
+changed:        gestionip.ft@francetelecom.com 20070419
+changed:        gestionip.ft@orange.com 20110922
+changed:        gestionip.ft@orange.com 20150619
+created:        1970-01-01T00:00:00Z
+last-modified:  2015-06-19T07:24:13Z
+source:         RIPE
+
+person:         Philippe Gheeraert
+address:        France Telecom
+address:        ROSI/DRSA/DOR/CSS
+address:        13, quai Gailleton - BP 2216
+address:        69214 LYON CEDEX 02
+phone:          +33 4 72 35 41 84
+e-mail:         philippe.gheeraert@orange.com
+nic-hdl:        PG5119-RIPE
+mnt-by:         FT-BRX
+changed:        gestionip.ft@francetelecom.fr 20000515
+changed:        gestionip.ft@francetelecom.com 20010116
+changed:        gestionip.ft@francetelecom.com 20010118
+changed:        gestionip.ft@francetelecom.com 20020503
+changed:        gestionip.ft@francetelecom.com 20030910
+changed:        gestionip.ft@francetelecom.com 20040204
+changed:        gestionip.ft@francetelecom.com 20050203
+changed:        gestionip.ft@francetelecom.com 20070419
+changed:        gestionip.ft@orange.com 20111013
+changed:        gestionip.ft@orange.com 20150619
+created:        2002-05-03T08:06:49Z
+last-modified:  2015-06-19T07:24:12Z
+source:         RIPE
+
+route:          81.255.0.0/16
+descr:          ORANGE BUSINESS SERVICES
+origin:         AS3215
+mnt-by:         PC80199-MNT
+org:            ORG-OBS3-RIPE
+changed:        gestip.rain@orange-ftgroup.com 20030318
+changed:        gestip.rain@orange-ftgroup.com 20070910
+changed:        gestip.rain@orange-ftgroup.com 20101110
+changed:        gestip.rain@orange.com 20141231
+created:        2003-03-18T15:13:39Z
+last-modified:  2014-12-31T10:44:13Z
+source:         RIPE
+
+organisation:   ORG-OBS3-RIPE
+org-name:       Orange Business Services
+org-type:       Other
+address:        6 avenue Albert Durand
+address:        31700 Blagnac  France
+e-mail:         gestip.rain@orange.com
+remarks:        **************************************
+remarks:        *   Pour les obligations legale      *
+remarks:        * Contacter uniquement les poles OL  *
+remarks:        *      de France Telecom/Orange      *
+remarks:        *                                    *
+remarks:        *    For legal issus joint only      *
+remarks:        *  France telecom/orange legal team  *
+remarks:        **************************************
+abuse-mailbox:  abuse@orange-business.com
+admin-c:        AA2914-RIPE
+tech-c:         AA2914-RIPE
+abuse-c:        AA2914-RIPE
+mnt-ref:        OLEANE-NOC
+mnt-ref:        FT-BRX
+mnt-ref:        RAIN-TRANSPAC
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RAIN-TRANSPAC
+changed:        gestip.rain@orange.com 20101108
+changed:        gestip.rain@orange.com 20110418
+changed:        gestip.rain@orange.com 20130613
+created:        2010-11-08T15:39:40Z
+last-modified:  2013-06-13T14:39:42Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

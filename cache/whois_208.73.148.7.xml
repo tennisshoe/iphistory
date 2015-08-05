@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Nextiva, Inc.</registrant>
+    <registration>
+      <created>2006-12-15</created>
+      <updated>2015-01-06</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.73.144.0 - 208.73.151.255
+CIDR:           208.73.144.0/21
+NetName:        NET-208-73-144-0-2
+NetHandle:      NET-208-73-144-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS4323, AS3356, AS20454, AS701, AS2828, AS7922, AS11855
+Organization:   Nextiva, Inc. (NEXTI-6)
+RegDate:        2006-12-15
+Updated:        2015-01-06
+Ref:            http://whois.arin.net/rest/net/NET-208-73-144-0-1
+
+OrgName:        Nextiva, Inc.
+OrgId:          NEXTI-6
+Address:        8800 E Chaparral Road
+Address:        Suite 300
+City:           Scottsdale
+StateProv:      AZ
+PostalCode:     85250
+Country:        US
+RegDate:        2014-12-24
+Updated:        2015-01-07
+Ref:            http://whois.arin.net/rest/org/NEXTI-6
+
+OrgNOCHandle: NOC3590-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-480-304-5037 
+OrgNOCEmail:  noc@unitedweb.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC3590-ARIN
+
+OrgAbuseHandle: EJA30-ARIN
+OrgAbuseName:   Andrews, Eric Justin
+OrgAbusePhone:  +1-480-304-5104 
+OrgAbuseEmail:  eandrews@nextiva.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/EJA30-ARIN
+
+OrgTechHandle: EJA30-ARIN
+OrgTechName:   Andrews, Eric Justin
+OrgTechPhone:  +1-480-304-5104 
+OrgTechEmail:  eandrews@nextiva.com
+OrgTechRef:    http://whois.arin.net/rest/poc/EJA30-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

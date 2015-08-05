@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Barracuda Networks, Inc.</registrant>
+    <registration>
+      <created>2006-10-31</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.235.144.0 - 64.235.159.255
+CIDR:           64.235.144.0/20
+NetName:        BARRAUCDA
+NetHandle:      NET-64-235-144-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS15324
+Organization:   Barracuda Networks, Inc. (BARRA-7)
+RegDate:        2006-10-31
+Updated:        2012-02-24
+Comment:        http://www.barracuda.com/
+Ref:            http://whois.arin.net/rest/net/NET-64-235-144-0-1
+
+OrgName:        Barracuda Networks, Inc.
+OrgId:          BARRA-7
+Address:        3175 S. Winchester Blvd
+City:           Campbell
+StateProv:      CA
+PostalCode:     95008
+Country:        US
+RegDate:        2005-08-29
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/BARRA-7
+
+OrgAbuseHandle: BARRA1-ARIN
+OrgAbuseName:   Barracuda Hostmaster
+OrgAbusePhone:  +1-408-342-5405 
+OrgAbuseEmail:  hostmaster@barracuda.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BARRA1-ARIN
+
+OrgTechHandle: BARRA1-ARIN
+OrgTechName:   Barracuda Hostmaster
+OrgTechPhone:  +1-408-342-5405 
+OrgTechEmail:  hostmaster@barracuda.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BARRA1-ARIN
+
+RAbuseHandle: BARRA1-ARIN
+RAbuseName:   Barracuda Hostmaster
+RAbusePhone:  +1-408-342-5405 
+RAbuseEmail:  hostmaster@barracuda.com
+RAbuseRef:    http://whois.arin.net/rest/poc/BARRA1-ARIN
+
+RTechHandle: BARRA1-ARIN
+RTechName:   Barracuda Hostmaster
+RTechPhone:  +1-408-342-5405 
+RTechEmail:  hostmaster@barracuda.com
+RTechRef:    http://whois.arin.net/rest/poc/BARRA1-ARIN
+
+RNOCHandle: BARRA1-ARIN
+RNOCName:   Barracuda Hostmaster
+RNOCPhone:  +1-408-342-5405 
+RNOCEmail:  hostmaster@barracuda.com
+RNOCRef:    http://whois.arin.net/rest/poc/BARRA1-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

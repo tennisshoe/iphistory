@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>bs.to</domain_name>
+    <ip_history/>
+    <registrar_history/>
+    <nameserver_history>
+      <domain>BS.TO</domain>
+      <action>N</action>
+      <actiondate>2014-02-17</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Register.to</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>BS.TO</domain>
+      <action>D</action>
+      <actiondate>2015-03-22</actiondate>
+      <action_in_words>Delete</action_in_words>
+      <post_mns/>
+      <pre_mns>Register.to</pre_mns>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>BS.TO</domain>
+      <action>N</action>
+      <actiondate>2015-04-03</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Cloudflare.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

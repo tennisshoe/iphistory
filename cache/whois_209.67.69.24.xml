@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Savvis</registrant>
+    <registration>
+      <created>1997-04-11</created>
+      <updated>2009-06-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.67.0.0 - 209.67.255.255
+CIDR:           209.67.0.0/16
+NetName:        SAVVIS
+NetHandle:      NET-209-67-0-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        1997-04-11
+Updated:        2009-06-24
+Ref:            http://whois.arin.net/rest/net/NET-209-67-0-0-1
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-07-17
+Comment:        Abuse complaints to abuse@centurylinkservices.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  noc@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-888-638-6771 
+OrgTechEmail:  james.goldsmith@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN
+
+NetRange:       209.67.69.0 - 209.67.69.31
+CIDR:           209.67.69.0/27
+NetName:        NET-209-67-69-0-1
+NetHandle:      NET-209-67-69-0-1
+Parent:         SAVVIS (NET-209-67-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   DOTSTER INC (DOTST-1)
+RegDate:        2006-04-13
+Updated:        2006-04-13
+Ref:            http://whois.arin.net/rest/net/NET-209-67-69-0-1
+
+OrgName:        DOTSTER INC
+OrgId:          DOTST-1
+Address:        8100 NE PARKWAY DR
+Address:        FLOOR 3
+City:           VANCOUVER
+StateProv:      WA
+PostalCode:     98662
+Country:        US
+RegDate:        2005-09-02
+Updated:        2015-06-15
+Ref:            http://whois.arin.net/rest/org/DOTST-1
+
+OrgAbuseHandle: DAD54-ARIN
+OrgAbuseName:   Dotster Abuse Department
+OrgAbusePhone:  +1-360-449-5985 
+OrgAbuseEmail:  abuse@dotster.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DAD54-ARIN
+
+OrgTechHandle: ADAMA2-ARIN
+OrgTechName:   Karol, Adam A
+OrgTechPhone:  +1-360-449-5981 
+OrgTechEmail:  akarol@dotster.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ADAMA2-ARIN
+
+RTechHandle: MMC108-ARIN
+RTechName:   McNelly, Micah 
+RTechPhone:  +1-360-253-2210 
+RTechEmail:  mmcnelly@dotster.com
+RTechRef:    http://whois.arin.net/rest/poc/MMC108-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

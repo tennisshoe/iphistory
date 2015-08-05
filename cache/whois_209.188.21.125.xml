@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>SECURED SERVERS LLC</registrant>
+    <registration>
+      <created>2004-05-18</created>
+      <updated>2007-07-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.188.0.0 - 209.188.31.255
+CIDR:           209.188.0.0/19
+NetName:        SECUREDSERVERS
+NetHandle:      NET-209-188-0-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   SECURED SERVERS LLC (SSL-65)
+RegDate:        2004-05-18
+Updated:        2007-07-24
+Ref:            http://whois.arin.net/rest/net/NET-209-188-0-0-1
+
+OrgName:        SECURED SERVERS LLC
+OrgId:          SSL-65
+Address:        2353 W University Bldg A
+City:           Tempe
+StateProv:      AZ
+PostalCode:     85281
+Country:        US
+RegDate:        2003-12-08
+Updated:        2015-04-01
+Ref:            http://whois.arin.net/rest/org/SSL-65
+
+ReferralServer:  rwhois://rwhois.securedservers.com:4321
+
+OrgTechHandle: IPADM294-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-480-422-2031 
+OrgTechEmail:  ipadmin@securedservers.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM294-ARIN
+
+OrgAbuseHandle: ABUSE1536-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-422-2022 
+OrgAbuseEmail:  abuse@securedservers.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1536-ARIN
+
+NetRange:       209.188.21.0 - 209.188.21.255
+CIDR:           209.188.21.0/24
+NetName:        NCNET-PHX-8
+NetHandle:      NET-209-188-21-0-1
+Parent:         SECUREDSERVERS (NET-209-188-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS4323, AS22612, AS174, AS11855
+Organization:   Namecheap, Inc. (NAMEC-4)
+RegDate:        2014-12-19
+Updated:        2014-12-19
+Ref:            http://whois.arin.net/rest/net/NET-209-188-21-0-1
+
+OrgName:        Namecheap, Inc.
+OrgId:          NAMEC-4
+Address:        11400 W. Olympic Blvd. Suite 200
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90064
+Country:        US
+RegDate:        2011-01-28
+Updated:        2012-04-16
+Ref:            http://whois.arin.net/rest/org/NAMEC-4
+
+ReferralServer:  rwhois://whois.namecheaphosting.com:4321
+
+OrgTechHandle: EFIME-ARIN
+OrgTechName:   Efimenko, Igor 
+OrgTechPhone:  +1-323-375-2822 
+OrgTechEmail:  igor.e@namecheap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/EFIME-ARIN
+
+OrgAbuseHandle: ABUSE2885-ARIN
+OrgAbuseName:   Abuse team
+OrgAbusePhone:  +1-323-375-2822 
+OrgAbuseEmail:  abuse@namecheaphosting.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2885-ARIN
+
+OrgTechHandle: TECHT4-ARIN
+OrgTechName:   Tech team
+OrgTechPhone:  +1-323-375-2822 
+OrgTechEmail:  tech@namecheaphosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHT4-ARIN
+
+== Additional Information From rwhois://whois.namecheaphosting.com:4321 ==
+
+%rwhois V-1.0,V-1.5:00090h:00 billing.web-hosting.com (Ubersmith RWhois Server V-2.3.0)
+autharea=209.188.21.0/25
+xautharea=209.188.21.0/25
+network:Class-Name:network
+network:Auth-Area:209.188.21.0/25
+network:ID:NET-10802.209.188.21.125
+network:Network-Name:NC-PH-0062-02 (main)
+network:IP-Network:209.188.21.125
+network:IP-Network-Block:209.188.21.125
+network:Org-Name:Web-hosting.com
+network:Street-Address:3402 East University Drive
+network:City:Phoenix
+network:State:AZ
+network:Postal-Code:85034
+network:Country-Code:US
+network:Tech-Contact:MAINT-10802.209.188.21.125
+network:Created:20130610132735000
+network:Updated:20130610132735000
+network:Updated-By:net-admin@namecheap.com
+contact:POC-Name:Network team
+contact:POC-Email:net-admin@namecheap.com
+contact:POC-Phone:
+contact:Tech-Name:Network team
+contact:Tech-Email:net-admin@namecheap.com
+contact:Tech-Phone:
+contact:Abuse-Name:Abuse team
+contact:Abuse-Email:abuse@namecheaphosting.com
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

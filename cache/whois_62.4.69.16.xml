@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>euNetworks Services GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.4.64.0 - 62.4.95.255' is 'noc@eunetworks.com'
+
+inetnum:        62.4.64.0 - 62.4.95.255
+org:            ORG-AA11-RIPE
+netname:        DE-ABOVE-20000609
+descr:          euNetworks Services GmbH
+country:        EU
+admin-c:        HMS120-RIPE
+tech-c:         HMS120-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      SERICO-MNT
+mnt-lower:      AS8218-MNT
+mnt-lower:      LNC-MNT
+mnt-lower:      EUNX-MNT
+mnt-domains:    SERICO-MNT
+mnt-domains:    EUNX-MNT
+mnt-routes:     SERICO-MNT
+mnt-routes:     AS8218-MNT
+mnt-routes:     LNC-MNT
+changed:        hostmaster@ripe.net 20000609
+changed:        hostmaster@ripe.net 20011029
+changed:        hostmaster@ripe.net 20040824
+changed:        hostmaster@ripe.net 20080630
+changed:        bitbucket@ripe.net 20090304
+changed:        bitbucket@ripe.net 20090325
+changed:        bitbucket@ripe.net 20090508
+changed:        bitbucket@ripe.net 20090630
+changed:        hostmaster@ripe.net 20090915
+changed:        bitbucket@ripe.net 20100826
+changed:        bitbucket@ripe.net 20101123
+changed:        bit-bucket@ripe.net 20121018
+changed:        bit-bucket@ripe.net 20131004
+changed:        bit-bucket@ripe.net 20141205
+notify:         lir@eunetworks.com
+created:        2001-10-29T16:33:07Z
+last-modified:  2014-12-05T14:35:39Z
+source:         RIPE
+
+organisation:   ORG-AA11-RIPE
+org-name:       euNetworks Services GmbH
+org-type:       LIR
+address:        eunetworks Services GmbH
+address:        Theodor-Heuss-Allee 112
+address:        60486
+address:        Frankfurt/Main
+address:        GERMANY
+phone:          +4969905540
+fax-no:         +496990554111
+e-mail:         hostmaster@eunetworks.com
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        SERICO-MNT
+mnt-ref:        AS8218-MNT
+mnt-ref:        UPSTREAMNET-MNT
+mnt-ref:        LNC-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        KKK-RIPE
+admin-c:        CPS30-RIPE
+abuse-c:        EUN-RIPE
+changed:        bitbucket@ripe.net 20150120
+created:        2004-04-17T11:05:07Z
+last-modified:  2015-01-20T13:33:02Z
+source:         RIPE
+
+role:           HostMaster Serico
+address:        euNetworks Services GmbH / former Serico GmbH
+address:        Theodor-Heuss-Allee 112
+address:        60486 FRANKFURT /M
+address:        Germany
+phone:          +49 69 90554 0
+fax-no:         +49 69 90554 111
+e-mail:         lir@eunetworks.com
+admin-c:        CPS30-RIPE
+tech-c:         CPS30-RIPE
+nic-hdl:        HMS120-RIPE
+remarks:        **********************************************
+remarks:        * Role Account for the "Sysadmin of the Day" *
+remarks:        **********************************************
+remarks:        * ABUSE CONTACT: abuse@serico.de *
+remarks:        * *
+remarks:        * IN CASE OF HACK ATTACKS, ILLEGAL ACTIVITY, *
+remarks:        * VIOLATION, SCANS, PROBES, SPAM, ETC. *
+remarks:        **********************************************
+notify:         lir@eunetworks.com
+mnt-by:         SERICO-MNT
+changed:        lir@serico.de 20090921
+changed:        lir@serico.de 20100803
+created:        2009-02-17T13:27:54Z
+last-modified:  2015-07-02T09:31:25Z
+source:         RIPE
+
+route:          62.4.64.0/19
+descr:          AS13237 International
+origin:         AS13237
+remarks:        euNetworks
+notify:         hostmaster@eunetworks.com
+mnt-by:         SERICO-MNT
+mnt-by:         LNC-MNT
+mnt-by:         EUNX-MNT
+changed:        hostmaster@noreply.eunetworks.com 20121018
+created:        2012-10-18T17:29:59Z
+last-modified:  2014-11-07T12:53:02Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

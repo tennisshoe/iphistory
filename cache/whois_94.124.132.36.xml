@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CVF S.A</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '94.124.132.0 - 94.124.132.127' is 'abuse.mbs@orange.com'
+
+inetnum:        94.124.132.0 - 94.124.132.127
+netname:        CVF-NET1
+descr:          CVF
+country:        FR
+org:            ORG-CS95-RIPE
+admin-c:        CN1323-RIPE
+tech-c:         CN1323-RIPE
+status:         ASSIGNED PA
+mnt-by:         CVF-MNT
+mnt-routes:     CVF-MNT
+changed:        ndeffayet@neotelecoms.com 20080805
+created:        2008-08-05T13:35:40Z
+last-modified:  2008-08-05T13:35:40Z
+source:         RIPE
+
+organisation:   ORG-CS95-RIPE
+org-name:       CVF S.A
+org-type:       LIR
+address:        Multimedia Business Services SAS
+address:        106, rue du Temple
+address:        75003
+address:        Paris
+address:        FRANCE
+phone:          +33153908500
+fax-no:         +33142720162
+e-mail:         ripe.noc@cvf.fr
+abuse-c:        AR13566-RIPE
+mnt-ref:        CVF-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        bitbucket@ripe.net 20140425
+created:        2008-07-04T13:39:19Z
+last-modified:  2014-04-25T15:14:55Z
+source:         RIPE
+
+role:           CVF NOC
+address:        Multimedia Buisness Services SAS
+address:        106, rue du Temple
+address:        75003 Paris
+address:        France
+phone:          +33 1 53 90 85 00
+fax-no:         +33 1 42 72 01 62
+e-mail:         noc.afnic@cvf.fr
+remarks:        trouble:      mailto:noc.afnic@cvf.fr
+admin-c:        AB814-RIPE
+tech-c:         AB814-RIPE
+nic-hdl:        CN1323-RIPE
+notify:         noc.afnic@cvf.fr
+changed:        noc.afnic@cvf.fr 20000217
+created:        1970-01-01T00:00:00Z
+last-modified:  2009-09-29T13:11:25Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

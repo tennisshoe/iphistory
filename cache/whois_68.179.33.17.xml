@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TeraGo Networks Inc.</registrant>
+    <registration>
+      <created>2005-04-13</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       68.179.0.0 - 68.179.127.255
+CIDR:           68.179.0.0/17
+NetName:        TERAGO-5
+NetHandle:      NET-68-179-0-0-1
+Parent:         NET68 (NET-68-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS20161
+Organization:   TeraGo Networks Inc. (TRGO)
+RegDate:        2005-04-13
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-68-179-0-0-1
+
+OrgName:        TeraGo Networks Inc.
+OrgId:          TRGO
+Address:        Suite 800, 55 Commerce Valley Dr. West
+City:           Thornhill
+StateProv:      ON
+PostalCode:     L3T-7V9
+Country:        CA
+RegDate:        2001-03-22
+Updated:        2015-07-02
+Comment:        http://www.terago.ca
+Comment:        NOC hours 24/7
+Ref:            http://whois.arin.net/rest/org/TRGO
+
+OrgTechHandle: TIP2-ARIN
+OrgTechName:   TeraGo Internet Peering
+OrgTechPhone:  +1-866-837-2462 
+OrgTechEmail:  peering@terago.ca
+OrgTechRef:    http://whois.arin.net/rest/poc/TIP2-ARIN
+
+OrgNOCHandle: TIN1-ARIN
+OrgNOCName:   PTP NOC
+OrgNOCPhone:  +1-866-837-2462 
+OrgNOCEmail:  ipnoc@terago.ca
+OrgNOCRef:    http://whois.arin.net/rest/poc/TIN1-ARIN
+
+OrgAbuseHandle: TIN1-ARIN
+OrgAbuseName:   PTP NOC
+OrgAbusePhone:  +1-866-837-2462 
+OrgAbuseEmail:  ipnoc@terago.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/TIN1-ARIN
+
+RAbuseHandle: TIN1-ARIN
+RAbuseName:   PTP NOC
+RAbusePhone:  +1-866-837-2462 
+RAbuseEmail:  ipnoc@terago.ca
+RAbuseRef:    http://whois.arin.net/rest/poc/TIN1-ARIN
+
+RTechHandle: TIP2-ARIN
+RTechName:   TeraGo Internet Peering
+RTechPhone:  +1-866-837-2462 
+RTechEmail:  peering@terago.ca
+RTechRef:    http://whois.arin.net/rest/poc/TIP2-ARIN
+
+RNOCHandle: TIN1-ARIN
+RNOCName:   PTP NOC
+RNOCPhone:  +1-866-837-2462 
+RNOCEmail:  ipnoc@terago.ca
+RNOCRef:    http://whois.arin.net/rest/poc/TIN1-ARIN
+
+NetRange:       68.179.33.0 - 68.179.33.255
+CIDR:           68.179.33.0/24
+NetName:        T-068179033000-060407
+NetHandle:      NET-68-179-33-0-1
+Parent:         TERAGO-5 (NET-68-179-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   The Ontario Educational Communications Authority (OET)
+RegDate:        2006-04-07
+Updated:        2006-04-07
+Ref:            http://whois.arin.net/rest/net/NET-68-179-33-0-1
+
+OrgName:        The Ontario Educational Communications Authority
+OrgId:          OET
+Address:        2180 YONGE ST
+City:           TORONTO
+StateProv:      ON
+PostalCode:     M4T-2T1
+Country:        CA
+RegDate:        2006-04-07
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/OET
+
+OrgTechHandle: MBU78-ARIN
+OrgTechName:   BUNCIC, MIKE 
+OrgTechPhone:  +1-416-484-2600 
+OrgTechEmail:  mbuncic@tvontario.org
+OrgTechRef:    http://whois.arin.net/rest/poc/MBU78-ARIN
+
+OrgAbuseHandle: MBU78-ARIN
+OrgAbuseName:   BUNCIC, MIKE 
+OrgAbusePhone:  +1-416-484-2600 
+OrgAbuseEmail:  mbuncic@tvontario.org
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MBU78-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cemil Degirmenci</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.255.9.0 - 80.255.9.255' is 'abuse@core-backbone.com'
+
+inetnum:        80.255.9.0 - 80.255.9.255
+netname:        UPJERS-NET-2
+descr:          upjers
+country:        DE
+admin-c:        CD2355-RIPE
+tech-c:         CD2355-RIPE
+status:         ASSIGNED PA
+mnt-by:         CORE-BACKBONE
+changed:        ulrich.koehler@core-backbone.com 20091026
+created:        2009-10-26T12:41:57Z
+last-modified:  2010-04-30T12:46:09Z
+source:         RIPE
+
+person:         Cemil Degirmenci
+address:        Wavecon GmbH
+address:        Ludwigstrasse 2
+address:        90763 Fuerth
+mnt-by:         WAVECON-MNT
+phone:          +49 911 120658 1
+phone:          +49 176 206 4 7755
+remarks:        second number is _only_
+remarks:        for real network emergency
+fax-no:         +49 911 212 9233
+e-mail:         cd@wavecon.de
+nic-hdl:        CD2355-RIPE
+notify:         hostmaster@wavecon.de
+changed:        hostmaster@wavecon.de 20061004
+changed:        hostmaster@wavecon.de 20110306
+created:        2004-02-22T05:15:36Z
+last-modified:  2011-03-06T17:29:39Z
+source:         RIPE
+
+route:          80.255.0.0/20
+descr:          Core-Backbone-Net-3
+origin:         AS33891
+mnt-by:         CORE-BACKBONE
+changed:        daniel.maresch@core-backbone.com 20090416
+created:        2009-04-16T13:27:09Z
+last-modified:  2009-04-16T13:27:09Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

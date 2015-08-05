@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Iland Internet Solutions Corporation</registrant>
+    <registration>
+      <created>2003-07-31</created>
+      <updated>2014-01-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.64.160.0 - 69.64.191.255
+CIDR:           69.64.160.0/19
+NetName:        ILAND-NET-69-64-160-0-19
+NetHandle:      NET-69-64-160-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS14127
+Organization:   Iland Internet Solutions Corporation (IISC-1)
+RegDate:        2003-07-31
+Updated:        2014-01-02
+Comment:        http://www.iland.com/
+Ref:            http://whois.arin.net/rest/net/NET-69-64-160-0-1
+
+OrgName:        Iland Internet Solutions Corporation
+OrgId:          IISC-1
+Address:        1235 North Loop West
+Address:        Suite 800
+City:           Houston
+StateProv:      TX
+PostalCode:     77008
+Country:        US
+RegDate:        1999-05-21
+Updated:        2015-01-13
+Comment:        http://iland.com
+Ref:            http://whois.arin.net/rest/org/IISC-1
+
+OrgNOCHandle: NOC1517-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-713-868-2267 
+OrgNOCEmail:  noc@iland.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1517-ARIN
+
+OrgAbuseHandle: ILAND-ARIN
+OrgAbuseName:   iland Abuse
+OrgAbusePhone:  +1-713-868-2267 
+OrgAbuseEmail:  abuse@iland.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ILAND-ARIN
+
+OrgTechHandle: JEG95-ARIN
+OrgTechName:   Giardina, Justin E
+OrgTechPhone:  +1-800-697-7088 
+OrgTechEmail:  jg@iland.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JEG95-ARIN
+
+RTechHandle: JTP8-ARIN
+RTechName:   Polczynski, Jeff T
+RTechPhone:  +1-713-868-2267 
+RTechEmail:  jpolczynski@iland.com
+RTechRef:    http://whois.arin.net/rest/poc/JTP8-ARIN
+
+RTechHandle: NOC1517-ARIN
+RTechName:   NOC
+RTechPhone:  +1-713-868-2267 
+RTechEmail:  noc@iland.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC1517-ARIN
+
+RAbuseHandle: ILAND-ARIN
+RAbuseName:   iland Abuse
+RAbusePhone:  +1-713-868-2267 
+RAbuseEmail:  abuse@iland.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ILAND-ARIN
+
+RNOCHandle: NOC1517-ARIN
+RNOCName:   NOC
+RNOCPhone:  +1-713-868-2267 
+RNOCEmail:  noc@iland.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC1517-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

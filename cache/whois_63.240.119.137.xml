@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Kodak</registrant>
+    <registration>
+      <created>2003-10-29</created>
+      <updated>2003-10-29</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       63.240.119.0 - 63.240.119.255
+CIDR:           63.240.119.0/24
+NetName:        ATTENS-008808-002690
+NetHandle:      NET-63-240-119-0-1
+Parent:         CERFNET-BLK-5 (NET-63-240-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Kodak (C00696666)
+RegDate:        2003-10-29
+Updated:        2003-10-29
+Comment:        CERF-HM-ARIN
+Ref:            http://whois.arin.net/rest/net/NET-63-240-119-0-1
+
+CustName:       Kodak
+Address:        343 State Street
+City:           Rochester
+StateProv:      NY
+PostalCode:     14650
+Country:        US
+RegDate:        2003-10-29
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C00696666
+
+OrgTechHandle: NETWO10-ARIN
+OrgTechName:   Network Provisioning
+OrgTechPhone:  +1-877-789-2877 
+OrgTechEmail:  ARINMAINT@list.att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO10-ARIN
+
+OrgAbuseHandle: ATTAB-ARIN
+OrgAbuseName:   ATT Abuse
+OrgAbusePhone:  +1-919-319-8130 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ATTAB-ARIN
+
+RTechHandle: CERF-HM-ARIN
+RTechName:   ATand T Enhanced Network Services
+RTechPhone:  +1-858-812-5000 
+RTechEmail:  notify@attens.com
+RTechRef:    http://whois.arin.net/rest/poc/CERF-HM-ARIN
+
+NetRange:       63.240.0.0 - 63.242.255.255
+CIDR:           63.240.0.0/15, 63.242.0.0/16
+NetName:        CERFNET-BLK-5
+NetHandle:      NET-63-240-0-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   CERFnet (CERF)
+RegDate:        1999-11-03
+Updated:        2001-08-06
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-63-240-0-0-1
+
+OrgName:        CERFnet
+OrgId:          CERF
+Address:        5738 Pacific Center Blvd
+City:           San Diego
+StateProv:      CA
+PostalCode:     92121
+Country:        US
+RegDate:        1989-04-18
+Updated:        2015-05-05
+Comment:        Contact AT&amp;T Abuse (abuse@att.net) for policy abuse issues.
+Comment:        All policy abuse issues sent to other POCs will be disregarded.
+Ref:            http://whois.arin.net/rest/org/CERF
+
+OrgTechHandle: NETWO10-ARIN
+OrgTechName:   Network Provisioning
+OrgTechPhone:  +1-877-789-2877 
+OrgTechEmail:  rm-mhops-ap@intl.att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO10-ARIN
+
+OrgAbuseHandle: ATTAB-ARIN
+OrgAbuseName:   ATT Abuse
+OrgAbusePhone:  +1-919-319-8130 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ATTAB-ARIN
+
+RTechHandle: CERF-HM-ARIN
+RTechName:   ATand T Enhanced Network Services
+RTechPhone:  +1-858-812-5000 
+RTechEmail:  notify@attens.com
+RTechRef:    http://whois.arin.net/rest/poc/CERF-HM-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

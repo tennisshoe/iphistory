@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>IP Administration</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.227.34.0 - 212.227.34.31' is 'abuse@oneandone.net'
+
+inetnum:        212.227.34.0 - 212.227.34.31
+netname:        SCHLUND-NET
+descr:          1&amp;1 Internet AG
+country:        DE
+admin-c:        IPAD-RIPE
+tech-c:         IPOP-RIPE
+status:         ASSIGNED PA
+notify:         ripe-role@oneandone.net
+mnt-by:         AS8560-MNT
+changed:        ncc@schlund.net 20060213
+changed:        ripe-role@oneandone.net 20090528
+created:        2006-07-13T07:45:45Z
+last-modified:  2011-01-19T14:53:43Z
+source:         RIPE
+
+role:           IP Administration
+address:        1&amp;1 Internet AG
+e-mail:         ripe-role@oneandone.net
+admin-c:        RME9-RIPE
+admin-c:        JR2342-RIPE
+admin-c:        LTO3-RIPE
+admin-c:        ZIG-RIPE
+admin-c:        MI-RIPE
+admin-c:        MINK-RIPE
+admin-c:        VR-RIPE
+tech-c:         RME9-RIPE
+tech-c:         JR2342-RIPE
+tech-c:         LTO3-RIPE
+nic-hdl:        IPAD-RIPE
+notify:         ripe-role@oneandone.net
+abuse-mailbox:  abuse@oneandone.net
+mnt-by:         AS8560-MNT
+changed:        ripe-role@oneandone.net 20131119
+changed:        ripe-role@oneandone.net 20150506
+created:        2009-05-20T17:24:09Z
+last-modified:  2015-05-06T12:02:53Z
+source:         RIPE
+
+role:           IP Operations
+address:        1&amp;1 Internet AG
+e-mail:         noc@oneandone.net
+admin-c:        RME9-RIPE
+admin-c:        JR2342-RIPE
+admin-c:        LTO3-RIPE
+tech-c:         RME9-RIPE
+tech-c:         JR2342-RIPE
+tech-c:         LTO3-RIPE
+nic-hdl:        IPOP-RIPE
+notify:         ripe-role@oneandone.net
+abuse-mailbox:  abuse@oneandone.net
+mnt-by:         AS8560-MNT
+changed:        ripe-role@oneandone.net 20131119
+changed:        ripe-role@oneandone.net 20150506
+created:        2009-05-28T16:25:04Z
+last-modified:  2015-05-06T12:02:53Z
+source:         RIPE
+
+route:          212.227.0.0/16
+descr:          SCHLUND-PA-2
+origin:         AS8560
+notify:         ripe-role@oneandone.net
+mnt-by:         AS8560-MNT
+changed:        ncc@schlund.net 20040611
+changed:        ripe-role@oneandone.net 20071030
+changed:        ripe-role@oneandone.net 20090514
+changed:        ripe-role@oneandone.net 20110427
+created:        2011-04-27T14:38:19Z
+last-modified:  2011-04-27T14:38:19Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

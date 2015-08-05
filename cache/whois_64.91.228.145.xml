@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Liquid Web, Inc.</registrant>
+    <registration>
+      <created>2001-07-20</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.91.224.0 - 64.91.255.255
+CIDR:           64.91.224.0/19
+NetName:        LIQUIDWEB
+NetHandle:      NET-64-91-224-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32244
+Organization:   Liquid Web, Inc. (LQWB)
+RegDate:        2001-07-20
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-64-91-224-0-1
+
+OrgName:        Liquid Web, Inc.
+OrgId:          LQWB
+Address:        4210 Creyts Rd.
+City:           Lansing
+StateProv:      MI
+PostalCode:     48917
+Country:        US
+RegDate:        2001-07-20
+Updated:        2011-07-18
+Ref:            http://whois.arin.net/rest/org/LQWB
+
+ReferralServer:  rwhois://rwhois.liquidweb.com:4321
+
+OrgAbuseHandle: ABUSE551-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-800-580-4985 
+OrgAbuseEmail:  abuse@liquidweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE551-ARIN
+
+OrgTechHandle: IPADM47-ARIN
+OrgTechName:   IP Administrator
+OrgTechPhone:  +1-800-580-4985 
+OrgTechEmail:  ipadmin@liquidweb.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM47-ARIN
+
+RTechHandle: IPADM47-ARIN
+RTechName:   IP Administrator
+RTechPhone:  +1-800-580-4985 
+RTechEmail:  ipadmin@liquidweb.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM47-ARIN
+
+RAbuseHandle: IPADM47-ARIN
+RAbuseName:   IP Administrator
+RAbusePhone:  +1-800-580-4985 
+RAbuseEmail:  ipadmin@liquidweb.com
+RAbuseRef:    http://whois.arin.net/rest/poc/IPADM47-ARIN
+
+== Additional Information From rwhois://rwhois.liquidweb.com:4321 ==
+
+%rwhois V-1.5:003eff:00 rwhois.liquidweb.com (by Network Solutions, Inc. V-1.5.7.4)
+network:Class-Name:network
+network:ID:NETBLK-SOURCEDNS.64.91.224.0/19
+network:Auth-Area:64.91.224.0/19
+network:Network-Name:SOURCEDNS-64.91.224.0
+network:IP-Network:64.91.224.0/19
+network:IP-Network-Block:64.91.224.0 - 64.91.255.255
+network:Organization;I:SOURCEDNS
+network:Org-Name:SourceDNS
+network:Street-Address:4210 Creyts Rd.
+network:City:Lansing
+network:State:MI
+network:Postal-Code:48917
+network:Country-Code:US
+network:Tech-Contact;I:admin@sourcedns.com
+network:Created:20040212
+network:Updated:20060327
+network:Updated-By:admin@sourcedns.com
+network:Abuse:abuse@sourcedns.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

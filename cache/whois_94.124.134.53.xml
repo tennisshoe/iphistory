@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CVF NOC</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '94.124.134.0 - 94.124.135.255' is 'abuse.mbs@orange.com'
+
+inetnum:        94.124.134.0 - 94.124.135.255
+netname:        OAB-NET4
+descr:          OAB
+country:        FR
+admin-c:        CN1323-RIPE
+tech-c:         CN1323-RIPE
+status:         ASSIGNED PA
+mnt-by:         CVF-MNT
+mnt-lower:      CVF-MNT
+mnt-routes:     CVF-MNT
+changed:        bernard.roy@orange.com 20140711
+created:        2014-07-11T12:46:32Z
+last-modified:  2014-07-11T12:46:32Z
+source:         RIPE
+
+role:           CVF NOC
+address:        Multimedia Buisness Services SAS
+address:        106, rue du Temple
+address:        75003 Paris
+address:        France
+phone:          +33 1 53 90 85 00
+fax-no:         +33 1 42 72 01 62
+e-mail:         noc.afnic@cvf.fr
+remarks:        trouble:      mailto:noc.afnic@cvf.fr
+admin-c:        AB814-RIPE
+tech-c:         AB814-RIPE
+nic-hdl:        CN1323-RIPE
+notify:         noc.afnic@cvf.fr
+changed:        noc.afnic@cvf.fr 20000217
+created:        1970-01-01T00:00:00Z
+last-modified:  2009-09-29T13:11:25Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

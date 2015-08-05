@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cutter &amp; Buck</registrant>
+    <registration>
+      <created>2010-01-27</created>
+      <updated>2010-01-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.25.142.0 - 69.25.142.63
+CIDR:           69.25.142.0/26
+NetName:        INAP-SEF-CUTTERBUCK-36898
+NetHandle:      NET-69-25-142-0-1
+Parent:         PNAP-12-2002 (NET-69-25-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Cutter &amp; Buck (C02411039)
+RegDate:        2010-01-27
+Updated:        2010-01-27
+Ref:            http://whois.arin.net/rest/net/NET-69-25-142-0-1
+
+CustName:       Cutter &amp; Buck
+Address:        701 N. 34th St.
+Address:        Suite 400
+City:           Seattle
+StateProv:      WA
+PostalCode:     98103
+Country:        US
+RegDate:        2010-01-27
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02411039
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+NetRange:       69.25.0.0 - 69.25.255.255
+CIDR:           69.25.0.0/16
+NetName:        PNAP-12-2002
+NetHandle:      NET-69-25-0-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internap Network Services Corporation (PNAP)
+RegDate:        2003-02-13
+Updated:        2003-09-16
+Ref:            http://whois.arin.net/rest/net/NET-69-25-0-0-1
+
+OrgName:        Internap Network Services Corporation
+OrgId:          PNAP
+Address:        250 Williams Street
+Address:        Suite E100
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        1996-07-18
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/PNAP
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

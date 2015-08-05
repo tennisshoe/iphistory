@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>WestNet, Inc.</registrant>
+    <registration>
+      <created>1995-01-12</created>
+      <updated>2003-03-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       204.228.0.0 - 204.229.255.255
+CIDR:           204.228.0.0/15
+NetName:        WESTNET-W4
+NetHandle:      NET-204-228-0-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   WestNet, Inc. (WEST)
+RegDate:        1995-01-12
+Updated:        2003-03-27
+Ref:            http://whois.arin.net/rest/net/NET-204-228-0-0-1
+
+OrgName:        WestNet, Inc.
+OrgId:          WEST
+Address:        3645 Marine Street
+City:           Boulder
+StateProv:      CO
+PostalCode:     80309-0455
+Country:        US
+RegDate:        1992-08-29
+Updated:        2003-03-26
+Ref:            http://whois.arin.net/rest/org/WEST
+
+OrgTechHandle: DCMW-ARIN
+OrgTechName:   Wood, David CM
+OrgTechPhone:  +1-303-492-4905 
+OrgTechEmail:  dcmwood@spot.colorado.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/DCMW-ARIN
+
+OrgAbuseHandle: ABUSE245-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-303-492-4409 
+OrgAbuseEmail:  abuse@westnet.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE245-ARIN
+
+RTechHandle: DCMW-ARIN
+RTechName:   Wood, David CM
+RTechPhone:  +1-303-492-4905 
+RTechEmail:  dcmwood@spot.colorado.edu
+RTechRef:    http://whois.arin.net/rest/poc/DCMW-ARIN
+
+RAbuseHandle: ABUSE245-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-303-492-4409 
+RAbuseEmail:  abuse@westnet.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE245-ARIN
+
+NetRange:       204.228.192.0 - 204.228.255.255
+CIDR:           204.228.192.0/18
+NetName:        WEST-204-228-192-SPRO
+NetHandle:      NET-204-228-192-0-1
+Parent:         WESTNET-W4 (NET-204-228-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   SolutionPro Inc. (SOLUTI-57)
+RegDate:        2002-12-12
+Updated:        2002-12-12
+Ref:            http://whois.arin.net/rest/net/NET-204-228-192-0-1
+
+OrgName:        SolutionPro Inc.
+OrgId:          SOLUTI-57
+Address:        1450 Eagle Flight Way
+City:           Boise
+StateProv:      ID
+PostalCode:     83709
+Country:        US
+RegDate:        2001-02-14
+Updated:        2015-04-20
+Ref:            http://whois.arin.net/rest/org/SOLUTI-57
+
+OrgTechHandle: CURTI99-ARIN
+OrgTechName:   Curtis, Robert 
+OrgTechPhone:  +1-319-362-1046 
+OrgTechEmail:  rcurtis@involta.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CURTI99-ARIN
+
+OrgTechHandle: ROBER52-ARIN
+OrgTechName:   Curtis, Robert A
+OrgTechPhone:  +1-319-261-3012 
+OrgTechEmail:  rcurtis@involta.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ROBER52-ARIN
+
+OrgTechHandle: VAH1-ARIN
+OrgTechName:   Hiatt, Valerie Ann
+OrgTechPhone:  +1-319-261-3059 
+OrgTechEmail:  vhiatt@involta.com
+OrgTechRef:    http://whois.arin.net/rest/poc/VAH1-ARIN
+
+OrgTechHandle: WHITE652-ARIN
+OrgTechName:   White, Jeff 
+OrgTechPhone:  +1-319-261-3037 
+OrgTechEmail:  jwhite@involta.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WHITE652-ARIN
+
+OrgAbuseHandle: SOLUT-ARIN
+OrgAbuseName:   SolutionPro Abuse
+OrgAbusePhone:  +1-208-493-2000 
+OrgAbuseEmail:  abuse@spro.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SOLUT-ARIN
+
+NetRange:       204.228.229.160 - 204.228.229.191
+CIDR:           204.228.229.160/27
+NetName:        NET-204-228-229-160-27
+NetHandle:      NET-204-228-229-160-1
+Parent:         WEST-204-228-192-SPRO (NET-204-228-192-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Anything.com (ANYTH)
+RegDate:        2004-08-18
+Updated:        2005-01-18
+Ref:            http://whois.arin.net/rest/net/NET-204-228-229-160-1
+
+OrgName:        Anything.com
+OrgId:          ANYTH
+Address:        PMB 230, 100 Springdale Road, A3
+City:           Cherry Hill
+StateProv:      NJ
+PostalCode:     08003
+Country:        US
+RegDate:        2004-08-18
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/ANYTH
+
+OrgTechHandle: DOMAI77-ARIN
+OrgTechName:   Domain Administration
+OrgTechPhone:  +1-212-937-2077 
+OrgTechEmail:  responsetoyouremail@yahoo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DOMAI77-ARIN
+
+OrgAbuseHandle: DOMAI77-ARIN
+OrgAbuseName:   Domain Administration
+OrgAbusePhone:  +1-212-937-2077 
+OrgAbuseEmail:  responsetoyouremail@yahoo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DOMAI77-ARIN
+
+RTechHandle: DOMAI77-ARIN
+RTechName:   Domain Administration
+RTechPhone:  +1-212-937-2077 
+RTechEmail:  responsetoyouremail@yahoo.com
+RTechRef:    http://whois.arin.net/rest/poc/DOMAI77-ARIN
+
+RAbuseHandle: DOMAI77-ARIN
+RAbuseName:   Domain Administration
+RAbusePhone:  +1-212-937-2077 
+RAbuseEmail:  responsetoyouremail@yahoo.com
+RAbuseRef:    http://whois.arin.net/rest/poc/DOMAI77-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Zayo Group EU Limited</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '82.98.232.0 - 82.98.255.255' is 'zayoabuse@zayo.com'
+
+inetnum:        82.98.232.0 - 82.98.255.255
+netname:        UK-ABOVENET-20031209
+descr:          Zayo Group EU Limited
+country:        GB
+org:            ORG-AUL1-RIPE
+admin-c:        ABUK1-RIPE
+tech-c:         ABUK1-RIPE
+status:         ALLOCATED PA
+notify:         ripe-notify@zayo.com
+notify:         ipncc@zayo.com
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      ABOVENET-MNT
+mnt-domains:    ABOVENET-MNT
+mnt-routes:     ABOVENET-MNT
+changed:        hostmaster@ripe.net 20031209
+changed:        hostmaster@ripe.net 20040824
+changed:        hostmaster@ripe.net 20080630
+changed:        bitbucket@ripe.net 20090304
+changed:        bitbucket@ripe.net 20090325
+changed:        bitbucket@ripe.net 20090508
+changed:        bitbucket@ripe.net 20090630
+changed:        bitbucket@ripe.net 20090710
+changed:        hostmaster@ripe.net 20090827
+changed:        hostmaster@ripe.net 20110624
+changed:        hostmaster@ripe.net 20130221
+changed:        bit-bucket@ripe.net 20130905
+changed:        bit-bucket@ripe.net 20140221
+changed:        bit-bucket@ripe.net 20140221
+created:        2011-06-24T14:15:35Z
+last-modified:  2014-02-21T21:21:10Z
+source:         RIPE
+
+organisation:   ORG-AUL1-RIPE
+org-name:       Zayo Group EU Limited
+org-type:       LIR
+address:        4th Floor, Harmsworth House, 13-15 Bouverie St
+address:        EC4Y 8DP
+address:        London
+address:        UNITED KINGDOM
+phone:          +442072203800
+fax-no:         +442076239001
+e-mail:         euengineering@zayo.com
+abuse-c:        AR17485-RIPE
+admin-c:        CP5696-RIPE
+admin-c:        JF4126-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        ABOVENET-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-mailbox:  zayoabuse@zayo.com
+notify:         ipncc@zayo.com
+changed:        bitbucket@ripe.net 20150324
+created:        2004-04-17T12:10:46Z
+last-modified:  2015-03-24T08:51:48Z
+source:         RIPE
+
+role:           Zayo UK - IP Engineering
+address:        Zayo Group UK Ltd
+address:        4th Floor, Harmsworth House
+address:        13-15 Bouverie Street
+address:        London, EC4Y 8DP
+address:        United Kingdom
+phone:          +44 (0)20 7220 3810
+e-mail:         euengineering@zayo.com
+admin-c:        JF4126-RIPE
+tech-c:         JF4126-RIPE
+nic-hdl:        ABUK1-RIPE
+notify:         ripe-notify@zayo.com
+mnt-by:         ABOVENET-MNT
+created:        2002-02-06T16:21:16Z
+last-modified:  2014-12-15T16:28:15Z
+source:         RIPE
+abuse-mailbox:  zayoabuse@zayo.com
+changed:        hpatel@above.net 20100715
+changed:        cpeters@above.net 20110818
+changed:        cpeters@above.net 20121113
+changed:        carl.peters@zayo.com 20130628</record>
+    </whois>
+  </response>
+</whoisapi>
+

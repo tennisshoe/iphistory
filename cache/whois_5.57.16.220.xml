@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Booking.com Internet</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '5.57.16.0 - 5.57.16.255' is 'internet@booking.com'
+
+inetnum:        5.57.16.0 - 5.57.16.255
+netname:        NET-BOOKING-001
+descr:          Booking.com GB
+country:        GB
+admin-c:        BOOK-RIPE
+tech-c:         BOOK-RIPE
+status:         ASSIGNED PA
+mnt-by:         BOOKING-MNT
+changed:        internet@booking.com 20141125
+created:        2013-03-20T12:37:42Z
+last-modified:  2014-11-25T14:39:00Z
+source:         RIPE
+
+role:           Booking.com Internet
+address:        Herengracht 597, 1017 CE Amsterdam, Netherlands
+e-mail:         internet@booking.com
+nic-hdl:        BOOK-RIPE
+mnt-by:         BOOKING-MNT
+changed:        internet@booking.com 20140903
+created:        2014-09-03T08:40:21Z
+last-modified:  2014-09-03T08:58:30Z
+source:         RIPE
+abuse-mailbox:  internet@booking.com
+
+route:          5.57.16.0/24
+descr:          Booking.com GB
+origin:         AS43996
+mnt-by:         BOOKING-MNT
+changed:        internet@booking.com 20141125
+created:        2013-06-14T08:41:54Z
+last-modified:  2014-11-25T14:39:35Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

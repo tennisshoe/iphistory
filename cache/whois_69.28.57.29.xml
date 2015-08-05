@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>EBLC Telecom</registrant>
+    <registration>
+      <created>2008-05-15</created>
+      <updated>2008-05-15</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.28.57.0 - 69.28.57.255
+CIDR:           69.28.57.0/24
+NetName:        CNA-EBLC-0001
+NetHandle:      NET-69-28-57-0-1
+Parent:         CC-001 (NET-69-28-48-0-1)
+NetType:        Reassigned
+OriginAS:       AS37958
+Customer:       EBLC Telecom (C01936989)
+RegDate:        2008-05-15
+Updated:        2008-05-15
+Ref:            http://whois.arin.net/rest/net/NET-69-28-57-0-1
+
+CustName:       EBLC Telecom
+Address:        18343 E. Gale Ave.
+City:           City of Industry
+StateProv:      CA
+PostalCode:     91748
+Country:        US
+RegDate:        2008-05-15
+Updated:        2014-04-09
+Ref:            http://whois.arin.net/rest/customer/C01936989
+
+OrgNOCHandle: IPADM641-ARIN
+OrgNOCName:   IP ADMIN
+OrgNOCPhone:  +1-703-505-8326 
+OrgNOCEmail:  ipadmin@c3edge.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgTechHandle: IPADM641-ARIN
+OrgTechName:   IP ADMIN
+OrgTechPhone:  +1-703-505-8326 
+OrgTechEmail:  ipadmin@c3edge.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgAbuseHandle: IPADM641-ARIN
+OrgAbuseName:   IP ADMIN
+OrgAbusePhone:  +1-703-505-8326 
+OrgAbuseEmail:  ipadmin@c3edge.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+NetRange:       69.28.48.0 - 69.28.63.255
+CIDR:           69.28.48.0/20
+NetName:        CC-001
+NetHandle:      NET-69-28-48-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS21859
+Organization:   C3 Networks Inc (CN-51)
+RegDate:        2008-05-06
+Updated:        2014-04-09
+Ref:            http://whois.arin.net/rest/net/NET-69-28-48-0-1
+
+OrgName:        C3 Networks Inc
+OrgId:          CN-51
+Address:        13141 Marcey Creek Road
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2012-10-19
+Updated:        2013-06-24
+Ref:            http://whois.arin.net/rest/org/CN-51
+
+OrgNOCHandle: IPADM641-ARIN
+OrgNOCName:   IP ADMIN
+OrgNOCPhone:  +1-703-505-8326 
+OrgNOCEmail:  ipadmin@c3edge.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgTechHandle: IPADM641-ARIN
+OrgTechName:   IP ADMIN
+OrgTechPhone:  +1-703-505-8326 
+OrgTechEmail:  ipadmin@c3edge.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgAbuseHandle: IPADM641-ARIN
+OrgAbuseName:   IP ADMIN
+OrgAbusePhone:  +1-703-505-8326 
+OrgAbuseEmail:  ipadmin@c3edge.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

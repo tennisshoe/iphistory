@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>GitHub, Inc.</registrant>
+    <registration>
+      <created>2012-11-15</created>
+      <updated>2013-01-05</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       192.30.252.0 - 192.30.255.255
+CIDR:           192.30.252.0/22
+NetName:        GITHUB-NET4-1
+NetHandle:      NET-192-30-252-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS36459, AS27357
+Organization:   GitHub, Inc. (GITHU)
+RegDate:        2012-11-15
+Updated:        2013-01-05
+Ref:            http://whois.arin.net/rest/net/NET-192-30-252-0-1
+
+OrgName:        GitHub, Inc.
+OrgId:          GITHU
+Address:        88 Colin P Kelly Jr Street
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2012-10-22
+Updated:        2014-04-26
+Comment:        https://github.com
+Comment:        Please contact us directly for matters pertaining to abuse.
+Comment:        Urgent matters including DDoS are handled 24x7.
+Ref:            http://whois.arin.net/rest/org/GITHU
+
+OrgAbuseHandle: GITHU1-ARIN
+OrgAbuseName:   GitHub Abuse
+OrgAbusePhone:  +1-415-857-5430 
+OrgAbuseEmail:  abuse@github.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GITHU1-ARIN
+
+OrgTechHandle: GITHU-ARIN
+OrgTechName:   GitHub Ops
+OrgTechPhone:  +1-415-735-4488 
+OrgTechEmail:  hostmaster@github.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GITHU-ARIN
+
+OrgNOCHandle: GITHU-ARIN
+OrgNOCName:   GitHub Ops
+OrgNOCPhone:  +1-415-735-4488 
+OrgNOCEmail:  hostmaster@github.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/GITHU-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

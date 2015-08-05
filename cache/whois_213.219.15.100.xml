@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Telecity Admin-c</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.219.15.0 - 213.219.15.127' is 'support@telecity.com'
+
+inetnum:        213.219.15.0 - 213.219.15.127
+netname:        TCABRITASLIM
+descr:          TeleCity Group Customer - Abritas Limited
+country:        GB
+remarks:        In case of abuse please email; brian.sturrock@abritas.co.uk
+admin-c:        TA515-RIPE
+tech-c:         TT556-RIPE
+status:         ASSIGNED PA
+notify:         lir@telecity.com
+mnt-by:         TELECITY-MNT
+changed:        Mathias@telecity.com 20090923
+created:        2009-09-23T15:41:23Z
+last-modified:  2009-09-23T15:41:23Z
+source:         RIPE
+
+role:           Telecity Admin-c
+address:        Telecity Group PLC
+address:        10th Floor
+address:        6&amp;7 Harbour Exchange Square
+address:        London
+address:        UK
+address:        E14 9GE
+phone:          +44 207 5318750
+fax-no:         +44 207 5318750
+remarks:        +-------------------------------------------------
+remarks:        | All reports regarding these networks should be  |
+remarks:        | sent to abuse-mailbox: If you report   abuse    |
+remarks:        | to any other address you will get no response.  |
+remarks:        +-------------------------------------------------
+remarks:        trouble:      In case of abuse email abuse-mailbox
+abuse-mailbox:  abuse@telecity.com
+e-mail:         lir@telecity.com
+admin-c:        MVR9-RIPE
+admin-c:        GQ31-RIPE
+admin-c:        MS16149-RIPE
+tech-c:         TT556-RIPE
+nic-hdl:        TA515-RIPE
+remarks:        Role to be used for admin-c function
+notify:         lir@telecity.com
+changed:        michael.vanrensburg@telecity.com 20101116
+mnt-by:         TELECITY-MNT
+created:        2002-09-03T17:08:18Z
+last-modified:  2010-11-16T13:41:06Z
+source:         RIPE
+
+role:           Telecity Tech-c
+address:        Telecity Group PLC
+address:        10th Floor
+address:        6&amp;7 Harbour Exchange
+address:        London
+address:        UK
+address:        E14 9GE
+phone:          +44 207 5318750
+fax-no:         +44 207 5318750
+remarks:        +-------------------------------------------------
+remarks:        | All reports regarding these networks should be |
+remarks:        | sent to abuse-mailbox: If you report abuse |
+remarks:        | to any other address you will get no response. |
+remarks:        +-------------------------------------------------
+remarks:        trouble: In case of abuse email abuse-mailbox:
+abuse-mailbox:  abuse@telecity.com
+e-mail:         lir@telecity.com
+admin-c:        TA515-RIPE
+tech-c:         MK2403-RIPE
+tech-c:         MVR9-RIPE
+tech-c:         AR10441-RIPE
+tech-c:         PM18053-RIPE
+nic-hdl:        TT556-RIPE
+remarks:        Role to be used for tech-c function
+notify:         lir@telecity.com
+changed:        michael.vanrensburg@telecity.com 20101116
+changed:        andreas.rudel@telecity.com 20120607
+mnt-by:         TELECITY-MNT
+created:        2002-09-03T16:56:48Z
+last-modified:  2015-07-14T16:44:31Z
+source:         RIPE
+
+route:          213.219.0.0/19
+descr:          Route Originated by Telecity Group
+origin:         AS15830
+mnt-by:         TELECITY-MNT
+changed:        peter.mahoney@telecity.com 20140619
+created:        2014-06-19T13:49:12Z
+last-modified:  2014-06-19T13:49:12Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Salesforce.com, Inc.</registrant>
+    <registration>
+      <created>2010-08-23</created>
+      <updated>2015-02-11</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       96.43.144.0 - 96.43.159.255
+CIDR:           96.43.144.0/20
+NetName:        SFDC-2
+NetHandle:      NET-96-43-144-0-1
+Parent:         NET96 (NET-96-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS14340
+Organization:   Salesforce.com, Inc. (SALESF-3)
+RegDate:        2010-08-23
+Updated:        2015-02-11
+Ref:            http://whois.arin.net/rest/net/NET-96-43-144-0-1
+
+OrgName:        Salesforce.com, Inc.
+OrgId:          SALESF-3
+Address:        1 Market Street
+Address:        Suite 300
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94105
+Country:        US
+RegDate:        1999-11-30
+Updated:        2014-11-20
+Ref:            http://whois.arin.net/rest/org/SALESF-3
+
+OrgNOCHandle: NOC1403-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-415-901-7000 
+OrgNOCEmail:  arin@salesforce.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1403-ARIN
+
+OrgAbuseHandle: SAN76-ARIN
+OrgAbuseName:   Salesforce Abuse NOC
+OrgAbusePhone:  +1-703-463-3219 
+OrgAbuseEmail:  abuse@salesforce.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SAN76-ARIN
+
+OrgAbuseHandle: NOC1403-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-415-901-7000 
+OrgAbuseEmail:  arin@salesforce.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC1403-ARIN
+
+OrgTechHandle: NOC1403-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-415-901-7000 
+OrgTechEmail:  arin@salesforce.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1403-ARIN
+
+RNOCHandle: NOC1403-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-415-901-7000 
+RNOCEmail:  arin@salesforce.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC1403-ARIN
+
+RTechHandle: NOC1403-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-415-901-7000 
+RTechEmail:  arin@salesforce.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC1403-ARIN
+
+RAbuseHandle: SAN76-ARIN
+RAbuseName:   Salesforce Abuse NOC
+RAbusePhone:  +1-703-463-3219 
+RAbuseEmail:  abuse@salesforce.com
+RAbuseRef:    http://whois.arin.net/rest/poc/SAN76-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

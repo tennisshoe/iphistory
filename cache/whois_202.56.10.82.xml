@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Christopher Tolson</registrant>
+    <registration>
+      <updated>2006-12-07</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        202.56.10.64 - 202.56.10.95
+netname:        hkg001-bet365-1
+country:        HK
+descr:          bet365-1
+admin-c:        CT398-AP
+tech-c:         CT398-AP
+status:         ASSIGNED NON-PORTABLE
+changed:        jonv@internap.com 20061207
+mnt-by:         MAINT-HK-PNAP
+source:         APNIC
+
+person:         Christopher Tolson
+nic-hdl:        CT398-AP
+e-mail:         Chris.tolson@bet365.com
+address:        Festival Way
+address:        Stoke-on-Trent
+address:        Stoke-on-Trent,, ST1 5SH GBR
+phone:          +44-845-6000-365
+country:        GB
+changed:        jonv@internap.com 20061201
+mnt-by:         MAINT-NEW
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

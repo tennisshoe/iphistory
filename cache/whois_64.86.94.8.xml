@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TATA COMMUNICATIONS (AMERICA) INC</registrant>
+    <registration>
+      <created>2000-05-04</created>
+      <updated>2014-04-22</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.86.0.0 - 64.86.255.255
+CIDR:           64.86.0.0/16
+NetName:        TATAC-ARIN-2
+NetHandle:      NET-64-86-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS6453
+Organization:   TATA COMMUNICATIONS (AMERICA) INC (TCA-51)
+RegDate:        2000-05-04
+Updated:        2014-04-22
+Ref:            http://whois.arin.net/rest/net/NET-64-86-0-0-1
+
+OrgName:        TATA COMMUNICATIONS (AMERICA) INC
+OrgId:          TCA-51
+Address:        2711 Centerville Road
+Address:        Suite 400
+City:           Wilmington
+StateProv:      DE
+PostalCode:     19808
+Country:        US
+RegDate:        2014-01-28
+Updated:        2014-04-29
+Ref:            http://whois.arin.net/rest/org/TCA-51
+
+OrgTechHandle: IPADM470-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1 514 315 7888 
+OrgTechEmail:  ip-addr@tatacommunications.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM470-ARIN
+
+OrgNOCHandle: IPNOC14-ARIN
+OrgNOCName:   IP NOC
+OrgNOCPhone:  +15148687888 
+OrgNOCEmail:  6453abuse@tatacommunications.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/IPNOC14-ARIN
+
+OrgAbuseHandle: IPNOC14-ARIN
+OrgAbuseName:   IP NOC
+OrgAbusePhone:  +15148687888 
+OrgAbuseEmail:  6453abuse@tatacommunications.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPNOC14-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Armiston Investments Limited</registrant>
+    <registration>
+      <created>2008-06-10</created>
+      <updated>2014-05-13</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       65.97.48.0 - 65.97.63.255
+CIDR:           65.97.48.0/20
+NetName:        NETDC
+NetHandle:      NET-65-97-48-0-1
+Parent:         NET65 (NET-65-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS558
+Organization:   Net Data Centers, Inc. (NET2E)
+RegDate:        2008-06-10
+Updated:        2014-05-13
+Ref:            http://whois.arin.net/rest/net/NET-65-97-48-0-1
+
+OrgName:        Net Data Centers, Inc.
+OrgId:          NET2E
+Address:        898 N Sepulveda Blvd
+City:           El Segundo
+StateProv:      CA
+PostalCode:     90245
+Country:        US
+RegDate:        2003-06-19
+Updated:        2014-05-13
+Ref:            http://whois.arin.net/rest/org/NET2E
+
+OrgAbuseHandle: ABUSE4716-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-310-426-9933 
+OrgAbuseEmail:  abuse@netdc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4716-ARIN
+
+OrgNOCHandle: NOC31864-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-310-426-9933 
+OrgNOCEmail:  support@netdc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC31864-ARIN
+
+OrgTechHandle: NET2E-ARIN
+OrgTechName:   Net2EZ Support
+OrgTechPhone:  +1-310-426-9933 
+OrgTechEmail:  support@net2ez.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NET2E-ARIN
+
+RTechHandle: NET2E-ARIN
+RTechName:   Net2EZ Support
+RTechPhone:  +1-310-426-9933 
+RTechEmail:  support@net2ez.com
+RTechRef:    http://whois.arin.net/rest/poc/NET2E-ARIN
+
+NetRange:       65.97.58.0 - 65.97.58.255
+CIDR:           65.97.58.0/24
+NetName:        ARMISTON-INVESTMENTS-LIMITED
+NetHandle:      NET-65-97-58-0-1
+Parent:         NETDC (NET-65-97-48-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Armiston Investments Limited (C02499984)
+RegDate:        2010-05-17
+Updated:        2010-05-17
+Ref:            http://whois.arin.net/rest/net/NET-65-97-58-0-1
+
+CustName:       Armiston Investments Limited
+Address:        Rankine Road
+City:           BASINGSTOKE
+StateProv:      UK
+PostalCode:     RG24 8PH
+Country:        GB
+RegDate:        2010-05-17
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02499984
+
+OrgAbuseHandle: ABUSE4716-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-310-426-9933 
+OrgAbuseEmail:  abuse@netdc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4716-ARIN
+
+OrgNOCHandle: NOC31864-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-310-426-9933 
+OrgNOCEmail:  support@netdc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC31864-ARIN
+
+OrgTechHandle: NET2E-ARIN
+OrgTechName:   Net2EZ Support
+OrgTechPhone:  +1-310-426-9933 
+OrgTechEmail:  support@net2ez.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NET2E-ARIN
+
+RTechHandle: NET2E-ARIN
+RTechName:   Net2EZ Support
+RTechPhone:  +1-310-426-9933 
+RTechEmail:  support@net2ez.com
+RTechRef:    http://whois.arin.net/rest/poc/NET2E-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

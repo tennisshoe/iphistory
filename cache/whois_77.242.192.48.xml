@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Internap Network Operations</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '77.242.192.0 - 77.242.193.255' is 'noc@internap.com'
+
+inetnum:        77.242.192.0 - 77.242.193.255
+netname:        INAP-LON-LOGMEIN-12918
+descr:          LogMeIn, Inc
+country:        US
+admin-c:        INO3-RIPE
+tech-c:         INO3-RIPE
+status:         ASSIGNED PA
+mnt-by:         INAP-MAINT-RIPE
+changed:        tduskin@internap.com 20070306
+created:        2007-03-06T15:56:55Z
+last-modified:  2007-03-06T15:56:55Z
+source:         RIPE
+
+role:           Internap Network Operations
+address:        250 Williams Street
+address:        Suite E100
+address:        Atlanta, GA 30303 USA
+phone:          +1 404 302 9700
+fax-no:         +1 404 475 0520
+e-mail:         routereg@internap.com
+remarks:        trouble:      http://www.internap.com
+admin-c:        INAP-RIPE
+tech-c:         INAP-RIPE
+nic-hdl:        INO3-RIPE
+notify:         routereg@internap.com
+mnt-by:         INAP-MAINT-RIPE
+changed:        bkallinen@internap.com 20060522
+created:        2002-03-15T14:34:50Z
+last-modified:  2006-05-24T15:23:08Z
+source:         RIPE
+
+route:          77.242.192.0/21
+descr:          PNAP-LON
+origin:         AS15570
+mnt-by:         INAP-MAINT-RIPE
+changed:        mbarnes@internap.com 20131015
+created:        2013-10-16T02:09:39Z
+last-modified:  2013-10-16T02:09:39Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ALK Marketing, Inc.</registrant>
+    <registration>
+      <created>2006-11-22</created>
+      <updated>2006-11-22</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       72.32.169.48 - 72.32.169.55
+CIDR:           72.32.169.48/29
+NetName:        RSPC-105331-1164206952
+NetHandle:      NET-72-32-169-48-1
+Parent:         RSCP-NET-4 (NET-72-32-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       ALK Marketing, Inc. (C01500702)
+RegDate:        2006-11-22
+Updated:        2006-11-22
+Ref:            http://whois.arin.net/rest/net/NET-72-32-169-48-1
+
+CustName:       ALK Marketing, Inc.
+Address:        122 Summerville Dr.
+Address:        Suite 101
+City:           Moorseville
+StateProv:      NC
+PostalCode:     28115
+Country:        US
+RegDate:        2006-11-22
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01500702
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+NetRange:       72.32.0.0 - 72.32.255.255
+CIDR:           72.32.0.0/16
+NetName:        RSCP-NET-4
+NetHandle:      NET-72-32-0-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS33070, AS19994, AS10532, AS27357
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2005-02-25
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-72-32-0-0-1
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        5000 Walzem Road
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/RACKS-8
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

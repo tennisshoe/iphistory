@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Gianluca Ricci</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.68.193.0 - 80.68.193.255' is 'abuse@eur-tel.com'
+
+inetnum:        80.68.193.0 - 80.68.193.255
+netname:        EURNETCITY
+descr:          EUR TEL S.r.l.
+country:        IT
+admin-c:        MRDP5-RIPE
+tech-c:         GR7973-RIPE
+remarks:        rev-srv:        dns2.eurnetcity.net
+remarks:        rev-srv:        dns3.eurnetcity.net
+status:         ASSIGNED PA
+mnt-by:         EURNETCITY-MNT
+changed:        hostmaster@eurnetcity.net 20090403
+changed:        hostmaster@eur-tel.com 20130607
+created:        2009-04-03T12:15:45Z
+last-modified:  2013-06-07T08:24:13Z
+source:         RIPE
+remarks:        rev-srv attribute deprecated by RIPE NCC on 02/09/2009
+
+person:         Gianluca Ricci
+address:        Viale della Letteratura, 9
+address:        00144 Roma
+address:        IT Italy
+phone:          +39 06 5425.2286
+nic-hdl:        GR7973-RIPE
+mnt-by:         EURNETCITY-MNT
+changed:        hostmaster@eur-tel.com 20130607
+created:        2013-06-07T08:08:53Z
+last-modified:  2013-06-07T08:08:53Z
+source:         RIPE
+
+person:         Maria Raffaella De Prisco
+address:        Largo Virgilio Testa, 23
+address:        00144 Roma
+address:        IT Italy
+phone:          +39 06 54252136
+nic-hdl:        MRDP5-RIPE
+mnt-by:         EURNETCITY-MNT
+changed:        hostmaster@eur-tel.com 20130607
+created:        2013-06-07T08:11:15Z
+last-modified:  2013-06-07T08:11:15Z
+source:         RIPE
+
+route:          80.68.192.0/20
+descr:          EURNETCITY-BLK
+origin:         AS20794
+mnt-by:         EURNETCITY-MNT
+changed:        hostmaster@eurnetcity.net 20010702
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:31:43Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

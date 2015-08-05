@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ViaWest</registrant>
+    <registration>
+      <created>2007-08-24</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       74.63.128.0 - 74.63.191.255
+CIDR:           74.63.128.0/18
+NetName:        VIAWEST-BLK-17
+NetHandle:      NET-74-63-128-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13649
+Organization:   ViaWest  (VINS)
+RegDate:        2007-08-24
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-74-63-128-0-1
+
+OrgName:        ViaWest 
+OrgId:          VINS
+Address:        6400 South Fiddler's Green Circle
+Address:        Suite 2000
+City:           Greenwood Village
+StateProv:      CO
+PostalCode:     80111
+Country:        US
+RegDate:        2000-04-24
+Updated:        2015-06-18
+Ref:            http://whois.arin.net/rest/org/VINS
+
+ReferralServer:  rwhois://rwhois.viawest.net:4321
+
+OrgTechHandle: ROUTI1-ARIN
+OrgTechName:   Routing
+OrgTechPhone:  +1-303-407-4700 
+OrgTechEmail:  routing@viawest.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ROUTI1-ARIN
+
+OrgAbuseHandle: ABUSE360-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +1-720-891-1000 
+OrgAbuseEmail:  abuse@viawest.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE360-ARIN
+
+RTechHandle: ROUTI1-ARIN
+RTechName:   Routing
+RTechPhone:  +1-303-407-4700 
+RTechEmail:  routing@viawest.net
+RTechRef:    http://whois.arin.net/rest/poc/ROUTI1-ARIN
+
+RNOCHandle: ROUTI1-ARIN
+RNOCName:   Routing
+RNOCPhone:  +1-303-407-4700 
+RNOCEmail:  routing@viawest.net
+RNOCRef:    http://whois.arin.net/rest/poc/ROUTI1-ARIN
+
+RAbuseHandle: ABUSE360-ARIN
+RAbuseName:   Abuse Contact
+RAbusePhone:  +1-720-891-1000 
+RAbuseEmail:  abuse@viawest.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE360-ARIN
+
+== Additional Information From rwhois://rwhois.viawest.net:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.viawest.net (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:74.63.128.0/18
+network:Auth-Area:74.63.128.0/18
+network:Network-Name:VW-VIAWEST-BLK-17
+network:IP-Network:74.63.128.0/18
+network:Organization;I:CID-18266
+network:Tech-Contact;I:ROUTI-ARIN
+network:Admin-Contact;I:ZV2-ARIN
+network:Created:20020815
+network:Updated:20150805
+network:Updated-By:routing@viawest.net
+
+%referral rwhois://rwhois.arin.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

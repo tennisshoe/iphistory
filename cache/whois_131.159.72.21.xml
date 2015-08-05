@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TUM RBG-IN</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% No abuse contact registered for 131.159.0.0 - 131.159.255.255
+
+inetnum:        131.159.0.0 - 131.159.255.255
+descr:          Institut fuer Informatik der TU Muenchen Rechnerbetriebsgruppe Boltzmannstrasse 3 85747 Garching Germany
+admin-c:        SS27082-RIPE
+tech-c:         TR1526-RIPE
+netname:        TUM-INFO-LAN
+country:        DE
+status:         LEGACY
+remarks:        For information on "status:" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources
+mnt-by:         TUM-INFO-MNT
+mnt-routes:     LRZ-MNT
+changed:        porten@vm.gmd.de 19910820
+changed:        rv@Informatik.Uni-Dortmund.DE 19930203
+changed:        poldi@dfn.de 20021122
+changed:        er-transfer@ripe.net 20040204
+changed:        troebs@lrz.de 20060223
+changed:        michael.herrmann@cs.tum.edu 20060223
+changed:        michael.herrmann@cs.tum.edu 20061209
+changed:        schwalb@in.tum.de 20150325
+created:        1970-01-01T00:00:00Z
+last-modified:  2015-05-05T01:38:10Z
+source:         RIPE
+
+role:           TUM RBG-IN
+address:        TU Muenchen Department of Informatics RBG Systemgruppe Boltzmannstrasse 3 85748 Garching Germany
+phone:          +49 89 289 18534
+fax-no:         +49 89 289 18507
+e-mail:         rbg-system@in.tum.de
+admin-c:        SS27082-RIPE
+tech-c:         SS27082-RIPE
+nic-hdl:        TR1526-RIPE
+mnt-by:         TUM-INFO-MNT
+changed:        michael.herrmann@cs.tum.edu 20060222
+changed:        michael.herrmann@cs.tum.edu 20061209
+changed:        schwalb@in.tum.de 20150325
+created:        2006-02-22T15:51:44Z
+last-modified:  2015-03-25T16:35:18Z
+source:         RIPE
+
+person:         Stefan Schwalb
+address:        TU Muenchen Department of Informatics Boltzmannstrasse 3 85748 Garching Germany
+phone:          +49 89 289 18532
+fax-no:         +49 89 289 18507
+nic-hdl:        SS27082-RIPE
+mnt-by:         TUM-INFO-MNT
+changed:        michael.herrmann@cs.tum.edu 20150325
+created:        2015-03-25T16:25:22Z
+last-modified:  2015-03-25T16:25:22Z
+source:         RIPE
+
+route:          131.159.0.0/16
+descr:          TUM-INFO-LAN
+origin:         AS1275
+mnt-routes:     LRZ-MNT
+mnt-by:         DFN-MNT
+changed:        ripe-dbm@ripe.net 19941121
+changed:        poldi@dfn.de 19950907
+changed:        poldi@dfn.de 20021125
+created:        1970-01-01T00:00:00Z
+last-modified:  2002-11-25T13:22:19Z
+source:         RIPE
+
+route:          131.159.0.0/16
+descr:          TUM-INFO-LAN
+origin:         AS12816
+mnt-routes:     DFN-MNT
+mnt-by:         LRZ-MNT
+changed:        troebs@lrz.de 20021125
+created:        2002-11-25T15:08:32Z
+last-modified:  2002-11-25T15:08:32Z
+source:         RIPE
+
+route:          131.159.0.0/16
+descr:          TUM-INFO-LAN
+origin:         AS680
+mnt-routes:     LRZ-MNT
+mnt-by:         DFN-MNT
+changed:        heiligers@noc.dfn.de 20000526
+changed:        poldi@dfn.de 20021125
+created:        1970-01-01T00:00:00Z
+last-modified:  2002-11-25T13:22:18Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

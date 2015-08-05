@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hosting Rapido SLU</registrant>
+    <registration>
+      <created>2008-02-04</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       67.222.128.0 - 67.222.159.255
+CIDR:           67.222.128.0/19
+NetName:        DFW-DATACENTER
+NetHandle:      NET-67-222-128-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS30277
+Organization:   DFW Datacenter (TMS-52)
+RegDate:        2008-02-04
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-67-222-128-0-1
+
+OrgName:        DFW Datacenter
+OrgId:          TMS-52
+Address:        3000 Irving Blvd
+City:           Dallas
+StateProv:      TX
+PostalCode:     75247
+Country:        US
+RegDate:        2003-08-19
+Updated:        2012-06-05
+Ref:            http://whois.arin.net/rest/org/TMS-52
+
+OrgAbuseHandle: DFWDA-ARIN
+OrgAbuseName:   DFW Datacenter
+OrgAbusePhone:  +1-214-256-3746 
+OrgAbuseEmail:  sales@dfw-datacenter.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+OrgTechHandle: DFWDA-ARIN
+OrgTechName:   DFW Datacenter
+OrgTechPhone:  +1-214-256-3746 
+OrgTechEmail:  sales@dfw-datacenter.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+RAbuseHandle: DFWDA-ARIN
+RAbuseName:   DFW Datacenter
+RAbusePhone:  +1-214-256-3746 
+RAbuseEmail:  sales@dfw-datacenter.com
+RAbuseRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+RTechHandle: DFWDA-ARIN
+RTechName:   DFW Datacenter
+RTechPhone:  +1-214-256-3746 
+RTechEmail:  sales@dfw-datacenter.com
+RTechRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+RNOCHandle: DFWDA-ARIN
+RNOCName:   DFW Datacenter
+RNOCPhone:  +1-214-256-3746 
+RNOCEmail:  sales@dfw-datacenter.com
+RNOCRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+NetRange:       67.222.143.10 - 67.222.143.65
+CIDR:           67.222.143.16/28, 67.222.143.10/31, 67.222.143.64/31, 67.222.143.12/30, 67.222.143.32/27
+NetName:        HOSTING-RAPIDO-SLUNET
+NetHandle:      NET-67-222-143-10-1
+Parent:         DFW-DATACENTER (NET-67-222-128-0-1)
+NetType:        Reassigned
+OriginAS:       AS30277
+Customer:       Hosting Rapido SLU (C03383586)
+RegDate:        2013-04-26
+Updated:        2013-04-26
+Comment:        Spanish speaking ;-)
+Ref:            http://whois.arin.net/rest/net/NET-67-222-143-10-1
+
+CustName:       Hosting Rapido SLU
+Address:        Jeronimo Arroyo 13 bajo
+City:           Palencia
+StateProv:      
+PostalCode:     34004
+Country:        ES
+RegDate:        2013-04-26
+Updated:        2013-04-26
+Ref:            http://whois.arin.net/rest/customer/C03383586
+
+OrgAbuseHandle: DFWDA-ARIN
+OrgAbuseName:   DFW Datacenter
+OrgAbusePhone:  +1-214-256-3746 
+OrgAbuseEmail:  sales@dfw-datacenter.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+OrgTechHandle: DFWDA-ARIN
+OrgTechName:   DFW Datacenter
+OrgTechPhone:  +1-214-256-3746 
+OrgTechEmail:  sales@dfw-datacenter.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+RAbuseHandle: DFWDA-ARIN
+RAbuseName:   DFW Datacenter
+RAbusePhone:  +1-214-256-3746 
+RAbuseEmail:  sales@dfw-datacenter.com
+RAbuseRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+RTechHandle: DFWDA-ARIN
+RTechName:   DFW Datacenter
+RTechPhone:  +1-214-256-3746 
+RTechEmail:  sales@dfw-datacenter.com
+RTechRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN
+
+RNOCHandle: DFWDA-ARIN
+RNOCName:   DFW Datacenter
+RNOCPhone:  +1-214-256-3746 
+RNOCEmail:  sales@dfw-datacenter.com
+RNOCRef:    http://whois.arin.net/rest/poc/DFWDA-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

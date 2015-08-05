@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>warmportrait.com</domain_name>
+    <ip_history/>
+    <registrar_history>
+      <domain>WARMPORTRAIT.COM</domain>
+      <date_updated>2015-01-01</date_updated>
+      <date_created>2015-01-01</date_created>
+      <date_expires>2016-01-01</date_expires>
+      <date_lastchecked>2015-01-27</date_lastchecked>
+      <registrar>eNom.com</registrar>
+      <registrartag>ENOM, INC.</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>WARMPORTRAIT.COM</domain>
+      <action>N</action>
+      <actiondate>2015-01-02</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Registrar-servers.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

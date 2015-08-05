@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>BTnet Support</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.32.164.0 - 217.32.167.255' is 'abuse@bt.com'
+
+inetnum:        217.32.164.0 - 217.32.167.255
+netname:        BT-IGNITE
+descr:          Content Hosting
+country:        GB
+admin-c:        BS1474-RIPE
+tech-c:         BS1474-RIPE
+status:         ASSIGNED PA
+remarks:        Please send abuse notification to abuse@bt.net
+mnt-by:         BTNET-MNT
+mnt-lower:      BTNET-MNT
+mnt-routes:     BTNET-MNT
+changed:        support@bt.net 20000629
+changed:        preston.dialip@bt.com 20010628
+changed:        preston.dialip@bt.com 20020724
+created:        2002-07-24T10:42:12Z
+last-modified:  2002-07-24T10:42:12Z
+source:         RIPE
+
+role:           BTnet Support
+address:        Adhara
+address:        Adastral Park
+address:        Martlesham Heath
+address:        Ipswich
+address:        SUFFLK   IP5 3RE
+address:        GB
+phone:          +44 800 0858963  5
+phone:          +44 1473 336231
+e-mail:         as2856peering@bt.com
+e-mail:         btnetdns@bt.net
+admin-c:        FLS15-RIPE
+tech-c:         BS1474-RIPE
+nic-hdl:        BS1474-RIPE
+remarks:        For all queries contact as2856peering@bt.com
+remarks:        Please send delisting issues to btnetdns@bt.net
+mnt-by:         BTNET-MNT
+changed:        ipmaster@bt.com 20071105
+changed:        as2856peering@bt.com 20091119
+created:        2002-04-30T07:54:10Z
+last-modified:  2009-11-19T15:52:52Z
+source:         RIPE
+
+route:          217.32.0.0/12
+descr:          BT Public Internet Service
+origin:         AS2856
+mnt-by:         BTNET-INFRA-MNT
+notify:         ip.address.admin@bt.com
+changed:        ipaddman@bt.com 20140731
+created:        2013-07-16T15:21:16Z
+last-modified:  2014-07-31T07:35:10Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

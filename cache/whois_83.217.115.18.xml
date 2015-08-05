@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Centric Support</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.217.115.16 - 83.217.115.23' is 'hostmaster@adaptplc.com'
+
+inetnum:        83.217.115.16 - 83.217.115.23
+netname:        LIVE-DRIVE-NET
+descr:          Livedrive
+country:        GB
+admin-c:        CTs6-RIPE
+tech-c:         CTs6-RIPE
+status:         ASSIGNED PA
+mnt-by:         CENTRIC-MNT
+mnt-lower:      CENTRIC-MNT
+mnt-routes:     CENTRIC-MNT
+notify:         hostmaster@centrictelecom.com
+changed:        hostmaster@centrictelecom.com 20070117
+created:        2007-01-17T14:47:45Z
+last-modified:  2007-01-17T14:47:45Z
+source:         RIPE
+
+person:         Centric Support
+address:        Centric Telecom Ltd
+address:        Dorland House
+address:        14-16 Regent Street
+address:        London
+address:        SW1Y 4PH
+phone:          +44-20-7306-2220
+fax-no:         +44-20-7306-2233
+e-mail:         support@centrictelecom.com
+nic-hdl:        CTS6-RIPE
+notify:         lsmart@centrictelecom.com
+changed:        hostmaster@centrictelecom.com 20070208
+created:        2002-12-10T12:07:06Z
+last-modified:  2007-02-08T14:39:37Z
+source:         RIPE
+
+route:          83.217.96.0/19
+descr:          Centric Telecom's Active Centric Core
+origin:         AS20520
+changed:        lsmart@centrictelecom.com 20040608
+mnt-by:         CENTRIC-MNT
+created:        2004-06-08T07:53:05Z
+last-modified:  2004-06-08T07:53:05Z
+source:         RIPE
+
+route:          83.217.96.0/19
+descr:          Adapt 83.217.96.0/19
+origin:         AS24867
+changed:        ripe-admin@adaptplc.com 20120113
+mnt-by:         AS24867-MNT
+created:        2012-01-13T15:03:24Z
+last-modified:  2012-01-13T15:03:24Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

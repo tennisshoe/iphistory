@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>AT&amp;T Services, Inc.</registrant>
+    <registration>
+      <created>1985-11-27</created>
+      <updated>2012-04-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       192.20.0.0 - 192.20.224.255
+CIDR:           192.20.128.0/18, 192.20.0.0/17, 192.20.192.0/19, 192.20.224.0/24
+NetName:        ATT-MD-NET2
+NetHandle:      NET-192-20-0-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   AT&amp;T Services, Inc. (ATTSE-Z)
+RegDate:        1985-11-27
+Updated:        2012-04-02
+Ref:            http://whois.arin.net/rest/net/NET-192-20-0-0-1
+
+OrgName:        AT&amp;T Services, Inc.
+OrgId:          ATTSE-Z
+Address:        Enterprise IP Group
+Address:        c/o Ed Williams
+Address:        240 N Meridian Street
+Address:        Room 280
+City:           Indianapolis
+StateProv:      IN
+PostalCode:     46204
+Country:        US
+RegDate:        2009-01-30
+Updated:        2013-12-10
+Comment:        http://www.att.com
+Ref:            http://whois.arin.net/rest/org/ATTSE-Z
+
+OrgAbuseHandle: ABUSE7-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE7-ARIN
+
+OrgTechHandle: WILLI576-ARIN
+OrgTechName:   Williams, Ed 
+OrgTechPhone:  +1-317-265-8902 
+OrgTechEmail:  ew2497@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WILLI576-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

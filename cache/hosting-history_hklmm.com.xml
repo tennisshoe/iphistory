@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>hklmm.com</domain_name>
+    <ip_history/>
+    <registrar_history>
+      <domain>HKLMM.COM</domain>
+      <date_updated>2013-01-14</date_updated>
+      <date_created>2013-01-14</date_created>
+      <date_expires>2014-01-14</date_expires>
+      <date_lastchecked>2013-01-20</date_lastchecked>
+      <registrar>Jiangsu Bangning Science &amp; technology Co. Ltd.</registrar>
+      <registrartag>JIANGSU BANGNING SCIENCE &amp; TECHNOLOGY CO. LTD</registrartag>
+    </registrar_history>
+    <registrar_history>
+      <domain>HKLMM.COM</domain>
+      <date_updated>2015-03-09</date_updated>
+      <date_created>2015-03-09</date_created>
+      <date_expires>2016-03-09</date_expires>
+      <date_lastchecked>2015-03-15</date_lastchecked>
+      <registrar>GoDaddy.com</registrar>
+      <registrartag>Go Daddy Software Inc</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>HKLMM.COM</domain>
+      <action>N</action>
+      <actiondate>2013-01-16</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Zgsj.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>HKLMM.COM</domain>
+      <action>T</action>
+      <actiondate>2014-01-15</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>4cun.com</post_mns>
+      <pre_mns>Zgsj.com</pre_mns>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>HKLMM.COM</domain>
+      <action>D</action>
+      <actiondate>2014-02-16</actiondate>
+      <action_in_words>Delete</action_in_words>
+      <post_mns/>
+      <pre_mns>4cun.com</pre_mns>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>HKLMM.COM</domain>
+      <action>N</action>
+      <actiondate>2015-03-11</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Awsdns-18.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

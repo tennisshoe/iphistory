@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>onesafe-software.com</domain_name>
+    <ip_history>
+      <domain>ONESAFE-SOFTWARE.COM</domain>
+      <post_ip>217.195.25.237</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2015-03-28</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>ONESAFE-SOFTWARE.COM</domain>
+      <post_ip>46.105.198.145</post_ip>
+      <pre_ip>217.195.25.237</pre_ip>
+      <action>C</action>
+      <actiondate>2015-05-25</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>ONESAFE-SOFTWARE.COM</domain>
+      <post_ip/>
+      <pre_ip>46.105.198.145</pre_ip>
+      <action>D</action>
+      <actiondate>2015-06-24</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>ONESAFE-SOFTWARE.COM</domain>
+      <post_ip>46.105.198.145</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2015-07-08</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>ONESAFE-SOFTWARE.COM</domain>
+      <date_updated>2015-03-27</date_updated>
+      <date_created>2015-03-27</date_created>
+      <date_expires>2016-03-27</date_expires>
+      <date_lastchecked>2015-03-28</date_lastchecked>
+      <registrar>Gandi</registrar>
+      <registrartag>GANDI</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>ONESAFE-SOFTWARE.COM</domain>
+      <action>N</action>
+      <actiondate>2015-03-28</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Gandi.net</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

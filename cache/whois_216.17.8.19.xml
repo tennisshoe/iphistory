@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Code 42</registrant>
+    <registration>
+      <created>1998-07-10</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.17.0.0 - 216.17.95.255
+CIDR:           216.17.64.0/19, 216.17.0.0/18
+NetName:        USINET-BLK
+NetHandle:      NET-216-17-0-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   US Internet Corp (USIC)
+RegDate:        1998-07-10
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-17-0-0-1
+
+OrgName:        US Internet Corp
+OrgId:          USIC
+Address:        12450 Wayzata Blvd Suite 315
+City:           Minnetonka
+StateProv:      MN
+PostalCode:     55305
+Country:        US
+RegDate:        1995-10-25
+Updated:        2015-05-27
+Ref:            http://whois.arin.net/rest/org/USIC
+
+OrgAbuseHandle: KL476-ARIN
+OrgAbuseName:   Lange, Kurt 
+OrgAbusePhone:  +1-952-253-3200 
+OrgAbuseEmail:  hostmaster@usinternet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/KL476-ARIN
+
+OrgTechHandle: KL476-ARIN
+OrgTechName:   Lange, Kurt 
+OrgTechPhone:  +1-952-253-3200 
+OrgTechEmail:  hostmaster@usinternet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KL476-ARIN
+
+RTechHandle: KL476-ARIN
+RTechName:   Lange, Kurt 
+RTechPhone:  +1-952-253-3200 
+RTechEmail:  hostmaster@usinternet.com
+RTechRef:    http://whois.arin.net/rest/poc/KL476-ARIN
+
+NetRange:       216.17.8.0 - 216.17.8.255
+CIDR:           216.17.8.0/24
+NetName:        USI-NETBLK-8-0
+NetHandle:      NET-216-17-8-0-1
+Parent:         USINET-BLK (NET-216-17-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS10242
+Customer:       Code 42 (C04661216)
+RegDate:        2013-08-05
+Updated:        2013-08-05
+Ref:            http://whois.arin.net/rest/net/NET-216-17-8-0-1
+
+CustName:       Code 42
+Address:        One Main St SE
+City:           Minneapolis
+StateProv:      MN
+PostalCode:     55414
+Country:        US
+RegDate:        2013-08-05
+Updated:        2013-08-05
+Ref:            http://whois.arin.net/rest/customer/C04661216
+
+OrgAbuseHandle: KL476-ARIN
+OrgAbuseName:   Lange, Kurt 
+OrgAbusePhone:  +1-952-253-3200 
+OrgAbuseEmail:  hostmaster@usinternet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/KL476-ARIN
+
+OrgTechHandle: KL476-ARIN
+OrgTechName:   Lange, Kurt 
+OrgTechPhone:  +1-952-253-3200 
+OrgTechEmail:  hostmaster@usinternet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KL476-ARIN
+
+RTechHandle: KL476-ARIN
+RTechName:   Lange, Kurt 
+RTechPhone:  +1-952-253-3200 
+RTechEmail:  hostmaster@usinternet.com
+RTechRef:    http://whois.arin.net/rest/poc/KL476-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

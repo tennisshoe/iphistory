@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Bredband2 Routingregistry</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.233.41.0 - 83.233.41.31' is 'abuse@bredband2.se'
+
+inetnum:        83.233.41.0 - 83.233.41.31
+netname:        INFRA-BREDBAND2-NET-SE
+descr:          Bredband2 Infrastructure
+remarks:        INFRA-AW
+country:        SE
+admin-c:        BR1985-RIPE
+tech-c:         BR1985-RIPE
+status:         ASSIGNED PA
+mnt-by:         BB2-MNT
+changed:        ripe@bredband2.se 20141008
+created:        2010-06-09T09:54:52Z
+last-modified:  2014-10-08T10:54:44Z
+source:         RIPE
+
+role:           Bredband2 Routingregistry
+address:        Sodra Tullgatan 4 S-211 40 Malmoe Sweden
+phone:          +46 771 518500
+fax-no:         +46 40 125890
+e-mail:         ripe@bredband2.se
+abuse-mailbox:  abuse@bredband2.se
+admin-c:        RAD-RIPE
+tech-c:         RAD-RIPE
+admin-c:        BBPP-RIPE
+tech-c:         BBPP-RIPE
+nic-hdl:        BR1985-RIPE
+mnt-by:         BB2-MNT
+changed:        ripe@bredband2.se 20090429
+created:        2009-03-09T13:07:04Z
+last-modified:  2015-07-01T18:03:05Z
+source:         RIPE
+
+route:          83.233.0.0/16
+descr:          BREDBAND2-BLK
+origin:         AS29518
+mnt-by:         BB2-MNT
+created:        2004-02-09T10:30:06Z
+last-modified:  2010-06-15T11:55:29Z
+source:         RIPE
+changed:        ripe@bredband2.se 20100615</record>
+    </whois>
+  </response>
+</whoisapi>
+

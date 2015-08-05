@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Digital Ocean, Inc.</registrant>
+    <registration>
+      <created>2014-06-02</created>
+      <updated>2014-06-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       104.131.0.0 - 104.131.255.255
+CIDR:           104.131.0.0/16
+NetName:        DIGITALOCEAN-9
+NetHandle:      NET-104-131-0-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS393406, AS14061, AS62567, AS46652
+Organization:   Digital Ocean, Inc. (DO-13)
+RegDate:        2014-06-02
+Updated:        2014-06-02
+Comment:        http://www.digitalocean.com
+Comment:        Simple Cloud Hosting
+Ref:            http://whois.arin.net/rest/net/NET-104-131-0-0-1
+
+OrgName:        Digital Ocean, Inc.
+OrgId:          DO-13
+Address:        101 Ave of the Americas
+Address:        10th Floor
+City:           New York
+StateProv:      NY
+PostalCode:     10013
+Country:        US
+RegDate:        2012-05-14
+Updated:        2014-10-23
+Comment:        http://www.digitalocean.com
+Comment:        Simple Cloud Hosting
+Ref:            http://whois.arin.net/rest/org/DO-13
+
+OrgTechHandle: URETS-ARIN
+OrgTechName:   Uretsky, Ben 
+OrgTechPhone:  +1-646-397-8051 
+OrgTechEmail:  abuse@digitalocean.com
+OrgTechRef:    http://whois.arin.net/rest/poc/URETS-ARIN
+
+OrgNOCHandle: NOC32014-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-347-875-6044 
+OrgNOCEmail:  noc@digitalocean.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC32014-ARIN
+
+OrgTechHandle: NOC32014-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-347-875-6044 
+OrgTechEmail:  noc@digitalocean.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC32014-ARIN
+
+OrgAbuseHandle: URETS-ARIN
+OrgAbuseName:   Uretsky, Ben 
+OrgAbusePhone:  +1-646-397-8051 
+OrgAbuseEmail:  abuse@digitalocean.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/URETS-ARIN
+
+OrgTechHandle: SOCHA-ARIN
+OrgTechName:   Socha, Bryan 
+OrgTechPhone:  +1-347-875-6044 
+OrgTechEmail:  bryan@digitalocean.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SOCHA-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

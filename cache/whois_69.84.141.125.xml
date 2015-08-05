@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ColoSpace, Inc.</registrant>
+    <registration>
+      <created>2003-10-31</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.84.128.0 - 69.84.159.255
+CIDR:           69.84.128.0/19
+NetName:        COLOSPACE-NTBLK-01
+NetHandle:      NET-69-84-128-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   ColoSpace, Inc. (COLOSP)
+RegDate:        2003-10-31
+Updated:        2012-03-02
+Comment:        ADDRESS IN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-69-84-128-0-1
+
+OrgName:        ColoSpace, Inc.
+OrgId:          COLOSP
+Address:        Post Office Box 38
+City:           Cohasset
+StateProv:      MA
+PostalCode:     02025
+Country:        US
+RegDate:        2001-07-11
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/COLOSP
+
+ReferralServer:  rwhois://rwhois.colospace.net:4321
+
+OrgTechHandle: COLOS-ARIN
+OrgTechName:   ColoSpace Support
+OrgTechPhone:  +1-888-583-9200 
+OrgTechEmail:  support@colospace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/COLOS-ARIN
+
+OrgAbuseHandle: COLOS-ARIN
+OrgAbuseName:   ColoSpace Support
+OrgAbusePhone:  +1-888-583-9200 
+OrgAbuseEmail:  support@colospace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COLOS-ARIN
+
+RTechHandle: COLOS-ARIN
+RTechName:   ColoSpace Support
+RTechPhone:  +1-888-583-9200 
+RTechEmail:  support@colospace.com
+RTechRef:    http://whois.arin.net/rest/poc/COLOS-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

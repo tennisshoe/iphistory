@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Aeria Games &amp; Entertainment Inc.</registrant>
+    <registration>
+      <created>2010-04-21</created>
+      <updated>2010-04-21</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       174.142.60.0 - 174.142.60.255
+CIDR:           174.142.60.0/24
+NetName:        IWEB-AERIAGAMES-04
+NetHandle:      NET-174-142-60-0-1
+Parent:         IWEB-BLK-06 (NET-174-142-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Aeria Games &amp; Entertainment Inc. (C02473853)
+RegDate:        2010-04-21
+Updated:        2010-04-21
+Ref:            http://whois.arin.net/rest/net/NET-174-142-60-0-1
+
+CustName:       Aeria Games &amp; Entertainment Inc.
+Address:        2475, Augustine Dr., Suite 10
+City:           Santa Clara
+StateProv:      CA
+PostalCode:     95054
+Country:        US
+RegDate:        2010-04-21
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02473853
+
+OrgNOCHandle: NETWO2356-ARIN
+OrgNOCName:   Network Administrator
+OrgNOCPhone:  +1-514-286-4242 
+OrgNOCEmail:  net-admin@noc.privatedns.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgTechHandle: NETWO2356-ARIN
+OrgTechName:   Network Administrator
+OrgTechPhone:  +1-514-286-4242 
+OrgTechEmail:  net-admin@noc.privatedns.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgAbuseHandle: ABUSE1906-ARIN
+OrgAbuseName:   Abuse Coordinator
+OrgAbusePhone:  +1-514-286-4242 
+OrgAbuseEmail:  abuse@iweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1906-ARIN
+
+NetRange:       174.142.0.0 - 174.142.255.255
+CIDR:           174.142.0.0/16
+NetName:        IWEB-BLK-06
+NetHandle:      NET-174-142-0-0-1
+Parent:         NET174 (NET-174-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32613
+Organization:   iWeb Technologies Inc. (GIT-20)
+RegDate:        2008-12-19
+Updated:        2012-02-24
+Comment:        Please use abuse@noc.privatedns.com for abuse issues.
+Ref:            http://whois.arin.net/rest/net/NET-174-142-0-0-1
+
+OrgName:        iWeb Technologies Inc.
+OrgId:          GIT-20
+Address:        20, place du Commerce
+City:           Montreal
+StateProv:      QC
+PostalCode:     H3E-1Z6
+Country:        CA
+RegDate:        2003-11-06
+Updated:        2008-10-04
+Comment:        http://www.iweb.com
+Ref:            http://whois.arin.net/rest/org/GIT-20
+
+OrgNOCHandle: NETWO2356-ARIN
+OrgNOCName:   Network Administrator
+OrgNOCPhone:  +1-514-286-4242 
+OrgNOCEmail:  net-admin@noc.privatedns.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgTechHandle: NETWO2356-ARIN
+OrgTechName:   Network Administrator
+OrgTechPhone:  +1-514-286-4242 
+OrgTechEmail:  net-admin@noc.privatedns.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgAbuseHandle: ABUSE1906-ARIN
+OrgAbuseName:   Abuse Coordinator
+OrgAbusePhone:  +1-514-286-4242 
+OrgAbuseEmail:  abuse@iweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1906-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hostway Services, Inc.</registrant>
+    <registration>
+      <created>2000-06-28</created>
+      <updated>2013-06-25</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.139.208.0 - 216.139.255.255
+CIDR:           216.139.208.0/20, 216.139.224.0/19
+NetName:        HWSERVICES-AUS1
+NetHandle:      NET-216-139-208-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32400
+Organization:   Hostway Services, Inc. (HOSTW-6)
+RegDate:        2000-06-28
+Updated:        2013-06-25
+Ref:            http://whois.arin.net/rest/net/NET-216-139-208-0-1
+
+OrgName:        Hostway Services, Inc.
+OrgId:          HOSTW-6
+Address:        501 Waller St
+City:           Austin
+StateProv:      TX
+PostalCode:     78702
+Country:        US
+RegDate:        2009-01-12
+Updated:        2013-06-25
+Ref:            http://whois.arin.net/rest/org/HOSTW-6
+
+ReferralServer:  rwhois://rwhois.southwebventures.com:4321
+
+OrgTechHandle: NOC1501-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-512-469-7890 
+OrgTechEmail:  noc@southwebventures.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1501-ARIN
+
+OrgNOCHandle: NOC1501-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-512-469-7890 
+OrgNOCEmail:  noc@southwebventures.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC1501-ARIN
+
+OrgAbuseHandle: ABUSE548-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-512-469-7890 
+OrgAbuseEmail:  abuse@hostway.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE548-ARIN
+
+RAbuseHandle: ABUSE548-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-512-469-7890 
+RAbuseEmail:  abuse@hostway.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE548-ARIN
+
+== Additional Information From rwhois://rwhois.southwebventures.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.southwebventures.com (by Network Solutions, Inc.)
+network:Class-Name:network
+network:ID:NN 3
+network:Auth-Area:216.139.224.0/19
+network:Network-Name:216.139.227.0/24
+network:IP-Network:216.139.227.0/24
+network:Organization:Southweb Ventures
+network:City:Austin
+network:State:TX
+network:Country-Code:US
+network:Tech-Contact;I:noc@southwebventures.com
+network:Abuse-Contact;I:abuse@southwebventures.com
+network:Created:20080818
+network:Updated:20081118
+network:Updated-By:ipadmin@southwebventures.com
+
+network:Class-Name:network
+network:ID:SOUTHWEB-AUSTIN-216.139.224.0/19
+network:Auth-Area:216.139.224.0/19
+network:Network-Name:216.139.224.0/19
+network:IP-Network:216.139.224.0/19
+network:Organization:Southweb Ventures
+network:City:Austin
+network:State:TX
+network:Country-Code:US
+network:Tech-Contact;I:noc@southwebventures.com
+network:Abuse-Contact;I:abuse@southwebventures.com
+network:Created:20080818
+network:Updated:20081118
+network:Updated-By:ipadmin@southwebventures.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

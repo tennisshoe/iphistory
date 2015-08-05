@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Akamai Technologies, Inc.</registrant>
+    <registration>
+      <created>2005-07-11</created>
+      <updated>2015-06-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       72.52.0.0 - 72.52.63.255
+CIDR:           72.52.0.0/18
+NetName:        PROLEXIC
+NetHandle:      NET-72-52-0-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Akamai Technologies, Inc. (AKAMAI)
+RegDate:        2005-07-11
+Updated:        2015-06-24
+Ref:            http://whois.arin.net/rest/net/NET-72-52-0-0-1
+
+OrgName:        Akamai Technologies, Inc.
+OrgId:          AKAMAI
+Address:        8 Cambridge Center
+City:           Cambridge
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        1999-01-21
+Updated:        2014-03-19
+Ref:            http://whois.arin.net/rest/org/AKAMAI
+
+OrgAbuseHandle: MHA379-ARIN
+OrgAbuseName:   Hannigan, Martin 
+OrgAbusePhone:  +1-617-444-2535 
+OrgAbuseEmail:  ip-admin@akamai.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MHA379-ARIN
+
+OrgTechHandle: SJS98-ARIN
+OrgTechName:   Schecter, Steven Jay
+OrgTechPhone:  +1-617-274-7134 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SJS98-ARIN
+
+OrgTechHandle: MHA379-ARIN
+OrgTechName:   Hannigan, Martin 
+OrgTechPhone:  +1-617-444-2535 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MHA379-ARIN
+
+OrgTechHandle: ZIPKI-ARIN
+OrgTechName:   Zipkin, Justin 
+OrgTechPhone:  +1-617-444-9713 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZIPKI-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

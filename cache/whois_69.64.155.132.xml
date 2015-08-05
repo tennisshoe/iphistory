@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>eNom, Incorporated</registrant>
+    <registration>
+      <created>2007-07-25</created>
+      <updated>2014-06-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.64.144.0 - 69.64.159.255
+CIDR:           69.64.144.0/20
+NetName:        ENOM-BLOCK
+NetHandle:      NET-69-64-144-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS21740
+Organization:   eNom, Incorporated (ENOM)
+RegDate:        2007-07-25
+Updated:        2014-06-09
+Ref:            http://whois.arin.net/rest/net/NET-69-64-144-0-1
+
+OrgName:        eNom, Incorporated
+OrgId:          ENOM
+Address:        5808 Lake Washington Blvd. Suite 300
+City:           Kirkland
+StateProv:      WA
+PostalCode:     98033
+Country:        US
+RegDate:        2001-06-15
+Updated:        2014-06-09
+Comment:        Domain Related inquiries please contact our helpdesk at 425-274-4500 (http://www.enom.com/help/).
+Ref:            http://whois.arin.net/rest/org/ENOM
+
+OrgTechHandle: SVOBO-ARIN
+OrgTechName:   svobodny, ben 
+OrgTechPhone:  +1-425-298-2205 
+OrgTechEmail:  ben.svobodny@rightside.co
+OrgTechRef:    http://whois.arin.net/rest/poc/SVOBO-ARIN
+
+OrgNOCHandle: RIGHT3-ARIN
+OrgNOCName:   Rightside Noc
+OrgNOCPhone:  +1-425-274-4500 
+OrgNOCEmail:  rsnoc@rightside.co
+OrgNOCRef:    http://whois.arin.net/rest/poc/RIGHT3-ARIN
+
+OrgAbuseHandle: RIGHT3-ARIN
+OrgAbuseName:   Rightside Noc
+OrgAbusePhone:  +1-425-274-4500 
+OrgAbuseEmail:  rsnoc@rightside.co
+OrgAbuseRef:    http://whois.arin.net/rest/poc/RIGHT3-ARIN
+
+OrgTechHandle: BB1753-ARIN
+OrgTechName:   Bronczyk, Bruce 
+OrgTechPhone:  +1-425-298-2218 
+OrgTechEmail:  bruce.bronczyk@rightside.co
+OrgTechRef:    http://whois.arin.net/rest/poc/BB1753-ARIN
+
+RNOCHandle: RIGHT3-ARIN
+RNOCName:   Rightside Noc
+RNOCPhone:  +1-425-274-4500 
+RNOCEmail:  rsnoc@rightside.co
+RNOCRef:    http://whois.arin.net/rest/poc/RIGHT3-ARIN
+
+RTechHandle: SVOBO-ARIN
+RTechName:   svobodny, ben 
+RTechPhone:  +1-425-298-2205 
+RTechEmail:  ben.svobodny@rightside.co
+RTechRef:    http://whois.arin.net/rest/poc/SVOBO-ARIN
+
+RAbuseHandle: RIGHT3-ARIN
+RAbuseName:   Rightside Noc
+RAbusePhone:  +1-425-274-4500 
+RAbuseEmail:  rsnoc@rightside.co
+RAbuseRef:    http://whois.arin.net/rest/poc/RIGHT3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

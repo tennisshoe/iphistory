@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TSES-ITO-CSS-TC-GT Public IP User</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '94.100.251.0 - 94.100.251.31' is 'cert@t-systems.com'
+
+inetnum:        94.100.251.0 - 94.100.251.31
+netname:        TSES-ITO-CSS-TC-GT
+descr:          T-Systems International GmbH
+descr:          ITO-CSS-TC-GT
+country:        DE
+admin-c:        TPIU8-RIPE
+tech-c:         TPIU8-RIPE
+status:         ASSIGNED PA
+remarks:        +---------------------------------------+
+remarks:        | In case of complaints use the contact |
+remarks:        | information in the role object below. |
+remarks:        +---------------------------------------+
+changed:        lir@sczn.de 20110215
+mnt-by:         SCZN-MNT
+created:        2011-02-15T10:16:44Z
+last-modified:  2011-02-15T10:16:44Z
+source:         RIPE
+
+role:           TSES-ITO-CSS-TC-GT Public IP User
+address:        T-Systems International GmbH
+address:        ITO-CSS-TC-GT
+address:        Fasanenweg 5
+address:        70771 Leinfelden-Echterdingen
+address:        Germany
+e-mail:         g-t.deliverymanagement@t-systems.com
+remarks:        +-----------------------------------------------------+
+remarks:        | Please contact g-t.deliverymanagement@t-systems.com |
+remarks:        +-----------------------------------------------------+
+admin-c:        MH6622-RIPE
+tech-c:         MH6622-RIPE
+nic-hdl:        TPIU8-RIPE
+notify:         lirsczn@t-systems.com
+mnt-by:         SCZN-MNT
+changed:        lir@sczn.de 20080416
+created:        2008-04-16T16:07:55Z
+last-modified:  2011-10-06T11:05:25Z
+source:         RIPE
+
+route:          94.100.240.0/20
+descr:          SCZN Prefix-03
+origin:         AS34086
+notify:         lirsczn@t-systems.com
+mnt-by:         SCZN-MNT
+changed:        lir@sczn.de 20100810
+created:        2008-08-06T11:18:07Z
+last-modified:  2011-10-06T11:05:31Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>InMotion Hosting, Inc.</registrant>
+    <registration>
+      <created>2013-04-02</created>
+      <updated>2013-11-01</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.194.160.0 - 216.194.175.255
+CIDR:           216.194.160.0/20
+NetName:        IMH-216-194-160
+NetHandle:      NET-216-194-160-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS22611
+Organization:   InMotion Hosting, Inc. (INMOT-1)
+RegDate:        2013-04-02
+Updated:        2013-11-01
+Ref:            http://whois.arin.net/rest/net/NET-216-194-160-0-1
+
+OrgName:        InMotion Hosting, Inc.
+OrgId:          INMOT-1
+Address:        6100 Center Drive
+Address:        Suite 1190
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90045
+Country:        US
+RegDate:        2008-06-03
+Updated:        2012-05-03
+Ref:            http://whois.arin.net/rest/org/INMOT-1
+
+OrgAbuseHandle: SYSTE299-ARIN
+OrgAbuseName:   Systems Team
+OrgAbusePhone:  +1-888-321-4678 
+OrgAbuseEmail:  abuse@inmotionhosting.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SYSTE299-ARIN
+
+OrgTechHandle: SYSTE299-ARIN
+OrgTechName:   Systems Team
+OrgTechPhone:  +1-888-321-4678 
+OrgTechEmail:  abuse@inmotionhosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SYSTE299-ARIN
+
+OrgNOCHandle: SYSTE299-ARIN
+OrgNOCName:   Systems Team
+OrgNOCPhone:  +1-888-321-4678 
+OrgNOCEmail:  abuse@inmotionhosting.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SYSTE299-ARIN
+
+RNOCHandle: SYSTE299-ARIN
+RNOCName:   Systems Team
+RNOCPhone:  +1-888-321-4678 
+RNOCEmail:  abuse@inmotionhosting.com
+RNOCRef:    http://whois.arin.net/rest/poc/SYSTE299-ARIN
+
+RTechHandle: SYSTE299-ARIN
+RTechName:   Systems Team
+RTechPhone:  +1-888-321-4678 
+RTechEmail:  abuse@inmotionhosting.com
+RTechRef:    http://whois.arin.net/rest/poc/SYSTE299-ARIN
+
+RAbuseHandle: SYSTE299-ARIN
+RAbuseName:   Systems Team
+RAbusePhone:  +1-888-321-4678 
+RAbuseEmail:  abuse@inmotionhosting.com
+RAbuseRef:    http://whois.arin.net/rest/poc/SYSTE299-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

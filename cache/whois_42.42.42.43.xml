@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ByoungKi Moon</registrant>
+    <registration>
+      <updated>2011-01-28</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        42.32.0.0 - 42.47.255.255
+netname:        SK-TELECOM-NET
+descr:          SK Telecom
+descr:          11 Euljiro-2ga, Jung-gu
+descr:          *********************************
+descr:          Allocated to KRNIC Member.
+descr:          If you would like to find assignment
+descr:          information in detail please refer to
+descr:          the KRNIC Whois Database at:
+descr:          http://whois.nic.or.kr/english/index.htm
+descr:          *********************************
+country:        KR
+admin-c:        BM175-AP
+tech-c:         BM175-AP
+status:         Allocated Portable
+remarks:        www.sktelecom.com
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+changed:        hm-changed@apnic.net 20110128
+source:         APNIC
+
+irt:            IRT-KRNIC-KR
+address:        Seoul Songpa-gu Jungdae-ro 135
+e-mail:         hostmaster@nic.or.kr
+abuse-mailbox:  hostmaster@nic.or.kr
+admin-c:        IM574-AP
+tech-c:         IM574-AP
+auth:           # Filtered
+mnt-by:         MNT-KRNIC-AP
+changed:        hostmaster@nic.or.kr 20150513
+source:         APNIC
+
+person:         ByoungKi Moon
+nic-hdl:        BM175-AP
+e-mail:         sktsec@sktelecom.com
+address:        11 Euljiro-2ga, Jung-gu, Seoul-si
+phone:          +82-2-6100-4527
+fax-no:         +82-2-3709-7921
+country:        KR
+changed:        hostmast@nic.or.kr 20130306
+mnt-by:         MNT-KRNIC-AP
+source:         APNIC
+
+inetnum:        42.16.0.0 - 42.47.255.255
+netname:        SK-TELECOM-NET-KR
+descr:          SK Telecom
+country:        KR
+admin-c:        IA110-KR
+tech-c:         IA110-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

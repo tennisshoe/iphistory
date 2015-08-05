@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Empirion Network Operations Center</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.245.197.240 - 80.245.197.255' is 'noc@empirion.at'
+
+inetnum:        80.245.197.240 - 80.245.197.255
+netname:        VOGELBUSCH2-NET
+descr:          Ronald Mayerhofer
+descr:          Vogelbusch GmbH
+descr:          Blechturmgasse 11
+descr:          A-1050 Wien
+country:        AT
+admin-c:        RM8940-RIPE
+tech-c:         ENOC1-RIPE
+status:         ASSIGNED PA
+notify:         noc@empirion.at
+mnt-by:         EMPIRION-MNT
+changed:        noc@empirion.at 20090526
+created:        2009-05-26T19:26:55Z
+last-modified:  2009-05-26T19:26:55Z
+source:         RIPE
+
+role:           Empirion Network Operations Center
+address:        Empirion Telekommunikations Services GmbH
+address:        Horneckgasse 8
+address:        A-1170 Vienna / Austria
+phone:          +43 1 4805000
+fax-no:         +43 1 4805000 28
+e-mail:         noc@empirion.at
+nic-hdl:        ENOC1-RIPE
+admin-c:        JM2536-RIPE
+tech-c:         JM2536-RIPE
+tech-c:         CT56-ripe
+abuse-mailbox:  abuse@empirion.at
+notify:         noc@empirion.at
+mnt-by:         EMPIRION-MNT
+changed:        noc@empirion.at 20130610
+created:        2001-10-16T14:45:41Z
+last-modified:  2013-06-10T15:06:07Z
+source:         RIPE
+
+person:         Ronald Mayerhofer
+address:        Vogelbusch GmbH
+address:        Blechturmgasse 11
+address:        A-1050 Wien
+address:        Austria
+e-mail:         mar@vienna.vogelbusch.com
+phone:          +43-1-54661-215
+fax-no:         +43-1-5452979
+nic-hdl:        RM8940-RIPE
+mnt-by:         EMPIRION-MNT
+notify:         noc@empirion.at
+changed:        noc@empirion.at 20090526
+created:        2009-05-26T19:26:55Z
+last-modified:  2009-05-26T19:26:55Z
+source:         RIPE
+
+route:          80.245.192.0/20
+descr:          EMPIRION-AT, Provider Local Registry Block
+origin:         AS21360
+remarks:        aggregated provider block
+mnt-by:         EMPIRION-MNT
+changed:        noc@empirion.at 20011129
+created:        2001-11-29T13:30:49Z
+last-modified:  2001-11-29T13:30:49Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Title West</registrant>
+    <registration>
+      <created>1999-03-01</created>
+      <updated>1999-03-01</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.90.82.96 - 209.90.82.127
+CIDR:           209.90.82.96/27
+NetName:        FIBERNET-90
+NetHandle:      NET-209-90-82-96-1
+Parent:         FIBERNET-209-90-BLK-1 (NET-209-90-64-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Title West (TITLEW)
+RegDate:        1999-03-01
+Updated:        1999-03-01
+Ref:            http://whois.arin.net/rest/net/NET-209-90-82-96-1
+
+OrgName:        Title West
+OrgId:          TITLEW
+Address:        3601 N University Ste. 100
+City:           Provo
+StateProv:      UT
+PostalCode:     84604
+Country:        US
+RegDate:        1998-09-16
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/TITLEW
+
+OrgAbuseHandle: CKN23-ARIN
+OrgAbuseName:   No, Contact Known
+OrgAbusePhone:  +1-800-555-1234 
+OrgAbuseEmail:  nobody@example.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+OrgTechHandle: CKN23-ARIN
+OrgTechName:   No, Contact Known
+OrgTechPhone:  +1-800-555-1234 
+OrgTechEmail:  nobody@example.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+RTechHandle: FDS6-ARIN
+RTechName:   Services, Fibernet Dns
+RTechPhone:  +1-801-223-9939 
+RTechEmail:  hostmaster@fiber.net
+RTechRef:    http://whois.arin.net/rest/poc/FDS6-ARIN
+
+NetRange:       209.90.64.0 - 209.90.127.255
+CIDR:           209.90.64.0/18
+NetName:        FIBERNET-209-90-BLK-1
+NetHandle:      NET-209-90-64-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS5048
+Organization:   Fibernet Corporation (FIBE)
+RegDate:        1997-06-12
+Updated:        2009-10-20
+Comment:        http://www.fiber.net
+Ref:            http://whois.arin.net/rest/net/NET-209-90-64-0-1
+
+OrgName:        Fibernet Corporation
+OrgId:          FIBE
+Address:        1155 S 800 E
+City:           Orem
+StateProv:      UT
+PostalCode:     84097
+Country:        US
+RegDate:        1997-06-12
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/FIBE
+
+OrgAbuseHandle: LL368-ARIN
+OrgAbuseName:   Livingston, Lane 
+OrgAbusePhone:  +1-801-223-9939 
+OrgAbuseEmail:  lanel@fiber.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LL368-ARIN
+
+OrgTechHandle: LL368-ARIN
+OrgTechName:   Livingston, Lane 
+OrgTechPhone:  +1-801-223-9939 
+OrgTechEmail:  lanel@fiber.net
+OrgTechRef:    http://whois.arin.net/rest/poc/LL368-ARIN
+
+RNOCHandle: FIBER1-ARIN
+RNOCName:   Fibernet Hostmaster
+RNOCPhone:  +1-801-223-9937 
+RNOCEmail:  hostmaster@fiber.net
+RNOCRef:    http://whois.arin.net/rest/poc/FIBER1-ARIN
+
+RTechHandle: FIBER1-ARIN
+RTechName:   Fibernet Hostmaster
+RTechPhone:  +1-801-223-9937 
+RTechEmail:  hostmaster@fiber.net
+RTechRef:    http://whois.arin.net/rest/poc/FIBER1-ARIN
+
+RAbuseHandle: FIBER2-ARIN
+RAbuseName:   Fibernet Abuse
+RAbusePhone:  +1-866-223-9576 
+RAbuseEmail:  abuse@fiber.net
+RAbuseRef:    http://whois.arin.net/rest/poc/FIBER2-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

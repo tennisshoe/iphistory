@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Vilayer LTD</registrant>
+    <registration>
+      <created>2008-06-27</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.162.64.0 - 69.162.127.255
+CIDR:           69.162.64.0/18
+NetName:        LSN-DLLSTX-2
+NetHandle:      NET-69-162-64-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS46475
+Organization:   Limestone Networks, Inc. (LIMES-2)
+RegDate:        2008-06-27
+Updated:        2012-02-24
+Comment:        http://www.limestonenetworks.com
+Ref:            http://whois.arin.net/rest/net/NET-69-162-64-0-1
+
+OrgName:        Limestone Networks, Inc.
+OrgId:          LIMES-2
+Address:        400 S. Akard Street
+Address:        Suite 200
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2007-12-04
+Updated:        2010-01-26
+Comment:        http://limestonenetworks.com/
+Ref:            http://whois.arin.net/rest/org/LIMES-2
+
+ReferralServer:  rwhois://rwhois.limestonenetworks.com:4321
+
+OrgAbuseHandle: ABUSE1804-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-214-586-0555 
+OrgAbuseEmail:  abuse@limestonenetworks.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1804-ARIN
+
+OrgTechHandle: NOC2791-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-214-242-3600 
+OrgTechEmail:  noc@limestonenetworks.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2791-ARIN
+
+RAbuseHandle: ABUSE1804-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-214-586-0555 
+RAbuseEmail:  abuse@limestonenetworks.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1804-ARIN
+
+RNOCHandle: NOC2791-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-214-242-3600 
+RNOCEmail:  noc@limestonenetworks.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2791-ARIN
+
+RTechHandle: NOC2791-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-214-242-3600 
+RTechEmail:  noc@limestonenetworks.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC2791-ARIN
+
+NetRange:       69.162.77.168 - 69.162.77.175
+CIDR:           69.162.77.168/29
+NetName:        VILAYER-1
+NetHandle:      NET-69-162-77-168-1
+Parent:         LSN-DLLSTX-2 (NET-69-162-64-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Vilayer LTD (C03114953)
+RegDate:        2012-08-08
+Updated:        2012-08-08
+Ref:            http://whois.arin.net/rest/net/NET-69-162-77-168-1
+
+CustName:       Vilayer LTD
+Address:        2 Lansdowne Row
+City:           London
+StateProv:      
+PostalCode:     W1J 6HL
+Country:        GB
+RegDate:        2012-08-08
+Updated:        2012-08-08
+Ref:            http://whois.arin.net/rest/customer/C03114953
+
+OrgAbuseHandle: ABUSE1804-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-214-242-3600 
+OrgAbuseEmail:  abuse@limestonenetworks.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1804-ARIN
+
+OrgTechHandle: NOC2791-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-214-242-3600 
+OrgTechEmail:  noc@limestonenetworks.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2791-ARIN
+
+RAbuseHandle: ABUSE1804-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-214-242-3600 
+RAbuseEmail:  abuse@limestonenetworks.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1804-ARIN
+
+RNOCHandle: NOC2791-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-214-242-3600 
+RNOCEmail:  noc@limestonenetworks.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2791-ARIN
+
+RTechHandle: NOC2791-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-214-242-3600 
+RTechEmail:  noc@limestonenetworks.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC2791-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

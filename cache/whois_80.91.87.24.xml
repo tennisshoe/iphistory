@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cogent Communications Hostmaster</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.91.87.0 - 80.91.87.255' is 'abuse@cogentco.com'
+
+inetnum:        80.91.87.0 - 80.91.87.255
+netname:        ALCORT-COGENT
+descr:          ALCORT INGENIERIA Y ASESORIA S.L.
+country:        ES
+admin-c:        CGNT-RIPE
+tech-c:         CGNT-RIPE
+status:         ASSIGNED PA
+mnt-by:         COGENT-HM-MNT
+changed:        wgarrison@cogentco.com 20140718
+created:        2014-07-18T15:33:12Z
+last-modified:  2014-07-18T15:33:12Z
+source:         RIPE
+
+role:           Cogent Communications Hostmaster
+address:        Cogent Communications, Inc.
+                1015 31st Steet NW
+                Washington, DC 20007
+                USA
+phone:          +1 703 657 7904
+e-mail:         ipalloc@cogentco.com
+abuse-mailbox:  abuse@cogentco.com
+admin-c:        GR2753-RIPE
+tech-c:         CCRA-RIPE
+tech-c:         GR2753-RIPE
+tech-c:         MC1557-RIPE
+tech-c:         DL5127-RIPE
+tech-c:         TA4019-RIPE
+tech-c:         ED3641-RIPE
+tech-c:         TT4648-RIPE
+nic-hdl:        CGNT-RIPE
+mnt-by:         COGENT-ROOT-MNT
+changed:        ukieber@cogentco.com 20041029
+changed:        ukieber@cogentco.com 20041112
+changed:        ukieber@cogentco.com 20050627
+changed:        ukieber@cogentco.com 20050719
+changed:        ukieber@cogentco.com 20050808
+changed:        ukieber@cogentco.com 20060102
+changed:        wgarrison@cogentco.com 20080328
+changed:        wgarrison@cogentco.com 20080404
+changed:        wgarrison@cogentco.com 20080404
+changed:        wgarrison@cogentco.com 20090119
+changed:        wgarrison@cogentco.com 20090326
+changed:        wgarrison@cogentco.com 20090821
+changed:        wgarrison@cogentco.com 20120213
+changed:        wgarrison@cogentco.com 20120731
+changed:        wgarrison@cogentco.com 20131106
+changed:        wgarrison@cogentco.com 20131106
+changed:        wgarrison@cogentco.com 20140725
+changed:        greese@cogentco.com 20141219
+created:        2004-10-28T23:56:17Z
+last-modified:  2014-12-19T17:04:19Z
+source:         RIPE
+
+route:          80.91.64.0/19
+descr:          Cogent Communications Espana, S.A.
+origin:         AS174
+mnt-by:         COGENT-ROUTE-MNT
+changed:        karsten.koepp@lambdanet.net 20040305
+changed:        sophie.dabin@lambdanet.fr 20040517
+changed:        sophie.dabin@lambdanet.fr 20040517
+changed:        ukieber@cogentco.com 20041112
+created:        2004-05-17T13:03:10Z
+last-modified:  2004-11-12T19:13:34Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

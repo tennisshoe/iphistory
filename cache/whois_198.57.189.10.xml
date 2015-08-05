@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Unified Layer</registrant>
+    <registration>
+      <created>2012-07-27</created>
+      <updated>2012-11-14</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       198.57.128.0 - 198.57.255.255
+CIDR:           198.57.128.0/17
+NetName:        UNIFIEDLAYER-NETWORK-12
+NetHandle:      NET-198-57-128-0-1
+Parent:         NET198 (NET-198-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS46606
+Organization:   Unified Layer (BLUEH-2)
+RegDate:        2012-07-27
+Updated:        2012-11-14
+Ref:            http://whois.arin.net/rest/net/NET-198-57-128-0-1
+
+OrgName:        Unified Layer
+OrgId:          BLUEH-2
+Address:        1958 South 950 East
+City:           Provo
+StateProv:      UT
+PostalCode:     84606
+Country:        US
+RegDate:        2006-08-08
+Updated:        2012-11-26
+Ref:            http://whois.arin.net/rest/org/BLUEH-2
+
+ReferralServer:  rwhois://rwhois.unifiedlayer.com:4321
+
+OrgTechHandle: NETWO5508-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-888-401-4678 
+OrgTechEmail:  netops@unifiedlayer.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO5508-ARIN
+
+OrgNOCHandle: NETWO5508-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-888-401-4678 
+OrgNOCEmail:  netops@unifiedlayer.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO5508-ARIN
+
+OrgAbuseHandle: ABUSE3581-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-888-401-4678 
+OrgAbuseEmail:  abuse@unifiedlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3581-ARIN
+
+== Additional Information From rwhois://rwhois.unifiedlayer.com:4321 ==
+
+%rwhois V-1.5:000080:00 rwhois.unifiedlayer.com (by Unified Layer, V-1.0.0)
+network:Class-Name:network
+network:ID: NETBLK-UL.198.57.189.10/32
+network:Auth-Area: 198.57.189.10/32
+network:Network-Name: UL-198.57.189.10/32
+network:IP-Network: 198.57.189.10/32
+network:Organization: websitewelcome.com
+network:Tech-Contact: abuse@websitewelcome.com
+network:Admin-Contact: abuse@websitewelcome.com
+network:Abuse-Contact: abuse@websitewelcome.com
+network:Created: 20130103
+network:Updated: 20150121
+network:Updated-By: abuse@websitewelcome.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

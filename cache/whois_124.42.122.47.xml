@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Wang Huijun</registrant>
+    <registration>
+      <updated>2008-02-26</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        124.42.96.0 - 124.42.127.255
+netname:        HUARUI
+descr:          Langfang Development Area Huarui Xintong Network Technology Co., Ltd.
+descr:          Langfang university Langfang Development Area
+country:        CN
+admin-c:        WH271-AP
+tech-c:         WH271-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20080226
+source:         APNIC
+
+person:         Wang Huijun
+nic-hdl:        WH271-AP
+e-mail:         chenbincb@sinnet.com.cn
+address:        Langfang university Langfang Development Area
+phone:          +86-13311166160
+fax-no:         +86-64181819
+country:        CN
+changed:        ipas@cnnic.cn 20080227
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

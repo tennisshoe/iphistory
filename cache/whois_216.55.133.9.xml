@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>InternetNamesForBusiness.com</registrant>
+    <registration>
+      <created>1999-05-28</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.55.132.0 - 216.55.135.255
+CIDR:           216.55.132.0/22
+NetName:        MEGA-7
+NetHandle:      NET-216-55-132-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS30447
+Organization:   InternetNamesForBusiness.com (INFB)
+RegDate:        1999-05-28
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-216-55-132-0-1
+
+OrgName:        InternetNamesForBusiness.com
+OrgId:          INFB
+Address:        110 East Broward Blvd
+Address:        Suite 1650
+City:           Fort Lauderdale
+StateProv:      FL
+PostalCode:     33301
+Country:        US
+RegDate:        
+Updated:        2011-10-19
+Ref:            http://whois.arin.net/rest/org/INFB
+
+OrgAbuseHandle: ZI51-ARIN
+OrgAbuseName:   InternetNamesForBusiness
+OrgAbusePhone:  +1-800-322-9438 
+OrgAbuseEmail:  admin@internetnamesforbusiness.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZI51-ARIN
+
+OrgTechHandle: ZI51-ARIN
+OrgTechName:   InternetNamesForBusiness
+OrgTechPhone:  +1-800-322-9438 
+OrgTechEmail:  admin@internetnamesforbusiness.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZI51-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

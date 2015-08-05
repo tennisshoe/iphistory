@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Booking.com BV</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '91.206.232.0 - 91.206.233.255' is 'internet@booking.com'
+
+inetnum:        91.206.232.0 - 91.206.233.255
+netname:        NET-BOOKING-002
+descr:          Booking.com BV
+country:        GB
+org:            ORG-BB33-RIPE
+admin-c:        BOOK-RIPE
+tech-c:         BOOK-RIPE
+status:         ASSIGNED PI
+notify:         internet@booking.com
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         BOOKING-MNT
+changed:        hostmaster@ripe.net 20080828
+changed:        hostmaster@ripe.net 20120327
+changed:        hostmaster@ripe.net 20140217
+changed:        internet@booking.com 20141125
+created:        2008-08-28T06:53:12Z
+last-modified:  2015-05-05T01:38:57Z
+source:         RIPE
+
+organisation:   ORG-BB33-RIPE
+org-name:       Booking.com BV
+org-type:       LIR
+address:        Herengracht 597
+address:        1017 CE
+address:        Amsterdam
+address:        NETHERLANDS
+phone:          +31 20 7125600
+fax-no:         +31 20 7125609
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        BOOKING-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        JASG1-RIPE
+admin-c:        GJ-RIPE
+abuse-c:        BOOK-RIPE
+e-mail:         internet@booking.com
+created:        2012-03-26T14:01:22Z
+changed:        bitbucket@ripe.net 20150603
+last-modified:  2015-06-03T12:51:23Z
+source:         RIPE
+
+role:           Booking.com Internet
+address:        Herengracht 597, 1017 CE Amsterdam, Netherlands
+e-mail:         internet@booking.com
+nic-hdl:        BOOK-RIPE
+mnt-by:         BOOKING-MNT
+changed:        internet@booking.com 20140903
+created:        2014-09-03T08:40:21Z
+last-modified:  2014-09-03T08:58:30Z
+source:         RIPE
+abuse-mailbox:  internet@booking.com
+
+route:          91.206.232.0/24
+descr:          Booking B.V.
+origin:         AS43996
+mnt-by:         COLT-NL-MNT
+changed:        sumit.rustagi@colt.net 20080908
+created:        2008-09-08T12:41:26Z
+last-modified:  2008-09-08T12:41:26Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

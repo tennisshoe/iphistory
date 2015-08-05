@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>VALLEY EMERGENCY COMM</registrant>
+    <registration>
+      <created>2013-01-03</created>
+      <updated>2013-01-03</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       67.130.136.0 - 67.130.137.255
+CIDR:           67.130.136.0/23
+NetName:        Q0103-67-130-136-0
+NetHandle:      NET-67-130-136-0-1
+Parent:         QWEST-INET-11 (NET-67-128-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS209
+Organization:   VALLEY EMERGENCY COMM (VEC-37)
+RegDate:        2013-01-03
+Updated:        2013-01-03
+Ref:            http://whois.arin.net/rest/net/NET-67-130-136-0-1
+
+OrgName:        VALLEY EMERGENCY COMM
+OrgId:          VEC-37
+Address:        5360 S 5885 W
+City:           WEST VALLEY CITY
+StateProv:      UT
+PostalCode:     84118
+Country:        US
+RegDate:        2013-01-03
+Updated:        2013-01-03
+Ref:            http://whois.arin.net/rest/org/VEC-37
+
+OrgTechHandle: WHETS-ARIN
+OrgTechName:   WHETSEL, MARK 
+OrgTechPhone:  +1-801-840-4012 
+OrgTechEmail:  mwhetsel@vecc9-1-1.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WHETS-ARIN
+
+OrgAbuseHandle: WHETS-ARIN
+OrgAbuseName:   WHETSEL, MARK 
+OrgAbusePhone:  +1-801-840-4012 
+OrgAbuseEmail:  mwhetsel@vecc9-1-1.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/WHETS-ARIN
+
+NetRange:       67.128.0.0 - 67.135.255.255
+CIDR:           67.128.0.0/13
+NetName:        QWEST-INET-11
+NetHandle:      NET-67-128-0-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Qwest Communications Company, LLC (QCC-18)
+RegDate:        2002-07-12
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-67-128-0-0-1
+
+OrgName:        Qwest Communications Company, LLC
+OrgId:          QCC-18
+Address:        100 CENTURYLINK DR
+City:           Monroe
+StateProv:      LA
+PostalCode:     71203
+Country:        US
+RegDate:        2005-05-09
+Updated:        2015-04-10
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE 
+Comment:        
+Comment:        For abuse issues, please email abuse@qwest.net. 
+Comment:        All abuse reports MUST include: 
+Comment:        * src IP 
+Comment:        * dest IP (your IP) 
+Comment:        * dest port 
+Comment:        * Accurate date/timestamp and timezone of activity 
+Comment:        * Intensity/frequency (short log extracts) 
+Comment:        * Your contact details (phone and email) 
+Comment:        Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Comment:         
+Comment:        For subpoena or court order please fax 844.254.5800 or refer to our Law Enforcement Support page http://www.centurylink.com/static/Pages/AboutUs/Legal/LawEnforcement/
+Ref:            http://whois.arin.net/rest/org/QCC-18
+
+OrgTechHandle: QIA-ARIN
+OrgTechName:   Qwest IP Admin
+OrgTechPhone:  +1-877-886-6515 
+OrgTechEmail:  ipadmin@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/QIA-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

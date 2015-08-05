@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cdiscount SA</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.122.8.0 - 62.122.15.255' is 'abuse@as30781.net'
+
+inetnum:        62.122.8.0 - 62.122.15.255
+netname:        CDISCOUNT-NET-1
+descr:          Cdiscount SA
+country:        FR
+org:            ORG-CA965-RIPE
+admin-c:        NC4989-RIPE
+tech-c:         NC4989-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         CDISCOUNT-MNT
+mnt-routes:     CDISCOUNT-MNT
+mnt-domains:    CDISCOUNT-MNT
+changed:        noc@cdiscount.com 20110314
+changed:        hostmaster@ripe.net 20130227
+created:        2009-01-28T15:49:43Z
+last-modified:  2015-05-05T02:06:56Z
+source:         RIPE
+sponsoring-org: ORG-JA30-RIPE
+
+organisation:   ORG-CA965-RIPE
+org-name:       Cdiscount SA
+org-type:       OTHER
+address:        4-6 cours de l'Intendance
+e-mail:         abuse@cdiscount.com
+abuse-c:        AR30139-RIPE
+mnt-ref:        CDISCOUNT-MNT
+mnt-by:         CDISCOUNT-MNT
+changed:        noc@waycom.net 20101129
+changed:        hostmaster@ripe.net 20130227
+created:        2009-01-23T17:04:23Z
+last-modified:  2014-11-17T22:46:29Z
+source:         RIPE
+
+person:         Network Cdiscount
+address:        122 quai de bacalan
+phone:          +33 557 144 500
+nic-hdl:        NC4989-RIPE
+mnt-by:         CDISCOUNT-MNT
+changed:        noc@cdiscount.com 20110314
+created:        2011-03-14T15:42:24Z
+last-modified:  2013-02-07T18:06:46Z
+source:         RIPE
+
+route:          62.122.9.0/24
+descr:          CDISCOUNT
+origin:         AS48744
+mnt-by:         CDISCOUNT-MNT
+changed:        noc@cdiscount.com 20110314
+created:        2010-11-29T15:44:38Z
+last-modified:  2011-03-14T15:32:23Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

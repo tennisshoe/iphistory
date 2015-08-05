@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DataPipe HostMaster</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.72.240.0 - 217.72.243.255' is 'hostmaster@datapipe.com'
+
+inetnum:        217.72.240.0 - 217.72.243.255
+netname:        DATAPIPE-UK
+descr:          DataPipe
+country:        GB
+admin-c:        HM707-RIPE
+tech-c:         HM707-RIPE
+status:         ASSIGNED PA
+mnt-by:         DATAPIPE-MAINT-RIPE
+changed:        jsantiago@datapipe.com 20111223
+created:        2011-12-23T08:27:22Z
+last-modified:  2011-12-23T08:27:22Z
+source:         RIPE
+
+person:         DataPipe HostMaster
+address:        DataPipe
+address:        10 Exchange Place
+address:        Jersey City, NJ 07302
+phone:          +1 201 792 1918
+fax-no:         +1 201 792 3090
+e-mail:         hostmaster@datapipe.com
+notify:         hostmaster@datapipe.com
+nic-hdl:        HM707-RIPE
+mnt-by:         DATAPIPE-MAINT-RIPE
+changed:        hostmaster@datapipe.com 20090602
+created:        2003-07-11T02:19:25Z
+last-modified:  2009-06-02T19:08:42Z
+source:         RIPE
+
+route:          217.72.240.0/20
+descr:          DATAPIPE-UK London Aggregate
+origin:         AS24778
+mnt-by:         DATAPIPE-MAINT-RIPE
+changed:        afurman@datapipe.com 20030826
+created:        2003-08-26T14:28:32Z
+last-modified:  2003-08-26T14:28:32Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

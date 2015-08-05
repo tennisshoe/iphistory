@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>iWeb Dedicated HD</registrant>
+    <registration>
+      <created>2008-03-28</created>
+      <updated>2008-03-28</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.15.138.160 - 64.15.138.191
+CIDR:           64.15.138.160/27
+NetName:        IWEB-HD-T4301SH
+NetHandle:      NET-64-15-138-160-1
+Parent:         IWEB-BLK-02 (NET-64-15-128-0-1)
+NetType:        Reassigned
+OriginAS:       AS32613
+Customer:       iWeb Dedicated HD (C01912913)
+RegDate:        2008-03-28
+Updated:        2008-03-28
+Ref:            http://whois.arin.net/rest/net/NET-64-15-138-160-1
+
+CustName:       iWeb Dedicated HD
+Address:        3185, Hochelaga
+City:           Montreal
+StateProv:      QC
+PostalCode:     H1W-1G4
+Country:        CA
+RegDate:        2008-03-28
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01912913
+
+OrgNOCHandle: NETWO2356-ARIN
+OrgNOCName:   Network Administrator
+OrgNOCPhone:  +1-514-286-4242 
+OrgNOCEmail:  net-admin@noc.privatedns.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgTechHandle: NETWO2356-ARIN
+OrgTechName:   Network Administrator
+OrgTechPhone:  +1-514-286-4242 
+OrgTechEmail:  net-admin@noc.privatedns.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgAbuseHandle: ABUSE1906-ARIN
+OrgAbuseName:   Abuse Coordinator
+OrgAbusePhone:  +1-514-286-4242 
+OrgAbuseEmail:  abuse@iweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1906-ARIN
+
+NetRange:       64.15.128.0 - 64.15.159.255
+CIDR:           64.15.128.0/19
+NetName:        IWEB-BLK-02
+NetHandle:      NET-64-15-128-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32613
+Organization:   iWeb Technologies Inc. (GIT-20)
+RegDate:        2005-11-07
+Updated:        2012-02-24
+Comment:        Please use abuse@noc.privatedns.com for abuse issues.
+Ref:            http://whois.arin.net/rest/net/NET-64-15-128-0-1
+
+OrgName:        iWeb Technologies Inc.
+OrgId:          GIT-20
+Address:        20, place du Commerce
+City:           Montreal
+StateProv:      QC
+PostalCode:     H3E-1Z6
+Country:        CA
+RegDate:        2003-11-06
+Updated:        2008-10-04
+Comment:        http://www.iweb.com
+Ref:            http://whois.arin.net/rest/org/GIT-20
+
+OrgNOCHandle: NETWO2356-ARIN
+OrgNOCName:   Network Administrator
+OrgNOCPhone:  +1-514-286-4242 
+OrgNOCEmail:  net-admin@noc.privatedns.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgTechHandle: NETWO2356-ARIN
+OrgTechName:   Network Administrator
+OrgTechPhone:  +1-514-286-4242 
+OrgTechEmail:  net-admin@noc.privatedns.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgAbuseHandle: ABUSE1906-ARIN
+OrgAbuseName:   Abuse Coordinator
+OrgAbusePhone:  +1-514-286-4242 
+OrgAbuseEmail:  abuse@iweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1906-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

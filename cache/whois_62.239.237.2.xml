@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>BT Corporate Registry</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.239.237.0 - 62.239.237.255' is 'protect@bt.com'
+
+inetnum:        62.239.237.0 - 62.239.237.255
+netname:        BT-CORPORATE
+descr:          UDC
+country:        GB
+admin-c:        BCER1-RIPE
+admin-c:        BTCR1-RIPE
+tech-c:         BTCR3-RIPE
+status:         ASSIGNED PA
+remarks:        Please send abuse notification to btcertcc@bt.com
+remarks:        INFRA-AW
+mnt-by:         BTENT-MNT
+mnt-lower:      BTENT-MNT
+changed:        steve.a.marshall@bt.com 20080814
+created:        2008-08-14T14:54:30Z
+last-modified:  2008-08-14T14:54:30Z
+source:         RIPE
+
+role:           BT Corporate Registry
+address:        British Telecommunications
+address:        81 Newgate Street
+address:        London GB
+e-mail:         zzdnsr@bt.com
+admin-c:        BCER1-RIPE
+admin-c:        SAM62-RIPE
+admin-c:        SW4727-RIPE
+tech-c:         BCER1-RIPE
+tech-c:         SAM62-RIPE
+nic-hdl:        BTCR1-RIPE
+abuse-mailbox:  protect@bt.com
+mnt-by:         BTENT-MNT
+changed:        steve.a.marshall@bt.com 20140624
+created:        2002-03-22T09:16:45Z
+last-modified:  2014-06-24T12:09:51Z
+source:         RIPE
+
+role:           BT Corporate Registry
+address:        British Telecommunications
+address:        81 Newgate Street
+address:        London GB
+e-mail:         zzdnsr@bt.com
+e-mail:         steve.a.marshall@bt.com
+e-mail:         lee.bailey-hague@bt.com
+remarks:        central contact point for BT Corporate data networks
+admin-c:        BCER1-RIPE
+admin-c:        SAM62-RIPE
+admin-c:        LBH1-RIPE
+admin-c:        SW4727-RIPE
+tech-c:         BCER1-RIPE
+nic-hdl:        BTCR3-RIPE
+abuse-mailbox:  protect@bt.com
+mnt-by:         BTENT-MNT
+changed:        steve.a.marshall@bt.com 20130328
+created:        2002-03-22T09:22:53Z
+last-modified:  2013-03-28T10:21:53Z
+source:         RIPE
+
+person:         BT Computer Emergency Response Team
+address:        PP L16
+address:        Pheonix House
+address:        202 Elder Gate
+address:        Milton Keynes
+address:        Buckinghamshire
+address:        MK9 1BE
+phone:          +44 1908 609 271
+fax-no:         +44 1908 230 343
+e-mail:         protect@bt.com
+nic-hdl:        BCER1-RIPE
+remarks:        BT Security Computer Emergency Response Team
+mnt-by:         BTENT-MNT
+changed:        steve.a.marshall@bt.com 20130328
+created:        2001-11-08T10:50:29Z
+last-modified:  2013-03-28T12:32:05Z
+source:         RIPE
+
+route:          62.239.0.0/16
+descr:          BTL
+origin:         AS2856
+mnt-by:         BTNET-MNT
+changed:        support@bt.net 20021204
+created:        1970-01-01T00:00:00Z
+last-modified:  2002-12-04T12:37:05Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Telefonica International Wholesale Services USA Inc</registrant>
+    <registration>
+      <created>2001-06-06</created>
+      <updated>2012-10-01</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.119.64.0 - 66.119.95.255
+CIDR:           66.119.64.0/19
+NetName:        TIWS-1
+NetHandle:      NET-66-119-64-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS12956
+Organization:   Telefonica International Wholesale Services USA Inc (TIWSU)
+RegDate:        2001-06-06
+Updated:        2012-10-01
+Ref:            http://whois.arin.net/rest/net/NET-66-119-64-0-1
+
+OrgName:        Telefonica International Wholesale Services USA Inc
+OrgId:          TIWSU
+Address:        1111 Brickell Suite 1800
+City:           Miami
+StateProv:      FL
+PostalCode:     33131
+Country:        US
+RegDate:        2012-08-22
+Updated:        2015-08-04
+Comment:        www.internationalservices.telefonica.com
+Ref:            http://whois.arin.net/rest/org/TIWSU
+
+OrgAbuseHandle: CSIRT-ARIN
+OrgAbuseName:   Computer Security Incident Response Team
+OrgAbusePhone:  +34914830000 
+OrgAbuseEmail:  abuse.tiws@telefonica.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CSIRT-ARIN
+
+OrgTechHandle: IPCOO-ARIN
+OrgTechName:   IP Coordinator
+OrgTechPhone:  914830500 
+OrgTechEmail:  ip_coord.tgsolutions@telefonica.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPCOO-ARIN
+
+NetRange:       66.119.86.0 - 66.119.86.255
+CIDR:           66.119.86.0/24
+NetName:        SAPIN-1
+NetHandle:      NET-66-119-86-0-1
+Parent:         TIWS-1 (NET-66-119-64-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   SAPIN LIMITED (SAPIN)
+RegDate:        2006-11-23
+Updated:        2006-11-23
+Ref:            http://whois.arin.net/rest/net/NET-66-119-86-0-1
+
+OrgName:        SAPIN LIMITED
+OrgId:          SAPIN
+Address:        28 DENMARK STREET
+Address:        2ND FLOOR
+City:           LONDON
+StateProv:      
+PostalCode:     WC2H 8NJ
+Country:        GB
+RegDate:        2006-11-23
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/SAPIN
+
+OrgAbuseHandle: SFR55-ARIN
+OrgAbuseName:   Frolovichev, Sergey 
+OrgAbusePhone:  +4407876700487 
+OrgAbuseEmail:  sergey@skytiz.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SFR55-ARIN
+
+OrgTechHandle: SFR55-ARIN
+OrgTechName:   Frolovichev, Sergey 
+OrgTechPhone:  +4407876700487 
+OrgTechEmail:  sergey@skytiz.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SFR55-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

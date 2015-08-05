@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>hlpnowp-c.com</domain_name>
+    <ip_history>
+      <domain>HLPNOWP-C.COM</domain>
+      <post_ip>98.129.229.215</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2015-04-04</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>HLPNOWP-C.COM</domain>
+      <date_updated>2015-04-02</date_updated>
+      <date_created>2015-04-02</date_created>
+      <date_expires>2016-04-02</date_expires>
+      <date_lastchecked>2015-04-15</date_lastchecked>
+      <registrar>GoDaddy.com</registrar>
+      <registrartag>Go Daddy Software Inc</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>HLPNOWP-C.COM</domain>
+      <action>N</action>
+      <actiondate>2015-04-04</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Stabletransit.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

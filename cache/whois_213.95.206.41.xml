@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>noris network netmaster</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.95.206.0 - 213.95.206.255' is 'abuse@noris.net'
+
+inetnum:        213.95.206.0 - 213.95.206.255
+netname:        GF-DMZ1
+descr:          gutefrage.net GmbH
+descr:          Sonnenstrasse 14
+descr:          80331 Muenchen
+country:        DE
+admin-c:        FK2455-RIPE
+tech-c:         NNN-RIPE
+status:         ASSIGNED PA
+notify:         guardian@noris.net
+mnt-by:         NORIS-MNT
+changed:        stefan.graf@noris.de 20120608
+created:        2012-06-08T09:44:49Z
+last-modified:  2012-06-08T09:44:49Z
+source:         RIPE
+
+role:           noris network netmaster
+address:        noris network AG
+address:        Thomas-Mann-Strasse 16-20
+address:        90471 Nuernberg
+address:        Germany
+phone:          +49 911 9352 0
+fax-no:         +49 911 9352 100
+e-mail:         netmaster@noris.net
+abuse-mailbox:  abuse@noris.net
+admin-c:        IK1-RIPE
+tech-c:         COOL-RIPE
+tech-c:         POHL-RIPE
+tech-c:         GPF-RIPE
+tech-c:         GRAF2-RIPE
+nic-hdl:        NNN-RIPE
+notify:         guardian@noris.net
+mnt-by:         NORIS-MNT
+changed:        orkun@noris.net 20060201
+changed:        flo@noris.net 20060208
+changed:        fany@noris.net 20060803
+changed:        aelita@noris.net 20071030
+changed:        d45id@noris.net 20110715
+changed:        sebastian@noris.net 20111005
+changed:        sebastian@noris.net 20130326
+created:        2002-04-08T14:29:48Z
+last-modified:  2013-03-26T12:19:14Z
+source:         RIPE
+
+person:         Frederik Kraus
+address:        gutefrage.net GmbH
+address:        Sonnenstrasse 14
+address:        80331 Muenchen
+address:        Germany
+phone:          +49 89 515146 100
+nic-hdl:        FK2455-RIPE
+notify:         guardian@noris.net
+mnt-by:         NORIS-MNT
+changed:        stefan.graf@noris.de 20120608
+created:        2012-06-08T09:32:27Z
+last-modified:  2012-06-08T09:32:27Z
+source:         RIPE
+
+route:          213.95.0.0/16
+descr:          NORIS-BLK2
+origin:         AS12337
+mnt-by:         NORIS-MNT
+changed:        hostmaster@noris.de 20000916
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:33:24Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

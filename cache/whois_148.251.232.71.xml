@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hetzner Online GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% No abuse contact registered for 148.251.0.0 - 148.251.255.255
+
+inetnum:        148.251.0.0 - 148.251.255.255
+netname:        HETZNER-RZ-BLK-ERX2
+descr:          Server Block
+country:        DE
+admin-c:        HOAC1-RIPE
+tech-c:         HOAC1-RIPE
+status:         LEGACY
+remarks:        For information on "status:" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources
+mnt-by:         HOS-GUN
+mnt-lower:      HOS-GUN
+mnt-routes:     HOS-GUN
+mnt-domains:    HOS-GUN
+changed:        mf@hetzner.de 20121217
+created:        2003-10-03T10:32:52Z
+last-modified:  2015-05-05T01:43:20Z
+source:         RIPE
+
+role:           Hetzner Online AG - Contact Role
+address:        Hetzner Online AG
+address:        Industriestrasse 25
+address:        D-91710 Gunzenhausen
+address:        Germany
+phone:          +49 9831 505-0
+fax-no:         +49 9831 505-3
+e-mail:         ripe@hetzner.de
+abuse-mailbox:  abuse@hetzner.de
+remarks:        *************************************************
+remarks:        * For spam/abuse/security issues please contact *
+remarks:        * abuse@hetzner.de, not this address. *
+remarks:        * The contents of your abuse email will be *
+remarks:        * forwarded directly on to our client for *
+remarks:        * handling. *
+remarks:        *************************************************
+remarks:
+remarks:        *************************************************
+remarks:        * Any questions on Peering please send to *
+remarks:        * peering@hetzner.de *
+remarks:        *************************************************
+org:            ORG-HOA1-RIPE
+admin-c:        MH375-RIPE
+tech-c:         GM834-RIPE
+tech-c:         SK2374-RIPE
+tech-c:         TF2013-RIPE
+tech-c:         MF1400-RIPE
+tech-c:         SK8441-RIPE
+nic-hdl:        HOAC1-RIPE
+notify:         ripe-mntner@hetzner.de
+mnt-by:         HOS-GUN
+created:        2004-08-12T09:40:20Z
+last-modified:  2015-07-17T12:49:52Z
+source:         RIPE
+changed:        mf@hetzner.de 20130114
+changed:        mf@hetzner.de 20130227
+changed:        sebastian.krannich@hetzner.de 20130418
+
+route:          148.251.0.0/16
+descr:          HETZNER-RZ-BLK-ERX2
+origin:         AS24940
+org:            ORG-HOA1-RIPE
+mnt-by:         HOS-GUN
+changed:        ripe@hetzner.de 20121224
+created:        2012-12-18T08:05:59Z
+last-modified:  2012-12-24T09:10:22Z
+source:         RIPE
+
+organisation:   ORG-HOA1-RIPE
+org-name:       Hetzner Online GmbH
+org-type:       LIR
+address:        Industriestrasse 25
+address:        D-91710
+address:        Gunzenhausen
+address:        GERMANY
+phone:          +49 9831 5050
+fax-no:         +49 9831 5053
+admin-c:        TF2013-RIPE
+admin-c:        MF1400-RIPE
+admin-c:        GM834-RIPE
+admin-c:        HOAC1-RIPE
+admin-c:        MH375-RIPE
+admin-c:        SK2374-RIPE
+admin-c:        SK8441-RIPE
+mnt-ref:        HOS-GUN
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        HOAC1-RIPE
+created:        2004-04-17T11:07:58Z
+changed:        bitbucket@ripe.net 20150805
+last-modified:  2015-08-05T12:57:31Z
+source:         RIPE
+e-mail:         info@hetzner.de</record>
+    </whois>
+  </response>
+</whoisapi>
+

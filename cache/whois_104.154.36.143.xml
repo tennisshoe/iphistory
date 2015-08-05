@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Google Inc.</registrant>
+    <registration>
+      <created>2014-07-09</created>
+      <updated>2014-07-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       104.154.0.0 - 104.155.255.255
+CIDR:           104.154.0.0/15
+NetName:        GOOGLE-CLOUD
+NetHandle:      NET-104-154-0-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS15169
+Organization:   Google Inc. (GOOGL-2)
+RegDate:        2014-07-09
+Updated:        2014-07-09
+Comment:        *** The IP addresses under this netblock are in use by Google Cloud customers *** 
+Comment:        
+Comment:        Please direct all abuse and legal complaints regarding these addresses to the 
+Comment:        GC Abuse desk (google-cloud-compliance@google.com). Complaints sent to 
+Comment:        any other POC will be ignored.
+Ref:            http://whois.arin.net/rest/net/NET-104-154-0-0-1
+
+OrgName:        Google Inc.
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2006-09-29
+Updated:        2013-10-18
+Comment:        *** The IP addresses under this Org-ID are in use by Google Cloud customers ***
+Comment:        
+Comment:        Please direct all abuse and legal complaints regarding these addresses to the
+Comment:        GC Abuse desk (google-cloud-compliance@google.com).  Complaints sent to 
+Comment:        any other POC will be ignored.
+Ref:            http://whois.arin.net/rest/org/GOOGL-2
+
+OrgNOCHandle: GCABU-ARIN
+OrgNOCName:   GC Abuse
+OrgNOCPhone:  +1-650-253-0000 
+OrgNOCEmail:  google-cloud-compliance@google.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/GCABU-ARIN
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google Inc
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZG39-ARIN
+
+OrgAbuseHandle: GCABU-ARIN
+OrgAbuseName:   GC Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  google-cloud-compliance@google.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GCABU-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

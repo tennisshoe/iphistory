@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Amazon Data Services Ireland Technical Role Account</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '46.137.208.0 - 46.137.215.255' is 'ec2-abuse@Amazon.com'
+
+inetnum:        46.137.208.0 - 46.137.215.255
+netname:        AMAZON-EU-LHR3-CF
+descr:          Amazon AWS Services - Cloudfront - LHR3
+remarks:        INFRA-AW
+country:        GB
+admin-c:        ADSI2-RIPE
+tech-c:         ADSI2-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-ADSI
+changed:        ripe-interest@amazon.com 20110404
+created:        2011-05-04T17:52:10Z
+last-modified:  2011-05-17T10:25:59Z
+source:         RIPE
+
+role:           Amazon Data Services Ireland Technical Role Account
+address:        Amazon Data Services Ireland
+address:        Digital Depot
+address:        Thomas Street
+address:        Dublin 8
+address:        Ireland
+mnt-by:         MNT-ADSI
+e-mail:         ripe-interest@amazon.com
+admin-c:        MA11338-RIPE
+tech-c:         AA25560-RIPE
+nic-hdl:        ADSI2-RIPE
+changed:        mazinger@amazon.com 20120308
+created:        2006-03-06T15:06:13Z
+last-modified:  2013-08-29T01:03:24Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

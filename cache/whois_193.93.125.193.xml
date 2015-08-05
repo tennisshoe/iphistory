@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Telefun SAS</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '193.93.124.0 - 193.93.127.255' is 'abuse@skyrock.com'
+
+inetnum:        193.93.124.0 - 193.93.127.255
+netname:        TELEFUN
+descr:          Telefun SAS
+org:            ORG-TA212-RIPE
+country:        FR
+admin-c:        KTHX1-RIPE
+tech-c:         KTHX1-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         MNT-TELEFUN-NOC
+mnt-domains:    MNT-TISCALIFR
+mnt-routes:     MNT-TELEFUN-NOC
+changed:        sbunel@orbus.fr 20130416
+changed:        hostmaster@ripe.net 20130418
+created:        2006-04-03T11:54:59Z
+last-modified:  2015-05-05T02:17:18Z
+source:         RIPE
+sponsoring-org: ORG-NTG3-RIPE
+
+organisation:   ORG-TA212-RIPE
+org-name:       Telefun SAS
+org-type:       OTHER
+address:        37 bis rue greneta
+e-mail:         network@noc.skyrock.com
+abuse-c:        AR19842-RIPE
+mnt-ref:        MNT-TELEFUN-NOC
+mnt-by:         MNT-TELEFUN-NOC
+changed:        sbunel@orbus.fr 20130416
+changed:        hostmaster@ripe.net 20130418
+created:        2006-04-04T13:31:03Z
+last-modified:  2014-03-28T16:48:12Z
+source:         RIPE
+
+role:           Network Operation Centre Skyrock.com
+address:        Telefun
+address:        37 bis, rue greneta
+address:        75002 Paris
+address:        France
+e-mail:         network@noc.skyrock.com
+admin-c:        SB18803-RIPE
+tech-c:         SB18803-RIPE
+nic-hdl:        KTHX1-RIPE
+mnt-by:         MNT-TELEFUN-NOC
+changed:        sbunel@orbus.fr 20130416
+created:        2008-12-17T15:14:24Z
+last-modified:  2013-04-16T08:27:52Z
+source:         RIPE
+
+route:          193.93.124.0/22
+descr:          TELEFUN - SKYROCK
+origin:         AS41064
+mnt-by:         MNT-TELEFUN
+changed:        henley.saramandif@te-dns.com 20071003
+created:        2006-09-19T12:53:25Z
+last-modified:  2007-10-03T09:43:29Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

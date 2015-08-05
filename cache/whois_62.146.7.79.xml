@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>IP Exchange Network Operation Center</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.146.7.64 - 62.146.7.95' is 'abuse@qsc.de'
+
+inetnum:        62.146.7.64 - 62.146.7.95
+netname:        EDVBV-IPX-NET-DE
+descr:          EDV-BV GmbH QSC Subkunde
+descr:          92536 Pfreimd
+country:        DE
+admin-c:        AM32990-RIPE
+tech-c:         IPX
+status:         ASSIGNED PA
+mnt-by:         IPPARTNER-MNT
+created:        2014-04-14T13:18:15Z
+last-modified:  2014-04-14T13:18:15Z
+source:         RIPE
+changed:        auto-ripe@ip-exchange.de 20140414
+
+role:           IP Exchange Network Operation Center
+address:        IP Exchange GmbH
+address:        Am Tower 5
+address:        90475 Nuernberg
+address:        DE
+phone:          +49 911 30950 50
+remarks:        +------------------------------------------------------
+remarks:        | In case of abuse please contact abuse@ip-exchange.de |
+remarks:        |------------------------------------------------------|
+remarks:        |    In case of technical problems please contact:     |
+remarks:        |      IP Exchange Network Operation Center 24x7       |
+remarks:        |     noc@ip-exchange.de  Tel.: +49 911 309 50 50      |
+remarks:        |------------------------------------------------------|
+abuse-mailbox:  abuse@ip-exchange.de
+e-mail:         noc@ip-exchange.de
+admin-c:        SVEN2-RIPE
+tech-c:         SVEN2-RIPE
+nic-hdl:        IPX
+mnt-by:         IPPARTNER-MNT
+changed:        grosse@ip-exchange.de 20060426
+changed:        blechinger@ip-exchange.de 20081216
+changed:        blechinger@ip-exchange.de 20120412
+changed:        sven.bremert@qsc.de 20140401
+changed:        sven.bremert@qsc.de 20150609
+created:        2002-07-18T11:30:10Z
+last-modified:  2015-06-09T19:08:40Z
+source:         RIPE
+
+person:         Andreas Marsch
+address:        EDV-BV GmbH QSC Subkunde
+address:        Wernberger Str. 44
+address:        92536 Pfreimd
+address:        DE
+phone:          +49 9606   92 010
+nic-hdl:        AM32990-RIPE
+changed:        auto-ripe@ip-exchange.de 20130603
+mnt-by:         IPPARTNER-MNT
+created:        2013-06-03T15:36:07Z
+last-modified:  2013-06-03T15:36:07Z
+source:         RIPE
+
+route:          62.146.0.0/16
+descr:          IP Exchange GmbH
+origin:         AS15598
+mnt-by:         IPPARTNER-MNT
+changed:        grosse@ip-exchange.de 20010104
+created:        2001-11-04T14:04:52Z
+last-modified:  2001-11-04T14:04:52Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

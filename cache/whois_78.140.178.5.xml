@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Webzilla B.V.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '78.140.128.0 - 78.140.191.255' is 'abuse@webzilla.com'
+
+inetnum:        78.140.128.0 - 78.140.191.255
+netname:        NL-WEBZILLA-20070629
+descr:          Webzilla B.V.
+country:        NL
+org:            ORG-WL21-RIPE
+admin-c:        WZNL1-RIPE
+tech-c:         WZNL1-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      WZNET-MNT
+mnt-routes:     WZNET-MNT
+mnt-domains:    WZNET-MNT
+notify:         bk@webzilla.com
+changed:        hostmaster@ripe.net 20070629
+changed:        hostmaster@ripe.net 20070719
+changed:        bit-bucket@ripe.net 20150521
+created:        2007-06-29T08:30:08Z
+last-modified:  2015-05-22T09:38:14Z
+source:         RIPE
+
+organisation:   ORG-WL21-RIPE
+org-name:       Webzilla B.V.
+org-type:       LIR
+address:        Strawinskylaan 601
+address:        1077 XX
+address:        Amsterdam
+address:        NETHERLANDS
+phone:          +31208932774
+fax-no:         +31303100299
+e-mail:         ripe@webzilla.com
+admin-c:        BK5536-RIPE
+mnt-ref:        WZNET-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        WZNL1-RIPE
+created:        2006-01-31T11:11:04Z
+changed:        bitbucket@ripe.net 20150521
+last-modified:  2015-05-21T14:52:32Z
+source:         RIPE
+
+role:           Webzilla RIPE Manager
+address:        Webzilla B.V.
+address:        Strawinskylaan 601
+address:        1077 XX Amsterdam
+address:        Netherlands
+phone:          +31208932774
+fax-no:         +31303100299
+abuse-mailbox:  abuse@webzilla.com
+e-mail:         noc@webzilla.com
+mnt-by:         WZNET-MNT
+admin-c:        BK5536-RIPE
+tech-c:         BK5536-RIPE
+nic-hdl:        WZNL1-RIPE
+changed:        bk@webzilla.com 20150522
+created:        2007-02-09T19:15:08Z
+last-modified:  2015-05-22T10:50:56Z
+source:         RIPE
+
+route:          78.140.128.0/18
+descr:          WEBZILLA
+origin:         AS35415
+mnt-by:         WZNET-MNT
+changed:        bk@webzilla.com 20150522
+created:        2009-12-09T13:40:02Z
+last-modified:  2015-05-22T10:51:48Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

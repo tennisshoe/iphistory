@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>GamePoint Inc.</registrant>
+    <registration>
+      <created>2006-04-17</created>
+      <updated>2006-04-17</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       207.250.236.0 - 207.250.236.255
+CIDR:           207.250.236.0/24
+NetName:        TWTC-GAMEP3
+NetHandle:      NET-207-250-236-0-1
+Parent:         TWTC-NETBLK-6 (NET-207-250-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   GamePoint Inc. (GAMEP-1)
+RegDate:        2006-04-17
+Updated:        2006-04-17
+Ref:            http://whois.arin.net/rest/net/NET-207-250-236-0-1
+
+OrgName:        GamePoint Inc.
+OrgId:          GAMEP-1
+Address:        26 6th Avenue North
+City:           St. Cloud
+StateProv:      MN
+PostalCode:     56303
+Country:        US
+RegDate:        2003-01-16
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/GAMEP-1
+
+OrgTechHandle: TECHD-ARIN
+OrgTechName:   Tech Department
+OrgTechPhone:  +1-320-203-7157 
+OrgTechEmail:  domains@teamfreeze.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHD-ARIN
+
+OrgAbuseHandle: TECHD-ARIN
+OrgAbuseName:   Tech Department
+OrgAbusePhone:  +1-320-203-7157 
+OrgAbuseEmail:  domains@teamfreeze.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/TECHD-ARIN
+
+NetRange:       207.250.0.0 - 207.250.255.255
+CIDR:           207.250.0.0/16
+NetName:        TWTC-NETBLK-6
+NetHandle:      NET-207-250-0-0-1
+Parent:         NET207 (NET-207-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   tw telecom holdings, inc. (TWTC)
+RegDate:        1996-11-15
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-207-250-0-0-1
+
+OrgName:        tw telecom holdings, inc.
+OrgId:          TWTC
+Address:        10475 Park Meadows Drive
+City:           Littleton
+StateProv:      CO
+PostalCode:     80124
+Country:        US
+RegDate:        1999-03-17
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/TWTC
+
+ReferralServer:  rwhois://rwhois.twtelecom.net:4321
+
+OrgTechHandle: NST12-ARIN
+OrgTechName:   NOC SWIP Team
+OrgTechPhone:  +1-800-898-6473 
+OrgTechEmail:  swip@twtelecom.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NST12-ARIN
+
+OrgNOCHandle: TDN1-ARIN
+OrgNOCName:   TWTC Data NOC
+OrgNOCPhone:  +1-800-898-6473 
+OrgNOCEmail:  support@twtelecom.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/TDN1-ARIN
+
+OrgAbuseHandle: TWTAD-ARIN
+OrgAbuseName:   tw telecom Abuse Desk
+OrgAbusePhone:  +1-800-898-6473 
+OrgAbuseEmail:  abuse@twtelecom.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/TWTAD-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

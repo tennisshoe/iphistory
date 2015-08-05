@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Castle Access Inc</registrant>
+    <registration>
+      <created>2003-05-08</created>
+      <updated>2015-04-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.43.128.0 - 69.43.207.255
+CIDR:           69.43.128.0/18, 69.43.192.0/20
+NetName:        ARIN-CASTLE-ALLOC
+NetHandle:      NET-69-43-128-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Castle Access Inc (CASTL)
+RegDate:        2003-05-08
+Updated:        2015-04-27
+Ref:            http://whois.arin.net/rest/net/NET-69-43-128-0-1
+
+OrgName:        Castle Access Inc
+OrgId:          CASTL
+Address:        9606 Aero Drive
+Address:        Ste 1900
+City:           San Diego
+StateProv:      CA
+PostalCode:     92123
+Country:        US
+RegDate:        2002-09-04
+Updated:        2015-04-30
+Ref:            http://whois.arin.net/rest/org/CASTL
+
+OrgTechHandle: NETWO1388-ARIN
+OrgTechName:   Network Administrator
+OrgTechPhone:  858-836-0200 
+OrgTechEmail:  netadmin@redit.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO1388-ARIN
+
+OrgAbuseHandle: ABUSE1886-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  858-836-0200 
+OrgAbuseEmail:  abuse.sd@redit.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1886-ARIN
+
+OrgNOCHandle: NETWO1388-ARIN
+OrgNOCName:   Network Administrator
+OrgNOCPhone:  858-836-0200 
+OrgNOCEmail:  netadmin@redit.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO1388-ARIN
+
+OrgTechHandle: DSA111-ARIN
+OrgTechName:   Savage, Denis 
+OrgTechPhone:  858-836-0200 
+OrgTechEmail:  netadmin@castleaccess.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DSA111-ARIN
+
+RTechHandle: NETWO1388-ARIN
+RTechName:   Network Administrator
+RTechPhone:  858-836-0200 
+RTechEmail:  netadmin@redit.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO1388-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

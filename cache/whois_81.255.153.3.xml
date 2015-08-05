@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Orange Business Services</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '81.255.153.0 - 81.255.153.31' is 'gestionip.ft@orange.com'
+
+inetnum:        81.255.153.0 - 81.255.153.31
+netname:        FR-LD-COM-NETCENTER-BORDEAUX
+descr:          VENTE SUR INTERNET
+country:        FR
+admin-c:        NC3496-RIPE
+tech-c:         NC3496-RIPE
+status:         ASSIGNED PA
+notify:         addr-reg@rain.fr
+mnt-by:         RAIN-TRANSPAC
+changed:        addr-reg@rain.fr 20130205
+created:        2004-06-24T12:35:29Z
+last-modified:  2013-02-05T09:27:44Z
+source:         RIPE
+
+person:         Network Cdiscount
+address:        CDISCOUNT
+address:        122-124 Quai de Bacalan
+address:        33000
+address:        Bordeaux
+phone:          +33 5 57 14 45 00
+fax-no:         +33 5 57 14 45 00
+e-mail:         abuse@cdiscount.com
+nic-hdl:        NC3496-RIPE
+mnt-by:         PC80199-MNT
+changed:        lpe@oleane.net 20130205
+created:        2013-02-05T09:24:43Z
+last-modified:  2013-02-05T09:24:43Z
+source:         RIPE
+
+route:          81.255.0.0/16
+descr:          ORANGE BUSINESS SERVICES
+origin:         AS3215
+mnt-by:         PC80199-MNT
+org:            ORG-OBS3-RIPE
+changed:        gestip.rain@orange-ftgroup.com 20030318
+changed:        gestip.rain@orange-ftgroup.com 20070910
+changed:        gestip.rain@orange-ftgroup.com 20101110
+changed:        gestip.rain@orange.com 20141231
+created:        2003-03-18T15:13:39Z
+last-modified:  2014-12-31T10:44:13Z
+source:         RIPE
+
+organisation:   ORG-OBS3-RIPE
+org-name:       Orange Business Services
+org-type:       Other
+address:        6 avenue Albert Durand
+address:        31700 Blagnac  France
+e-mail:         gestip.rain@orange.com
+remarks:        **************************************
+remarks:        *   Pour les obligations legale      *
+remarks:        * Contacter uniquement les poles OL  *
+remarks:        *      de France Telecom/Orange      *
+remarks:        *                                    *
+remarks:        *    For legal issus joint only      *
+remarks:        *  France telecom/orange legal team  *
+remarks:        **************************************
+abuse-mailbox:  abuse@orange-business.com
+admin-c:        AA2914-RIPE
+tech-c:         AA2914-RIPE
+abuse-c:        AA2914-RIPE
+mnt-ref:        OLEANE-NOC
+mnt-ref:        FT-BRX
+mnt-ref:        RAIN-TRANSPAC
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RAIN-TRANSPAC
+changed:        gestip.rain@orange.com 20101108
+changed:        gestip.rain@orange.com 20110418
+changed:        gestip.rain@orange.com 20130613
+created:        2010-11-08T15:39:40Z
+last-modified:  2013-06-13T14:39:42Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

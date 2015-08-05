@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Marktplaats B.V.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '91.211.72.0 - 91.211.75.255' is 'abuse@marktplaats.nl'
+
+inetnum:        91.211.72.0 - 91.211.75.255
+netname:        Marktplaats
+descr:          Marktplaats B.V.
+country:        NL
+org:            ORG-MB40-RIPE
+admin-c:        MPCR1-RIPE
+tech-c:         MPCR1-RIPE
+tech-c:         bot-ripe
+tech-c:         bont-ripe
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         ECG-MNT
+mnt-routes:     ECG-MNT
+mnt-domains:    ECG-MNT
+changed:        wbont@ebay.com 20131126
+created:        2008-12-05T08:44:05Z
+last-modified:  2015-05-05T02:15:32Z
+source:         RIPE
+
+organisation:   ORG-MB40-RIPE
+org-name:       Marktplaats B.V.
+org-type:       LIR
+address:        Marktplaats B.V.
+address:        Wibautstraat  224
+address:        1097DN
+address:        Amsterdam
+address:        NETHERLANDS
+phone:          +319000000
+fax-no:         +319000000
+abuse-c:        AR13942-RIPE
+admin-c:        BA2076-RIPE
+admin-c:        bont-ripe
+admin-c:        MM14848-RIPE
+admin-c:        bot-ripe
+admin-c:        FD402-RIPE
+mnt-ref:        ECG-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        bitbucket@ripe.net 20150313
+created:        2012-09-07T13:00:43Z
+last-modified:  2015-03-13T08:37:11Z
+source:         RIPE
+e-mail:         dl-ebay-classifieds-networking@ebay.com
+
+role:           Marktplaats B.V. Contact Role
+address:        Marktplaats B.V.
+address:        Wibautstraat 224
+address:        1097 DN Amsterdam
+address:        The Netherlands
+e-mail:         dl-ebay-classifieds-networking@ebay.com
+admin-c:        BA2076-RIPE
+admin-c:        MM14848-RIPE
+admin-c:        bont-ripe
+tech-c:         MM14848-RIPE
+tech-c:         bont-ripe
+mnt-by:         ECG-MNT
+nic-hdl:        MPCR1-RIPE
+changed:        wbont@ebay.com 20141020
+changed:        jsnijders@ebay.com 20100820
+changed:        jsnijders@ebay.com 20100906
+changed:        jsnijders@ebay.com 20110804
+created:        2010-08-20T10:55:01Z
+last-modified:  2014-10-20T12:21:39Z
+source:         RIPE
+
+person:         W Bont
+address:        Wibautstraat  224
+address:        1097DN Amsterdam
+address:        The Netherlands
+mnt-by:         ECG-MNT
+e-mail:         wbont@ebay.com
+nic-hdl:        bont-ripe
+phone:          +31611109925
+changed:        melchior@aelmans.eu 20130325
+created:        2013-03-25T08:54:57Z
+last-modified:  2013-03-25T08:54:57Z
+source:         RIPE
+
+person:         I Bottenheft
+address:        Wibautstraat 224
+address:        1097DN Amsterdam
+address:        The Netherlands
+mnt-by:         ECG-MNT
+e-mail:         ibottenheft@ebay.com
+nic-hdl:        bot-ripe
+phone:          +31653490718
+changed:        wbont@ebay.com 20141020
+created:        2013-03-25T08:59:36Z
+last-modified:  2014-10-20T12:31:28Z
+source:         RIPE
+
+route:          91.211.72.0/22
+descr:          Marktplaats
+origin:         AS41552
+mnt-by:         ECG-MNT
+changed:        edwin@openpeering.nl 20081205
+changed:        marco@openpeering.nl 20131011
+created:        2008-12-05T13:27:47Z
+last-modified:  2013-10-11T15:26:24Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

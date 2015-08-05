@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>MARKMONITOR/IDAWORKS</registrant>
+    <registration>
+      <created>2003-01-27</created>
+      <updated>2003-01-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.124.14.0 - 64.124.14.127
+CIDR:           64.124.14.0/25
+NetName:        MFN-B679-64-124-14-0-25
+NetHandle:      NET-64-124-14-0-1
+Parent:         ABOVENET (NET-64-124-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       MARKMONITOR/IDAWORKS (C00459411)
+RegDate:        2003-01-27
+Updated:        2003-01-27
+Comment:        Abuse issues should be sent to abuse@markmonitor.com
+Ref:            http://whois.arin.net/rest/net/NET-64-124-14-0-1
+
+CustName:       MARKMONITOR/IDAWORKS
+Address:        12438 West Bridger Ste.100
+City:           Boise
+StateProv:      ID
+PostalCode:     83713
+Country:        US
+RegDate:        2003-01-27
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C00459411
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ip-tac@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+NetRange:       64.124.0.0 - 64.125.255.255
+CIDR:           64.124.0.0/15
+NetName:        ABOVENET
+NetHandle:      NET-64-124-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Abovenet Communications, Inc (ABVE)
+RegDate:        2000-07-06
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-124-0-0-1
+
+OrgName:        Abovenet Communications, Inc
+OrgId:          ABVE
+Address:        360 Hamilton Ave
+City:           White Plains
+StateProv:      NY
+PostalCode:     10601
+Country:        US
+RegDate:        1996-04-22
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/ABVE
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ipncc@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

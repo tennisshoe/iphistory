@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cogswell Enterprises Inc.</registrant>
+    <registration>
+      <created>2008-12-03</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       96.30.0.0 - 96.30.63.255
+CIDR:           96.30.0.0/18
+NetName:        WIREDTREE
+NetHandle:      NET-96-30-0-0-1
+Parent:         NET96 (NET-96-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS19066
+Organization:   Cogswell Enterprises Inc. (COGSW)
+RegDate:        2008-12-03
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-96-30-0-0-1
+
+OrgName:        Cogswell Enterprises Inc.
+OrgId:          COGSW
+Address:        53 W. Jackson Blvd
+Address:        Suite 1734
+City:           Chicago
+StateProv:      IL
+PostalCode:     60604
+Country:        US
+RegDate:        2006-08-18
+Updated:        2014-08-11
+Ref:            http://whois.arin.net/rest/org/COGSW
+
+ReferralServer:  rwhois://rwhois.wiredtree.com:4321
+
+OrgTechHandle: NOC2219-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-312-447-0510 
+OrgTechEmail:  noc@wiredtree.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2219-ARIN
+
+OrgNOCHandle: NOC2219-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-312-447-0510 
+OrgNOCEmail:  noc@wiredtree.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC2219-ARIN
+
+OrgAbuseHandle: ABUSE1587-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-312-447-0510 
+OrgAbuseEmail:  abuse@wiredtree.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1587-ARIN
+
+RTechHandle: NOC2219-ARIN
+RTechName:   NOC
+RTechPhone:  +1-312-447-0510 
+RTechEmail:  noc@wiredtree.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC2219-ARIN
+
+RNOCHandle: NOC2219-ARIN
+RNOCName:   NOC
+RNOCPhone:  +1-312-447-0510 
+RNOCEmail:  noc@wiredtree.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2219-ARIN
+
+RAbuseHandle: ABUSE1587-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-312-447-0510 
+RAbuseEmail:  abuse@wiredtree.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1587-ARIN
+
+== Additional Information From rwhois://rwhois.wiredtree.com:4321 ==
+
+%rwhois V-1.5:003eff:00 rwhois.wiredtree.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:NETBLK-WIREDTREE.96.30.0.0/18
+network:Auth-Area:96.30.0.0/18
+network:Network-Name:WIREDTREE-96.30.0.0
+network:IP-Network:96.30.0.0/18
+network:IP-Network-Block:96.30.0.0 - 96.30.63.255
+network:Organization;I:Wiredtree
+network:Tech-Contact;I:support@wiredtree.com
+network:Admin-Contact;I:ARIN-NIC-HANDLE
+network:Created:20010919
+network:Updated:20010924
+network:Updated-By:support@wiredtree.com
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

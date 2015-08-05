@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Administrative role account</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.239.169.0 - 213.239.169.255' is 'abuse@true.nl'
+
+inetnum:        213.239.169.0 - 213.239.169.255
+netname:        NL-BOOKINGS
+descr:          Bookings NL
+descr:          Please use abuse@bookings.org for complaints.
+country:        NL
+admin-c:        TSAR1-RIPE
+tech-c:         TSTR1-RIPE
+status:         ASSIGNED PA
+mnt-by:         TRUESERVER-MNT
+changed:        vincent@trueserver.nl 20020717
+created:        2002-07-17T08:12:24Z
+last-modified:  2002-07-17T08:12:24Z
+source:         RIPE
+
+role:           Administrative role account
+address:        True B.V.
+address:        Keienbergweg 100
+address:        1101 GH Amsterdam
+phone:          +31 20 3059750
+fax-no:         +31 20 3059751
+e-mail:         ripe-admin@trueserver.nl
+admin-c:        TSSJ1-RIPE
+tech-c:         TSTR1-RIPE
+nic-hdl:        TSAR1-RIPE
+notify:         ripe-admin@trueserver.nl
+mnt-by:         TRUESERVER-MNT
+changed:        leander-ripe@trueserver.nl 20150301
+created:        2002-03-25T14:29:55Z
+last-modified:  2015-03-06T11:19:08Z
+source:         RIPE
+
+role:           Technical role account
+address:        True B.V.
+address:        Keienbergweg 100
+address:        1101 GH Amsterdam
+phone:          +31 20 3059750
+fax-no:         +31 20 3059751
+e-mail:         ripe-tech@trueserver.nl
+admin-c:        TSSJ1-RIPE
+tech-c:         TSLL1-RIPE
+tech-c:         DANK1-RIPE
+nic-hdl:        TSTR1-RIPE
+mnt-by:         TRUESERVER-MNT
+created:        2002-03-25T14:37:05Z
+last-modified:  2015-03-06T11:30:27Z
+source:         RIPE
+changed:        leander-ripe@trueserver.nl 20150301
+
+route:          213.239.160.0/20
+descr:          TrueServer BV
+origin:         AS15703
+notify:         ruben-ripe@trueserver.nl
+mnt-by:         TRUESERVER-MNT
+changed:        ruben-ripe@trueserver.nl 20020410
+created:        2002-04-10T11:20:37Z
+last-modified:  2002-04-10T11:20:37Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

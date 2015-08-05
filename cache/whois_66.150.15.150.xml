@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Clinicient, Inc.</registrant>
+    <registration>
+      <created>2006-09-26</created>
+      <updated>2006-09-26</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.150.15.128 - 66.150.15.159
+CIDR:           66.150.15.128/27
+NetName:        INAP-SEF-CLINICIENT-10263
+NetHandle:      NET-66-150-15-128-1
+Parent:         PNAP-06-2001 (NET-66-150-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Clinicient, Inc. (C01457454)
+RegDate:        2006-09-26
+Updated:        2006-09-26
+Ref:            http://whois.arin.net/rest/net/NET-66-150-15-128-1
+
+CustName:       Clinicient, Inc.
+Address:        506 SW Sixth Ave
+Address:        Suite 1111
+City:           Portland
+StateProv:      OR
+PostalCode:     97204
+Country:        US
+RegDate:        2006-09-26
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01457454
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+NetRange:       66.150.0.0 - 66.151.255.255
+CIDR:           66.150.0.0/15
+NetName:        PNAP-06-2001
+NetHandle:      NET-66-150-0-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internap Network Services Corporation (PNAP)
+RegDate:        2001-07-13
+Updated:        2002-06-17
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-66-150-0-0-1
+
+OrgName:        Internap Network Services Corporation
+OrgId:          PNAP
+Address:        250 Williams Street
+Address:        Suite E100
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        1996-07-18
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/PNAP
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

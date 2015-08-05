@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NetCologne GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '195.14.192.0 - 195.14.255.255' is 'abuse@netcologne.de'
+
+inetnum:        195.14.192.0 - 195.14.255.255
+descr:          NetCologne GmbH
+org:            ORG-NG11-RIPE
+netname:        DE-NETCOLOGNE-970414
+country:        DE
+admin-c:        MR111-RIPE
+admin-c:        MA1830-RIPE
+tech-c:         MR111-RIPE
+tech-c:         MA1830-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      NETCOLOGNE-MNT
+mnt-routes:     NETCOLOGNE-MNT
+changed:        hostmaster@ripe.net 19970414
+changed:        hostmaster@ripe.net 20011123
+changed:        hostmaster@ripe.net 20011210
+changed:        bitbucket@ripe.net 20100810
+changed:        hostmaster@ripe.net 20110804
+created:        2001-12-10T16:03:24Z
+last-modified:  2011-08-04T15:59:56Z
+source:         RIPE
+
+organisation:   ORG-NG11-RIPE
+org-name:       NetCologne GmbH
+org-type:       LIR
+address:        Am Coloneum 9
+address:        50829
+address:        Koeln
+address:        GERMANY
+phone:          +49 221 2222 212
+fax-no:         +49 221 2222 5330
+admin-c:        FS11825-RIPE
+admin-c:        RN1565-RIPE
+admin-c:        MR111-RIPE
+admin-c:        AV2557-RIPE
+admin-c:        DS4061-RIPE
+admin-c:        MA1830-RIPE
+admin-c:        TA1306-RIPE
+admin-c:        PS17933-RIPE
+admin-c:        MIS93-RIPE
+admin-c:        OW4061-RIPE
+admin-c:        PL9622-RIPE
+admin-c:        FS5253-RIPE
+mnt-ref:        NETCOLOGNE-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        ACN23-RIPE
+changed:        bitbucket@ripe.net 20150417
+created:        2004-04-17T11:10:37Z
+last-modified:  2015-04-17T06:30:45Z
+source:         RIPE
+e-mail:         registry@netcologne.de
+
+person:         Michael Adams
+address:        NetCologne GmbH
+address:        Am Coloneum 9
+address:        D-50829 Koeln
+address:        GERMANY
+phone:          +49-221-2222-0
+fax-no:         +49-221-2222-7657
+e-mail:         madams@netcologne.de
+nic-hdl:        MA1830-RIPE
+remarks:        + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+remarks:        +                                                             +
+remarks:        +  Dear Personal-Firewall-User,                               +
+remarks:        +                                                             +
+remarks:        +  if this record is shown to you by your firewall please     +
+remarks:        +  notice this record does not indicate the name or the       +
+remarks:        +  address of the offender attacking your PC.                 +
+remarks:        +                                                             +
+remarks:        +  This database entry points to a technical contact for      +
+remarks:        +  the IP space of NetCologne (AS8422). So don't waste        +
+remarks:        +  your time with sending complaints to me.                   +
+remarks:        +                                                             +
+remarks:        +  If you are certain about a network abuse originating       +
+remarks:        +  from an IP address assigned to NetCologne please contact   +
+remarks:        +                                                             +
+remarks:        +                                                             +
+remarks:        +                   abuse@netcologne.de                       +
+remarks:        +                                                             +
+remarks:        +  or just visit                                              +
+remarks:        +                                                             +
+remarks:        +              http://www.netcologne.de/abuse/                +
+remarks:        +                                                             +
+remarks:        + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+abuse-mailbox:  abuse@netcologne.de
+mnt-by:         NETCOLOGNE-MNT
+changed:        madams@netcologne.de 20081120
+changed:        madams@netcologne.de 20090618
+changed:        owinkler@netcologne.de 20130226
+created:        1970-01-01T00:00:00Z
+last-modified:  2013-02-26T10:59:16Z
+source:         RIPE
+
+person:         Michael Ruesel
+address:        NetCologne GmbH
+address:        Am Coloneum 9
+address:        D-50829 Koeln
+address:        Germany
+phone:          +49 221 2222 212
+fax-no:         +49 221 2222 7212
+e-mail:         mruesel@netcologne.de
+nic-hdl:        MR111-RIPE
+remarks:        + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+remarks:        + abuse@netcologne.de is contact for criminal use, spam, etc. +
+remarks:        + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+abuse-mailbox:  abuse@netcologne.de
+mnt-by:         NETCOLOGNE-MNT
+changed:        mruesel@netcologne.de 20060113
+changed:        madams@netcologne.de 20090618
+created:        1970-01-01T00:00:00Z
+last-modified:  2009-06-18T14:08:29Z
+source:         RIPE
+
+route:          195.14.192.0/18
+descr:          NetCologne GmbH
+origin:         AS8422
+mnt-by:         NETCOLOGNE-MNT
+changed:        madams@netcologne.de 20020102
+created:        2002-01-02T15:20:40Z
+last-modified:  2002-01-02T15:20:40Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

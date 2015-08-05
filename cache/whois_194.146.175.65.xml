@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Claranet France Hostmaster</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '194.146.175.0 - 194.146.175.255' is 'abuse@fr.clara.net'
+
+inetnum:        194.146.175.0 - 194.146.175.255
+netname:        CLARANET-FRANCE-NETS
+descr:          Claranet France Customer Network
+country:        FR
+admin-c:        NOC17-RIPE
+tech-c:         CFH1-RIPE
+status:         ASSIGNED PA
+notify:         hostmaster@fr.clara.net
+mnt-by:         AS8975-MNT
+mnt-lower:      AS8975-MNT
+created:        2015-02-16T13:30:56Z
+last-modified:  2015-02-16T13:30:56Z
+source:         RIPE
+changed:        hostmaster@ripe.net 20150213
+changed:        erwan.lerale@fr.clara.net 20150216
+remarks:        INFRA-AW
+
+role:           Claranet France Hostmaster
+address:        18-20, rue du Faubourg du Temple
+address:        75011 PARIS
+phone:          +33 (0)1 70 13 70 00
+fax-no:         +33 (0)1 70 13 70 01
+e-mail:         ripe@fr.clara.net
+remarks:        trouble:      ---------------------------------------------------
+remarks:        trouble:      Please do NOT send abuse complaints to the contacts
+remarks:        trouble:      listed. Please email them to abuse@fr.clara.net
+remarks:        trouble:      ---------------------------------------------------
+admin-c:        NOC17-RIPE
+tech-c:         NOC17-RIPE
+tech-c:         EL1447-RIPE
+nic-hdl:        CFH1-RIPE
+notify:         ripe@fr.clara.net
+mnt-by:         AS8975-MNT
+changed:        lee@fr.clara.net 20030507
+changed:        jess.kitchen@fr.clara.net 20080415
+changed:        erwan.lerale@fr.clara.net 20130403
+changed:        erwan.lerale@fr.clara.net 20140214
+created:        2002-06-06T08:44:09Z
+last-modified:  2014-02-14T11:31:26Z
+source:         RIPE
+abuse-mailbox:  abuse@fr.clara.net
+
+person:         Claranet Network Operations Center
+address:        18-20, rue du Faubourg du Temple
+address:        75011 PARIS
+phone:          +33 1 70 13 70 00
+fax-no:         +33 1 70 13 70 01
+e-mail:         ripe@fr.clara.net
+nic-hdl:        NOC17-RIPE
+mnt-by:         AS8975-MNT
+remarks:        please mail abuse mail to abuse@fr.clara.net
+notify:         ripe@fr.clara.net
+changed:        lee@fr.clara.net 20020729
+changed:        jess.kitchen@fr.clara.net 20080415
+changed:        erwan.lerale@fr.clara.net 20130403
+changed:        erwan.lerale@fr.clara.net 20140214
+created:        2002-07-29T08:24:24Z
+last-modified:  2014-02-14T11:27:35Z
+source:         RIPE
+
+route:          194.146.172.0/22
+descr:          ARTFUL-BLOCK1
+descr:          artful block 1
+origin:         AS15489
+mnt-by:         AS8975-MNT
+changed:        ssejour@artful.net 20070626
+created:        2004-03-15T14:21:32Z
+last-modified:  2007-06-26T09:17:02Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

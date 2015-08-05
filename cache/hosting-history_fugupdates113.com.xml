@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>fugupdates113.com</domain_name>
+    <ip_history/>
+    <registrar_history>
+      <domain>FUGUPDATES113.COM</domain>
+      <date_updated>2015-02-06</date_updated>
+      <date_created>2015-02-06</date_created>
+      <date_expires>2016-02-06</date_expires>
+      <date_lastchecked>2015-02-15</date_lastchecked>
+      <registrar>eNom.com</registrar>
+      <registrartag>ENOM, INC.</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>FUGUPDATES113.COM</domain>
+      <action>N</action>
+      <actiondate>2015-02-08</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Cloudflare.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

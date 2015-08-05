@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hostmaster udag</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '89.31.143.0 - 89.31.143.255' is 'abuse@united-domains.de'
+
+inetnum:        89.31.143.0 - 89.31.143.255
+netname:        DE-UDAG-143
+descr:          united-domains AG
+country:        DE
+admin-c:        UDAG1-RIPE
+tech-c:         UDAG1-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-UD
+changed:        ripe@united-domains.de 20140613
+created:        2014-06-13T11:06:27Z
+last-modified:  2014-06-13T11:06:27Z
+source:         RIPE
+
+role:           Hostmaster udag
+address:        united-domains AG
+address:        Gautinger Strasse 10
+address:        D-82319 Starnberg
+address:        Germany
+remarks:        to report abuse use abuse@united-domains.de
+phone:          +49 8151 36867 0
+fax-no:         +49 8151 36867 77
+abuse-mailbox:  abuse@united-domains.de
+e-mail:         ripe@united-domains.de
+admin-c:        UDAG16-RIPE
+tech-c:         UDAG16-RIPE
+nic-hdl:        UDAG1-RIPE
+mnt-by:         MNT-UD
+changed:        ripe@united-domains.de 20060911
+changed:        ripe@united-domains.de 20071203
+changed:        ripe@united-domains.de 20131122
+created:        2006-09-11T09:48:07Z
+last-modified:  2013-11-22T11:57:38Z
+source:         RIPE
+
+route:          89.31.143.0/24
+descr:          United Domains via IP Exchange GmbH
+origin:         AS15598
+mnt-by:         IPPARTNER-MNT
+created:        2009-02-12T09:48:20Z
+last-modified:  2009-02-12T09:48:20Z
+source:         RIPE
+changed:        bremert@ip-exchange.de 20090212</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Westin Hotel</registrant>
+    <registration>
+      <created>2009-12-09</created>
+      <updated>2009-12-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.25.212.128 - 69.25.212.255
+CIDR:           69.25.212.128/25
+NetName:        INAP-DEN-WESTIN-36018
+NetHandle:      NET-69-25-212-128-1
+Parent:         PNAP-12-2002 (NET-69-25-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Westin Hotel (C02373936)
+RegDate:        2009-12-09
+Updated:        2009-12-09
+Ref:            http://whois.arin.net/rest/net/NET-69-25-212-128-1
+
+CustName:       Westin Hotel
+Address:        1672 Lawrence Street
+City:           Denver
+StateProv:      CO
+PostalCode:     80202
+Country:        US
+RegDate:        2009-12-09
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02373936
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+NetRange:       69.25.0.0 - 69.25.255.255
+CIDR:           69.25.0.0/16
+NetName:        PNAP-12-2002
+NetHandle:      NET-69-25-0-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internap Network Services Corporation (PNAP)
+RegDate:        2003-02-13
+Updated:        2003-09-16
+Ref:            http://whois.arin.net/rest/net/NET-69-25-0-0-1
+
+OrgName:        Internap Network Services Corporation
+OrgId:          PNAP
+Address:        250 Williams Street
+Address:        Suite E100
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        1996-07-18
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/PNAP
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

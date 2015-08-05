@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>halifax-online.co.uk</domain_name>
+    <ip_history/>
+    <registrar_history/>
+    <nameserver_history>
+      <domain>HALIFAX-ONLINE.CO.UK</domain>
+      <action>T</action>
+      <actiondate>2013-09-19</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Lloydstsb.co.uk</post_mns>
+      <pre_mns>Bt.net</pre_mns>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

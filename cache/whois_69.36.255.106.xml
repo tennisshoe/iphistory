@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Layer42.Net, Inc.</registrant>
+    <registration>
+      <created>2003-04-10</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.36.224.0 - 69.36.255.255
+CIDR:           69.36.224.0/19
+NetName:        LAYER42
+NetHandle:      NET-69-36-224-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Layer42.Net, Inc. (LAYER-1)
+RegDate:        2003-04-10
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-69-36-224-0-1
+
+OrgName:        Layer42.Net, Inc.
+OrgId:          LAYER-1
+Address:        1555 Plymouth St
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2003-01-22
+Updated:        2013-11-05
+Ref:            http://whois.arin.net/rest/org/LAYER-1
+
+ReferralServer:  rwhois://rwhois.layer42.net:4321
+
+OrgNOCHandle: LAYER-ARIN
+OrgNOCName:   Layer42 Operations
+OrgNOCPhone:  +1-650-960-4646 
+OrgNOCEmail:  noc@layer42.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/LAYER-ARIN
+
+OrgTechHandle: LAYER-ARIN
+OrgTechName:   Layer42 Operations
+OrgTechPhone:  +1-650-960-4646 
+OrgTechEmail:  noc@layer42.net
+OrgTechRef:    http://whois.arin.net/rest/poc/LAYER-ARIN
+
+OrgAbuseHandle: ABUSE1675-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-960-4646 
+OrgAbuseEmail:  abuse@layer42.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1675-ARIN
+
+RTechHandle: SR91-ARIN
+RTechName:   Rubin, Steve Eric
+RTechPhone:  +1-408-450-5742 
+RTechEmail:  ser@layer42.net
+RTechRef:    http://whois.arin.net/rest/poc/SR91-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

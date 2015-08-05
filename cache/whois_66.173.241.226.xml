@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Delaware.Net, Inc</registrant>
+    <registration>
+      <created>2005-02-16</created>
+      <updated>2010-05-13</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.173.241.0 - 66.173.241.255
+CIDR:           66.173.241.0/24
+NetName:        DELAWARENET
+NetHandle:      NET-66-173-241-0-1
+Parent:         CAVTEL-BLK-1 (NET-66-173-128-0-1)
+NetType:        Reassigned
+OriginAS:       AS23241
+Organization:   Delaware.Net, Inc (DLWR)
+RegDate:        2005-02-16
+Updated:        2010-05-13
+Ref:            http://whois.arin.net/rest/net/NET-66-173-241-0-1
+
+OrgName:        Delaware.Net, Inc
+OrgId:          DLWR
+Address:        28 Old Rudnick Lane
+City:           Dover
+StateProv:      DE
+PostalCode:     19901
+Country:        US
+RegDate:        1999-08-03
+Updated:        2011-02-15
+Ref:            http://whois.arin.net/rest/org/DLWR
+
+OrgTechHandle: HATHC1-ARIN
+OrgTechName:   Hathcock, James 
+OrgTechPhone:  +1-302-736-5515 
+OrgTechEmail:  james@delaware.net
+OrgTechRef:    http://whois.arin.net/rest/poc/HATHC1-ARIN
+
+OrgNOCHandle: NOC11856-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-302-736-5515 
+OrgNOCEmail:  admin@delaware.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC11856-ARIN
+
+OrgAbuseHandle: ABUSE2917-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-302-736-5515 
+OrgAbuseEmail:  abuse@delaware.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2917-ARIN
+
+NetRange:       66.173.128.0 - 66.173.255.255
+CIDR:           66.173.128.0/17
+NetName:        CAVTEL-BLK-1
+NetHandle:      NET-66-173-128-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Cavalier Telephone (CTLL)
+RegDate:        2003-10-15
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-66-173-128-0-1
+
+OrgName:        Cavalier Telephone
+OrgId:          CTLL
+Address:        Cavalier Telephone
+Address:        2134 West Laburnum Ave
+City:           Richmond
+StateProv:      VA
+PostalCode:     23227
+Country:        US
+RegDate:        
+Updated:        2012-05-14
+Ref:            http://whois.arin.net/rest/org/CTLL
+
+OrgAbuseHandle: ABUSE880-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-804-422-4100 
+OrgAbuseEmail:  abuse@cavtel.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE880-ARIN
+
+OrgNOCHandle: NOC11-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-804-422-4100 
+OrgNOCEmail:  noc@cavtel.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC11-ARIN
+
+OrgTechHandle: NOC11-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-804-422-4100 
+OrgTechEmail:  noc@cavtel.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC11-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

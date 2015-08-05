@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Amazon Web Services, Elastic Compute Cloud, EC2, SG</registrant>
+    <registration>
+      <updated>2011-04-04</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        122.248.224.0 - 122.248.255.255
+netname:        AMAZON-EC2-SG
+descr:          Amazon Web Services, Elastic Compute Cloud, EC2, SG
+remarks:        The activity you have detected originates from a
+                dynamic hosting environment.
+                For fastest response, please submit abuse reports at
+                http://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/AWSAbuse
+                For more information regarding EC2 see:
+                http://ec2.amazonaws.com/
+                All reports MUST include:
+                * src IP
+                * dest IP (your IP)
+                * dest port
+                * Accurate date/timestamp and timezone of activity
+                * Intensity/frequency (short log extracts)
+                * Your contact details (phone and email)
+                Without these we will be unable to
+                identify the correct owner of the IP address at that
+                point in time.
+                abuse-email: ec2-abuse@amazon.com
+country:        SG
+admin-c:        AARP1-AP
+tech-c:         AARP1-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-AMAZON-AP-RESOURCES-SG
+mnt-irt:        IRT-AMAZON-AP-RESOURCES-SG
+changed:        aes-noc@amazon.com 20110404
+source:         APNIC
+
+irt:            IRT-AMAZON-AP-RESOURCES-SG
+address:        Bedok Central Post Office PO Box 482
+remarks:        The activity you have detected originates from a
+                dynamic hosting environment.
+                For fastest response, please submit abuse reports at
+                http://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/AWSAbuse
+                For more information regarding EC2 see:
+                http://ec2.amazonaws.com/
+                All reports MUST include:
+                * src IP
+                * dest IP (your IP)
+                * dest port
+                * Accurate date/timestamp and timezone of activity
+                * Intensity/frequency (short log extracts)
+                * Your contact details (phone and email)
+                Without these we will be unable to identify
+                the correct owner of the IP address at that
+                point in time.
+                ec2-abuse@amazon.com
+e-mail:         aes-noc@amazon.com
+abuse-mailbox:  ec2-abuse@amazon.com
+admin-c:        AARP1-AP
+tech-c:         AARP1-AP
+auth:           # Filtered
+mnt-by:         MAINT-AMAZON-AP-RESOURCES-SG
+changed:        ec2-abuse@amazon.com 20101110
+source:         APNIC
+
+role:           AMAZON ASIA-PACIFIC RESOURCES PRIVATE LIMITED - ne
+address:        Bedok Central Post Office PO Box 482
+country:        SG
+phone:          +1 -206-266-2187
+e-mail:         aes-noc@amazon.com
+admin-c:        AARP1-AP
+tech-c:         AARP1-AP
+nic-hdl:        AARP1-AP
+mnt-by:         MAINT-AMAZON-AP-RESOURCES-SG
+changed:        hm-changed@apnic.net 20091214
+changed:        hm-changed@apnic.net 20110428
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

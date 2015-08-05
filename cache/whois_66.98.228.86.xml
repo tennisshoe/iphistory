@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ThePlanet.com Internet Services, Inc.</registrant>
+    <registration>
+      <created>2003-07-02</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.98.128.0 - 66.98.255.255
+CIDR:           66.98.128.0/17
+NetName:        NETBLK-THEPLANET-BLK-EV1-11
+NetHandle:      NET-66-98-128-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36420, AS30315, AS13749, AS21844, AS13884
+Organization:   ThePlanet.com Internet Services, Inc. (TPCM)
+RegDate:        2003-07-02
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-66-98-128-0-1
+
+OrgName:        ThePlanet.com Internet Services, Inc.
+OrgId:          TPCM
+Address:        315 Capitol
+Address:        Suite 205
+City:           Houston
+StateProv:      TX
+PostalCode:     77002
+Country:        US
+RegDate:        1999-08-31
+Updated:        2015-02-10
+Ref:            http://whois.arin.net/rest/org/TPCM
+
+ReferralServer:  rwhois://rwhois.theplanet.com:4321
+
+OrgTechHandle: TECHN33-ARIN
+OrgTechName:   Technical Support
+OrgTechPhone:  +1-281-714-3000 
+OrgTechEmail:  admins@theplanet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN
+
+OrgAbuseHandle: ABUSE271-ARIN
+OrgAbuseName:   The Planet Abuse
+OrgAbusePhone:  +1-281-714-3560 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+OrgNOCHandle: THEPL-ARIN
+OrgNOCName:   The Planet NOC
+OrgNOCPhone:  +1-281-714-3000 
+OrgNOCEmail:  noc@theplanet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+== Additional Information From rwhois://rwhois.theplanet.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.softlayer.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:NETBLK-SOFTLAYER.66.98.128.0/17
+network:Auth-Area:66.98.128.0/17
+network:Network-Name:SOFTLAYER-66.98.128.0
+network:IP-Network:66.98.228.0/24
+network:IP-Network-Block:66.98.228.0-66.98.228.255
+network:Organization;I:SoftLayer
+network:Street-Address:4849 Alpha Road
+network:City:Dallas
+network:State:TX
+network:Postal-Code:75244
+network:Country-Code:US
+network:Tech-Contact;I:sysadmins@softlayer.com
+network:Abuse-Contact;I:abuse@softlayer.com
+network:Admin-Contact;I:IPADM258-ARIN
+network:Created:2011-02-17 13:31:16
+network:Updated:2015-04-18 20:12:20
+network:Updated-By:ipadmin@softlayer.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

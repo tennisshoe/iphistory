@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Peer1 Network Enterprises</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.128.142.0 - 62.128.142.255' is 'abuse@peer1.com'
+
+inetnum:        62.128.142.0 - 62.128.142.255
+netname:        NETBENEFIT-DEDICATED-6
+descr:          [ Netbenefit Dedicated Servers Goswell Road ]
+descr:          NetBenefit, Commercial Internet Services Provider
+descr:          London, UK
+country:        GB
+admin-c:        NO204-RIPE
+tech-c:         NO204-RIPE
+status:         ASSIGNED PA
+notify:         ops@netbenefit.co.uk
+mnt-by:         AS8912-MNT
+changed:        ESP5-RIPE@netbenefit.com 20070320
+created:        2007-03-20T13:07:01Z
+last-modified:  2009-12-10T16:24:15Z
+source:         RIPE
+
+role:           Peer1 Network Enterprises
+address:        Suite 1000 - 555 West Hastings St.
+address:        Vancouver
+address:        British Columbia
+address:        Canada
+phone:          +6044842588
+e-mail:         support@peer1.com
+admin-c:        NOC116-RIPE
+tech-c:         NOC116-RIPE
+nic-hdl:        NO204-RIPE
+mnt-by:         PNE-NETADMIN-MNT
+changed:        support@peer1.com 20150319
+created:        2002-08-07T10:12:18Z
+last-modified:  2015-03-19T14:47:15Z
+source:         RIPE
+
+route:          62.128.128.0/20
+descr:          Group NBT plc
+descr:          ldn5
+origin:         AS8912
+mnt-by:         AS8912-MNT
+changed:        SB7380-RIPE@netbenefit.co.uk 20080811
+created:        2008-08-11T12:56:21Z
+last-modified:  2008-08-11T12:56:21Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

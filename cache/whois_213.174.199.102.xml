@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Will Eagle</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.174.199.96 - 213.174.199.111' is 'abuse@savvis.com'
+
+inetnum:        213.174.199.96 - 213.174.199.111
+netname:        Virgin-s217045
+descr:          Virgin.com
+country:        GB
+admin-c:        WE137-RIPE
+tech-c:         WE137-RIPE
+status:         ASSIGNED PA
+mnt-by:         RIPE-SAVVIS-MNT
+changed:        ukipadmin@savvis.net 20031114
+created:        2003-11-14T16:53:38Z
+last-modified:  2003-11-14T16:53:38Z
+source:         RIPE
+
+person:         Will Eagle
+address:        120 Campden Hill Road
+address:        London, England
+e-mail:         will.eagle@virgin.com
+phone:          +44 02073135018
+nic-hdl:        WE137-RIPE
+mnt-by:         RIPE-SAVVIS-MNT
+changed:        ukipadmin@savvis.net 20031114
+created:        2003-11-14T16:52:10Z
+last-modified:  2003-11-14T16:52:10Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

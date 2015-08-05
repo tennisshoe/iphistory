@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Akamai Technologies, Inc.</registrant>
+    <registration>
+      <created>2003-02-12</created>
+      <updated>2014-04-16</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.22.128.0 - 69.22.191.255
+CIDR:           69.22.128.0/18
+NetName:        GTT-ARIN-BLK1
+NetHandle:      NET-69-22-128-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS4436
+Organization:   nLayer Communications, Inc. (NLAYE)
+RegDate:        2003-02-12
+Updated:        2014-04-16
+Comment:        THESE ADDRESSES ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-69-22-128-0-1
+
+OrgName:        nLayer Communications, Inc.
+OrgId:          NLAYE
+Address:        GTT Communications, Inc.
+Address:        8484 Westpark Drive
+Address:        Suite 720
+City:           McLean
+StateProv:      VA
+PostalCode:     22102
+Country:        US
+RegDate:        2002-12-26
+Updated:        2014-04-16
+Ref:            http://whois.arin.net/rest/org/NLAYE
+
+OrgNOCHandle: GNOC16-ARIN
+OrgNOCName:   GTT Network Operations Center
+OrgNOCPhone:  +1-866-250-3887 
+OrgNOCEmail:  noc@gtt.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/GNOC16-ARIN
+
+OrgAbuseHandle: GAD46-ARIN
+OrgAbuseName:   GTT Abuse Department
+OrgAbusePhone:  +1-703-442-5500 
+OrgAbuseEmail:  abuse@gtt.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GAD46-ARIN
+
+OrgTechHandle: AS3251-ARIN
+OrgTechName:   AS3257 Netguard
+OrgTechPhone:  +49 6102 8235 389 
+OrgTechEmail:  netguard@gtt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AS3251-ARIN
+
+OrgTechHandle: GINE-ARIN
+OrgTechName:   GTT IP Network Engineering
+OrgTechPhone:  +1-703-442-5501 
+OrgTechEmail:  ipeng@gtt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/GINE-ARIN
+
+NetRange:       69.22.138.0 - 69.22.138.255
+CIDR:           69.22.138.0/24
+NetName:        NLYR-69-22-138-0-1
+NetHandle:      NET-69-22-138-0-1
+Parent:         GTT-ARIN-BLK1 (NET-69-22-128-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Akamai Technologies, Inc. (C01654263)
+RegDate:        2007-06-13
+Updated:        2007-06-13
+Ref:            http://whois.arin.net/rest/net/NET-69-22-138-0-1
+
+CustName:       Akamai Technologies, Inc.
+Address:        8 Cambridge Center
+City:           Cambridge
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        2007-06-13
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01654263
+
+OrgNOCHandle: GNOC16-ARIN
+OrgNOCName:   GTT Network Operations Center
+OrgNOCPhone:  +1-866-250-3887 
+OrgNOCEmail:  noc@gtt.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/GNOC16-ARIN
+
+OrgAbuseHandle: GAD46-ARIN
+OrgAbuseName:   GTT Abuse Department
+OrgAbusePhone:  +1-703-442-5500 
+OrgAbuseEmail:  abuse@gtt.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GAD46-ARIN
+
+OrgTechHandle: AS3251-ARIN
+OrgTechName:   AS3257 Netguard
+OrgTechPhone:  +49 6102 8235 389 
+OrgTechEmail:  netguard@gtt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AS3251-ARIN
+
+OrgTechHandle: GINE-ARIN
+OrgTechName:   GTT IP Network Engineering
+OrgTechPhone:  +1-703-442-5500 
+OrgTechEmail:  ipeng@gtt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/GINE-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

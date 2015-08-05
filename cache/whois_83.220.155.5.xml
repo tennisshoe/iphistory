@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NMC PlusServer Deutschland</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.220.155.0 - 83.220.155.31' is 'abuse@plusserver.de'
+
+inetnum:        83.220.155.0 - 83.220.155.31
+netname:        MV-MUC-2
+descr:          Industry Media GmbH
+descr:          Customer PA Space
+country:        DE
+admin-c:        MG19180-RIPE
+tech-c:         PSD-RIPE
+status:         ASSIGNED PA
+notify:         hostmaster@mesh.eu
+mnt-by:         MESH
+mnt-lower:      MESH
+mnt-routes:     MESH
+created:        2014-06-03T11:33:43Z
+last-modified:  2015-01-05T16:24:47Z
+source:         RIPE
+changed:        ripe@plusserver.de 20150105
+remarks:        1091178
+
+role:           NMC PlusServer Deutschland
+address:        PlusServer Deutschland GmbH
+address:        Daimlerstr. 9-11
+address:        50354 Huerth
+phone:          +49 1801 119991
+fax-no:         +49 2233 612-53500
+abuse-mailbox:  abuse@plusserver.de
+e-mail:         noc@plusserver.de
+remarks:
+remarks:        ********************************************************
+remarks:        * PLEASE READ CAREFULLY:
+remarks:        * and choose the right addresses for contacting our
+remarks:        * staff.
+remarks:        * This will fasten up processing your request !
+remarks:        ********************************************************
+remarks:        * Auskunftsersuchen gemaess TKG werden nur unter
+remarks:        * Fax: +49 2233 612 5165
+remarks:        * Mail: legal at intergenia punkt de
+remarks:        * bearbeitet!
+remarks:        ********************************************************
+remarks:
+remarks:        ********************************************************
+remarks:        * If you have a routing-related request you
+remarks:        * may contact us at :
+remarks:        * Fax: +49 2233 612 53500
+remarks:        * Phone: +49 2233 612 3500
+remarks:        ********************************************************
+remarks:
+nic-hdl:        PSD-RIPE
+mnt-by:         MESH
+mnt-by:         INTERGENIA-MNT
+created:        2015-01-05T15:30:55Z
+last-modified:  2015-01-05T15:30:55Z
+source:         RIPE
+changed:        ripe@plusserver.de 20150105
+
+person:         Michael Gabrielides
+address:        Industry Media GmbH
+address:        Thalkirchner Strasse 56
+address:        80337 Muenchen
+address:        DE
+phone:          +49 891 222 81 40
+fax-no:         +49 891 222 81 499
+e-mail:         michael.gabrielides@motorvision.com
+nic-hdl:        MG19180-RIPE
+notify:         hostmaster@mesh.eu
+mnt-by:         MESH
+changed:        rhanssen@mesh.eu 20140603
+created:        2014-06-03T11:18:41Z
+last-modified:  2014-06-03T11:18:41Z
+source:         RIPE
+abuse-mailbox:  michael.gabrielides@motorvision.com
+
+route:          83.220.152.0/22
+descr:          MESH GmbH
+descr:          Providerservices (Munich)
+origin:         AS25074
+notify:         hostmaster@mesh.eu
+mnt-by:         MESH
+changed:        pkambach@inetbone.net  20040902
+changed:        pkambach@mesh.eu 20120531
+created:        2004-09-02T11:50:18Z
+last-modified:  2012-05-31T10:52:41Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

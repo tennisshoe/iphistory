@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Axel PAVAGEAU</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '130.193.27.0 - 130.193.27.255' is 'nic@fullsix.com'
+
+inetnum:        130.193.27.0 - 130.193.27.255
+netname:        EKINO-CUST-VIT
+descr:          Ekino Customers Vitry
+country:        FR
+admin-c:        YD362-RIPE
+admin-c:        AP20711-RIPE
+tech-c:         YD362-RIPE
+tech-c:         AP20711-RIPE
+status:         ASSIGNED PA
+mnt-by:         EKINO-MNT
+changed:        fgabut@neotelecoms.com 20120802
+changed:        gmorin@ekino.com 20130624
+changed:        apavageau@fullsix.com 20140721
+created:        2012-08-02T16:18:19Z
+last-modified:  2014-07-21T15:07:12Z
+source:         RIPE
+
+person:         Axel PAVAGEAU
+address:        157, Rue Anatole France
+address:        92300 Levallois Perret - France
+phone:          +33 1 49 68 74 41
+nic-hdl:        AP20711-RIPE
+mnt-by:         EKINO-MNT
+changed:        gmorin@ekino.com 20130624
+created:        2013-06-24T07:41:55Z
+last-modified:  2013-06-24T07:45:16Z
+source:         RIPE
+
+person:         Yann DOUSSOT
+address:        EKINO
+address:        157, Rue Anatole France
+address:        92300 Levallois Perret - France
+phone:          +33 1 49 68 73 00
+nic-hdl:        YD362-RIPE
+mnt-by:         EKINO-MNT
+changed:        gaurav.yadav@colt.net 20090409
+changed:        nitin.gulla@colt.net 20111028
+changed:        gmorin@ekino.com 20120817
+created:        2009-04-20T14:06:27Z
+last-modified:  2012-08-17T15:45:51Z
+source:         RIPE
+
+route:          130.193.24.0/21
+descr:          Ekino
+origin:         AS198177
+mnt-by:         EKINO-MNT
+changed:        fgabut@neotelecoms.com 20120802
+created:        2012-08-02T16:08:39Z
+last-modified:  2012-08-02T16:08:39Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

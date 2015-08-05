@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Turner Broadcasting System, Inc.</registrant>
+    <registration>
+      <created>1992-01-15</created>
+      <updated>2010-02-19</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       157.166.0.0 - 157.166.255.255
+CIDR:           157.166.0.0/16
+NetName:        TBS
+NetHandle:      NET-157-166-0-0-1
+Parent:         NET157 (NET-157-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS40703
+Organization:   Turner Broadcasting System, Inc. (TBS)
+RegDate:        1992-01-15
+Updated:        2010-02-19
+Ref:            http://whois.arin.net/rest/net/NET-157-166-0-0-1
+
+OrgName:        Turner Broadcasting System, Inc.
+OrgId:          TBS
+Address:        One CNN Center
+Address:        13N
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30348
+Country:        US
+RegDate:        1992-01-15
+Updated:        2007-10-08
+Ref:            http://whois.arin.net/rest/org/TBS
+
+OrgAbuseHandle: NOC2755-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-404-878-0808 
+OrgAbuseEmail:  noc-ops@web.turner.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC2755-ARIN
+
+OrgTechHandle: NETWO2018-ARIN
+OrgTechName:   Network Engineering
+OrgTechPhone:  +1-404-878-0808 
+OrgTechEmail:  neteng@turner.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2018-ARIN
+
+OrgNOCHandle: NOC2755-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-404-878-0808 
+OrgNOCEmail:  noc-ops@web.turner.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC2755-ARIN
+
+RTechHandle: CPO54-ARIN
+RTechName:   Poole, Corey 
+RTechPhone:  +1-404-827-5000 
+RTechEmail:  network.engineering@turner.com
+RTechRef:    http://whois.arin.net/rest/poc/CPO54-ARIN
+
+RAbuseHandle: JR1887-ARIN
+RAbuseName:   Robertson, James 
+RAbusePhone:  +1-404-827-5000 
+RAbuseEmail:  network.engineering@turner.com
+RAbuseRef:    http://whois.arin.net/rest/poc/JR1887-ARIN
+
+RNOCHandle: SOC26-ARIN
+RNOCName:   Systems Operations Center
+RNOCPhone:  +1-404-878-9000 
+RNOCEmail:  systemson@turner.com
+RNOCRef:    http://whois.arin.net/rest/poc/SOC26-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

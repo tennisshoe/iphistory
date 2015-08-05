@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Docler Networks NOC</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.77.116.0 - 80.77.116.255' is 'abuse@docler.net'
+
+inetnum:        80.77.116.0 - 80.77.116.255
+netname:        REGOMIR
+descr:          Regomir Kft
+country:        HU
+admin-c:        DOPS-RIPE
+tech-c:         DOPS-RIPE
+status:         ASSIGNED PA
+mnt-by:         DOCLER-MNT
+changed:        csirek@docler.net 20120612
+created:        2005-12-14T15:40:38Z
+last-modified:  2012-06-12T13:24:07Z
+source:         RIPE
+
+role:           Docler Networks NOC
+address:        DoclerWeb Kft.
+address:        Network Operation Center
+address:        Expo ter 5-7.
+address:        H-1101 Budapest
+address:        Hungary
+phone:          +36 1 432 3130
+fax-no:         +36 1 432 3137
+e-mail:         noc@docler.net
+admin-c:        LN777-RIPE
+tech-c:         LN777-RIPE
+nic-hdl:        DOPS-RIPE
+mnt-by:         DOCLER-MNT
+notify:         noc@docler.net
+abuse-mailbox:  abuse@docler.net
+remarks:        ---------------------------------------------
+remarks:        Please send all abuse and spam complaints to:
+remarks:        abuse@docler.net
+remarks:        ---------------------------------------------
+remarks:        Automated abuse emails sent or cc'd to any
+remarks:        other email address _will_ _be_ _ignored_!
+remarks:        ---------------------------------------------
+changed:        nemeth.laszlo@doclerweb.hu 20140331
+created:        2008-02-14T10:43:41Z
+last-modified:  2014-03-31T09:55:56Z
+source:         RIPE
+
+route:          80.77.112.0/20
+descr:          Docler Networks
+descr:          HU
+origin:         AS34655
+notify:         noc@docler.net
+mnt-by:         DOCLER-MNT
+changed:        angelo@docler.net 20080610
+created:        2005-07-14T08:22:26Z
+last-modified:  2008-06-10T11:41:18Z
+source:         RIPE
+
+route:          80.77.112.0/20
+descr:          DoclerWeb Hungary
+descr:          HU
+origin:         AS47381
+notify:         noc@docler.net
+mnt-by:         DOCLER-MNT
+changed:        angelo@docler.net 20131011
+created:        2013-10-11T13:04:04Z
+last-modified:  2013-10-11T13:04:04Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

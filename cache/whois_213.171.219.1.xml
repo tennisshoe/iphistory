@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Fast Hosts LTD</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.171.216.0 - 213.171.219.255' is 'abuse@fasthosts.co.uk'
+
+inetnum:        213.171.216.0 - 213.171.219.255
+netname:        FASTHOSTS-UK-NETWORK
+org:            ORG-FHL1-RIPE
+descr:          Fasthosts Internet Limited - UK's largest web hosting company
+descr:          based in Gloucester, England
+descr:          Shared Hosting
+country:        GB
+admin-c:        GD8691-RIPE
+tech-c:         FHUK-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS15418-MNT
+mnt-by:         AS8560-MNT
+notify:         networks@fasthosts.com
+changed:        maria.blackmore@fasthosts.com 20110323
+changed:        maria.blackmore@fasthosts.com 20150302
+remarks:        trouble: abuse@fasthosts.co.uk
+remarks:        Please report abuse to abuse@fasthosts.co.uk
+remarks:        Abuse reports via other channels may be ignored
+remarks:        INFRA-AW
+created:        2011-03-23T17:55:08Z
+last-modified:  2015-03-02T16:00:32Z
+source:         RIPE
+
+organisation:   ORG-FHL1-RIPE
+org-name:       Fast Hosts LTD
+org-type:       LIR
+address:        Fasthosts Internet Limited
+address:        Discovery House
+address:        154 Southgate Street
+address:        GL1 2EX Gloucester
+address:        UNITED KINGDOM
+phone:          +448445830777
+fax-no:         +441452541633
+mnt-ref:        AS15418-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        hostmaster@ripe.net 20040415
+changed:        bitbucket@ripe.net 20041125
+changed:        bitbucket@ripe.net 20050812
+changed:        bitbucket@ripe.net 20051102
+changed:        bitbucket@ripe.net 20051102
+changed:        bitbucket@ripe.net 20051103
+changed:        bitbucket@ripe.net 20051121
+changed:        bitbucket@ripe.net 20060712
+changed:        bitbucket@ripe.net 20070116
+changed:        bitbucket@ripe.net 20070129
+changed:        bitbucket@ripe.net 20070131
+changed:        bitbucket@ripe.net 20070131
+changed:        bitbucket@ripe.net 20070131
+changed:        bitbucket@ripe.net 20070201
+changed:        bitbucket@ripe.net 20070206
+changed:        bitbucket@ripe.net 20070206
+changed:        bitbucket@ripe.net 20070206
+changed:        bitbucket@ripe.net 20070207
+changed:        bitbucket@ripe.net 20070813
+changed:        bitbucket@ripe.net 20071116
+changed:        bitbucket@ripe.net 20080418
+changed:        bitbucket@ripe.net 20090915
+changed:        bitbucket@ripe.net 20100112
+changed:        bitbucket@ripe.net 20100118
+changed:        bitbucket@ripe.net 20100118
+changed:        bitbucket@ripe.net 20100204
+changed:        bitbucket@ripe.net 20100602
+changed:        bit-bucket@ripe.net 20110322
+changed:        bitbucket@ripe.net 20110325
+changed:        bit-bucket@ripe.net 20130320
+abuse-mailbox:  abuse@fasthosts.co.uk
+e-mail:         networks@fasthosts.com
+admin-c:        MW8691-RIPE
+admin-c:        GD8691-RIPE
+admin-c:        MB22840-RIPE
+admin-c:        MM24449-RIPE
+admin-c:        JW3036-RIPE
+abuse-c:        FH4126-RIPE
+created:        2004-04-17T12:14:35Z
+last-modified:  2013-03-20T11:15:56Z
+source:         RIPE
+
+role:           Fasthosts Networks UK
+address:        Fasthosts Internet Limited
+address:        Discovery Court
+address:        154 Southgate Street
+address:        Gloucester, GL1 2EX
+phone:          +44 1452 561874
+e-mail:         networks@fasthosts.com
+abuse-mailbox:  abuse@fasthosts.co.uk
+nic-hdl:        FHUK-RIPE
+remarks:        trouble: abuse@fasthosts.co.uk
+remarks:        Please report abuse to abuse@fasthosts.co.uk
+remarks:        Abuse reports via other channels may be ignored
+org:            ORG-FHL1-RIPE
+notify:         networks@fasthosts.com
+admin-c:        GD8691-RIPE
+tech-c:         MB22840-RIPE
+tech-c:         GD8691-RIPE
+tech-c:         MM24449-RIPE
+tech-c:         JW3036-RIPE
+mnt-by:         AS15418-MNT
+mnt-by:         AS8560-MNT
+changed:        maria.blackmore@fasthosts.com 20150226
+created:        2015-02-26T14:57:35Z
+last-modified:  2015-02-26T15:15:38Z
+source:         RIPE
+
+person:         George Daly
+address:        Fasthosts Internet Limited
+address:        Discovery House
+address:        154 Southgate Street
+address:        Gloucester, GL1 2EX
+phone:          +44 1452 561874
+fax-no:         +44 1452 541633
+e-mail:         george.daly@fasthosts.com
+nic-hdl:        GD8691-RIPE
+notify:         networks@fasthosts.com
+changed:        mark.wood@fasthosts.co.uk 20060712
+changed:        maria.blackmore@fasthosts.com 20110317
+mnt-by:         AS15418-MNT
+created:        2006-07-12T09:07:21Z
+last-modified:  2011-03-17T16:32:33Z
+source:         RIPE
+
+route:          213.171.192.0/19
+descr:          Fasthosts Internet Ltd
+origin:         AS8560
+notify:         ripe-role@oneandone.net
+mnt-by:         AS15418-MNT
+mnt-by:         AS8560-MNT
+changed:        mnt@fasthosts.co.uk 20020113
+changed:        maria.blackmore@fasthosts.co.uk 20140911
+changed:        ripe-role@oneandone.net 20141212
+created:        2014-12-12T12:16:24Z
+last-modified:  2014-12-12T12:22:06Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

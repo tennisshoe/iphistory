@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Yandex Inc</registrant>
+    <registration>
+      <created>2011-12-06</created>
+      <updated>2011-12-06</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       100.43.64.0 - 100.43.95.255
+CIDR:           100.43.64.0/19
+NetName:        YANDEX-NET-3
+NetHandle:      NET-100-43-64-0-1
+Parent:         NET100 (NET-100-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS13238
+Organization:   Yandex Inc (YANDE)
+RegDate:        2011-12-06
+Updated:        2011-12-06
+Ref:            http://whois.arin.net/rest/net/NET-100-43-64-0-1
+
+OrgName:        Yandex Inc
+OrgId:          YANDE
+Address:        2001 Gateway Pl, Suite 400W
+City:           San Jose
+StateProv:      CA
+PostalCode:     95110
+Country:        US
+RegDate:        2010-09-07
+Updated:        2014-09-22
+Ref:            http://whois.arin.net/rest/org/YANDE
+
+OrgTechHandle: YNO2-ARIN
+OrgTechName:   Yandex Network Operations
+OrgTechPhone:  +1-408-320-2117 
+OrgTechEmail:  noc@yandex.net
+OrgTechRef:    http://whois.arin.net/rest/poc/YNO2-ARIN
+
+OrgNOCHandle: YNO2-ARIN
+OrgNOCName:   Yandex Network Operations
+OrgNOCPhone:  +1-408-320-2117 
+OrgNOCEmail:  noc@yandex.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/YNO2-ARIN
+
+OrgAbuseHandle: YNO2-ARIN
+OrgAbuseName:   Yandex Network Operations
+OrgAbusePhone:  +1-408-320-2117 
+OrgAbuseEmail:  noc@yandex.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/YNO2-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

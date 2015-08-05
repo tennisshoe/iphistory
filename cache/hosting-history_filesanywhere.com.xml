@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>filesanywhere.com</domain_name>
+    <ip_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <post_ip>216.185.117.12</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2005-03-05</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <post_ip>64.156.56.12</post_ip>
+      <pre_ip>216.185.117.12</pre_ip>
+      <action>C</action>
+      <actiondate>2007-01-06</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <post_ip/>
+      <pre_ip>64.156.56.12</pre_ip>
+      <action>D</action>
+      <actiondate>2007-10-21</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <post_ip/>
+      <pre_ip>64.156.56.12</pre_ip>
+      <action>D</action>
+      <actiondate>2007-10-21</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <post_ip>64.156.56.12</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2011-04-10</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <date_updated>2002-10-09</date_updated>
+      <date_created>1999-01-25</date_created>
+      <date_expires>2006-01-25</date_expires>
+      <date_lastchecked>2004-10-07</date_lastchecked>
+      <registrar>Network Solutions</registrar>
+      <registrartag>Network Solutions</registrartag>
+    </registrar_history>
+    <registrar_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <date_updated>2011-07-15</date_updated>
+      <date_created>1999-01-25</date_created>
+      <date_expires>2017-01-25</date_expires>
+      <date_lastchecked>2011-07-20</date_lastchecked>
+      <registrar>GoDaddy.com</registrar>
+      <registrartag>Go Daddy Software Inc</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <action>T</action>
+      <actiondate>2002-03-26</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Theplanet.com</post_mns>
+      <pre_mns>Uu.net</pre_mns>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <action>T</action>
+      <actiondate>2007-10-20</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Level3.net</post_mns>
+      <pre_mns>Theplanet.com</pre_mns>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <action>T</action>
+      <actiondate>2008-07-04</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Domaincontrol.com</post_mns>
+      <pre_mns>Level3.net</pre_mns>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>FILESANYWHERE.COM</domain>
+      <action>T</action>
+      <actiondate>2012-09-12</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Opus-3.com</post_mns>
+      <pre_mns>Domaincontrol.com</pre_mns>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

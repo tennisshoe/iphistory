@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>vho.to</domain_name>
+    <ip_history/>
+    <registrar_history/>
+    <nameserver_history>
+      <domain>VHO.TO</domain>
+      <action>N</action>
+      <actiondate>2013-09-10</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>101domain.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+    <nameserver_history>
+      <domain>VHO.TO</domain>
+      <action>T</action>
+      <actiondate>2014-01-31</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Awsdns-33.org</post_mns>
+      <pre_mns>101domain.com</pre_mns>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

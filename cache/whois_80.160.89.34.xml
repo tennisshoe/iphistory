@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>AS3292 Staff</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.160.88.0 - 80.160.91.255' is 'postmaster@abuse.mail.dk'
+
+inetnum:        80.160.88.0 - 80.160.91.255
+netname:        TDC-INTERNET-SERVERCAMP-OPA
+descr:          TDC Internet
+descr:          Oluf Palmes Alle 36
+descr:          8200 Aarhus N.
+country:        DK
+admin-c:        AS5071-RIPE
+tech-c:         AS5071-RIPE
+status:         ASSIGNED PA
+mnt-by:         TDK-MNT
+mnt-by:         TDINET-MNT
+changed:        staff@ip.tele.dk 20020814
+changed:        staff@ip.tele.dk 20030221
+created:        2002-08-14T08:39:38Z
+last-modified:  2003-02-21T09:34:18Z
+source:         RIPE
+
+role:           AS3292 Staff
+address:        TDC A/S
+address:        Sletvej 30, 8-062
+address:        DK-8310 Tranbjerg
+address:        Denmark
+e-mail:         staff@eng.tdc.net
+remarks:        contact info: http://as3292.peeringdb.com
+admin-c:        MILY1-RIPE
+tech-c:         NCB1-RIPE
+tech-c:         MILY1-RIPE
+tech-c:         HV72-RIPE
+tech-c:         LJ1829-RIPE
+tech-c:         JC1928-RIPE
+nic-hdl:        AS5071-RIPE
+mnt-by:         AS3292-MNT
+changed:        staff@ip.tele.dk 19990223
+changed:        staff@ip.tele.dk 20030326
+changed:        staff@ip.tele.dk 20040601
+changed:        staff@ip.tele.dk 20080906
+changed:        staff@ip.tele.dk 20091103
+changed:        lyngbol@tdc.net 20101207
+changed:        lyngbol@tdc.net 20130927
+changed:        lyngbol@tdc.net 20131101
+changed:        lyngbol@tdc.net 20150204
+changed:        lyngbol@tdc.net 20150522
+changed:        lyngbol@tdc.net 20150707
+created:        2002-07-02T13:36:00Z
+last-modified:  2015-07-07T04:07:41Z
+source:         RIPE
+
+route:          80.160.0.0/13
+descr:          TDC
+origin:         AS3292
+remarks:        +---------------------------------------+
+remarks:        | For abuse and security issues please  |
+remarks:        | see http://postmaster.tdc.dk or       |
+remarks:        | contact postmaster@abuse.mail.dk      |
+remarks:        +---------------------------------------+
+notify:         notify@ip.tele.dk
+mnt-by:         AS3292-MNT
+changed:        staff@ip.tele.dk 20030211
+changed:        staff@ip.tele.dk 20101028
+created:        2003-02-11T15:05:16Z
+last-modified:  2010-10-28T13:04:08Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>BDA-RIPE</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '31.222.72.0 - 31.222.72.255' is 'abuse@monopost.com'
+
+inetnum:        31.222.72.0 - 31.222.72.255
+netname:        B-NET
+descr:          B-network-infrastructure-2
+country:        GB
+admin-c:        BDA-RIPE
+tech-c:         BDA-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-B
+changed:        a.kruchinin@corp.badoo.com 20120314
+created:        2012-03-14T21:29:35Z
+last-modified:  2014-11-24T16:30:38Z
+source:         RIPE
+
+role:           BDA-RIPE
+address:        United Kingdom
+e-mail:         ripe@corp.badoo.com
+e-mail:         netadmin@corp.badoo.com
+admin-c:        AKR75-RIPE
+tech-c:         AKR75-RIPE
+tech-c:         MOLL-RIPE
+abuse-mailbox:  abuse@monopost.com
+notify:         netadmin@corp.badoo.com
+nic-hdl:        BDA-RIPE
+mnt-by:         MNT-GREY
+changed:        a.kruchinin@corp.badoo.com 20110525
+created:        2011-05-25T14:54:27Z
+last-modified:  2015-02-20T14:30:16Z
+source:         RIPE
+
+route:          31.222.72.0/23
+descr:          Network-infrastructure and public-services-1
+origin:         AS12678
+mnt-by:         MNT-GREY
+changed:        a.kruchinin@corp.badoo.com 20110615
+created:        2011-06-15T09:37:19Z
+last-modified:  2015-02-20T15:53:18Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

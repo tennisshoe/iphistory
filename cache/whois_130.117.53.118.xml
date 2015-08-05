@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PSINet, Inc.</registrant>
+    <registration>
+      <created>1988-08-08</created>
+      <updated>2014-05-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       130.117.0.0 - 130.117.255.255
+CIDR:           130.117.0.0/16
+NetName:        COGENT-EUROPEAN-OPERATIONS-001
+NetHandle:      NET-130-117-0-0-1
+Parent:         NET130 (NET-130-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   PSINet, Inc. (PSI)
+RegDate:        1988-08-08
+Updated:        2014-05-09
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.cogentco.com port 4321
+Ref:            http://whois.arin.net/rest/net/NET-130-117-0-0-1
+
+OrgName:        PSINet, Inc.
+OrgId:          PSI
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+RegDate:        
+Updated:        2015-06-04
+Comment:        rwhois.cogentco.com
+Ref:            http://whois.arin.net/rest/org/PSI
+
+ReferralServer:  rwhois://rwhois.cogentco.com:4321
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COGEN-ARIN
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZC108-ARIN
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPALL-ARIN
+
+RTechHandle: PSI-NISC-ARIN
+RTechName:   IP Allocation
+RTechPhone:  +1-877-875-4311 
+RTechEmail:  ipalloc@cogentco.com
+RTechRef:    http://whois.arin.net/rest/poc/PSI-NISC-ARIN
+
+== Additional Information From rwhois://rwhois.cogentco.com:4321 ==
+
+%rwhois V-1.5:0010b0:00 rwhois.cogentco.com
+network:ID:NET4-8275350018
+network:Network-Name:NET4-8275350018
+network:IP-Network:130.117.53.0/24
+network:Postal-Code:8610
+network:Country:CH
+network:City:Uster
+network:Street-Address:LogicNow Cloud GmbH-Bankstrasse 4
+network:Org-Name:LogicNow Cloud GmbH
+network:Tech-Contact:ZC108-ARIN
+network:Updated:2014-12-18 11:38:07
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

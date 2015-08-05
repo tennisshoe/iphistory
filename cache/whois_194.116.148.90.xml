@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ipernity.org SA</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% No abuse contact registered for 194.116.148.0 - 194.116.149.255
+
+inetnum:        194.116.148.0 - 194.116.149.255
+mnt-routes:     worldbone-mnt
+mnt-by:         RASICOM-MNT
+netname:        RASICOM-Internet-Service
+descr:          ipernity.org SA
+country:        DE
+org:            ORG-iS59-RIPE
+admin-c:        CRA-RIPE
+tech-c:         CRA-RIPE
+status:         ASSIGNED PI
+mnt-by:         worldbone-mnt
+mnt-by:         RIPE-NCC-END-MNT
+mnt-domains:    rasicom-mnt
+changed:        hostmaster@ripe.net 20050114
+changed:        hostmaster@ripe.net 20141215
+sponsoring-org: ORG-HG4-RIPE
+changed:        hostmaster@ripe.net 20150414
+created:        2005-01-14T12:46:28Z
+last-modified:  2015-05-05T02:07:04Z
+source:         RIPE
+
+organisation:   ORG-iS59-RIPE
+org-name:       ipernity.org SA
+org-type:       OTHER
+address:        Christophe Ruelle
+address:        ipernity.org SA
+address:        18, place des Arcades
+address:        06250 Mougins FRANCE
+phone:          +33 493646551
+fax-no:         +33 493644456
+e-mail:         info@ipernity.com
+admin-c:        CRA-RIPE
+mnt-ref:        Worldbone-mnt
+mnt-by:         Worldbone-MNT
+changed:        hostmaster@worldbone.de 20041129
+changed:        ripe-dbm@ripe.net 20070102
+created:        2004-11-29T15:40:41Z
+last-modified:  2014-12-15T12:46:40Z
+source:         RIPE
+changed:        hostmaster@ripe.net 20141215
+
+person:         Christophe Ruelle
+address:        ipernity.org SAS
+address:        1, place du Chateau
+address:        FR-06250 Mougins-Le-Haut
+phone:          +33 493646551
+fax-no:         +33 493644456
+e-mail:         info@ipernity.com
+nic-hdl:        CRA-RIPE
+mnt-by:         Worldbone-MNT
+changed:        hostmaster@worldbone.de 20041129
+created:        2004-11-29T15:36:56Z
+last-modified:  2004-11-29T15:36:56Z
+source:         RIPE
+
+route:          194.116.148.0/23
+descr:          Ipernity
+origin:         AS8554
+mnt-by:         ipernity-mnt
+changed:        paonessa@tasfrance.com 20051209
+created:        2005-12-09T14:05:10Z
+last-modified:  2005-12-09T14:05:10Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>LOGMEIN, INC.</registrant>
+    <registration>
+      <created>2000-06-05</created>
+      <updated>2002-06-17</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.94.0.0 - 64.95.255.255
+CIDR:           64.94.0.0/15
+NetName:        PNAP-05-2000
+NetHandle:      NET-64-94-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internap Network Services Corporation (PNAP)
+RegDate:        2000-06-05
+Updated:        2002-06-17
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-94-0-0-1
+
+OrgName:        Internap Network Services Corporation
+OrgId:          PNAP
+Address:        250 Williams Street
+Address:        Suite E100
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        1996-07-18
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/PNAP
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+NetRange:       64.94.46.0 - 64.94.47.255
+CIDR:           64.94.46.0/23
+NetName:        INAP-CHG-3AMLABS-42137
+NetHandle:      NET-64-94-46-0-1
+Parent:         PNAP-05-2000 (NET-64-94-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       LOGMEIN, INC. (C02648938)
+RegDate:        2010-11-29
+Updated:        2010-11-29
+Ref:            http://whois.arin.net/rest/net/NET-64-94-46-0-1
+
+CustName:       LOGMEIN, INC.
+Address:        500 Unicorn Park Drive
+City:           woburn
+StateProv:      MA
+PostalCode:     01810
+Country:        US
+RegDate:        2010-11-29
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02648938
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

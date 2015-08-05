@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Datasync Internet Services</registrant>
+    <registration>
+      <created>2001-12-19</created>
+      <updated>2001-12-19</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       204.251.0.0 - 204.251.15.255
+CIDR:           204.251.0.0/20
+NetName:        FON-343900160058100
+NetHandle:      NET-204-251-0-0-1
+Parent:         SPRINT-BLKD (NET-204-248-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Datasync Internet Services (DTSY)
+RegDate:        2001-12-19
+Updated:        2001-12-19
+Ref:            http://whois.arin.net/rest/net/NET-204-251-0-0-1
+
+OrgName:        Datasync Internet Services
+OrgId:          DTSY
+Address:        P.O. Box 1389
+City:           Biloxi
+StateProv:      MS
+PostalCode:     39533
+Country:        US
+RegDate:        2001-12-19
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/DTSY
+
+OrgTechHandle: CKN23-ARIN
+OrgTechName:   No, Contact Known
+OrgTechPhone:  +1-800-555-1234 
+OrgTechEmail:  nobody@example.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+OrgAbuseHandle: CKN23-ARIN
+OrgAbuseName:   No, Contact Known
+OrgAbusePhone:  +1-800-555-1234 
+OrgAbuseEmail:  nobody@example.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+RTechHandle: IA-ORG-ARIN
+RTechName:   IP Administration
+RTechPhone:  +1-806-776-3086 
+RTechEmail:  manuelr@xfoneusa.com
+RTechRef:    http://whois.arin.net/rest/poc/IA-ORG-ARIN
+
+NetRange:       204.251.7.0 - 204.251.15.255
+CIDR:           204.251.8.0/21, 204.251.7.0/24
+NetName:        I55-ZIPA-2
+NetHandle:      NET-204-251-7-0-1
+Parent:         FON-343900160058100 (NET-204-251-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Zipa, LLC (ZIPAL)
+RegDate:        2003-12-22
+Updated:        2003-12-22
+Ref:            http://whois.arin.net/rest/net/NET-204-251-7-0-1
+
+OrgName:        Zipa, LLC
+OrgId:          ZIPAL
+Address:        650 Poydras Street
+Address:        Suite 1015
+City:           New Orleans
+StateProv:      LA
+PostalCode:     70130
+Country:        US
+RegDate:        2003-10-29
+Updated:        2011-11-28
+Ref:            http://whois.arin.net/rest/org/ZIPAL
+
+OrgTechHandle: MBR33-ARIN
+OrgTechName:   Brunson, Michael 
+OrgTechPhone:  +1-504-200-2222 
+OrgTechEmail:  mbrunson@zipa.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MBR33-ARIN
+
+OrgNOCHandle: NETWO457-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-504-200-2222 
+OrgNOCEmail:  noc@zipa.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO457-ARIN
+
+OrgAbuseHandle: ZIPAA1-ARIN
+OrgAbuseName:   Zipa Abuse
+OrgAbusePhone:  +1-504-200-2222 
+OrgAbuseEmail:  abuse@zipa.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZIPAA1-ARIN
+
+OrgTechHandle: KH711-ARIN
+OrgTechName:   Hunt, Kevin 
+OrgTechPhone:  +1-985-795-2168 
+OrgTechEmail:  kevin@hbcorporate.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KH711-ARIN
+
+NetRange:       204.248.0.0 - 204.251.255.255
+CIDR:           204.248.0.0/14
+NetName:        SPRINT-BLKD
+NetHandle:      NET-204-248-0-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Sprint (SPRN)
+RegDate:        1995-02-01
+Updated:        1995-08-21
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-204-248-0-0-1
+
+OrgName:        Sprint
+OrgId:          SPRN
+Address:        12502 Sunrise Valley Drive
+City:           Reston
+StateProv:      VA
+PostalCode:     20196
+Country:        US
+RegDate:        
+Updated:        2014-12-04
+Comment:        For abuse issues please send email to ABUSE@SPRINT.NET
+Comment:        only. Law Enforcement requests should call the Corporate Security Hotline at 800-877-7330, option 3
+Ref:            http://whois.arin.net/rest/org/SPRN
+
+OrgTechHandle: KRW1-ARIN
+OrgTechName:   West, Ken R
+OrgTechPhone:  +1-703-689-7173 
+OrgTechEmail:  ken.r.west@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KRW1-ARIN
+
+OrgTechHandle: SIE-ARIN
+OrgTechName:   Sprint IP Engineering
+OrgTechPhone:  +1-703-592-4850 
+OrgTechEmail:  deipaddy@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SIE-ARIN
+
+OrgAbuseHandle: SAET-ARIN
+OrgAbuseName:   Sprint AUP Enforcement Team
+OrgAbusePhone:  +1-800-232-6895 
+OrgAbuseEmail:  abuse@sprint.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SAET-ARIN
+
+OrgNOCHandle: SPRINT-NOC-ARIN
+OrgNOCName:   IP Services
+OrgNOCPhone:  +1-800-232-6895 
+OrgNOCEmail:  ipsa.noc@sprint.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SPRINT-NOC-ARIN
+
+OrgTechHandle: DRW52-ARIN
+OrgTechName:   Williams, David R
+OrgTechPhone:  +1-913-794-7784 
+OrgTechEmail:  david.r.williams@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DRW52-ARIN
+
+OrgTechHandle: CHUYI-ARIN
+OrgTechName:   Chu, Yi 
+OrgTechPhone:  +1-703-592-4850 
+OrgTechEmail:  yi.chu@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CHUYI-ARIN
+
+OrgTechHandle: BUDDK-ARIN
+OrgTechName:   Budd, Kenneth 
+OrgTechPhone:  +1-866-886-4187 
+OrgTechEmail:  kenneth.l.budd@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BUDDK-ARIN
+
+OrgTechHandle: ARINS-ARIN
+OrgTechName:   arin-sprint-iprequest
+OrgTechPhone:  +1-800-232-3458 
+OrgTechEmail:  ip-request@sprint.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ARINS-ARIN
+
+RTechHandle: SPRINT-NOC-ARIN
+RTechName:   IP Services
+RTechPhone:  +1-800-232-6895 
+RTechEmail:  ipsa.noc@sprint.com
+RTechRef:    http://whois.arin.net/rest/poc/SPRINT-NOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

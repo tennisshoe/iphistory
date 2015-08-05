@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Rene van Steenbergen</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '193.173.140.192 - 193.173.140.207' is 'abuse@kpnmail.nl'
+
+inetnum:        193.173.140.192 - 193.173.140.207
+netname:        OTS149906
+descr:          Iaso Backup Technology BV
+descr:          Emmeloord
+country:        NL
+admin-c:        RvS75-RIPE
+tech-c:         RvS75-RIPE
+status:         ASSIGNED PA
+notify:         ip-reg@kpn.net
+mnt-by:         AS286-MNT
+changed:        ip-reg@kpn.net 20070709
+created:        2007-07-09T10:00:34Z
+last-modified:  2007-07-09T10:00:34Z
+source:         RIPE
+
+person:         Rene van Steenbergen
+address:        Iaso Backup Technology BV
+address:        Noordzijde 20 b
+address:        8302GL  Emmeloord
+address:        NETHERLANDS
+e-mail:         r.van.steenbergen@iasobackup.com
+phone:          +31 (0)88-5222222
+notify:         ip-reg@kpn.net
+notify:         r.van.steenbergen@iasobackup.com
+nic-hdl:        RvS75-RIPE
+changed:        ip-reg@kpn.net 20070709
+created:        2007-07-09T10:00:31Z
+last-modified:  2007-07-09T10:00:31Z
+source:         RIPE
+
+route:          193.173.128.0/17
+descr:          KPN B.V.
+origin:         AS1136
+notify:         kpn-ip-office@kpn.com
+mnt-by:         KPN-MNT
+mnt-routes:     AS286-MNT
+changed:        kpn-ip-office@kpn.com 20120712
+created:        2012-07-12T11:37:22Z
+last-modified:  2012-07-12T11:37:22Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

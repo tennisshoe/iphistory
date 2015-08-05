@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Host Collective, Inc.</registrant>
+    <registration>
+      <created>2006-12-05</created>
+      <updated>2006-12-05</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.67.188.0 - 209.67.188.255
+CIDR:           209.67.188.0/24
+NetName:        SAVV-S232301-14
+NetHandle:      NET-209-67-188-0-1
+Parent:         SAVVIS (NET-209-67-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Host Collective, Inc. (HOSTC-5)
+RegDate:        2006-12-05
+Updated:        2006-12-05
+Ref:            http://whois.arin.net/rest/net/NET-209-67-188-0-1
+
+OrgName:        Host Collective, Inc.
+OrgId:          HOSTC-5
+Address:        2700 East Foothill Blvd.
+Address:        Suite 201
+City:           Pasadena
+StateProv:      CA
+PostalCode:     91107
+Country:        US
+RegDate:        2006-11-15
+Updated:        2011-04-20
+Ref:            http://whois.arin.net/rest/org/HOSTC-5
+
+ReferralServer:  rwhois://64.79.161.18:4321
+
+OrgAbuseHandle: NETWO1817-ARIN
+OrgAbuseName:   Network Operation
+OrgAbusePhone:  +1-626-351-6188 
+OrgAbuseEmail:  noc@hostcollective.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN
+
+OrgNOCHandle: NETWO1817-ARIN
+OrgNOCName:   Network Operation
+OrgNOCPhone:  +1-626-351-6188 
+OrgNOCEmail:  noc@hostcollective.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN
+
+OrgTechHandle: NETWO1817-ARIN
+OrgTechName:   Network Operation
+OrgTechPhone:  +1-626-351-6188 
+OrgTechEmail:  noc@hostcollective.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN
+
+OrgTechHandle: NOCJ1-ARIN
+OrgTechName:   Network Operations Center, Javier 
+OrgTechPhone:  +1-626-628-3430 
+OrgTechEmail:  noc@hostcollective.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOCJ1-ARIN
+
+RTechHandle: SPL15-ARIN
+RTechName:   Plaice, Sean 
+RTechPhone:  +1-626-254-9935 
+RTechEmail:  seanp@hostcollective.com
+RTechRef:    http://whois.arin.net/rest/poc/SPL15-ARIN
+
+NetRange:       209.67.0.0 - 209.67.255.255
+CIDR:           209.67.0.0/16
+NetName:        SAVVIS
+NetHandle:      NET-209-67-0-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        1997-04-11
+Updated:        2009-06-24
+Ref:            http://whois.arin.net/rest/net/NET-209-67-0-0-1
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-07-17
+Comment:        Abuse complaints to abuse@centurylinkservices.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  incident@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-314-628-7305 
+OrgTechEmail:  james.goldsmith@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

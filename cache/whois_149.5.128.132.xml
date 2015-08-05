@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PSINet, Inc.</registrant>
+    <registration>
+      <created>1992-01-28</created>
+      <updated>2011-05-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       149.5.0.0 - 149.5.255.255
+CIDR:           149.5.0.0/16
+NetName:        COGENT-149-5-16
+NetHandle:      NET-149-5-0-0-1
+Parent:         NET149 (NET-149-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS174
+Organization:   PSINet, Inc. (PSI-1)
+RegDate:        1992-01-28
+Updated:        2011-05-27
+Ref:            http://whois.arin.net/rest/net/NET-149-5-0-0-1
+
+OrgName:        PSINet, Inc.
+OrgId:          PSI-1
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+RegDate:        1992-01-28
+Updated:        2015-06-04
+Ref:            http://whois.arin.net/rest/org/PSI-1
+
+ReferralServer:  rwhois://rwhois.cogentco.com:4321
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPALL-ARIN
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZC108-ARIN
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COGEN-ARIN
+
+== Additional Information From rwhois://rwhois.cogentco.com:4321 ==
+
+%rwhois V-1.5:0010b0:00 rwhois.cogentco.com
+network:ID:NET4-9505800018
+network:Network-Name:NET4-9505800018
+network:IP-Network:149.5.128.0/24
+network:Postal-Code:M5 3EQ
+network:Country:GB
+network:City:Manchester
+network:Street-Address:26 Office Village 3rd floor Exchange Quay, Trafford Road, Salford
+network:Org-Name:Comodo CA Limited
+network:Tech-Contact:ZC108-ARIN
+network:Updated:2011-05-16 18:06:18
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

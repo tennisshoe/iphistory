@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>IP Exchange Network Operation Center</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.190.158.0 - 80.190.158.63' is 'abuse@qsc.de'
+
+inetnum:        80.190.158.0 - 80.190.158.63
+netname:        LEO-NET-DE
+descr:          Leo GmbH
+descr:          82054 Sauerlach
+country:        DE
+admin-c:        HR55
+tech-c:         IPX
+status:         ASSIGNED PA
+mnt-by:         IPPARTNER-MNT
+changed:        kunze@ip-exchange.de 20070802
+created:        2007-08-02T13:43:12Z
+last-modified:  2007-08-02T13:43:12Z
+source:         RIPE
+
+role:           IP Exchange Network Operation Center
+address:        IP Exchange GmbH
+address:        Am Tower 5
+address:        90475 Nuernberg
+address:        DE
+phone:          +49 911 30950 50
+remarks:        +------------------------------------------------------
+remarks:        | In case of abuse please contact abuse@ip-exchange.de |
+remarks:        |------------------------------------------------------|
+remarks:        |    In case of technical problems please contact:     |
+remarks:        |      IP Exchange Network Operation Center 24x7       |
+remarks:        |     noc@ip-exchange.de  Tel.: +49 911 309 50 50      |
+remarks:        |------------------------------------------------------|
+abuse-mailbox:  abuse@ip-exchange.de
+e-mail:         noc@ip-exchange.de
+admin-c:        SVEN2-RIPE
+tech-c:         SVEN2-RIPE
+nic-hdl:        IPX
+mnt-by:         IPPARTNER-MNT
+changed:        grosse@ip-exchange.de 20060426
+changed:        blechinger@ip-exchange.de 20081216
+changed:        blechinger@ip-exchange.de 20120412
+changed:        sven.bremert@qsc.de 20140401
+changed:        sven.bremert@qsc.de 20150609
+created:        2002-07-18T11:30:10Z
+last-modified:  2015-06-09T19:08:40Z
+source:         RIPE
+
+person:         Hans-Otto Riethmayer
+address:        LEO GmbH
+address:        Muehlweg 2b
+address:        82054 Sauerlach
+address:        Germany
+phone:          +49 8104 848548
+fax-no:         +49 8104 848549
+e-mail:         riethmayer@leo.org
+nic-hdl:        HR55
+mnt-by:         DFN-NTFY
+changed:        poldi@dfn.de 19930107
+changed:        rv@Informatik.Uni-Dortmund.DE 19930112
+changed:        poldi@dfn.de 20070802
+created:        1970-01-01T00:00:00Z
+last-modified:  2007-08-02T13:56:13Z
+source:         RIPE
+
+route:          80.190.128.0/19
+descr:          IP Exchange GmbH
+origin:         AS15598
+mnt-by:         IPPARTNER-MNT
+changed:        grosse@ip-exchange.de 20031024
+created:        2003-10-24T07:21:02Z
+last-modified:  2003-10-24T07:21:02Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

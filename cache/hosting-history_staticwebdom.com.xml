@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>staticwebdom.com</domain_name>
+    <ip_history>
+      <domain>STATICWEBDOM.COM</domain>
+      <post_ip>50.63.202.32</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2014-11-22</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>STATICWEBDOM.COM</domain>
+      <date_updated>2014-11-09</date_updated>
+      <date_created>2014-11-09</date_created>
+      <date_expires>2015-11-09</date_expires>
+      <date_lastchecked>2014-11-15</date_lastchecked>
+      <registrar>GoDaddy.com</registrar>
+      <registrartag>Go Daddy Software Inc</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>STATICWEBDOM.COM</domain>
+      <action>N</action>
+      <actiondate>2014-11-10</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Domaincontrol.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

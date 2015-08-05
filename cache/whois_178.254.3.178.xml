@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>EVANZO e-commerce GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '178.254.0.0 - 178.254.63.255' is 'abuse@1blu.de'
+
+inetnum:        178.254.0.0 - 178.254.63.255
+netname:        DE-EVANZO-20100618
+descr:          EVANZO e-commerce GmbH
+country:        DE
+org:            ORG-EeG3-RIPE
+admin-c:        JD536-RIPE
+tech-c:         JD536-RIPE
+notify:         nitsch@evanzo.net
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-RN1131-RIPE
+mnt-lower:      LEVEL3-MNT
+mnt-routes:     MNT-RN1131-RIPE
+mnt-routes:     HRW-NOC
+mnt-domains:    MNT-RN1131-RIPE
+changed:        hostmaster@ripe.net 20100618
+created:        2010-06-18T08:11:09Z
+last-modified:  2010-06-18T08:11:09Z
+source:         RIPE
+
+organisation:   ORG-EeG3-RIPE
+org-name:       EVANZO e-commerce GmbH
+org-type:       LIR
+address:        EVANZO e-commerce GmbH
+address:        Johann Dasch
+address:        Stromstr. 1-5
+address:        10555
+address:        Berlin
+address:        GERMANY
+phone:          +493020181000
+fax-no:         +493020181001
+e-mail:         info@evanzo.de
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MNT-RN1131-RIPE
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        RN1131-RIPE
+abuse-c:        OA1725-RIPE
+changed:        bitbucket@ripe.net 20140507
+created:        2005-04-28T12:08:02Z
+last-modified:  2014-05-07T10:06:44Z
+source:         RIPE
+
+person:         Johann Dasch
+address:        evanzo e-commerce GmbH
+address:        Stromstrasse 1-5
+address:        10555 Berlin
+phone:          +421 20871000
+fax-no:         +421 20871055
+nic-hdl:        JD536-RIPE
+abuse-mailbox:  abuse@1blu.de
+changed:        nitsch@evanzo.de 20120427
+changed:        assum@1blu.de 20130410
+created:        2009-02-04T11:48:35Z
+last-modified:  2013-04-10T08:42:49Z
+source:         RIPE
+mnt-by:         MNT-RN1131-RIPE
+
+route:          178.254.0.0/19
+descr:          DE-EVANZO-MK
+origin:         AS42730
+mnt-by:         MNT-RN1131-RIPE
+changed:        assum@1blu.de 20130318
+created:        2013-03-18T09:43:00Z
+last-modified:  2013-03-18T09:43:00Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Salvatore Fiorenza</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.215.131.240 - 213.215.131.247' is 'abuse@colt.net'
+
+inetnum:        213.215.131.240 - 213.215.131.247
+netname:        NET-IT-MAPI-SPA
+descr:          MAPI SPA
+country:        IT
+admin-c:        SF8790-RIPE
+tech-c:         SF8790-RIPE
+status:         ASSIGNED PA
+mnt-by:         COLT-IT-MNT
+changed:        Sidharth.Reddy@colt.net 20140506
+created:        2014-05-06T14:37:44Z
+last-modified:  2014-05-06T14:37:44Z
+source:         RIPE
+
+person:         Salvatore Fiorenza
+address:        MAPI SPA
+address:        VIA DELLARCIVESCOVADO, 14
+address:        TORINO, 10121, Italy
+phone:          +39 0115512859
+nic-hdl:        SF8790-RIPE
+mnt-by:         COLT-IT-MNT
+changed:        Sidharth.Reddy@colt.net 20140506
+created:        2014-05-06T14:37:44Z
+last-modified:  2014-05-06T14:37:44Z
+source:         RIPE
+
+route:          213.215.128.0/17
+descr:          COLT Internet IT
+origin:         AS8220
+mnt-by:         COLT-IT-MNT
+changed:        morigoni@colt-telecom.it 20030310
+created:        2003-03-10T09:19:03Z
+last-modified:  2003-03-10T09:19:03Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

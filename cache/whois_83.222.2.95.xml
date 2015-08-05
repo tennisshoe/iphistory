@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>MASTERHOST NOC</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.222.2.0 - 83.222.3.255' is 'abuse@masterhost.ru'
+
+inetnum:        83.222.2.0 - 83.222.3.255
+netname:        MASTERHOST-COLOCATION
+descr:          Masterhost is a hosting and technical support organization.
+country:        RU
+admin-c:        MHST-RIPE
+tech-c:         MHST-RIPE
+status:         ASSIGNED PA
+notify:         noc@masterhost.ru
+mnt-by:         MASTERHOST-MNT
+changed:        unknown@masterhost.ru 20050629
+created:        2005-06-29T05:01:31Z
+last-modified:  2005-06-29T05:01:31Z
+source:         RIPE
+
+role:           MASTERHOST NOC
+address:        .masterhost
+address:        Presnenskaya naberezhnaya, dom 12, etazh 31
+address:        123317 Moscow
+address:        Russia
+phone:          +7 495 7729720
+fax-no:         +7 495 7729723
+e-mail:         noc@masterhost.ru
+remarks:        ----------------------------------------------------------
+remarks:        MASTERHOST is available 24 x 7
+remarks:        ----------------------------------------------------------
+remarks:        Points of contact for MASTERHOST Network Operations
+remarks:        ----------------------------------------------------------
+remarks:        Routing and peering issues: noc@masterhost.ru
+remarks:        SPAM and Network security issues: abuse@masterhost.ru
+remarks:        Mail and News issues: postmaster@masterhost.ru
+remarks:        Customer support: support@masterhost.ru
+remarks:        General information: info@masterhost.ru
+remarks:        ----------------------------------------------------------
+admin-c:        SK25532-RIPE
+tech-c:         SK25532-RIPE
+nic-hdl:        MHST-RIPE
+notify:         noc@masterhost.ru
+abuse-mailbox:  abuse@masterhost.ru
+mnt-by:         MASTERHOST-MNT
+changed:        unknown@masterhost.ru 20050714
+changed:        caspy@masterhost.ru 20050802
+changed:        caspy@masterhost.ru 20070410
+changed:        skayres@masterhost.ru 20141215
+created:        2002-11-18T17:12:41Z
+last-modified:  2015-01-26T11:58:44Z
+source:         RIPE
+
+route:          83.222.0.0/19
+descr:          .masterhost
+origin:         AS25532
+notify:         noc@masterhost.ru
+mnt-by:         MASTERHOST-MNT
+changed:        azaharov@masterhost.ru 20140512
+created:        2004-10-21T10:42:12Z
+last-modified:  2014-05-12T09:43:21Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

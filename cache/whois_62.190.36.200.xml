@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Verizon UK Limited</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.189.0.0 - 62.190.255.255' is 'abuse@uk.verizon.com'
+
+inetnum:        62.189.0.0 - 62.190.255.255
+netname:        UK-PIPEX-20000720
+descr:          Verizon UK Limited
+country:        GB
+org:            ORG-UA24-RIPE
+admin-c:        WERT1-RIPE
+tech-c:         UPHM1-RIPE
+status:         ALLOCATED PA
+notify:         routing@uk.uu.net
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      AS1849-MNT
+mnt-routes:     AS1849-MNT
+mnt-routes:     WCOM-EMEA-RICE-MNT
+mnt-irt:        IRT-MCI-GB
+changed:        hostmaster@ripe.net 20000720
+changed:        hostmaster@ripe.net 20010507
+changed:        hostmaster@ripe.net 20050506
+changed:        ripe-dbm@ripe.net 20050519
+changed:        hostmaster@ripe.net 20100428
+created:        2002-06-25T15:05:46Z
+last-modified:  2010-04-28T09:08:14Z
+source:         RIPE
+
+organisation:   ORG-UA24-RIPE
+org-name:       Verizon UK Limited
+org-type:       LIR
+address:        Sebrathweg 20
+address:        44149
+address:        Dortmund
+address:        GERMANY
+phone:          +31 20 711 6000
+phone:          +46 8 5661 7629
+fax-no:         +31 20 711 1784
+fax-no:         +46 8 5661 7236
+e-mail:         ip@se.verizonbusiness.com
+admin-c:        HSVZ-RIPE
+admin-c:        ARK-RIPE
+admin-c:        AW-RIPE
+admin-c:        WERT1-RIPE
+mnt-ref:        AS1849-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        AVU44-RIPE
+created:        2004-04-17T12:20:13Z
+changed:        bitbucket@ripe.net 20150615
+last-modified:  2015-06-15T14:06:34Z
+source:         RIPE
+
+role:           PIPEX Hostmaster
+address:        Verizon UK
+address:        Internet House
+address:        330 Science Park
+address:        Milton Road
+address:        Cambridge
+address:        CB4 4BZ
+address:        GB
+phone:          +44 1223 250122
+fax-no:         +44 1223 250133
+e-mail:         tech-support@uk.verizonbusiness.com
+remarks:        trouble: Telephone number available 24x7
+admin-c:        WERT1-RIPE
+tech-c:         WERT1-RIPE
+nic-hdl:        UPHM1-RIPE
+remarks:        Verizon UK
+mnt-by:         AS1849-MNT
+changed:        hostmaster@ripe.net 19971009
+changed:        philip@uk.uu.net 19971111
+changed:        tonyb@uk.uu.net 19980402
+changed:        tonyb@uk.uu.net 19981214
+changed:        tonyb@uk.uu.net 20000224
+created:        1970-01-01T00:00:00Z
+last-modified:  2015-02-16T11:59:12Z
+source:         RIPE
+changed:        hendrik.volker@deu.mci.com 20030605
+
+role:           WCOM EMEA Registrar Team
+address:        Verizon
+address:        EMEA Network Services
+address:        J. Muyskenweg 22
+address:        NL-1096 CJ Amsterdam
+address:        The Netherlands
+phone:          +31 20 711 6000
+fax-no:         +31 20 711 6001
+e-mail:         registrar@eu.uu.net
+admin-c:        AK111-RIPE
+admin-c:        ARK-RIPE
+admin-c:        HTV5-RIPE
+admin-c:        TONE1-RIPE
+admin-c:        USB1-RIPE
+tech-c:         AK111-RIPE
+tech-c:         ARK-RIPE
+tech-c:         HTV5-RIPE
+tech-c:         TONE1-RIPE
+tech-c:         USB1-RIPE
+nic-hdl:        WERT1-RIPE
+notify:         registrar@eu.uu.net
+mnt-by:         AS1849-MNT
+changed:        hvolker@eu.uu.net 20030202
+changed:        hendrik.volker@deu.mci.com 20031020
+changed:        hendrik.volker@deu.mci.com 20031211
+changed:        hendrik.volker@deu.mci.com 20031216
+changed:        hendrik.volker@deu.mci.com 20050203
+created:        2003-02-02T18:50:09Z
+last-modified:  2011-12-19T11:47:58Z
+source:         RIPE
+
+route:          62.190.0.0/16
+descr:          network UK-PIPEX-20000720
+origin:         AS702
+member-of:      AS702:RS-UK,
+                AS702:RS-UK-PA
+inject:         upon static
+aggr-mtd:       outbound
+remarks:        **********ABUSE ISSUES**********
+remarks:        All abuse must be reported to
+remarks:        abuse@uk.uu.net for this network.
+remarks:        ********************************
+mnt-routes:     AS1849-MNT
+mnt-by:         WCOM-EMEA-RICE-MNT
+changed:        rice@lists.mci.com 20101112
+created:        2005-05-23T17:05:47Z
+last-modified:  2010-11-12T12:58:32Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

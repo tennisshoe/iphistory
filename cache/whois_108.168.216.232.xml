@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>SoftLayer Technologies Inc.</registrant>
+    <registration>
+      <created>2012-01-06</created>
+      <updated>2013-07-12</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       108.168.128.0 - 108.168.255.255
+CIDR:           108.168.128.0/17
+NetName:        SOFTLAYER-4-11
+NetHandle:      NET-108-168-128-0-1
+Parent:         NET108 (NET-108-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36351
+Organization:   SoftLayer Technologies Inc. (SOFTL)
+RegDate:        2012-01-06
+Updated:        2013-07-12
+Ref:            http://whois.arin.net/rest/net/NET-108-168-128-0-1
+
+OrgName:        SoftLayer Technologies Inc.
+OrgId:          SOFTL
+Address:        4849 Alpha Rd.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75244
+Country:        US
+RegDate:        2005-10-26
+Updated:        2013-02-20
+Ref:            http://whois.arin.net/rest/org/SOFTL
+
+ReferralServer:  rwhois://rwhois.softlayer.com:4321
+
+OrgTechHandle: IPADM258-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-214-442-0600 
+OrgTechEmail:  ipadmin@softlayer.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+OrgAbuseHandle: ABUSE1025-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-214-442-0601 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1025-ARIN
+
+== Additional Information From rwhois://rwhois.softlayer.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.softlayer.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:NETBLK-SOFTLAYER.108.168.192.0/19
+network:Auth-Area:108.168.192.0/19
+network:Network-Name:SOFTLAYER-108.168.192.0
+network:IP-Network:108.168.216.224/27
+network:IP-Network-Block:108.168.216.224-108.168.216.255
+network:Organization;I:Green Olive Tree
+network:Street-Address:341 High Street
+network:City:Portsmouth
+network:State:VA
+network:Postal-Code:23704
+network:Country-Code:US
+network:Tech-Contact;I:sysadmins@softlayer.com
+network:Abuse-Contact;I:abuse@greenolivetree.net
+network:Admin-Contact;I:IPADM258-ARIN
+network:Created:2006-08-07 10:16:37
+network:Updated:2007-05-27 23:17:34
+network:Updated-By:ipadmin@softlayer.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

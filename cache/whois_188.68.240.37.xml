@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>"SPRINT" S.A.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '188.68.224.0 - 188.68.255.255' is 'abuse@sprintdatacenter.pl'
+
+inetnum:        188.68.224.0 - 188.68.255.255
+netname:        PL-SPRINT-20090825
+descr:          "Sprint" S.A.
+country:        PL
+org:            ORG-Szo5-RIPE
+admin-c:        JPOL-RIPE
+tech-c:         JPOL-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      SPRINT-PL-MNT
+mnt-domains:    SPRINT-PL-MNT
+mnt-routes:     SPRINT-PL-MNT
+notify:         ripe-contact@sprint.pl
+changed:        hostmaster@ripe.net 20090825
+changed:        hostmaster@ripe.net 20100510
+changed:        hostmaster@ripe.net 20100518
+changed:        hostmaster@ripe.net 20110413
+changed:        hostmaster@ripe.net 20110511
+changed:        hostmaster@ripe.net 20140317
+changed:        hostmaster@ripe.net 20140321
+created:        2014-03-26T09:35:44Z
+last-modified:  2014-03-26T09:35:44Z
+source:         RIPE
+changed:        hostmaster@ripe.net 20140325
+changed:        hostmaster@ripe.net 20140326
+
+organisation:   ORG-Szo5-RIPE
+org-name:       "SPRINT" S.A.
+org-type:       LIR
+address:        "SPRINT" Sp. z o.o.
+address:        Jagiellonczyka 26
+address:        10-062
+address:        Olsztyn
+address:        POLAND
+phone:          +48895221100
+fax-no:         +48895221125
+admin-c:        JPOL-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        SPRINT-PL-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        SDC186-RIPE
+created:        2010-07-20T11:23:37Z
+last-modified:  2014-03-21T13:50:28Z
+source:         RIPE
+e-mail:         ripe-contact@sprint.pl
+changed:        bitbucket@ripe.net 20140321
+
+person:         Jacek Politowski
+address:        "SPRINT" S.A.
+address:        ul. Jagiellonczyka 26
+address:        10-062 Olsztyn
+address:        Poland
+phone:          +48 89 522 11 68
+fax-no:         +48 89 522 11 25
+e-mail:         jacek.politowski@sprint.pl
+nic-hdl:        JPOL-RIPE
+notify:         ripe-contact@sprint.pl
+changed:        jacek.politowski@sprint.pl 20121127
+mnt-by:         SPRINT-PL-MNT
+created:        2010-07-21T08:46:59Z
+last-modified:  2012-11-27T13:19:34Z
+source:         RIPE
+
+route:          188.68.240.0/20
+descr:          Sprint S.A.
+descr:          Sprint Data Center
+descr:          Olsztyn, Poland
+origin:         AS197226
+mnt-by:         SPRINT-PL-MNT
+changed:        jacek.politowski@sprint.pl 20140319
+created:        2014-03-19T09:57:31Z
+last-modified:  2014-03-19T09:57:31Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

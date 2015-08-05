@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Dong-Joo Lee</registrant>
+    <registration>
+      <updated>2002-08-29</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        220.72.0.0 - 220.87.255.255
+netname:        KORNET
+descr:          KOREA TELECOM
+descr:          Network Management Center
+country:        KR
+admin-c:        DL248-AP
+tech-c:         GK40-AP
+remarks:        ***********************************************
+remarks:        KRNIC of NIDA is the National Internet Registry
+remarks:        in Korea under APNIC. If you would like to
+remarks:        find assignment information in detail
+remarks:        please refer to the NIDA Whois DB
+remarks:        http://whois.nida.or.kr/english/index.html
+remarks:        ***********************************************
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+changed:        hm-changed@apnic.net 20020829
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20041007
+source:         APNIC
+
+person:         Dong-Joo Lee
+address:        128-9 Yeong-Dong Jongro-Ku Seoul
+address:        Network Management Center
+country:        KR
+phone:          +82-2-766-1407
+fax-no:         +82-2-766-6008
+e-mail:         abuse@kornet.net
+nic-hdl:        DL248-AP
+mnt-by:         MAINT-NEW
+changed:        hostmaster@nic.or.kr 20110215
+source:         APNIC
+
+person:         Gyung-Jun Kim
+address:        KORNET
+address:        128-9, Yeong-Dong, Jongro-Ku
+address:        SEOUL
+address:        110-763
+country:        KR
+phone:          +82-2-747-9213
+fax-no:         +82-2-3673-5452
+e-mail:         ip@krnic.kornet.net
+e-mail:         abuse@kornet.net
+nic-hdl:        GK40-AP
+mnt-by:         MNT-KRNIC-AP
+changed:        hostmaster@nic.or.kr 20061009
+source:         APNIC
+
+inetnum:        220.72.0.0 - 220.91.255.255
+netname:        KORNET-KR
+descr:          Korea Telecom
+country:        KR
+admin-c:        IA9-KR
+tech-c:         IM9-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

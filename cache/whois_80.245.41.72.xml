@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cogent Communications Group, Inc.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.245.32.0 - 80.245.63.255' is 'abuse@cogentco.com'
+
+inetnum:        80.245.32.0 - 80.245.63.255
+org:            ORG-GATI1-RIPE
+netname:        EU-COGENT-20011105
+descr:          Cogent Communications Group, Inc.
+country:        FR
+admin-c:        CGNT-RIPE
+tech-c:         CGNT-RIPE
+status:         ALLOCATED PA
+notify:         ripe-e4g9i3hq@cogentco.com
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      COGENT-HM-MNT
+mnt-routes:     COGENT-ROUTE-MNT
+changed:        hostmaster@ripe.net 20011105
+changed:        hostmaster@ripe.net 20021219
+changed:        hostmaster@ripe.net 20030717
+changed:        hostmaster@ripe.net 20040225
+changed:        hostmaster@ripe.net 20041029
+changed:        hostmaster@ripe.net 20041108
+changed:        hostmaster@ripe.net 20050105
+changed:        hostmaster@ripe.net 20050503
+changed:        hostmaster@ripe.net 20050524
+changed:        hostmaster@ripe.net 20050526
+changed:        hostmaster@ripe.net 20050804
+changed:        bitbucket@ripe.net 20061220
+created:        2002-12-19T16:06:37Z
+last-modified:  2006-12-20T14:26:21Z
+source:         RIPE
+
+organisation:   ORG-GATI1-RIPE
+org-name:       Cogent Communications Group, Inc.
+org-type:       LIR
+address:        Lyoner Str. 15
+address:        60528
+address:        Frankfurt
+address:        GERMANY
+phone:          +17036577904
+fax-no:         +13023402514
+fax-no:         +496929989666
+admin-c:        HK3724-RIPE
+admin-c:        GM5562-RIPE
+admin-c:        MC1557-RIPE
+admin-c:        DL5127-RIPE
+admin-c:        GR2753-RIPE
+admin-c:        TT4648-RIPE
+admin-c:        ED3641-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        COGENT-ROOT-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        CGNT-RIPE
+e-mail:         ripe-e4g9i3hq@cogentco.com
+created:        2004-04-17T11:07:27Z
+changed:        bitbucket@ripe.net 20150519
+last-modified:  2015-05-19T15:33:07Z
+source:         RIPE
+
+role:           Cogent Communications Hostmaster
+address:        Cogent Communications, Inc.
+                1015 31st Steet NW
+                Washington, DC 20007
+                USA
+phone:          +1 703 657 7904
+e-mail:         ipalloc@cogentco.com
+abuse-mailbox:  abuse@cogentco.com
+admin-c:        GR2753-RIPE
+tech-c:         CCRA-RIPE
+tech-c:         GR2753-RIPE
+tech-c:         MC1557-RIPE
+tech-c:         DL5127-RIPE
+tech-c:         TA4019-RIPE
+tech-c:         ED3641-RIPE
+tech-c:         TT4648-RIPE
+nic-hdl:        CGNT-RIPE
+mnt-by:         COGENT-ROOT-MNT
+changed:        ukieber@cogentco.com 20041029
+changed:        ukieber@cogentco.com 20041112
+changed:        ukieber@cogentco.com 20050627
+changed:        ukieber@cogentco.com 20050719
+changed:        ukieber@cogentco.com 20050808
+changed:        ukieber@cogentco.com 20060102
+changed:        wgarrison@cogentco.com 20080328
+changed:        wgarrison@cogentco.com 20080404
+changed:        wgarrison@cogentco.com 20080404
+changed:        wgarrison@cogentco.com 20090119
+changed:        wgarrison@cogentco.com 20090326
+changed:        wgarrison@cogentco.com 20090821
+changed:        wgarrison@cogentco.com 20120213
+changed:        wgarrison@cogentco.com 20120731
+changed:        wgarrison@cogentco.com 20131106
+changed:        wgarrison@cogentco.com 20131106
+changed:        wgarrison@cogentco.com 20140725
+changed:        greese@cogentco.com 20141219
+created:        2004-10-28T23:56:17Z
+last-modified:  2014-12-19T17:04:19Z
+source:         RIPE
+
+route:          80.245.32.0/19
+descr:          Cogent Communications France S.A.S.
+origin:         AS174
+mnt-by:         COGENT-ROUTE-MNT
+changed:        arnaud.bulteau@lambdanet.fr 20021219
+changed:        karsten.koepp@lambdanet.net 20040305
+changed:        sophie.dabin@lambdanet.fr 20040517
+changed:        ukieber@cogentco.com 20041028
+changed:        ukieber@cogentco.com 20041112
+created:        2004-05-17T12:13:39Z
+last-modified:  2004-11-12T19:13:32Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

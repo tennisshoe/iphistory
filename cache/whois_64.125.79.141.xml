@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Alliance Entertainment LLC</registrant>
+    <registration>
+      <created>2000-07-06</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.124.0.0 - 64.125.255.255
+CIDR:           64.124.0.0/15
+NetName:        ABOVENET
+NetHandle:      NET-64-124-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Abovenet Communications, Inc (ABVE)
+RegDate:        2000-07-06
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-124-0-0-1
+
+OrgName:        Abovenet Communications, Inc
+OrgId:          ABVE
+Address:        360 Hamilton Ave
+City:           White Plains
+StateProv:      NY
+PostalCode:     10601
+Country:        US
+RegDate:        1996-04-22
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/ABVE
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ip-tac@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+NetRange:       64.125.79.0 - 64.125.79.255
+CIDR:           64.125.79.0/24
+NetName:        ABOV-T00952-64-125-79-0-24
+NetHandle:      NET-64-125-79-0-1
+Parent:         ABOVENET (NET-64-124-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Alliance Entertainment LLC (C02732624)
+RegDate:        2011-04-08
+Updated:        2011-04-08
+Comment:        gabriel.devarona@aent.com
+Ref:            http://whois.arin.net/rest/net/NET-64-125-79-0-1
+
+CustName:       Alliance Entertainment LLC
+Address:        4520 Coral Springs Dr
+City:           Coral Springs
+StateProv:      FL
+PostalCode:     33065
+Country:        US
+RegDate:        2011-04-08
+Updated:        2011-04-08
+Ref:            http://whois.arin.net/rest/customer/C02732624
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ip-tac@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

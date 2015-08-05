@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CALPOP.COM, INC.</registrant>
+    <registration>
+      <created>2000-01-10</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.27.0.0 - 64.27.31.255
+CIDR:           64.27.0.0/19
+NetName:        CALPOP-NETWORK
+NetHandle:      NET-64-27-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS7796, AS23244, AS14542
+Organization:   CALPOP.COM, INC. (CALPO-4)
+RegDate:        2000-01-10
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-64-27-0-0-1
+
+OrgName:        CALPOP.COM, INC.
+OrgId:          CALPO-4
+Address:        600 W. 7th Street
+Address:        Suite 360
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90017
+Country:        US
+RegDate:        2009-03-17
+Updated:        2013-12-02
+Ref:            http://whois.arin.net/rest/org/CALPO-4
+
+ReferralServer:  rwhois://rwhois.calpop.com:4321
+
+OrgTechHandle: NOC11778-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-213-627-1937 
+OrgTechEmail:  noc@calpop.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC11778-ARIN
+
+OrgTechHandle: NATHA4-ARIN
+OrgTechName:   Nathan, Naveen 
+OrgTechPhone:  +1-213-627-1937 
+OrgTechEmail:  naveen.poc@calpop.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NATHA4-ARIN
+
+OrgAbuseHandle: CALPO-ARIN
+OrgAbuseName:   CalPOP Abuse
+OrgAbusePhone:  +1-213-627-1937 
+OrgAbuseEmail:  abuse@atmlinkinc.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CALPO-ARIN
+
+OrgNOCHandle: CNO4-ARIN
+OrgNOCName:   CalPOP Network Operations
+OrgNOCPhone:  +1-213-627-1937 
+OrgNOCEmail:  noc@calpop.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/CNO4-ARIN
+
+== Additional Information From rwhois://rwhois.calpop.com:4321 ==
+
+%rwhois V-1.5 rwhois.calpop.com (python-rwhoisd 0.4.1)
+network:id:NET-64-27-0-0-1
+network:class-name:network
+network:auth_area:64.27.0.0/19
+network:network-name:CALPOP-NETWORK
+network:ip-network:64.27.0.0/19
+network:organization:CALPO-4
+network:admin-poc:RH1217-ARIN
+network:tech-poc:RH1217-ARIN
+network:abuse-poc:CALPO-ARIN
+network:noc-poc:CNO4-ARIN
+network:admin-contact:support@calpop.com
+network:tech-contact:support@calpop.com
+network:abuse-contact:abuse@calpop.com
+network:noc-contact:noc@calpop.com
+network:created:2010-12-28
+network:updated:2011-01-05
+network:updated-by:whoisadmin@calpop.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

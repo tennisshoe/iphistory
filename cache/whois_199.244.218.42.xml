@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Capital One Financial Corporation</registrant>
+    <registration>
+      <created>1994-09-07</created>
+      <updated>2014-03-26</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       199.244.214.0 - 199.244.219.255
+CIDR:           199.244.214.0/23, 199.244.216.0/22
+NetName:        CAPITALONE
+NetHandle:      NET-199-244-214-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Capital One Financial Corporation (CAPITA-120)
+RegDate:        1994-09-07
+Updated:        2014-03-26
+Ref:            http://whois.arin.net/rest/net/NET-199-244-214-0-1
+
+OrgName:        Capital One Financial Corporation
+OrgId:          CAPITA-120
+Address:        1680 Capital One Drive
+City:           McLean
+StateProv:      VA
+PostalCode:     22102
+Country:        US
+RegDate:        2001-02-12
+Updated:        2011-07-25
+Ref:            http://whois.arin.net/rest/org/CAPITA-120
+
+OrgAbuseHandle: NETWO4375-ARIN
+OrgAbuseName:   Network Engineering
+OrgAbusePhone:  +1-804-314-4829 
+OrgAbuseEmail:  brian.dymon@capitalone.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN
+
+OrgTechHandle: NETWO4375-ARIN
+OrgTechName:   Network Engineering
+OrgTechPhone:  +1-804-314-4829 
+OrgTechEmail:  brian.dymon@capitalone.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN
+
+OrgNOCHandle: NETWO4375-ARIN
+OrgNOCName:   Network Engineering
+OrgNOCPhone:  +1-804-314-4829 
+OrgNOCEmail:  brian.dymon@capitalone.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO4375-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

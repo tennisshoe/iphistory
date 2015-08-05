@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Admin Contact Melbourne IT</registrant>
+    <registration>
+      <updated>1996-05-30</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        203.27.226.0 - 203.27.227.255
+netname:        MELBINFOTECH-AU
+descr:          Melbourne Information Technologies Australia Pty Ltd
+descr:          Level 2, 120 King St
+descr:          Melbourne
+descr:          VIC  3000
+country:        AU
+admin-c:        ACM21-AP
+tech-c:         HM155-AP
+remarks:        ** Conversion note - reference 'ACM3-AU' changed to 'ACM21-AP'
+remarks:        ** Conversion note - reference 'HM155-AU' changed to 'HM155-AP'
+remarks:        Record imported from AUNIC as part of AUNIC-&gt;APNIC migration
+remarks:        Please see http://www.apnic.net/db/aunic/
+mnt-by:         APNIC-HM
+status:         ALLOCATED PORTABLE
+changed:        nobody@aunic.net 19960530
+changed:        nobody@aunic.net 20000426
+changed:        aunic-transfer@apnic.net 20010525
+changed:        hm-changed@apnic.net 20041201
+changed:        hm-changed@apnic.net 20041214
+source:         APNIC
+
+person:         Admin Contact Melbourne IT
+address:        Melbourne IT Ltd
+address:        Level 2, 120 King St
+address:        Melbourne
+address:        VIC 3000
+country:        AU
+phone:          +61 3 8624 2400
+phone:          +61 3 8624 2499
+e-mail:         domain-admin@melbourneit.com.au
+nic-hdl:        ACM21-AP
+remarks:        This data originated from AUNIC, and was copied as part of
+remarks:        the AUNIC to APNIC migration.  http://www.apnic.net/db/aunic/
+remarks:        Original nic-hdl in AUNIC: ACM3-AU
+mnt-by:         MAINT-AU-MELBIT
+changed:        nobody@aunic.net 20000330
+changed:        nobody@aunic.net 20000330
+changed:        aunic-transfer@apnic.net 20010523
+changed:        hm-changed@apnic.net 20041201
+source:         APNIC
+changed:        hm-changed@apnic.net 20111122
+
+person:         Hostmaster Melbourne IT
+address:        Melbourne IT Ltd
+address:        Level 2, 120 King St
+address:        Melbourne
+address:        VIC 3000
+country:        AU
+phone:          +61 3 8624 2400
+phone:          +61 3 8624 2499
+e-mail:         hostmaster@melbourneit.com.au
+nic-hdl:        HM155-AP
+remarks:        Organisation Infrastructure Department
+remarks:        This data originated from AUNIC, and was copied as part of
+remarks:        the AUNIC to APNIC migration.  http://www.apnic.net/db/aunic/
+remarks:        Original nic-hdl in AUNIC: HM155-AU
+mnt-by:         MAINT-AU-MELBIT
+changed:        nobody@aunic.net 20000330
+changed:        nobody@aunic.net 20000330
+changed:        aunic-transfer@apnic.net 20010523
+changed:        hm-changed@apnic.net 20041201
+source:         APNIC
+changed:        hm-changed@apnic.net 20111122</record>
+    </whois>
+  </response>
+</whoisapi>
+

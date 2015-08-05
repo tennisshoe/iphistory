@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>BSkyB Broadband Hostmaster</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '87.82.51.0 - 87.82.51.127' is 'abuse@easynet.com'
+
+inetnum:        87.82.51.0 - 87.82.51.127
+netname:        BSKYB-CDN-CACHE-FARM
+descr:          Content Distribution Network
+descr:          BSkyB Broadband
+country:        GB
+admin-c:        BBH-RIPE
+tech-c:         BBH-RIPE
+status:         ASSIGNED PA
+mnt-by:         BSKYB-BROADBAND-MNT
+notify:         hostmaster@easynet.net
+changed:        phil.duffen@uk.easynet.net 20080306
+created:        2008-03-06T16:48:22Z
+last-modified:  2008-03-06T16:48:22Z
+source:         RIPE
+
+role:           BSkyB Broadband Hostmaster
+address:        Sky Network Services
+address:        1 Brick Lane
+address:        London
+address:        E1 6PU
+address:        UK
+phone:          +44 20 7032 7000
+fax-no:         +44 20 7900 7812
+e-mail:         hostmaster@sky.uk
+admin-c:        IAND-RIPE
+admin-c:        AF9652-RIPE
+admin-c:        PB15545-RIPE
+tech-c:         MIVS1-RIPE
+tech-c:         JS2116-RIPE
+nic-hdl:        BBH-RIPE
+abuse-mailbox:  abuse@sky.uk
+notify:         hostmaster@sky.uk
+mnt-by:         BSKYB-BROADBAND-MNT
+changed:        phil.duffen@uk.easynet.net 20060707
+changed:        phil.duffen@uk.easynet.net 20081009
+changed:        kiril.bugajev@sns.bskyb.com 20090527
+changed:        mark.ivens@sns.bskyb.com 20120126
+changed:        mark.ivens@bskyb.com 20130815
+changed:        javed.vohra@bskyb.com 20140226
+changed:        mark.ivens@bskyb.com 20140805
+changed:        mark.ivens@sky.uk 20150410
+changed:        peyman.behbahani@sky.uk 20150602
+created:        2006-07-07T09:21:33Z
+last-modified:  2015-06-02T13:01:05Z
+source:         RIPE
+
+route:          87.82.0.0/15
+descr:          Easynet UK
+origin:         AS4589
+mnt-by:         EASYNET-ROUTE-MNT
+changed:        alex@easynet.com 20130701
+changed:        phil.duffen@easynet.com 20130709
+created:        2013-07-01T20:02:48Z
+last-modified:  2013-07-09T12:08:31Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

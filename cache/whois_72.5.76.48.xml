@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Ustream.tv</registrant>
+    <registration>
+      <created>2011-12-09</created>
+      <updated>2011-12-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       72.5.76.0 - 72.5.76.127
+CIDR:           72.5.76.0/25
+NetName:        INAP-SJE-USTREAMTV-53477
+NetHandle:      NET-72-5-76-0-1
+Parent:         PNAP-09-2004 (NET-72-5-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS12182
+Customer:       Ustream.tv (C02905079)
+RegDate:        2011-12-09
+Updated:        2011-12-09
+Ref:            http://whois.arin.net/rest/net/NET-72-5-76-0-1
+
+CustName:       Ustream.tv
+Address:        274 Castro Street
+Address:        Suite 204
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94041
+Country:        US
+RegDate:        2011-12-09
+Updated:        2011-12-09
+Ref:            http://whois.arin.net/rest/customer/C02905079
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RAbuseHandle: IAC3-ARIN
+RAbuseName:   Internap Abuse Contact
+RAbusePhone:  +1-206-256-9500 
+RAbuseEmail:  abuse@internap.com
+RAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+RNOCHandle: INO3-ARIN
+RNOCName:   InterNap Network Operations Center
+RNOCPhone:  +1-877-843-4662 
+RNOCEmail:  noc@internap.com
+RNOCRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+NetRange:       72.5.0.0 - 72.5.255.255
+CIDR:           72.5.0.0/16
+NetName:        PNAP-09-2004
+NetHandle:      NET-72-5-0-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internap Network Services Corporation (PNAP)
+RegDate:        2004-09-30
+Updated:        2005-09-29
+Ref:            http://whois.arin.net/rest/net/NET-72-5-0-0-1
+
+OrgName:        Internap Network Services Corporation
+OrgId:          PNAP
+Address:        250 Williams Street
+Address:        Suite E100
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30303
+Country:        US
+RegDate:        1996-07-18
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/PNAP
+
+OrgAbuseHandle: IAC3-ARIN
+OrgAbuseName:   Internap Abuse Contact
+OrgAbusePhone:  +1-206-256-9500 
+OrgAbuseEmail:  abuse@internap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+OrgTechHandle: INO3-ARIN
+OrgTechName:   InterNap Network Operations Center
+OrgTechPhone:  +1-877-843-4662 
+OrgTechEmail:  noc@internap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RAbuseHandle: IAC3-ARIN
+RAbuseName:   Internap Abuse Contact
+RAbusePhone:  +1-206-256-9500 
+RAbuseEmail:  abuse@internap.com
+RAbuseRef:    http://whois.arin.net/rest/poc/IAC3-ARIN
+
+RNOCHandle: INO3-ARIN
+RNOCName:   InterNap Network Operations Center
+RNOCPhone:  +1-877-843-4662 
+RNOCEmail:  noc@internap.com
+RNOCRef:    http://whois.arin.net/rest/poc/INO3-ARIN
+
+RTechHandle: INO3-ARIN
+RTechName:   InterNap Network Operations Center
+RTechPhone:  +1-877-843-4662 
+RTechEmail:  noc@internap.com
+RTechRef:    http://whois.arin.net/rest/poc/INO3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

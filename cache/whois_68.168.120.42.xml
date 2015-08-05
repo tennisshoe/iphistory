@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Genious Communications</registrant>
+    <registration>
+      <created>2013-05-02</created>
+      <updated>2013-05-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       68.168.120.40 - 68.168.120.47
+CIDR:           68.168.120.40/29
+NetName:        GTCOMM-932
+NetHandle:      NET-68-168-120-40-1
+Parent:         GTCOMM (NET-68-168-112-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Genious Communications (C03391484)
+RegDate:        2013-05-02
+Updated:        2013-05-02
+Ref:            http://whois.arin.net/rest/net/NET-68-168-120-40-1
+
+CustName:       Genious Communications
+Address:        Bd. Allal El Fassi, Operation Boustane I, Immeuble E Numero 6 
+City:           Marrakech
+StateProv:      
+PostalCode:     40000
+Country:        MA
+RegDate:        2013-05-02
+Updated:        2013-05-02
+Ref:            http://whois.arin.net/rest/customer/C03391484
+
+OrgAbuseHandle: GNO-ARIN
+OrgAbuseName:   GloboTech Network Operations Center
+OrgAbusePhone:  +1-514-907-0050 
+OrgAbuseEmail:  noc@gtcomm.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GNO-ARIN
+
+OrgTechHandle: PQU-ARIN
+OrgTechName:   Quimper, Pierre-Luc 
+OrgTechPhone:  +1-514-907-0050 
+OrgTechEmail:  plquimper@gtcomm.net
+OrgTechRef:    http://whois.arin.net/rest/poc/PQU-ARIN
+
+OrgNOCHandle: GNO-ARIN
+OrgNOCName:   GloboTech Network Operations Center
+OrgNOCPhone:  +1-514-907-0050 
+OrgNOCEmail:  noc@gtcomm.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/GNO-ARIN
+
+RTechHandle: GNO-ARIN
+RTechName:   GloboTech Network Operations Center
+RTechPhone:  +1-514-907-0050 
+RTechEmail:  noc@gtcomm.net
+RTechRef:    http://whois.arin.net/rest/poc/GNO-ARIN
+
+RAbuseHandle: ABUSE4826-ARIN
+RAbuseName:   Abuse Coordinator
+RAbusePhone:  +1-514-907-0050 
+RAbuseEmail:  abuse@gtcomm.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4826-ARIN
+
+RNOCHandle: GNO-ARIN
+RNOCName:   GloboTech Network Operations Center
+RNOCPhone:  +1-514-907-0050 
+RNOCEmail:  noc@gtcomm.net
+RNOCRef:    http://whois.arin.net/rest/poc/GNO-ARIN
+
+NetRange:       68.168.112.0 - 68.168.127.255
+CIDR:           68.168.112.0/20
+NetName:        GTCOMM
+NetHandle:      NET-68-168-112-0-1
+Parent:         NET68 (NET-68-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36666
+Organization:   GloboTech Communications (GLOBO)
+RegDate:        2009-02-19
+Updated:        2014-08-07
+Comment:        www.gtcomm.net
+Ref:            http://whois.arin.net/rest/net/NET-68-168-112-0-1
+
+OrgName:        GloboTech Communications
+OrgId:          GLOBO
+Address:        PO Box 1402
+City:           Saint-Quentin
+StateProv:      NB
+PostalCode:     E8A-1A2
+Country:        CA
+RegDate:        2003-01-11
+Updated:        2013-05-22
+Comment:        Please send abuse complaints to abuse@gtcomm.net
+Comment:        This space is statically assigned
+Comment:        www.gtcomm.net
+Ref:            http://whois.arin.net/rest/org/GLOBO
+
+OrgAbuseHandle: GNO-ARIN
+OrgAbuseName:   GloboTech Network Operations Center
+OrgAbusePhone:  +1-514-907-0050 
+OrgAbuseEmail:  noc@gtcomm.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GNO-ARIN
+
+OrgTechHandle: PQU-ARIN
+OrgTechName:   Quimper, Pierre-Luc 
+OrgTechPhone:  +1-514-907-0050 
+OrgTechEmail:  plquimper@gtcomm.net
+OrgTechRef:    http://whois.arin.net/rest/poc/PQU-ARIN
+
+OrgNOCHandle: GNO-ARIN
+OrgNOCName:   GloboTech Network Operations Center
+OrgNOCPhone:  +1-514-907-0050 
+OrgNOCEmail:  noc@gtcomm.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/GNO-ARIN
+
+RTechHandle: GNO-ARIN
+RTechName:   GloboTech Network Operations Center
+RTechPhone:  +1-514-907-0050 
+RTechEmail:  noc@gtcomm.net
+RTechRef:    http://whois.arin.net/rest/poc/GNO-ARIN
+
+RAbuseHandle: ABUSE4826-ARIN
+RAbuseName:   Abuse Coordinator
+RAbusePhone:  +1-514-907-0050 
+RAbuseEmail:  abuse@gtcomm.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4826-ARIN
+
+RNOCHandle: GNO-ARIN
+RNOCName:   GloboTech Network Operations Center
+RNOCPhone:  +1-514-907-0050 
+RNOCEmail:  noc@gtcomm.net
+RNOCRef:    http://whois.arin.net/rest/poc/GNO-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

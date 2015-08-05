@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>agar.io</domain_name>
+    <ip_history/>
+    <registrar_history/>
+    <nameserver_history>
+      <domain>AGAR.IO</domain>
+      <action>N</action>
+      <actiondate>2015-05-01</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Cloudflare.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

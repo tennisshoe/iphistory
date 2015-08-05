@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>HLM2 RIPE ADMIN</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '178.237.172.0 - 178.237.175.255' is 'netarch@hillsidenewmedia.com'
+
+inetnum:        178.237.172.0 - 178.237.175.255
+netname:        HLM2-NET
+descr:          Hillside New Media Net5
+country:        GB
+admin-c:        HRA49-RIPE
+tech-c:         HRA49-RIPE
+status:         ASSIGNED PA
+mnt-by:         HLM2-RIPE-MNT
+changed:        jamesr.bell@hillsidenewmedia.com 20130409
+created:        2010-12-10T13:15:48Z
+last-modified:  2013-04-09T08:16:05Z
+source:         RIPE
+remarks:        INFRA-AW
+
+role:           HLM2 RIPE ADMIN
+address:        Hillside (New Media) Limited
+address:        Network Architecture Team
+address:        Hillside, Festival Way
+address:        ST1 5SH STOKE-ON-TRENT
+address:        UNITED KINGDOM
+e-mail:         netarch@hillsidenewmedia.com
+admin-c:        IM1995-RIPE
+admin-c:        LH1642-RIPE
+admin-c:        BB4533-RIPE
+admin-c:        JB10563-RIPE
+admin-c:        JP9630-RIPE
+admin-c:        JW6821-RIPE
+tech-c:         IM1995-RIPE
+tech-c:         LH1642-RIPE
+tech-c:         BB4533-RIPE
+tech-c:         JB10563-RIPE
+tech-c:         JP9630-RIPE
+tech-c:         JW6821-RIPE
+nic-hdl:        HRA49-RIPE
+changed:        jamie.parks@hillsidenewmedia.com 20150722
+created:        2008-12-22T02:22:14Z
+last-modified:  2015-08-03T08:10:32Z
+source:         RIPE
+mnt-by:         HLM2-RIPE-MNT
+
+route:          178.237.172.0/24
+descr:          HLM2-NET-ROUTE-178-237-172-0-24
+origin:         AS34587
+mnt-by:         HLM2-RIPE-MNT
+changed:        nealquinn@hillsidenewmedia.com 20101210
+created:        2010-12-10T13:16:59Z
+last-modified:  2010-12-10T13:16:59Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

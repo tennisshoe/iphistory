@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>tagesschau.de</domain_name>
+    <ip_history/>
+    <registrar_history/>
+    <nameserver_history>
+      <domain>TAGESSCHAU.DE</domain>
+      <action>T</action>
+      <actiondate>2013-03-28</actiondate>
+      <action_in_words>Transfer</action_in_words>
+      <post_mns>Dunkel.de</post_mns>
+      <pre_mns>Uu.net</pre_mns>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

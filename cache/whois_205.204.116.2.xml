@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Alibaba.com LLC</registrant>
+    <registration>
+      <created>2010-11-17</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       205.204.96.0 - 205.204.127.255
+CIDR:           205.204.96.0/19
+NetName:        ALIBABA-US-NET
+NetHandle:      NET-205-204-96-0-1
+Parent:         NET205 (NET-205-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS45102
+Organization:   Alibaba.com LLC (AL-3)
+RegDate:        2010-11-17
+Updated:        2012-03-02
+Comment:        http://www.alibaba.com
+Ref:            http://whois.arin.net/rest/net/NET-205-204-96-0-1
+
+OrgName:        Alibaba.com LLC
+OrgId:          AL-3
+Address:        400 S El Camino Real, Suite 400
+City:           San Mateo
+StateProv:      CA
+PostalCode:     94402
+Country:        US
+RegDate:        2010-10-29
+Updated:        2015-05-18
+Comment:        http://www.alibaba.com
+Ref:            http://whois.arin.net/rest/org/AL-3
+
+OrgNOCHandle: ALIBA-ARIN
+OrgNOCName:   Alibaba NOC
+OrgNOCPhone:  +1-408-748-1200 
+OrgNOCEmail:  noc@list.alibaba-inc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ALIBA-ARIN
+
+OrgAbuseHandle: NETWO4028-ARIN
+OrgAbuseName:   Network Abuse
+OrgAbusePhone:  86-571-85022088 
+OrgAbuseEmail:  abuse@alibaba-inc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO4028-ARIN
+
+OrgTechHandle: ALIBA-ARIN
+OrgTechName:   Alibaba NOC
+OrgTechPhone:  +1-408-748-1200 
+OrgTechEmail:  noc@list.alibaba-inc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ALIBA-ARIN
+
+RNOCHandle: HUJUN-ARIN
+RNOCName:   Hu, Jun 
+RNOCPhone:  +1-408-748-1200 
+RNOCEmail:  jun.huj@alibaba-inc.com
+RNOCRef:    http://whois.arin.net/rest/poc/HUJUN-ARIN
+
+RAbuseHandle: NETWO4028-ARIN
+RAbuseName:   Network Abuse
+RAbusePhone:  86-571-85022088 
+RAbuseEmail:  abuse@alibaba-inc.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NETWO4028-ARIN
+
+RTechHandle: HUJUN-ARIN
+RTechName:   Hu, Jun 
+RTechPhone:  +1-408-748-1200 
+RTechEmail:  jun.huj@alibaba-inc.com
+RTechRef:    http://whois.arin.net/rest/poc/HUJUN-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

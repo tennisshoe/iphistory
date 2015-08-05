@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Staminus Communications</registrant>
+    <registration>
+      <created>2006-09-14</created>
+      <updated>2014-01-12</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       72.8.128.0 - 72.8.191.255
+CIDR:           72.8.128.0/18
+NetName:        STAMINUS-COMMUNICATIONS
+NetHandle:      NET-72-8-128-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS25761
+Organization:   Staminus Communications (STAMIN-2)
+RegDate:        2006-09-14
+Updated:        2014-01-12
+Comment:        This space is statically assigned
+Ref:            http://whois.arin.net/rest/net/NET-72-8-128-0-1
+
+OrgName:        Staminus Communications
+OrgId:          STAMIN-2
+Address:        4695 MacArthur Court, 11th Floor
+City:           Newport Beach
+StateProv:      CA
+PostalCode:     92660
+Country:        US
+RegDate:        2002-05-02
+Updated:        2013-09-03
+Ref:            http://whois.arin.net/rest/org/STAMIN-2
+
+OrgAbuseHandle: ABUSE3296-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-949-202-5305 
+OrgAbuseEmail:  abuse@staminus.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3296-ARIN
+
+OrgNOCHandle: NOC11206-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-949-202-5305 
+OrgNOCEmail:  support@staminus.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC11206-ARIN
+
+OrgTechHandle: TECH380-ARIN
+OrgTechName:   TECH
+OrgTechPhone:  +1-949-202-5305 
+OrgTechEmail:  support@staminus.net
+OrgTechRef:    http://whois.arin.net/rest/poc/TECH380-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

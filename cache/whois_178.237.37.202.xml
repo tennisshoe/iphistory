@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Oliver van Loven</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '178.237.37.0 - 178.237.37.255' is 'abuse@atom86.net'
+
+inetnum:        178.237.37.0 - 178.237.37.255
+netname:        CYBERTECHNOLOGY
+descr:          Cyber Technology BVBA/SPRL
+country:        BE
+admin-c:        OVL3-RIPE
+tech-c:         OVL3-RIPE
+status:         ASSIGNED PA
+mnt-by:         ATOM86-MNT
+mnt-lower:      ATOM86-MNT
+mnt-routes:     ATOM86-MNT
+remarks:        ****************************************
+remarks:        Abuse contact: abuse@cybertechnology.net
+remarks:        ****************************************
+changed:        ripe-registry@atom86.net 20110726
+created:        2010-09-14T15:32:13Z
+last-modified:  2011-07-26T12:06:58Z
+source:         RIPE
+
+person:         Oliver van Loven
+address:        Cyber Technology BVBA/SPRL
+address:        164 Rue Emile Dury
+address:        1410 Waterloo Brussels
+address:        Belgium
+e-mail:         Leole@infonie.be
+notify:         leole@infonie.be
+phone:          +32 2 479 87 16
+fax-no:         +32 2 479 87 16
+mnt-by:         ATOM86-MNT
+nic-hdl:        OVL3-RIPE
+changed:        rdirkse@above.net 20100824
+changed:        nboekee@atom86.net 20100914
+created:        2001-10-19T10:11:14Z
+last-modified:  2010-09-14T15:27:26Z
+source:         RIPE
+
+route:          178.237.37.0/24
+descr:          Cyber Technology Route object
+origin:         AS8455
+mnt-by:         ATOM86-MNT
+changed:        ripe-registry@atom86.net 20110726
+created:        2010-11-19T14:18:26Z
+last-modified:  2011-07-26T13:05:56Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Dave &amp; Buster's, Inc.</registrant>
+    <registration>
+      <created>2006-11-20</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       74.205.0.0 - 74.205.127.255
+CIDR:           74.205.0.0/17
+NetName:        RSCP-NET-4
+NetHandle:      NET-74-205-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS33070, AS10532, AS19994, AS27357
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2006-11-20
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-74-205-0-0-1
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        5000 Walzem Road
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/RACKS-8
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+NetRange:       74.205.83.184 - 74.205.83.191
+CIDR:           74.205.83.184/29
+NetName:        RACKS-8-1392396027642479
+NetHandle:      NET-74-205-83-184-1
+Parent:         RSCP-NET-4 (NET-74-205-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Dave &amp; Buster's, Inc. (C04869329)
+RegDate:        2014-02-14
+Updated:        2014-02-14
+Ref:            http://whois.arin.net/rest/net/NET-74-205-83-184-1
+
+CustName:       Dave &amp; Buster's, Inc.
+Address:        2481 Manana Drive
+City:           Dallas
+StateProv:      TX
+PostalCode:     75220
+Country:        US
+RegDate:        2014-02-14
+Updated:        2014-02-14
+Ref:            http://whois.arin.net/rest/customer/C04869329
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

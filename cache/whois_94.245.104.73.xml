@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Microsoft Limited</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '94.245.64.0 - 94.245.127.255' is 'abuse@microsoft.com'
+
+inetnum:        94.245.64.0 - 94.245.127.255
+descr:          Microsoft Limited
+org:            ORG-MA42-RIPE
+netname:        UK-MICROSOFT-20081107
+country:        GB
+admin-c:        DH5439-RIPE
+tech-c:         MRPA3-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MICROSOFT-MAINT
+mnt-domains:    MICROSOFT-MAINT
+mnt-routes:     MICROSOFT-MAINT
+changed:        hostmaster@ripe.net 20081107
+changed:        hostmaster@ripe.net 20110804
+changed:        bit-bucket@ripe.net 20140929
+created:        2008-11-07T08:50:14Z
+last-modified:  2014-09-29T14:11:38Z
+source:         RIPE
+
+organisation:   ORG-MA42-RIPE
+org-name:       Microsoft Limited
+org-type:       LIR
+address:        Microsoft Corporation
+address:        David Huberman
+address:        One Microsoft Way
+address:        WA 98052
+address:        Redmond
+address:        UNITED STATES
+phone:          +1 (425) 703 6647
+fax-no:         +1 425 936 7329
+abuse-c:        MAC274-RIPE
+mnt-ref:        MICROSOFT-MAINT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        bitbucket@ripe.net 20140826
+changed:        bit-bucket@ripe.net 20140929
+changed:        bit-bucket@ripe.net 20140929
+e-mail:         david.huberman@microsoft.com
+descr:          Microsoft Corporation AS8075
+descr:          To report suspected security issues specific to
+descr:          traffic emanating from Microsoft online services,
+descr:          including the distribution of malicious content
+descr:          or other illicit or illegal material through a
+descr:          Microsoft online service, please submit reports
+descr:          to:
+descr:          * https://cert.microsoft.com
+descr:          For SPAM and other abuse issues, such as Microsoft
+descr:          Accounts, please contact:
+descr:          * abuse@microsoft.com
+descr:          To report security vulnerabilities in Microsoft
+descr:          products and services, please contact:
+descr:          * secure@microsoft.com
+descr:          For legal and law enforcement-related requests,
+descr:          please contact:
+descr:          * msndcc@microsoft.com
+descr:          For routing, peering or DNS issues, please
+descr:          contact:
+descr:          * IOC@microsoft.com
+created:        2004-04-17T12:18:10Z
+last-modified:  2014-09-29T14:09:48Z
+source:         RIPE
+
+role:           Microsoft Routing, Peering, and DNS
+address:        One Microsoft Way
+address:        Redmond, WA 98052
+e-mail:         ioc@microsoft.com
+nic-hdl:        MRPA3-RIPE
+mnt-by:         MICROSOFT-MAINT
+changed:        david.huberman@microsoft.com 20140826
+created:        2014-08-26T16:25:24Z
+last-modified:  2014-08-26T16:25:24Z
+source:         RIPE
+
+person:         David Huberman
+address:        One Microsoft Way
+address:        Redmond, WA 98052
+phone:          +1-425-882-8080
+nic-hdl:        DH5439-RIPE
+mnt-by:         MICROSOFT-MAINT
+changed:        david.huberman@microsoft.com 20140826
+created:        2014-08-26T16:24:14Z
+last-modified:  2014-08-26T16:24:14Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

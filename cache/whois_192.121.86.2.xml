@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Resilans AB</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '192.121.0.0 - 192.121.255.255' is 'abuse@resilans.se'
+
+inetnum:        192.121.0.0 - 192.121.255.255
+netname:        SE-RESILANS-20000317
+descr:          Resilans AB
+country:        SE
+org:            ORG-RESI1-RIPE
+admin-c:        RESI1-RIPE
+tech-c:         RESI1-RIPE
+status:         LEGACY
+notify:         notify@resilans.se
+mnt-by:         RESILANS-MNT
+mnt-lower:      RESILANS-MNT
+mnt-routes:     RESILANS-MNT
+changed:        fredrik@sunet.se 20000317
+changed:        hostmaster@ripe.net 20020523
+changed:        er-transfer@ripe.net 20050221
+changed:        hostmaster@ripe.net 20061201
+changed:        hostmaster@ripe.net 20070110
+changed:        hostmaster@ripe.net 20070118
+changed:        fredrik@kthnoc.net 20070410
+changed:        fredrik@resilans.se 20080214
+changed:        hostmaster@ripe.net 20080219
+changed:        hostmaster@ripe.net 20091208
+changed:        hostmaster@ripe.net 20100224
+changed:        hostmaster@ripe.net 20100312
+changed:        hostmaster@ripe.net 20131014
+changed:        nadine@resilans.se 20140901
+created:        2004-12-09T13:08:33Z
+last-modified:  2015-05-05T01:39:37Z
+source:         RIPE
+
+organisation:   ORG-RESI1-RIPE
+org-name:       Resilans AB
+org-type:       LIR
+address:        Box 13 054
+address:        S-103 02
+address:        STOCKHOLM
+address:        SWEDEN
+phone:          +4686881180
+fax-no:         +46855002163
+e-mail:         registry@resilans.se
+mnt-ref:        RESILANS-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        ANDR7-RIPE
+admin-c:        STLP2-RIPE
+admin-c:        WIDL2-RIPE
+admin-c:        FISC1-RIPE
+admin-c:        GORD1-RIPE
+admin-c:        NADI4-RIPE
+abuse-mailbox:  abuse@resilans.se
+abuse-c:        RESI1-RIPE
+changed:        bitbucket@ripe.net 20150325
+created:        2010-03-12T13:05:30Z
+last-modified:  2015-03-25T10:15:14Z
+source:         RIPE
+
+role:           Resilans AB
+address:        Resilans AB
+address:        Box 13 054
+address:        S-103 02 Stockholm
+address:        Sweden
+phone:          +46 8 6881180
+e-mail:         info@resilans.se
+admin-c:        WIDL2-RIPE
+tech-c:         WIDL2-RIPE
+tech-c:         GORD1-RIPE
+tech-c:         FISC1-RIPE
+tech-c:         STLP2-RIPE
+tech-c:         ANDR7-RIPE
+tech-c:         NADI4-RIPE
+nic-hdl:        RESI1-RIPE
+abuse-mailbox:  abuse@resilans.se
+mnt-by:         RESILANS-MNT
+changed:        fredrik@resilans.se 20071211
+changed:        fredrik@resilans.se 20071212
+changed:        fredrik@resilans.se 20071213
+changed:        fredrik@resilans.se 20080110
+changed:        stolpe@resilans.se 20110617
+changed:        stolpe@resilans.se 20130404
+changed:        fredrik@resilans.se 20140519
+created:        2007-12-11T22:46:37Z
+last-modified:  2014-05-19T11:33:56Z
+source:         RIPE
+
+route:          192.121.86.0/24
+descr:          DCP Infrastructure
+origin:         AS13214
+mnt-by:         MNT-DCP
+mnt-by:         MNT-KEFF
+changed:        fredrik.neij@teneco.se 20091011
+created:        2008-02-18T15:52:57Z
+last-modified:  2009-10-11T14:19:27Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

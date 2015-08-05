@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PhoenixNAP LLC</registrant>
+    <registration>
+      <created>2012-05-30</created>
+      <updated>2012-05-30</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.160.32.0 - 69.160.47.255
+CIDR:           69.160.32.0/20
+NetName:        NET-69-160-32-0-1
+NetHandle:      NET-69-160-32-0-2
+Parent:         ECSUITE2 (NET-69-160-32-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   PhoenixNAP LLC (PHOEN-56)
+RegDate:        2012-05-30
+Updated:        2012-05-30
+Ref:            http://whois.arin.net/rest/net/NET-69-160-32-0-2
+
+OrgName:        PhoenixNAP LLC
+OrgId:          PHOEN-56
+Address:        3402 E. University Drive
+City:           Phoenix
+StateProv:      AZ
+PostalCode:     85034
+Country:        US
+RegDate:        2009-07-23
+Updated:        2014-07-22
+Ref:            http://whois.arin.net/rest/org/PHOEN-56
+
+ReferralServer:  rwhois://rwhois.phoenixnap.com:4321
+
+OrgTechHandle: TECH357-ARIN
+OrgTechName:   Tech
+OrgTechPhone:  +1-480-422-2022 
+OrgTechEmail:  ipadmin@phoenixnap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECH357-ARIN
+
+OrgAbuseHandle: ABUSE2349-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-422-2022 
+OrgAbuseEmail:  abuse@phoenixnap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2349-ARIN
+
+OrgTechHandle: OD19-ARIN
+OrgTechName:   DeLong, Owen 
+OrgTechPhone:  +1-408-890-7992 
+OrgTechEmail:  owen@delong.com
+OrgTechRef:    http://whois.arin.net/rest/poc/OD19-ARIN
+
+NetRange:       69.160.32.0 - 69.160.47.255
+CIDR:           69.160.32.0/20
+NetName:        ECSUITE2
+NetHandle:      NET-69-160-32-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   ECSuite, LLC (ECSUI)
+RegDate:        2010-09-30
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-69-160-32-0-1
+
+OrgName:        ECSuite, LLC
+OrgId:          ECSUI
+Address:        2353 W University Dr
+Address:        Bldg A
+City:           Tempe
+StateProv:      AZ
+PostalCode:     85283
+Country:        US
+RegDate:        2008-09-18
+Updated:        2013-11-01
+Ref:            http://whois.arin.net/rest/org/ECSUI
+
+ReferralServer:  rwhois://rwhois.phoenixnap.com:4321
+
+OrgNOCHandle: NOC13061-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-480-422-2022 
+OrgNOCEmail:  hostingsupport@ecsuite.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC13061-ARIN
+
+OrgAbuseHandle: ABUSE2041-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-449-7750 
+OrgAbuseEmail:  abuse@ecsuite.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2041-ARIN
+
+OrgTechHandle: IPADM433-ARIN
+OrgTechName:   IPAdmin
+OrgTechPhone:  +1-480-449-7750 
+OrgTechEmail:  ipadmin@ecsuite.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM433-ARIN
+
+== Additional Information From rwhois://rwhois.phoenixnap.com:4321 ==
+
+%rwhois V-1.0,V-1.5:00090h:00 portal.securedservers.com (Ubersmith RWhois Server V-3.1.5)
+autharea=69.160.32.0/20
+xautharea=69.160.32.0/20
+network:Class-Name:network
+network:Auth-Area:69.160.32.0/20
+network:ID:NET-25261.69.160.41.0/28
+network:Network-Name:69.160.41.0/28
+network:IP-Network:69.160.41.0/28
+network:IP-Network-Block:69.160.41.0 - 69.160.41.15
+network:Org-Name:Nextiva [PNAP]
+network:Street-Address:8125 N 86th Place
+network:City:Scottsdale
+network:State:AZ
+network:Postal-Code:85258
+network:Country-Code:US
+network:Tech-Contact:MAINT-25261.69.160.41.0/28
+network:Created:20120612173856000
+network:Updated:20130912225231000
+network:Updated-By:dnsadmin@securedservers.com
+contact:POC-Name:DNS Administrator
+contact:POC-Email:dnsadmin@securedservers.com
+contact:POC-Phone:(480) 422-2023
+contact:Tech-Name:Eric Andrews
+contact:Tech-Email:eandrews@nextiva.com
+contact:Tech-Phone:
+contact:Abuse-Name:Abuse
+contact:Abuse-Email:abuse@securedservers.com
+contact:Abuse-Phone:+1-480-422-2022 (Office)
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

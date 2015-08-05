@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>prq Inet NOC</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '88.80.4.0 - 88.80.7.255' is 'abuse@prq.se'
+
+inetnum:        88.80.4.0 - 88.80.7.255
+netname:        PRQ-NET-COLO
+descr:          PRQ - POP STH0
+descr:          Co-located customer servers
+country:        SE
+admin-c:        pIN7-RIPE
+tech-c:         pIN7-RIPE
+status:         ASSIGNED PA
+notify:         registry@prq.se
+mnt-by:         MNT-PRQ
+changed:        registry@prq.se 20051125
+created:        2009-11-26T21:21:05Z
+last-modified:  2009-12-16T20:05:13Z
+source:         RIPE
+
+role:           prq Inet NOC
+address:        PRQ AB
+address:        Box 1206
+address:        SE 11479 Stockholm
+address:        Sweden
+e-mail:         noc@prq.se
+e-mail:         registry@prq.se
+remarks:        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+remarks:        !! Abuse reports should ONLY be sent to abuse@prq.se !!
+remarks:        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+abuse-mailbox:  abuse@prq.se
+admin-c:        PW1115-RIPE
+tech-c:         PW1115-RIPE
+nic-hdl:        PIN7-RIPE
+mnt-by:         MNT-PRQ
+changed:        registry-ripe@prq.se 20080306
+changed:        registry@prq.se 20090119
+created:        2004-07-07T20:06:09Z
+last-modified:  2009-01-19T22:43:22Z
+source:         RIPE
+
+route:          88.80.0.0/19
+descr:          Periquito aggregated route
+origin:         AS33837
+notify:         registry@prq.se
+mnt-by:         MNT-PRQ
+changed:        registry@prq.se 20051124
+created:        2005-11-24T18:51:09Z
+last-modified:  2009-12-01T20:09:14Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

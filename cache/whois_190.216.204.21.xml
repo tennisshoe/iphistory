@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Level 3 Colombia S.A.</registrant>
+    <registration>
+      <created>2008-01-25</created>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:     190.216.192/20
+status:      reallocated
+owner:       Level 3 Colombia S.A.
+ownerid:     CO-LCSA13-LACNIC
+responsible: Jorge Lam
+address:     Autopista Norte 122-35, , 
+address:      - Bogota - 
+country:     CO
+phone:       +57 1 6119000 []
+owner-c:     NEA5
+tech-c:      COL16
+abuse-c:     GCA2
+created:     20080125
+changed:     20140725
+inetnum-up:  190.216/16
+
+nic-hdl:     COL16
+person:      COGCCS LACNIC
+e-mail:      lacnic_ancol@GLOBALCROSSING.COM
+address:     Autopista Norte No 122-35. Piso 7, , 
+address:     11001000 - Bogot&#xE1; - 
+country:     CO
+phone:       +57 1 6119000 [4088]
+created:     20110913
+changed:     20110913
+
+nic-hdl:     GCA2
+person:      Global Crossing Abuse
+e-mail:      abuse@GBLX.NET
+address:     14605 S 50th St, , 
+address:     85044 - Phoenix - AZ
+country:     US
+phone:       +1 800 4047714 []
+created:     20100914
+changed:     20100914
+
+nic-hdl:     NEA5
+person:      Jorge Lam
+e-mail:      DL-NP&amp;I-IP-Latam@LEVEL3.COM
+address:     Alferez Pareja, 256, 
+address:     1107 - Capital Federal - BA
+country:     AR
+phone:       +54 11 51706000 []
+created:     20030710
+changed:     20130423</record>
+    </whois>
+  </response>
+</whoisapi>
+

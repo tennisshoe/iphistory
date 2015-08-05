@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>RETN Limited</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '87.245.192.0 - 87.245.255.255' is 'abuse@retn.net'
+
+inetnum:        87.245.192.0 - 87.245.255.255
+netname:        UK-RETN-20050824
+descr:          RETN Limited
+country:        GB
+org:            ORG-RL19-RIPE
+admin-c:        DSAM1-RIPE
+tech-c:         DSAM1-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-RETN
+mnt-domains:    MNT-RETN
+mnt-routes:     MNT-RETN
+notify:         ds@retn.net
+changed:        hostmaster@ripe.net 20050824
+changed:        bitbucket@ripe.net 20080417
+created:        2005-08-24T13:45:06Z
+last-modified:  2008-04-17T13:13:43Z
+source:         RIPE
+
+organisation:   ORG-RL19-RIPE
+org-name:       RETN Limited
+org-type:       LIR
+address:        RETN Limited
+address:        Dmitry Samarin
+address:        5th Floor, 3 Harbour Exchange Square
+                Isle of Dogs
+address:        E14 9GE
+address:        London
+address:        UNITED KINGDOM
+phone:          +44 20 75176400
+fax-no:         +44 20 75176401
+e-mail:         ds@retn.net
+admin-c:        DSAM1-RIPE
+admin-c:        AMP30-RIPE
+admin-c:        OV540-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MNT-RETN
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        RCD1-RIPE
+changed:        bitbucket@ripe.net 20141201
+created:        2005-07-29T10:11:07Z
+last-modified:  2014-12-01T11:48:05Z
+source:         RIPE
+
+person:         Dmitry Samarin
+address:        14 TURNER HOUSE
+address:        CASSILIS ROAD
+address:        E14 9LJ LONDON
+address:        UNITED KINGDOM
+mnt-by:         MNT-RETN
+phone:          +44 20 75360355
+nic-hdl:        DSAM1-RIPE
+changed:        ds@retn.net 20050808
+changed:        noc@retn.net 20101029
+created:        2005-08-08T14:59:13Z
+last-modified:  2010-10-29T13:18:34Z
+source:         RIPE
+
+route:          87.245.192.0/18
+descr:          RETN Ltd.
+origin:         AS9002
+mnt-by:         MNT-RETN
+changed:        jack@retn.net 20080508
+created:        2008-05-08T13:56:46Z
+last-modified:  2008-05-08T13:56:46Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

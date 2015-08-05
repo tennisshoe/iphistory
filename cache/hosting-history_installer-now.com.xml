@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>installer-now.com</domain_name>
+    <ip_history>
+      <domain>INSTALLER-NOW.COM</domain>
+      <post_ip>104.236.194.214</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2015-05-29</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>INSTALLER-NOW.COM</domain>
+      <post_ip>104.28.6.10</post_ip>
+      <pre_ip>104.236.194.214</pre_ip>
+      <action>C</action>
+      <actiondate>2015-08-04</actiondate>
+      <action_in_words>Change</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>INSTALLER-NOW.COM</domain>
+      <date_updated>2015-05-28</date_updated>
+      <date_created>2015-05-28</date_created>
+      <date_expires>2016-05-28</date_expires>
+      <date_lastchecked>2015-05-29</date_lastchecked>
+      <registrar>eNom.com</registrar>
+      <registrartag>ENOM, INC.</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>INSTALLER-NOW.COM</domain>
+      <action>N</action>
+      <actiondate>2015-05-29</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Cloudflare.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

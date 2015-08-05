@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Level 3 Communications, Inc.</registrant>
+    <registration>
+      <created>2000-03-15</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.208.0.0 - 64.209.127.255
+CIDR:           64.208.0.0/16, 64.209.0.0/17
+NetName:        LVLT-ORG-64-208
+NetHandle:      NET-64-208-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS3549
+Organization:   Level 3 Communications, Inc. (LVLT)
+RegDate:        2000-03-15
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-64-208-0-0-1
+
+OrgName:        Level 3 Communications, Inc.
+OrgId:          LVLT
+Address:        1025 Eldorado Blvd.
+City:           Broomfield
+StateProv:      CO
+PostalCode:     80021
+Country:        US
+RegDate:        1998-05-22
+Updated:        2012-01-30
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/org/LVLT
+
+OrgTechHandle: IPADD5-ARIN
+OrgTechName:   ipaddressing
+OrgTechPhone:  +1-877-453-8353 
+OrgTechEmail:  ipaddressing@level3.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADD5-ARIN
+
+OrgNOCHandle: NOCSU27-ARIN
+OrgNOCName:   NOC Support
+OrgNOCPhone:  +1-877-453-8353 
+OrgNOCEmail:  noc.coreip@level3.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCSU27-ARIN
+
+OrgAbuseHandle: APL8-ARIN
+OrgAbuseName:   Abuse POC LVLT
+OrgAbusePhone:  +1-877-453-8353 
+OrgAbuseEmail:  abuse@level3.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/APL8-ARIN
+
+NetRange:       64.209.21.0 - 64.209.21.255
+CIDR:           64.209.21.0/24
+NetName:        GX-FRO2003503443
+NetHandle:      NET-64-209-21-0-1
+Parent:         LVLT-ORG-64-208 (NET-64-208-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   BADOO TECHNOLOGIES LIMITED (BADOO)
+RegDate:        2009-08-25
+Updated:        2009-09-03
+Comment:        IP blocks are not portable
+Ref:            http://whois.arin.net/rest/net/NET-64-209-21-0-1
+
+OrgName:        BADOO TECHNOLOGIES LIMITED
+OrgId:          BADOO
+Address:        28, Denmark street
+Address:        WC2H 8NJ
+City:           London
+StateProv:      
+PostalCode:     
+Country:        GB
+RegDate:        2009-07-10
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/BADOO
+
+OrgAbuseHandle: BTS11-ARIN
+OrgAbuseName:   Badoo techical Staff
+OrgAbusePhone:  +442070999939 
+OrgAbuseEmail:  techstaff@corp.badoo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BTS11-ARIN
+
+OrgTechHandle: BTS11-ARIN
+OrgTechName:   Badoo techical Staff
+OrgTechPhone:  +442070999939 
+OrgTechEmail:  techstaff@corp.badoo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BTS11-ARIN
+
+OrgAbuseHandle: BW963-ARIN
+OrgAbuseName:   Williams, Bill 
+OrgAbusePhone:  +1-305-328-8000 
+OrgAbuseEmail:  bwilliams@terremark.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BW963-ARIN
+
+OrgTechHandle: BW963-ARIN
+OrgTechName:   Williams, Bill 
+OrgTechPhone:  +1-305-328-8000 
+OrgTechEmail:  bwilliams@terremark.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BW963-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>William Hill Network Services</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '141.138.130.0 - 141.138.130.63' is 'networkservices@williamhill.co.uk'
+
+inetnum:        141.138.130.0 - 141.138.130.63
+netname:        WHORG
+descr:          William Hill Organization Limited
+country:        GB
+admin-c:        WHNS1-RIPE
+tech-c:         WHNS1-RIPE
+status:         ASSIGNED PA
+mnt-by:         WHNS1-MNT
+changed:        amcwilliam@williamhill.co.uk 20130726
+created:        2013-07-26T08:49:23Z
+last-modified:  2013-07-26T08:49:23Z
+source:         RIPE
+
+role:           William Hill Network Services
+abuse-mailbox:  networkservices@williamhill.co.uk
+address:        Infrastructure Services 2 City Walk Sweet Street Leeds LS11 9AR
+mnt-by:         WHNS1-MNT
+tech-c:         RC7763-RIPE
+admin-c:        RC7763-RIPE
+e-mail:         networkservices@williamhill.co.uk
+admin-c:        AM15087-RIPE
+tech-c:         AM15087-RIPE
+nic-hdl:        WHNS1-RIPE
+changed:        amcwilliam@williamhill.co.uk 20101108
+created:        2009-04-01T12:48:23Z
+last-modified:  2013-06-18T12:46:00Z
+source:         RIPE
+
+route:          141.138.130.0/24
+descr:          William Hill Organization Limited
+origin:         AS57002
+mnt-by:         WHNS1-MNT
+changed:        amcwilliam@williamhill.co.uk 20111014
+created:        2011-10-14T13:20:05Z
+last-modified:  2011-10-14T13:20:05Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

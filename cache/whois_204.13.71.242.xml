@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DCS Pacific Star, LLC</registrant>
+    <registration>
+      <created>2005-04-07</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       204.13.64.0 - 204.13.71.255
+CIDR:           204.13.64.0/21
+NetName:        DCS-01
+NetHandle:      NET-204-13-64-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS23338, AS33314
+Organization:   DCS Pacific Star, LLC (DCSPA)
+RegDate:        2005-04-07
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-204-13-64-0-1
+
+OrgName:        DCS Pacific Star, LLC
+OrgId:          DCSPA
+Address:        501 Seaport Court, Suite #207
+City:           Redwood City
+StateProv:      CA
+PostalCode:     94063
+Country:        US
+RegDate:        2009-09-25
+Updated:        2011-02-08
+Ref:            http://whois.arin.net/rest/org/DCSPA
+
+ReferralServer:  rwhois://rwhois.dcsmanage.com:4321
+
+OrgAbuseHandle: ABUSE2724-ARIN
+OrgAbuseName:   Abuse Admin
+OrgAbusePhone:  +1-650-619-2992 
+OrgAbuseEmail:  abuse@dcsmanage.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2724-ARIN
+
+OrgTechHandle: NETAD122-ARIN
+OrgTechName:   Net Admin
+OrgTechPhone:  +1-650-619-2992 
+OrgTechEmail:  arin@dcsmanage.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETAD122-ARIN
+
+== Additional Information From rwhois://rwhois.dcsmanage.com:4321 ==
+
+%rwhois V-1.5:003eff:00 rwhoisd (by Network Solutions, Inc. V-1.5.9.5)
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

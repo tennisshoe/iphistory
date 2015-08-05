@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Bodis, LLC</registrant>
+    <registration>
+      <created>2010-12-09</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       199.59.240.0 - 199.59.243.255
+CIDR:           199.59.240.0/22
+NetName:        BODIS-COM
+NetHandle:      NET-199-59-240-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS53665
+Organization:   Bodis, LLC (BODIS-1)
+RegDate:        2010-12-09
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-199-59-240-0-1
+
+OrgName:        Bodis, LLC
+OrgId:          BODIS-1
+Address:        1133 Broadway Suite 706
+City:           New York
+StateProv:      NY
+PostalCode:     10010
+Country:        US
+RegDate:        2010-09-27
+Updated:        2012-12-20
+Ref:            http://whois.arin.net/rest/org/BODIS-1
+
+OrgNOCHandle: BODIS3-ARIN
+OrgNOCName:   Bodis Administrator
+OrgNOCPhone:  +1-877-263-4744 
+OrgNOCEmail:  dnsadmin@bodis.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/BODIS3-ARIN
+
+OrgAbuseHandle: BODIS2-ARIN
+OrgAbuseName:   Bodis Abuse
+OrgAbusePhone:  +1-877-263-4744 
+OrgAbuseEmail:  abuse@bodis.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BODIS2-ARIN
+
+OrgTechHandle: BODIS3-ARIN
+OrgTechName:   Bodis Administrator
+OrgTechPhone:  +1-877-263-4744 
+OrgTechEmail:  dnsadmin@bodis.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BODIS3-ARIN
+
+RNOCHandle: BODIS3-ARIN
+RNOCName:   Bodis Administrator
+RNOCPhone:  +1-877-263-4744 
+RNOCEmail:  dnsadmin@bodis.com
+RNOCRef:    http://whois.arin.net/rest/poc/BODIS3-ARIN
+
+RTechHandle: BODIS3-ARIN
+RTechName:   Bodis Administrator
+RTechPhone:  +1-877-263-4744 
+RTechEmail:  dnsadmin@bodis.com
+RTechRef:    http://whois.arin.net/rest/poc/BODIS3-ARIN
+
+RAbuseHandle: BODIS2-ARIN
+RAbuseName:   Bodis Abuse
+RAbusePhone:  +1-877-263-4744 
+RAbuseEmail:  abuse@bodis.com
+RAbuseRef:    http://whois.arin.net/rest/poc/BODIS2-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

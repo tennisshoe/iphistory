@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Revelation Networks, Inc.</registrant>
+    <registration>
+      <created>2008-01-14</created>
+      <updated>2013-07-05</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       207.246.192.0 - 207.246.207.255
+CIDR:           207.246.192.0/20
+NetName:        REVNET-1
+NetHandle:      NET-207-246-192-0-1
+Parent:         NET207 (NET-207-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS26821
+Organization:   Revelation Networks, Inc. (REVEL-2)
+RegDate:        2008-01-14
+Updated:        2013-07-05
+Comment:        Confirm all LOAs via email
+Ref:            http://whois.arin.net/rest/net/NET-207-246-192-0-1
+
+OrgName:        Revelation Networks, Inc.
+OrgId:          REVEL-2
+Address:        561 E Mitchell Hammock Rd
+Address:        Suite 200
+City:           Oviedo
+StateProv:      FL
+PostalCode:     32765
+Country:        US
+RegDate:        2007-10-29
+Updated:        2015-06-24
+Ref:            http://whois.arin.net/rest/org/REVEL-2
+
+OrgTechHandle: GERRY-ARIN
+OrgTechName:   Gerry, Kate 
+OrgTechPhone:  +1-856-812-1679 
+OrgTechEmail:  kate@fansubber.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GERRY-ARIN
+
+OrgNOCHandle: JAN151-ARIN
+OrgNOCName:   noll, joshua alan
+OrgNOCPhone:  +1-321-947-8631 
+OrgNOCEmail:  josh@dbtransit.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/JAN151-ARIN
+
+OrgAbuseHandle: JAN151-ARIN
+OrgAbuseName:   noll, joshua alan
+OrgAbusePhone:  +1-321-947-8631 
+OrgAbuseEmail:  josh@dbtransit.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JAN151-ARIN
+
+RAbuseHandle: GERRY-ARIN
+RAbuseName:   Gerry, Kate 
+RAbusePhone:  +1-856-812-1679 
+RAbuseEmail:  kate@fansubber.com
+RAbuseRef:    http://whois.arin.net/rest/poc/GERRY-ARIN
+
+RNOCHandle: GERRY-ARIN
+RNOCName:   Gerry, Kate 
+RNOCPhone:  +1-856-812-1679 
+RNOCEmail:  kate@fansubber.com
+RNOCRef:    http://whois.arin.net/rest/poc/GERRY-ARIN
+
+RTechHandle: GERRY-ARIN
+RTechName:   Gerry, Kate 
+RTechPhone:  +1-856-812-1679 
+RTechEmail:  kate@fansubber.com
+RTechRef:    http://whois.arin.net/rest/poc/GERRY-ARIN
+
+NetRange:       207.246.192.0 - 207.246.195.255
+CIDR:           207.246.192.0/22
+NetName:        DBTRANSIT
+NetHandle:      NET-207-246-192-0-2
+Parent:         REVNET-1 (NET-207-246-192-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   DBTransit Consulting LLC (DCL-113)
+RegDate:        2014-02-06
+Updated:        2014-02-06
+Ref:            http://whois.arin.net/rest/net/NET-207-246-192-0-2
+
+OrgName:        DBTransit Consulting LLC
+OrgId:          DCL-113
+Address:        1809 E. Broadway
+Address:        Suite 338
+City:           Oviedo
+StateProv:      FL
+PostalCode:     32765
+Country:        US
+RegDate:        2013-10-24
+Updated:        2014-03-31
+Ref:            http://whois.arin.net/rest/org/DCL-113
+
+OrgAbuseHandle: GERRY-ARIN
+OrgAbuseName:   Gerry, Kate 
+OrgAbusePhone:  +1-856-812-1679 
+OrgAbuseEmail:  kate@fansubber.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GERRY-ARIN
+
+OrgTechHandle: GERRY-ARIN
+OrgTechName:   Gerry, Kate 
+OrgTechPhone:  +1-856-812-1679 
+OrgTechEmail:  kate@fansubber.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GERRY-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

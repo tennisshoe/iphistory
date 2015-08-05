@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Private Layer INC</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '81.17.16.0 - 81.17.31.255' is 'network@privatelayer.com'
+
+inetnum:        81.17.16.0 - 81.17.31.255
+netname:        EU-PRIVATELAYER-20110829
+descr:          Private Layer INC
+country:        CH
+org:            ORG-PLI2-RIPE
+admin-c:        JP5315-RIPE
+tech-c:         JP5315-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      KP73900-MNT
+mnt-routes:     KP73900-MNT
+mnt-domains:    KP73900-MNT
+notify:         network@privatelayer.com
+changed:        hostmaster@ripe.net 20110829
+created:        2011-08-29T14:30:49Z
+last-modified:  2011-08-29T14:30:49Z
+source:         RIPE
+
+organisation:   ORG-PLI2-RIPE
+org-name:       Private Layer INC
+org-type:       LIR
+address:        Z&#xFFFD;rcherstrasse 161
+                SPB 101280
+address:        8010
+address:        Zurich
+address:        SWITZERLAND
+phone:          +41445087052
+fax-no:         +41445087052
+e-mail:         network@privatelayer.com
+abuse-c:        AR15077-RIPE
+abuse-mailbox:  abuse@privatelayer.com
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        KP73900-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2010-10-15T13:08:21Z
+changed:        bitbucket@ripe.net 20150622
+last-modified:  2015-06-22T07:27:21Z
+source:         RIPE
+
+person:         James Prado
+address:        Z&#xFFFD;rcherstrasse 161
+address:        SPB 101280
+address:        CH - 8010 Z&#xFFFD;rich
+address:        Switzerland
+e-mail:         abuse@privatelayer.com
+phone:          +41 44-508-7052
+nic-hdl:        JP5315-RIPE
+mnt-by:         KP73900-MNT
+changed:        james@privatelayer.ch 20120928
+created:        2011-03-17T23:52:10Z
+last-modified:  2012-09-27T23:49:30Z
+source:         RIPE
+
+route:          81.17.16.0/20
+descr:          Ripe Allocation
+origin:         AS51852
+mnt-by:         KP73900-MNT
+changed:        james@privatelayer.com.pa 20120425
+created:        2012-04-25T13:15:26Z
+last-modified:  2012-04-25T13:15:26Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

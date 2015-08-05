@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Mainlab TECHNIK</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.242.145.0 - 80.242.145.255' is 'abuse@plusserver.de'
+
+inetnum:        80.242.145.0 - 80.242.145.255
+netname:        RACKBASE-YA
+descr:          Network used by customer YA
+descr:          assigned via AW
+descr:          abuse ? mailto: abuse@mainlab.de
+country:        DE
+admin-c:        PGML-RIPE
+tech-c:         MLAB-RIPE
+status:         ASSIGNED PA
+mnt-by:         MAINLAB-MNT
+changed:        NOSPAMgs@mainlab.de 20060817
+changed:        NOSPAMpg@mainlab.de 20140701
+created:        2006-08-17T19:43:19Z
+last-modified:  2014-07-01T08:57:03Z
+source:         RIPE
+
+role:           Mainlab TECHNIK
+address:        Mainlab GmbH
+address:        Lyoner Strasse 15
+address:        60528 Frankfurt, GERMANY
+phone:          +49 6940156320
+fax-no:         +49 69401563299
+e-mail:         tech@mainlab.de
+remarks:        Information: www.mainlab.de
+remarks:        SPAM/ABUSE mailto: abuse@mainlab.de
+remarks:        Peering Questions ? mailto: peering@mainlab.de
+remarks:        Peerings at FraNAP (www.franap.net), NL-IX or as private
+remarks:        peer in any datacenter in Frankfurt welcome.
+remarks:        -----------------------------------------------
+remarks:        Our 24/7/365 emergency contact / NOC
+remarks:        is mailto: NOSPAMnoc@mainlab.de
+remarks:        remove NOSPAM before sending messages!
+remarks:        -----------------------------------------------
+admin-c:        SG13291-RIPE
+admin-c:        TH10620-RIPE
+admin-c:        MH24178-RIPE
+admin-c:        MS13368-RIPE
+tech-c:         SG13291-RIPE
+tech-c:         MH24178-RIPE
+tech-c:         MS13368-RIPE
+nic-hdl:        MLAB-RIPE
+remarks:        hostmaster + technical role account
+notify:         ripe-notify@mainlab.de
+mnt-by:         MAINLAB-MNT
+changed:        ripe-dbm@ripe.net 20140527
+changed:        NOSPAMgs@mainlab.de 20020105
+changed:        NOSPAMgs@mainlab.de 20020201
+changed:        NOSPAMgs@mainlab.de 20030412
+changed:        NOSPAMgs@mainlab.de 20030623
+changed:        NOSPAMgs@mainlab.de 20040219
+changed:        NOSPAMgs@mainlab.de 20070209
+changed:        NOSPAMpg@mainlab.de 20071005
+changed:        NOSPAMpg@mainlab.de 20090527
+changed:        NOSPAMpg@mainlab.de 20091030
+changed:        NOSPAMpg@mainlab.de 20140701
+changed:        NOSPAMpg@mainlab.de 20150224
+created:        2002-09-25T00:21:53Z
+last-modified:  2015-05-29T14:26:57Z
+source:         RIPE
+remarks:        abuse-mailbox: abuse@mainlab.de
+remarks:        abuse-mailbox: NOSPAMnoc@mainlab.de
+
+person:         Philipp Geschke
+address:        Mainlab GmbH
+address:        Lyoner Strasse 15
+address:        60528 Frankfurt am Main
+address:        GERMANY
+phone:          +49 69 40156320
+fax-no:         +49 69 401563299
+e-mail:         pg@mainlab.de
+nic-hdl:        PGML-RIPE
+notify:         ripe-notify@mainlab.de
+mnt-by:         MAINLAB-MNT
+changed:        NOSPAMpg@mainlab.de 20140701
+created:        2014-07-01T08:39:29Z
+last-modified:  2014-07-01T08:39:29Z
+source:         RIPE
+
+route:          80.242.128.0/19
+descr:          PlusServer AG
+origin:         AS8972
+mnt-by:         INTERGENIA-MNT
+changed:        ripe@intergenia.de 20150407
+created:        2015-04-07T08:37:27Z
+last-modified:  2015-04-07T08:37:27Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

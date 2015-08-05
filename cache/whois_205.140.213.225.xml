@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hitachi America, Ltd.</registrant>
+    <registration>
+      <created>2009-05-28</created>
+      <updated>2009-05-28</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       205.140.213.224 - 205.140.213.255
+CIDR:           205.140.213.224/27
+NetName:        SAVV-S603949-0
+NetHandle:      NET-205-140-213-224-1
+Parent:         SAVVIS (NET-205-140-192-0-2)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Hitachi America, Ltd. (HITAC-29)
+RegDate:        2009-05-28
+Updated:        2009-05-28
+Ref:            http://whois.arin.net/rest/net/NET-205-140-213-224-1
+
+OrgName:        Hitachi America, Ltd.
+OrgId:          HITAC-29
+Address:        2000 Sierra Point Parkway
+City:           BRISBANE
+StateProv:      CA
+PostalCode:     94005
+Country:        US
+RegDate:        2009-05-28
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/HITAC-29
+
+OrgAbuseHandle: MTA105-ARIN
+OrgAbuseName:   Takano, Mai 
+OrgAbusePhone:  +1-650-244-7406 
+OrgAbuseEmail:  mai.takano@hal.hitachi.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MTA105-ARIN
+
+OrgTechHandle: MTA105-ARIN
+OrgTechName:   Takano, Mai 
+OrgTechPhone:  +1-650-244-7406 
+OrgTechEmail:  mai.takano@hal.hitachi.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MTA105-ARIN
+
+RTechHandle: MTA105-ARIN
+RTechName:   Takano, Mai 
+RTechPhone:  +1-650-244-7406 
+RTechEmail:  mai.takano@hal.hitachi.com
+RTechRef:    http://whois.arin.net/rest/poc/MTA105-ARIN
+
+NetRange:       205.140.192.0 - 205.140.255.255
+CIDR:           205.140.192.0/18
+NetName:        SAVVIS
+NetHandle:      NET-205-140-192-0-2
+Parent:         NET205 (NET-205-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        1995-02-15
+Updated:        2005-03-21
+Ref:            http://whois.arin.net/rest/net/NET-205-140-192-0-2
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-07-17
+Comment:        Abuse complaints to abuse@centurylinkservices.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  incident@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-888-638-6771 
+OrgTechEmail:  anthony.delacruz@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN
+
+RTechHandle: UIAA-ARIN
+RTechName:   US IP Address Administration
+RTechPhone:  +1-888-638-6771 
+RTechEmail:  anthony.delacruz@centurylink.com
+RTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

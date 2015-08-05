@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Han Lee</registrant>
+    <registration>
+      <updated>2007-02-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        123.212.0.0 - 123.215.255.255
+netname:        HANANET
+descr:          Hanaro Telecom
+descr:          Shindongah Bldg, 43, Taepyeongno2-ga, Jung-gu,Seoul
+descr:          *************************************
+descr:          Allocated to KRNIC Member.
+descr:          If you would like to find assignment
+descr:          information in detail please refer to
+descr:          the KRNIC Whois Database at:
+descr:          http://whois.nic.or.kr/english/index.htm
+descr:          *************************************
+country:        KR
+admin-c:        HL196-AP
+tech-c:         JK250-AP
+status:         Allocated Portable
+remarks:        www.hanaro.com
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+changed:        hm-changed@apnic.net 20070209
+source:         APNIC
+
+person:         Han Lee
+nic-hdl:        HL196-AP
+e-mail:         ip-adm@skbroadband.com
+address:        726-1, Janghang2-dong, Goyang-si, Ilsan-gu, Seoul
+phone:          +82-2-106-2
+country:        KR
+changed:        hostmaster@nic.or.kr 20130326
+mnt-by:         MNT-KRNIC-AP
+source:         APNIC
+
+person:         Jinyoung Kim
+nic-hdl:        JK250-AP
+e-mail:         ip-adm@hanaro.com
+address:        726-1, Janghang2-dong, Goyang-si, Ilsan-gu, Seoul
+phone:          +82-2-106
+fax-no:         +82-2-6266-6483
+country:        KR
+changed:        hostmaster@nic.or.kr 20040326
+mnt-by:         MNT-KRNIC-AP
+source:         APNIC
+
+inetnum:        123.212.0.0 - 123.215.255.255
+netname:        broadNnet-KR
+descr:          SK Broadband Co Ltd
+country:        KR
+admin-c:        IM12-KR
+tech-c:         IM12-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

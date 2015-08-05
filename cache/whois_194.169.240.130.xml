@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>QUIDEA SAS</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '194.169.240.0 - 194.169.240.255' is 'abuse@commentcamarche.net'
+
+inetnum:        194.169.240.0 - 194.169.240.255
+netname:        QUIDEA-NET
+descr:          QUIDEA SAS
+country:        FR
+org:            ORG-QA26-RIPE
+admin-c:        JFP92-RIPE
+tech-c:         DM11796-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         BENCHMARKGROUP-MNT
+mnt-by:         DECKNET-MNT
+mnt-routes:     BENCHMARKGROUP-MNT
+mnt-routes:     DECKNET-MNT
+mnt-domains:    BENCHMARKGROUP-MNT
+mnt-domains:    DECKNET-MNT
+changed:        jerome.marteaux@diabolocom.com 20071116
+changed:        lbarbe@ccmbenchmark.com 20130416
+changed:        lbarbe@ccmbenchmark.com 20130417
+changed:        hostmaster@ripe.net 20130418
+changed:        lbarbe@ccmbenchmark.com 20130620
+changed:        hostmaster@ripe.net 20130918
+created:        2006-12-18T15:38:35Z
+last-modified:  2015-05-05T01:59:47Z
+source:         RIPE
+sponsoring-org: ORG-DA223-RIPE
+
+organisation:   ORG-QA26-RIPE
+org-name:       QUIDEA SAS
+org-type:       OTHER
+address:        69/71 avenue Pierre Grenier
+address:        92517 Boulogne Billancourt
+address:        France
+e-mail:         webmaster@commentcamarche.net
+abuse-c:        AR19829-RIPE
+phone:          +33156527690
+abuse-mailbox:  abuse@commentcamarche.net
+admin-c:        JFP92-RIPE
+tech-c:         DM11796-RIPE
+tech-c:         LC893-RIPE
+mnt-ref:        BENCHMARKGROUP-MNT
+mnt-ref:        DECKNET-MNT
+mnt-by:         BENCHMARKGROUP-MNT
+mnt-by:         DECKNET-MNT
+changed:        jerome.marteaux@diabolocom.com 20071116
+changed:        lbarbe@ccmbenchmark.com 20130416
+changed:        lbarbe@ccmbenchmark.com 20130620
+changed:        hostmaster@ripe.net 20130918
+created:        2006-12-12T20:40:46Z
+last-modified:  2014-03-28T15:40:17Z
+source:         RIPE
+
+person:         Damien Mangin
+address:        69/71 avenue Pierre Grenier
+address:        92517 Boulogne Billancourt
+address:        France
+phone:          +33 147795000
+fax-no:         +33 147795001
+nic-hdl:        DM11796-RIPE
+mnt-by:         BENCHMARKGROUP-MNT
+changed:        lbarbe@ccmbenchmark.com 20130416
+created:        2013-04-16T12:50:08Z
+last-modified:  2013-04-16T12:50:08Z
+source:         RIPE
+
+person:         Jean Francois Pillou
+address:        69/71 avenue Pierre Grenier
+address:        92517 Boulogne Billancourt
+address:        France
+phone:          +33 147795000
+mnt-by:         BENCHMARKGROUP-MNT
+e-mail:         webmaster@commentcamarche.net
+nic-hdl:        JFP92-RIPE
+changed:        jerome.marteaux@diabolocom.com 20071119
+changed:        jerome.marteaux@diabolocom.com 20130416
+changed:        lbarbe@ccmbenchmark.com 20130416
+created:        2006-12-13T17:18:58Z
+last-modified:  2013-04-16T09:13:59Z
+source:         RIPE
+
+route:          194.169.240.0/24
+descr:          Quidea Network
+origin:         AS43311
+mnt-by:         BENCHMARKGROUP-MNT
+mnt-by:         DECKNET-MNT
+changed:        lbarbe@ccmbenchmark.com 20130924
+created:        2013-09-24T13:24:46Z
+last-modified:  2013-09-24T13:24:46Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>eCareMe Technologies, Inc</registrant>
+    <registration>
+      <created>2009-12-23</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       98.158.144.0 - 98.158.159.255
+CIDR:           98.158.144.0/20
+NetName:        USCOLO-NET
+NetHandle:      NET-98-158-144-0-1
+Parent:         NET98 (NET-98-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32743
+Organization:   U.S. COLO, LLC (USCOLO)
+RegDate:        2009-12-23
+Updated:        2012-03-02
+Comment:        USCOLO Telecom Space http://www.uscolo.com
+Ref:            http://whois.arin.net/rest/net/NET-98-158-144-0-1
+
+OrgName:        U.S. COLO, LLC
+OrgId:          USCOLO
+Address:        650 S. GRAND AVE 1000
+City:           LOS ANGELES
+StateProv:      CA
+PostalCode:     90017
+Country:        US
+RegDate:        2000-09-02
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/USCOLO
+
+OrgTechHandle: NH111-ARIN
+OrgTechName:   HAJI, NAVOZ 
+OrgTechPhone:  +1-213-689-4600 
+OrgTechEmail:  navzhaji@uscolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+OrgAbuseHandle: NH111-ARIN
+OrgAbuseName:   HAJI, NAVOZ 
+OrgAbusePhone:  +1-213-689-4600 
+OrgAbuseEmail:  navzhaji@uscolo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+RTechHandle: NH111-ARIN
+RTechName:   HAJI, NAVOZ 
+RTechPhone:  +1-213-689-4600 
+RTechEmail:  navzhaji@uscolo.com
+RTechRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+RAbuseHandle: NH111-ARIN
+RAbuseName:   HAJI, NAVOZ 
+RAbusePhone:  +1-213-689-4600 
+RAbuseEmail:  navzhaji@uscolo.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+RNOCHandle: NH111-ARIN
+RNOCName:   HAJI, NAVOZ 
+RNOCPhone:  +1-213-689-4600 
+RNOCEmail:  navzhaji@uscolo.com
+RNOCRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+NetRange:       98.158.146.0 - 98.158.146.31
+CIDR:           98.158.146.0/27
+NetName:        USCOLO-NET
+NetHandle:      NET-98-158-146-0-1
+Parent:         USCOLO-NET (NET-98-158-144-0-1)
+NetType:        Reassigned
+OriginAS:       AS32743
+Customer:       eCareMe Technologies, Inc (C03162916)
+RegDate:        2012-09-21
+Updated:        2012-09-21
+Comment:        USCOLO Telecom Space
+Ref:            http://whois.arin.net/rest/net/NET-98-158-146-0-1
+
+CustName:       eCareMe Technologies, Inc
+Address:        624 S. Grand
+Address:        Suite 1810
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90017
+Country:        US
+RegDate:        2012-09-21
+Updated:        2012-09-21
+Ref:            http://whois.arin.net/rest/customer/C03162916
+
+OrgTechHandle: NH111-ARIN
+OrgTechName:   HAJI, NAVOZ 
+OrgTechPhone:  +1-213-689-4600 
+OrgTechEmail:  navzhaji@uscolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+OrgAbuseHandle: NH111-ARIN
+OrgAbuseName:   HAJI, NAVOZ 
+OrgAbusePhone:  +1-213-689-4600 
+OrgAbuseEmail:  navzhaji@uscolo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+RTechHandle: NH111-ARIN
+RTechName:   HAJI, NAVOZ 
+RTechPhone:  +1-213-689-4600 
+RTechEmail:  navzhaji@uscolo.com
+RTechRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+RAbuseHandle: NH111-ARIN
+RAbuseName:   HAJI, NAVOZ 
+RAbusePhone:  +1-213-689-4600 
+RAbuseEmail:  navzhaji@uscolo.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NH111-ARIN
+
+RNOCHandle: NH111-ARIN
+RNOCName:   HAJI, NAVOZ 
+RNOCPhone:  +1-213-689-4600 
+RNOCEmail:  navzhaji@uscolo.com
+RNOCRef:    http://whois.arin.net/rest/poc/NH111-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

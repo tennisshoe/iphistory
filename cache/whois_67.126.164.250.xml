@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>AT&amp;T Internet Services</registrant>
+    <registration>
+      <created>2001-10-16</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       67.112.0.0 - 67.127.255.255
+CIDR:           67.112.0.0/12
+NetName:        SBCIS-SIS80
+NetHandle:      NET-67-112-0-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   AT&amp;T Internet Services (SIS-80)
+RegDate:        2001-10-16
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-67-112-0-0-1
+
+OrgName:        AT&amp;T Internet Services
+OrgId:          SIS-80
+Address:        3300 E Renner Rd
+Address:        Mailroom B2139 
+Address:        Attn:IP Management
+City:           Richardson
+StateProv:      TX
+PostalCode:     75082
+Country:        US
+RegDate:        2000-06-20
+Updated:        2014-06-10
+Comment:        For policy abuse issues contact abuse@att.net
+Comment:        AT&amp;T Internet Services - Legal Compliance Group
+Comment:        1010 N. St. Mary's St., Rm. 315-A2
+Comment:        San Antonio, TX 78215
+Comment:        Legal Compliance Group (Fax) 707-435-6409
+Ref:            http://whois.arin.net/rest/org/SIS-80
+
+OrgTechHandle: IPADM2-ARIN
+OrgTechName:   IPAdmin ATT Internet Services
+OrgTechPhone:  +1-888-510-5545 
+OrgTechEmail:  ipadmin-sbis@sbcis.sbc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM2-ARIN
+
+OrgNOCHandle: SUPPO-ARIN
+OrgNOCName:   Support ATT Internet Services
+OrgNOCPhone:  +1-888-510-5545 
+OrgNOCEmail:  ipadmin@sbc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SUPPO-ARIN
+
+OrgAbuseHandle: ABUSE6-ARIN
+OrgAbuseName:   Abuse ATT Internet Services
+OrgAbusePhone:  +1-919-319-8167 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE6-ARIN
+
+RTechHandle: PIA2-ORG-ARIN
+RTechName:   IPAdmin-PBI
+RTechPhone:  +1-800-648-1626 
+RTechEmail:  pbiip@txmail.sbc.com
+RTechRef:    http://whois.arin.net/rest/poc/PIA2-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

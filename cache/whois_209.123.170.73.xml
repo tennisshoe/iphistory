@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Net Access Corporation</registrant>
+    <registration>
+      <created>1997-08-06</created>
+      <updated>2011-05-26</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.123.0.0 - 209.123.255.255
+CIDR:           209.123.0.0/16
+NetName:        NAC-NETBLK02
+NetHandle:      NET-209-123-0-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS8001
+Organization:   Net Access Corporation (NAC)
+RegDate:        1997-08-06
+Updated:        2011-05-26
+Comment:        Additional Information Available via whois.nac.net
+Ref:            http://whois.arin.net/rest/net/NET-209-123-0-0-1
+
+OrgName:        Net Access Corporation
+OrgId:          NAC
+Address:        9 Wing Drive
+City:           Cedar Knolls
+StateProv:      NJ
+PostalCode:     07927
+Country:        US
+RegDate:        
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/NAC
+
+ReferralServer:  rwhois://whois.nac.net:43
+
+OrgNOCHandle: NOC270-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-973-590-5080 
+OrgNOCEmail:  network@nac.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC270-ARIN
+
+OrgTechHandle: AR97-ARIN
+OrgTechName:   Rubenstein, Alex 
+OrgTechPhone:  +1-973-214-8835 
+OrgTechEmail:  alex@corp.nac.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AR97-ARIN
+
+OrgAbuseHandle: ABUSE156-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-800-638-6336 
+OrgAbuseEmail:  abuse@nac.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE156-ARIN
+
+RTechHandle: AR97-ARIN
+RTechName:   Rubenstein, Alex 
+RTechPhone:  +1-973-214-8835 
+RTechEmail:  alex@corp.nac.net
+RTechRef:    http://whois.arin.net/rest/poc/AR97-ARIN
+
+RAbuseHandle: ABUSE156-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-800-638-6336 
+RAbuseEmail:  abuse@nac.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE156-ARIN
+
+RTechHandle: RPA7-ARIN
+RTechName:   Pavely, Ryan 
+RTechPhone:  +1-973-479-7905 
+RTechEmail:  paradox@corp.nac.net
+RTechRef:    http://whois.arin.net/rest/poc/RPA7-ARIN
+
+RNOCHandle: NOC270-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-973-590-5080 
+RNOCEmail:  network@nac.net
+RNOCRef:    http://whois.arin.net/rest/poc/NOC270-ARIN
+
+== Additional Information From rwhois://whois.nac.net:43 ==
+
+NAC-Rwhoisd32 Server Ready - [hydrogen/43] Rwhoisd32 - 1.0.86
+
+Net Access (NET-D17BAA00-25)
+   9 Wing Drive
+   Cedar Knolls, NJ  07927
+   US
+
+OrgID   : NAC-25
+Netname : NET-D17BAA00-25
+Netblock: 209.123.170.0/25
+NetUse  : NAC - WBR - Noc
+
+Coordinator:
+   Rubenstein, Alex      dev-null@nac.net
+   Phone: 973-590-5000
+   Fax Telephone: 973-590-5080</record>
+    </whois>
+  </response>
+</whoisapi>
+

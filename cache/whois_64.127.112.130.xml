@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Backblaze</registrant>
+    <registration>
+      <created>2003-09-12</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.127.96.0 - 64.127.127.255
+CIDR:           64.127.96.0/19
+NetName:        FUSIONSTORM-GNI-1
+NetHandle:      NET-64-127-96-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   FusionStorm (FUSIO-12)
+RegDate:        2003-09-12
+Updated:        2012-02-24
+Comment:        24x7 NOC at gninoc@netoptex.com
+Ref:            http://whois.arin.net/rest/net/NET-64-127-96-0-1
+
+OrgName:        FusionStorm
+OrgId:          FUSIO-12
+Address:        3200 Douglas Blvd.
+Address:        Suite 320
+City:           Roseville
+StateProv:      CA
+PostalCode:     95661
+Country:        US
+RegDate:        2006-03-13
+Updated:        2015-06-22
+Comment:        http://www.synoptek.com
+Ref:            http://whois.arin.net/rest/org/FUSIO-12
+
+OrgTechHandle: VIR1-ARIN
+OrgTechName:   VanNostrand III, Rob 
+OrgTechPhone:  +1-208-422-9100 
+OrgTechEmail:  rvannostrand@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/VIR1-ARIN
+
+OrgTechHandle: AKINT-ARIN
+OrgTechName:   Akintade, Olushile 
+OrgTechPhone:  +1-916-563-1426 
+OrgTechEmail:  oakintade@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/AKINT-ARIN
+
+OrgAbuseHandle: NOCFU-ARIN
+OrgAbuseName:   NOC-FUSIONSTORM
+OrgAbusePhone:  +1-877-662-7401 
+OrgAbuseEmail:  service@synoptek.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOCFU-ARIN
+
+OrgNOCHandle: NOCFU-ARIN
+OrgNOCName:   NOC-FUSIONSTORM
+OrgNOCPhone:  +1-877-662-7401 
+OrgNOCEmail:  service@synoptek.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCFU-ARIN
+
+OrgTechHandle: MARTE52-ARIN
+OrgTechName:   Martens, Michael 
+OrgTechPhone:  +1-916-564-1429 
+OrgTechEmail:  mmartens@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MARTE52-ARIN
+
+NetRange:       64.127.112.128 - 64.127.112.143
+CIDR:           64.127.112.128/28
+NetName:        BACKBLAZE-GNI-SFO1
+NetHandle:      NET-64-127-112-128-1
+Parent:         FUSIONSTORM-GNI-1 (NET-64-127-96-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Backblaze (C02044470)
+RegDate:        2008-09-17
+Updated:        2008-09-17
+Ref:            http://whois.arin.net/rest/net/NET-64-127-112-128-1
+
+CustName:       Backblaze
+Address:        425 Forest Ave
+Address:        Suite A
+City:           Palo Alto
+StateProv:      CA
+PostalCode:     94301
+Country:        US
+RegDate:        2008-09-17
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02044470
+
+OrgTechHandle: VIR1-ARIN
+OrgTechName:   VanNostrand III, Rob 
+OrgTechPhone:  +1-208-422-9100 
+OrgTechEmail:  rvannostrand@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/VIR1-ARIN
+
+OrgTechHandle: AKINT-ARIN
+OrgTechName:   Akintade, Olushile 
+OrgTechPhone:  +1-916-563-1426 
+OrgTechEmail:  oakintade@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/AKINT-ARIN
+
+OrgAbuseHandle: NOCFU-ARIN
+OrgAbuseName:   NOC-FUSIONSTORM
+OrgAbusePhone:  +1-877-662-7401 
+OrgAbuseEmail:  service@synoptek.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOCFU-ARIN
+
+OrgNOCHandle: NOCFU-ARIN
+OrgNOCName:   NOC-FUSIONSTORM
+OrgNOCPhone:  +1-877-662-7401 
+OrgNOCEmail:  service@synoptek.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCFU-ARIN
+
+OrgTechHandle: MARTE52-ARIN
+OrgTechName:   Martens, Michael 
+OrgTechPhone:  +1-916-564-1429 
+OrgTechEmail:  mmartens@synoptek.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MARTE52-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

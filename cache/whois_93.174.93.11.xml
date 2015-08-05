@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Ecatel LTD</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '93.174.93.0 - 93.174.93.255' is 'abuse@ecatel.net'
+
+inetnum:        93.174.93.0 - 93.174.93.255
+netname:        NL-ECATEL
+descr:          ECATEL LTD
+descr:          Dedicated servers
+descr:          http://www.ecatel.net/
+country:        NL
+admin-c:        EL25-RIPE
+tech-c:         EL25-RIPE
+status:         ASSIGNED PA
+mnt-by:         ECATEL-MNT
+mnt-lower:      ECATEL-MNT
+mnt-routes:     ECATEL-MNT
+changed:        noc@ecatel.net 20090812
+created:        2008-06-29T21:36:16Z
+last-modified:  2009-08-12T21:40:51Z
+source:         RIPE
+
+role:           Ecatel LTD
+address:        P.O.Box  19533
+address:        2521 CA The Hague
+address:        Netherlands
+abuse-mailbox:  abuse@ecatel.info
+remarks:        ----------------------------------------------------
+remarks:        ECATEL LTD
+remarks:        Dedicated and Co-location hosting services
+remarks:        ----------------------------------------------------
+remarks:        for abuse complaints : abuse@ecatel.info
+remarks:        for any other questions : info@ecatel.info
+remarks:        ----------------------------------------------------
+e-mail:         noc@ecatel.info
+admin-c:        EL25-RIPE
+tech-c:         EL25-RIPE
+nic-hdl:        EL25-RIPE
+mnt-by:         ECATEL-MNT
+changed:        noc@ecatel.info 20130201
+created:        2006-07-14T17:18:00Z
+last-modified:  2013-02-01T00:20:54Z
+source:         RIPE
+
+route:          93.174.88.0/21
+descr:          AS29073, Route object
+origin:         AS29073
+mnt-by:         ECATEL-MNT
+changed:        noc@ecatel.net 20080620
+created:        2008-06-20T15:33:47Z
+last-modified:  2008-06-20T15:33:47Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

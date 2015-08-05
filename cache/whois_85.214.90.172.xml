@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Strato AG</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '85.214.16.0 - 85.214.139.255' is 'abuse@strato.de'
+
+inetnum:        85.214.16.0 - 85.214.139.255
+netname:        STRATO-RZG-DED2
+org:            ORG-SRA1-RIPE
+descr:          Strato Rechenzentrum, Berlin
+country:        DE
+admin-c:        SRDS-RIPE
+tech-c:         SRDS-RIPE
+remarks:        ************************************************************
+remarks:        * Please send abuse complaints to abuse-server@strato.de   *
+remarks:        * or fax +49-30-88615-755 ONLY.                            *
+remarks:        * Abuse reports to other e-mail addresses will be ignored. *
+remarks:        ************************************************************
+status:         ASSIGNED PA
+mnt-by:         STRATO-RZG-MNT
+changed:        mueller@strato-rz.de 20060511
+changed:        mueller@strato-rz.de 20100115
+changed:        mueller@strato-rz.de 20130706
+created:        2006-05-11T16:37:24Z
+last-modified:  2013-07-06T09:34:26Z
+source:         RIPE
+
+organisation:   ORG-SRA1-RIPE
+org-name:       Strato AG
+org-type:       LIR
+address:        Strato AG
+address:        Christian Mueller
+address:        Pascalstrasse 10
+address:        10587
+address:        Berlin
+address:        GERMANY
+phone:          +4930398020
+fax-no:         +493039802222
+e-mail:         ripe@strato-rz.de
+mnt-ref:        STRATO-RZG-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        CM265-RIPE
+admin-c:        CHSE-RIPE
+abuse-c:        SRAC-RIPE
+abuse-mailbox:  abuse@strato.de
+changed:        bitbucket@ripe.net 20141216
+created:        2004-04-17T11:12:39Z
+last-modified:  2014-12-16T13:17:41Z
+source:         RIPE
+
+role:           RIPE contact Dedicated Server
+address:        STRATO AG
+address:        Pascalstr. 10
+address:        D-10587 Berlin
+address:        Germany
+phone:          +49 30 39802-0
+org:            ORG-SRA1-RIPE
+e-mail:         ripe@strato-rz.de
+abuse-mailbox:  abuse-server@strato.de
+admin-c:        XX1-RIPE
+tech-c:         CHSE-RIPE
+nic-hdl:        SRDS-RIPE
+remarks:        ************************************************************
+remarks:        * Please send abuse complaints to abuse-server@strato.de   *
+remarks:        * or fax +49-30-88615-755 ONLY.                            *
+remarks:        * Abuse reports to other e-mail addresses will be ignored. *
+remarks:        *                                                          *
+remarks:        * For peering requests or operational issues please look   *
+remarks:        * at the information in the AS6724 RIPE database object.   *
+remarks:        ************************************************************
+mnt-by:         STRATO-RZG-MNT
+changed:        mueller@strato-rz.de 20100115
+changed:        mueller@strato-rz.de 20100913
+changed:        ripe-dbm@ripe.net 20100913
+changed:        mueller@strato-rz.de 20130706
+changed:        mueller@strato-rz.de 20131014
+created:        2010-01-15T08:35:31Z
+last-modified:  2013-10-14T08:04:17Z
+source:         RIPE
+
+route:          85.214.90.0/24
+descr:          STRATO AG
+descr:          prefix only advertised in case of DDoS
+origin:         AS6724
+mnt-by:         STRATO-RZG-MNT
+changed:        mueller@strato-rz.de 20140218
+created:        2014-02-18T16:19:26Z
+last-modified:  2014-02-18T16:19:26Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

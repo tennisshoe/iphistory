@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Confluence Networks Inc.</registrant>
+    <registration>
+      <created>2000-08-23</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.99.0.0 - 209.99.127.255
+CIDR:           209.99.0.0/17
+NetName:        YHC-3
+NetHandle:      NET-209-99-0-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   YHC Corporation (YOKU)
+RegDate:        2000-08-23
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-209-99-0-0-1
+
+OrgName:        YHC Corporation
+OrgId:          YOKU
+Address:        4100 Smith School Road
+City:           Austin
+StateProv:      TX
+PostalCode:     78744
+Country:        US
+RegDate:        2000-08-23
+Updated:        2013-02-13
+Ref:            http://whois.arin.net/rest/org/YOKU
+
+OrgTechHandle: DFNOC-ARIN
+OrgTechName:   Data Foundry Network Operations Center
+OrgTechPhone:  +1-512-684-9300 
+OrgTechEmail:  hostmaster@datafoundry.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DFNOC-ARIN
+
+OrgAbuseHandle: ABUSE991-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-512-684-9300 
+OrgAbuseEmail:  abuse@datafoundry.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE991-ARIN
+
+RTechHandle: TXNT-NOC-ARIN
+RTechName:   Texas Net Network Operations Center
+RTechPhone:  +1-512-684-9300 
+RTechEmail:  hostmaster@datafoundry.com
+RTechRef:    http://whois.arin.net/rest/poc/TXNT-NOC-ARIN
+
+NetRange:       209.99.40.0 - 209.99.40.255
+CIDR:           209.99.40.0/24
+NetName:        CONFLUENCE-NETWORKS-INC
+NetHandle:      NET-209-99-40-0-1
+Parent:         YHC-3 (NET-209-99-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS3900, AS40034
+Customer:       Confluence Networks Inc. (C03411070)
+RegDate:        2013-05-29
+Updated:        2013-05-29
+Comment:        Co-located at Data Foundry Austin TX.
+Ref:            http://whois.arin.net/rest/net/NET-209-99-40-0-1
+
+CustName:       Confluence Networks Inc.
+Address:        Texas One
+Address:        4100 Smith School Rd
+City:           Austin
+StateProv:      TX
+PostalCode:     78744
+Country:        US
+RegDate:        2013-05-29
+Updated:        2013-05-29
+Ref:            http://whois.arin.net/rest/customer/C03411070
+
+OrgTechHandle: DFNOC-ARIN
+OrgTechName:   Data Foundry Network Operations Center
+OrgTechPhone:  +1-512-684-9300 
+OrgTechEmail:  hostmaster@datafoundry.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DFNOC-ARIN
+
+OrgAbuseHandle: ABUSE991-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-512-684-9300 
+OrgAbuseEmail:  abuse@datafoundry.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE991-ARIN
+
+RTechHandle: TXNT-NOC-ARIN
+RTechName:   Texas Net Network Operations Center
+RTechPhone:  +1-512-684-9300 
+RTechEmail:  hostmaster@datafoundry.com
+RTechRef:    http://whois.arin.net/rest/poc/TXNT-NOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

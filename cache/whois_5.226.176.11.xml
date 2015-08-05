@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hillside (Technology) Ltd</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '5.226.176.0 - 5.226.183.255' is 'netarch@hillsidenewmedia.com'
+
+inetnum:        5.226.176.0 - 5.226.183.255
+netname:        UK-HILLSIDENEWMEDIA-20120911
+descr:          Hillside (Technology) Ltd
+country:        GB
+org:            ORG-HML2-RIPE
+admin-c:        HRA49-RIPE
+tech-c:         HRA49-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      HLM2-RIPE-MNT
+mnt-routes:     HLM2-RIPE-MNT
+notify:         netarch@hillsidenewmedia.com
+changed:        hostmaster@ripe.net 20120911
+changed:        bit-bucket@ripe.net 20130409
+changed:        hostmaster@ripe.net 20150417
+created:        2012-09-11T08:27:06Z
+last-modified:  2015-04-17T08:32:30Z
+source:         RIPE
+
+organisation:   ORG-HML2-RIPE
+org-name:       Hillside (Technology) Ltd
+org-type:       LIR
+address:        Hillside, Festival Way
+address:        ST1 5SH
+address:        STOKE-ON-TRENT
+address:        UNITED KINGDOM
+phone:          +441782684902
+phone:          +441782684903
+fax-no:         +441782684953
+e-mail:         netarch@hillsidenewmedia.com
+mnt-ref:        HLM2-RIPE-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        IM1995-RIPE
+admin-c:        LH1642-RIPE
+admin-c:        JB10563-RIPE
+admin-c:        JP9630-RIPE
+admin-c:        JW6821-RIPE
+admin-c:        BB4533-RIPE
+abuse-c:        HRA63-RIPE
+created:        2006-04-13T14:40:00Z
+changed:        bitbucket@ripe.net 20150803
+last-modified:  2015-08-03T08:10:32Z
+source:         RIPE
+
+role:           HLM2 RIPE ADMIN
+address:        Hillside (New Media) Limited
+address:        Network Architecture Team
+address:        Hillside, Festival Way
+address:        ST1 5SH STOKE-ON-TRENT
+address:        UNITED KINGDOM
+e-mail:         netarch@hillsidenewmedia.com
+admin-c:        IM1995-RIPE
+admin-c:        LH1642-RIPE
+admin-c:        BB4533-RIPE
+admin-c:        JB10563-RIPE
+admin-c:        JP9630-RIPE
+admin-c:        JW6821-RIPE
+tech-c:         IM1995-RIPE
+tech-c:         LH1642-RIPE
+tech-c:         BB4533-RIPE
+tech-c:         JB10563-RIPE
+tech-c:         JP9630-RIPE
+tech-c:         JW6821-RIPE
+nic-hdl:        HRA49-RIPE
+changed:        jamie.parks@hillsidenewmedia.com 20150722
+created:        2008-12-22T02:22:14Z
+last-modified:  2015-08-03T08:10:32Z
+source:         RIPE
+mnt-by:         HLM2-RIPE-MNT
+
+route:          5.226.176.0/24
+descr:          HLM2-NET-ROUTE-5-226-176-0-24
+origin:         AS34587
+mnt-by:         HLM2-RIPE-MNT
+changed:        jamesr.bell@hillsidenewmedia.com 20121022
+created:        2012-10-22T11:22:57Z
+last-modified:  2012-10-22T11:22:57Z
+source:         RIPE
+
+route:          5.226.176.0/24
+descr:          HLM2-NET-ROUTE-5-226-176-0-24
+origin:         AS58431
+mnt-by:         HLM2-RIPE-MNT
+changed:        jamesr.bell@hillsidenewmedia.com 20121022
+created:        2012-10-22T11:23:26Z
+last-modified:  2012-10-22T11:23:26Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

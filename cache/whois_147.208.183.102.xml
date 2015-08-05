@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Intel Corporation</registrant>
+    <registration>
+      <created>1991-07-19</created>
+      <updated>2008-09-11</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       147.208.0.0 - 147.208.255.255
+CIDR:           147.208.0.0/16
+NetName:        INTEL-FSO
+NetHandle:      NET-147-208-0-0-1
+Parent:         NET147 (NET-147-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Intel Corporation (NTLS)
+RegDate:        1991-07-19
+Updated:        2008-09-11
+Ref:            http://whois.arin.net/rest/net/NET-147-208-0-0-1
+
+OrgName:        Intel Corporation
+OrgId:          NTLS
+Address:        2200 Mission College Blvd, P.O. Box 58119
+City:           Santa Clara
+StateProv:      CA
+PostalCode:     95052-8119
+Country:        US
+RegDate:        
+Updated:        2008-09-02
+Ref:            http://whois.arin.net/rest/org/NTLS
+
+OrgAbuseHandle: ABUSE323-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-408-765-8080 
+OrgAbuseEmail:  abuse@intel.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE323-ARIN
+
+OrgTechHandle: ZI78-ARIN
+OrgTechName:   Intel Corporation
+OrgTechPhone:  +1-408-765-8080 
+OrgTechEmail:  hostmaster@intel.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZI78-ARIN
+
+RTechHandle: ZI78-ARIN
+RTechName:   Intel Corporation
+RTechPhone:  +1-408-765-8080 
+RTechEmail:  hostmaster@intel.com
+RTechRef:    http://whois.arin.net/rest/poc/ZI78-ARIN
+
+NetRange:       147.208.128.0 - 147.208.191.255
+CIDR:           147.208.128.0/18
+NetName:        SAVVIS-USSNTC6
+NetHandle:      NET-147-208-128-0-1
+Parent:         INTEL-FSO (NET-147-208-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   SAVVIS Communications Corporation (SAVV)
+RegDate:        2003-06-18
+Updated:        2003-06-18
+Ref:            http://whois.arin.net/rest/net/NET-147-208-128-0-1
+
+OrgName:        SAVVIS Communications Corporation
+OrgId:          SAVV
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/SAVV
+
+OrgTechHandle: ZS36-ARIN
+OrgTechName:   SAVVIS Communications
+OrgTechPhone:  +1-888-638-6771 
+OrgTechEmail:  ipadmin@savvis.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ZS36-ARIN
+
+OrgAbuseHandle: ZS36-ARIN
+OrgAbuseName:   SAVVIS Communications
+OrgAbusePhone:  +1-888-638-6771 
+OrgAbuseEmail:  ipadmin@savvis.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZS36-ARIN
+
+RAbuseHandle: ZS36-ARIN
+RAbuseName:   SAVVIS Communications
+RAbusePhone:  +1-888-638-6771 
+RAbuseEmail:  ipadmin@savvis.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ZS36-ARIN
+
+RTechHandle: ZS36-ARIN
+RTechName:   SAVVIS Communications
+RTechPhone:  +1-888-638-6771 
+RTechEmail:  ipadmin@savvis.net
+RTechRef:    http://whois.arin.net/rest/poc/ZS36-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

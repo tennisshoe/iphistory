@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Internet Connections Ltd</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '85.91.228.128 - 85.91.228.191' is 'noc@inetc.co.uk'
+
+inetnum:        85.91.228.128 - 85.91.228.191
+netname:        COMODO
+org:            ORG-ICL5-RIPE
+descr:          Comodo CA Ltd
+country:        GB
+admin-c:        AH1425-RIPE
+tech-c:         AH1425-RIPE
+status:         ASSIGNED PA
+notify:         andy@inetc.co.uk
+mnt-by:         INETCMNT
+mnt-lower:      INETCMNT
+mnt-routes:     INETCMNT
+changed:        andy@inetc.co.uk 20070306
+created:        2007-03-06T16:58:39Z
+last-modified:  2007-03-09T15:23:36Z
+source:         RIPE
+remarks:        INFRA-AW
+remarks:        -
+remarks:        Please report network abuse to:-
+remarks:        abuse@comodo.com
+remarks:        -
+
+organisation:   ORG-ICL5-RIPE
+org-name:       Internet Connections Ltd
+org-type:       LIR
+address:        Internet Connections Ltd
+address:        Andy Harding
+address:        Lower Washford Mill, Mill Street
+address:        CW12 2AD
+address:        Buglawton
+address:        UNITED KINGDOM
+phone:          +448002888680
+fax-no:         +448707623282
+e-mail:         noc@inetc.co.uk
+abuse-c:        AR17713-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        INETCMNT
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        hostmaster@ripe.net 20041130
+changed:        hostmaster@ripe.net 20041202
+changed:        bitbucket@ripe.net 20041223
+changed:        bitbucket@ripe.net 20041223
+changed:        bitbucket@ripe.net 20050105
+changed:        bitbucket@ripe.net 20050411
+changed:        bitbucket@ripe.net 20050427
+changed:        bitbucket@ripe.net 20050802
+changed:        bitbucket@ripe.net 20061205
+changed:        bitbucket@ripe.net 20130111
+created:        2004-11-30T10:22:06Z
+last-modified:  2013-12-18T14:39:09Z
+source:         RIPE
+
+person:         Andy Harding
+address:        Internet Connections Ltd
+address:        Lower Washford Mill
+address:        Mill Street
+address:        Buglawton
+address:        Congleton
+address:        CW12 2AD
+address:        United Kingdom
+phone:          +800 2888 680
+e-mail:         andy@inetc.co.uk
+nic-hdl:        AH1425-RIPE
+mnt-by:         INETCMNT
+changed:        andy@inetc.co.uk 20041130
+changed:        andy@inetc.co.uk 20041201
+created:        2004-11-30T11:28:14Z
+last-modified:  2007-12-18T13:45:09Z
+source:         RIPE
+
+route:          85.91.224.0/19
+descr:          Internet Connections Ltd
+origin:         AS34270
+mnt-by:         INETCMNT
+changed:        andy@inetc.co.uk 20041203
+notify:         andy@inetc.co.uk
+created:        2004-12-03T14:37:33Z
+last-modified:  2004-12-03T14:37:33Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

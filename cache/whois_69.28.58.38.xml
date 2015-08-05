@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Los Angeles Internet Exchange</registrant>
+    <registration>
+      <created>2009-06-17</created>
+      <updated>2009-06-17</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.28.58.0 - 69.28.58.255
+CIDR:           69.28.58.0/24
+NetName:        CNA-LA-IX-005
+NetHandle:      NET-69-28-58-0-1
+Parent:         CC-001 (NET-69-28-48-0-1)
+NetType:        Reassigned
+OriginAS:       AS37958
+Customer:       Los Angeles Internet Exchange (C02252529)
+RegDate:        2009-06-17
+Updated:        2009-06-17
+Ref:            http://whois.arin.net/rest/net/NET-69-28-58-0-1
+
+CustName:       Los Angeles Internet Exchange
+Address:        624 S Grand Ave
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90017
+Country:        US
+RegDate:        2009-06-17
+Updated:        2014-04-09
+Ref:            http://whois.arin.net/rest/customer/C02252529
+
+OrgNOCHandle: IPADM641-ARIN
+OrgNOCName:   IP ADMIN
+OrgNOCPhone:  +1-703-505-8326 
+OrgNOCEmail:  ipadmin@c3edge.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgTechHandle: IPADM641-ARIN
+OrgTechName:   IP ADMIN
+OrgTechPhone:  +1-703-505-8326 
+OrgTechEmail:  ipadmin@c3edge.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgAbuseHandle: IPADM641-ARIN
+OrgAbuseName:   IP ADMIN
+OrgAbusePhone:  +1-703-505-8326 
+OrgAbuseEmail:  ipadmin@c3edge.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+NetRange:       69.28.48.0 - 69.28.63.255
+CIDR:           69.28.48.0/20
+NetName:        CC-001
+NetHandle:      NET-69-28-48-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS21859
+Organization:   C3 Networks Inc (CN-51)
+RegDate:        2008-05-06
+Updated:        2014-04-09
+Ref:            http://whois.arin.net/rest/net/NET-69-28-48-0-1
+
+OrgName:        C3 Networks Inc
+OrgId:          CN-51
+Address:        13141 Marcey Creek Road
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2012-10-19
+Updated:        2013-06-24
+Ref:            http://whois.arin.net/rest/org/CN-51
+
+OrgNOCHandle: IPADM641-ARIN
+OrgNOCName:   IP ADMIN
+OrgNOCPhone:  +1-703-505-8326 
+OrgNOCEmail:  ipadmin@c3edge.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgTechHandle: IPADM641-ARIN
+OrgTechName:   IP ADMIN
+OrgTechPhone:  +1-703-505-8326 
+OrgTechEmail:  ipadmin@c3edge.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN
+
+OrgAbuseHandle: IPADM641-ARIN
+OrgAbuseName:   IP ADMIN
+OrgAbusePhone:  +1-703-505-8326 
+OrgAbuseEmail:  ipadmin@c3edge.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPADM641-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

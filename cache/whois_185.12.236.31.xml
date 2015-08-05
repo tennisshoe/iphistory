@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Compic OU</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '185.12.236.0 - 185.12.239.255' is 'roman@compic.ee'
+
+inetnum:        185.12.236.0 - 185.12.239.255
+netname:        EE-COMPIC-20121211
+descr:          Compic OU
+country:        EE
+org:            ORG-CO4-RIPE
+admin-c:        RI215-RIPE
+tech-c:         RI215-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      AS39823-MNT
+mnt-domains:    AS39823-MNT
+mnt-routes:     AS39823-MNT
+notify:         roman@compic.ee
+changed:        hostmaster@ripe.net 20121211
+created:        2012-12-11T12:03:34Z
+last-modified:  2012-12-11T12:03:34Z
+source:         RIPE
+
+organisation:   ORG-CO4-RIPE
+org-name:       Compic OU
+org-type:       LIR
+address:        Compic OU Roman Ivanov vo~ru 1-28 13612 Tallinn ESTONIA
+phone:          +3726321028
+fax-no:         +3726868908
+e-mail:         roman@compic.ee
+admin-c:        RI215-RIPE
+mnt-ref:        AS39823-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+abuse-mailbox:  abuse@fiber.ee
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        hostmaster@ripe.net 20080117
+changed:        bitbucket@ripe.net 20080117
+changed:        hostmaster@ripe.net 20080122
+changed:        bitbucket@ripe.net 20090501
+changed:        bit-bucket@ripe.net 20130404
+abuse-c:        AD10691-RIPE
+created:        2008-01-17T11:11:13Z
+last-modified:  2013-04-04T06:23:02Z
+source:         RIPE
+
+person:         Roman Ivanov
+address:        Voru 1-28
+address:        13612, Tallinn
+address:        Estonia
+mnt-by:         AS39823-MNT
+phone:          +3726321028
+e-mail:         roman@compic.ee
+nic-hdl:        RI215-RIPE
+notify:         roman@compic.ee
+changed:        roman@compic.ee 20080117
+created:        2003-11-11T12:10:34Z
+last-modified:  2013-04-04T06:16:28Z
+source:         RIPE
+abuse-mailbox:  roman@compic.ee
+
+route:          185.12.236.0/22
+descr:          Compic Ltd.
+origin:         AS39823
+mnt-by:         AS39823-MNT
+changed:        roman@compic.ee 20130521
+created:        2013-05-21T12:26:30Z
+last-modified:  2013-05-21T12:26:30Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

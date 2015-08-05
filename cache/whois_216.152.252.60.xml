@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Xeex</registrant>
+    <registration>
+      <created>2004-12-03</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.152.240.0 - 216.152.255.255
+CIDR:           216.152.240.0/20
+NetName:        XEEX-COMMUNICATIONS
+NetHandle:      NET-216-152-240-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Xeex (XEEX)
+RegDate:        2004-12-03
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-152-240-0-1
+
+OrgName:        Xeex
+OrgId:          XEEX
+Address:        2461 Santa Monica Blvd.
+Address:        Suite #517
+City:           Santa Monica
+StateProv:      CA
+PostalCode:     90404
+Country:        US
+RegDate:        2004-03-12
+Updated:        2015-03-06
+Ref:            http://whois.arin.net/rest/org/XEEX
+
+ReferralServer:  rwhois://rwhois.xeex.com:4321
+
+OrgTechHandle: NETWO512-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-310-309-3715 
+OrgTechEmail:  noc@xeex.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO512-ARIN
+
+OrgAbuseHandle: ABUSE1636-ARIN
+OrgAbuseName:   Abuse Team
+OrgAbusePhone:  +1-310-309-3715 
+OrgAbuseEmail:  abuse@xeex.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1636-ARIN
+
+== Additional Information From rwhois://rwhois.xeex.com:4321 ==
+
+%rwhois V-1.5:0000a0:00 rwhois.xeex.com (by Network Connection Canada. V-1.0)
+network:auth-area:216.152.240.0/20
+network:network-name:216.152.252.56
+network:ip-network:216.152.252.56/29
+network:org-name:Power Up Hosting, Inc.
+network:street-address:225 S. Olive St.  Suite 101-11
+network:city:Los Angeles
+network:state:CA
+network:postal-code:90012
+network:country-code:US
+network:tech-contact:Oscar Hernandez
+network:updated:2013-05-30 10:01:58
+network:updated-by:noc@xeex.com
+network:class-name:network
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

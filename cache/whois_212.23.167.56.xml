@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>JETMULTIMEDIA NOC</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.23.167.20 - 212.23.169.127' is 'abuse@gaoland.net'
+
+inetnum:        212.23.167.20 - 212.23.169.127
+netname:        SFR-HOSTING
+descr:          SFR Business Team
+descr:          Velizy, FRANCE
+country:        FR
+admin-c:        JM-RIPE
+tech-c:         JM-RIPE
+status:         ASSIGNED PA
+notify:         ripe-notify@ripe.net
+mnt-by:         SFR-BUSINESS-TEAM-MNT
+created:        2006-06-05T14:20:06Z
+last-modified:  2013-07-31T06:35:30Z
+source:         RIPE
+changed:        cbodiguel@jetmultimedia.fr 20081003
+changed:        lir@gaoland.net 20110204
+changed:        lir@gaoland.net 20130211
+
+role:           JETMULTIMEDIA NOC
+remarks:        ---------------------
+remarks:        This role is not used anymore by JETMULTIMEDIA
+remarks:        This role is used by SFR Business Team
+remarks:        ---------------------
+address:        6, Rue Nieuport
+address:        78140 VELIZY
+phone:          +33 1 70 44 04 44
+fax-no:         +33 1 70 44 04 36
+e-mail:         noc@jmsp.net
+admin-c:        BC62-RIPE
+tech-c:         BC62-RIPE
+tech-c:         JRI312-RIPE
+tech-c:         ASA123-RIPE
+nic-hdl:        JM-RIPE
+mnt-by:         SFR-BUSINESS-TEAM-MNT
+changed:        cedric.bodiguel@sfr.com 20100205
+created:        2002-06-11T10:58:25Z
+last-modified:  2010-02-05T11:29:04Z
+source:         RIPE
+
+route:          212.23.160.0/19
+descr:          ALLOCATED ADDR SPACE TO SFR BUSINESS TEAM
+origin:         AS12566
+mnt-by:         SFR-BUSINESS-TEAM-MNT
+changed:        lir@gaoland.net 20120220
+created:        2002-07-30T13:08:24Z
+last-modified:  2012-02-20T15:33:40Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

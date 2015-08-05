@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NetHolding Hosting Facilities Noc</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '81.173.18.0 - 81.173.18.255' is 'abuse@netholding.nl'
+
+inetnum:        81.173.18.0 - 81.173.18.255
+netname:        NL-KYRA
+descr:          www.kyra-emotion.nl
+country:        NL
+admin-c:        RD263-RIPE
+tech-c:         NHNO1-RIPE
+status:         ASSIGNED PA
+mnt-by:         NETHOLDING-MNT
+mnt-routes:     NETHOLDING-MNT
+notify:         ripe-notify@netholding.nl
+changed:        raymond@prolocation.net 20070127
+created:        2007-01-27T15:52:34Z
+last-modified:  2007-01-27T15:52:34Z
+source:         RIPE
+
+role:           NetHolding Hosting Facilities Noc
+address:        GarnierHolding B.V.
+address:        Bovenweg 25
+address:        6721 HV Bennekom
+address:        The Netherlands
+phone:          +31 318 504309
+fax-no:         +31 318 575321
+e-mail:         noc@netholding.nl
+admin-c:        NHRG1-RIPE
+tech-c:         NHRG1-RIPE
+nic-hdl:        NHNO1-RIPE
+remarks:        ------------------------------------------------------
+remarks:        GarnierHolding B.V. / NetHolding Hosting Facilities
+remarks:        is providing collocated / hosting services delivering
+remarks:        bandwidth to access and hosting providers.
+remarks:        ---
+remarks:        for any abusemail use abuse@netholding.nl
+remarks:        ---
+remarks:        for any technical issues use noc@netholding.nl
+remarks:        ---
+remarks:        for a peering request use peering@netholding.nl
+remarks:        ---
+remarks:        for more information use info@netholding.nl
+remarks:        ------------------------------------------------------
+mnt-by:         NETHOLDING-MNT
+created:        2003-02-19T10:22:09Z
+last-modified:  2013-08-26T13:12:19Z
+source:         RIPE
+changed:        raymond@garnierprojects.com 20130826
+
+person:         Raymond Dijkxhoorn
+address:        Prolocation B.V.
+address:        Populierlaan 3B
+address:        NL-2282 KX Rijswijk
+address:        The Netherlands
+phone:          +31 70 3260425
+fax-no:         +31 70 3260426
+e-mail:         raymond@prolocation.net
+nic-hdl:        RD263-RIPE
+remarks:        -----------------------------------------------------------
+remarks:        All abuse reports sent to my email address will be ignored.
+remarks:        -----------------------------------------------------------
+notify:         raymond@prolocation.net
+mnt-by:         PROLOCATION-MNT
+changed:        peter.hinrich@surfnet.nl 19960917
+changed:        ripe@prolocation.net 20020318
+changed:        ripe@prolocation.net 20030102
+changed:        ripe@prolocation.net 20070217
+changed:        ripe@prolocation.net 20081022
+changed:        ripe@prolocation.net 20130104
+created:        2002-03-18T09:45:58Z
+last-modified:  2013-01-03T23:02:53Z
+source:         RIPE
+
+route:          81.173.0.0/19
+descr:          NetHolding Hosting Facilities
+origin:         AS24730
+mnt-by:         NETHOLDING-MNT
+changed:        raymond@prolocation.net 20070104
+created:        2003-10-10T08:56:13Z
+last-modified:  2007-01-04T14:59:39Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

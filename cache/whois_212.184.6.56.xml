@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Wolfgang Linke</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.184.6.0 - 212.184.7.255' is 'auftrag@nic.telekom.de'
+
+inetnum:        212.184.6.0 - 212.184.7.255
+netname:        DTAG-T-MART
+descr:          Deutsche Telekom AG Multimediazentrum
+country:        DE
+admin-c:        WL956-RIPE
+tech-c:         WL956-RIPE
+status:         ASSIGNED PA
+mnt-by:         DTAG-NIC
+notify:         auftrag@nic.telekom.de
+changed:        auftrag@nic.telekom.de 19990519
+changed:        auftrag@nic.telekom.de 20010613
+changed:        auftrag@nic.telekom.de 20120113
+created:        1970-01-01T00:00:00Z
+last-modified:  2012-01-13T06:40:21Z
+source:         RIPE
+
+person:         Wolfgang Linke
+address:        T-Systems International GmbH
+address:        Computing Services &amp; Solutions (CSS)
+address:        Feldstrasse 34
+address:        DE 59872 Meschede
+address:        Germany
+phone:          +49 291 90227 7654
+fax-no:         +49 391 5802 16074
+e-mail:         wolfgang.linke@t-systems.com
+nic-hdl:        WL956-RIPE
+notify:         auftrag@nic.telekom.de
+mnt-by:         DTAG-NIC
+changed:        auftrag@nic.telekom.de 20120113
+created:        2012-01-13T06:30:17Z
+last-modified:  2012-01-13T06:30:17Z
+source:         RIPE
+
+route:          212.184.0.0/15
+descr:          Deutsche Telekom AG, Internet service provider
+origin:         AS3320
+member-of:      AS3320:RS-PA-TELEKOM
+mnt-by:         DTAG-RR
+changed:        rv@NIC.DTAG.DE 19990725
+created:        1970-01-01T00:00:00Z
+last-modified:  2004-06-15T17:32:50Z
+source:         RIPE
+changed:        rv@TE142.T-COM.XX 20040615</record>
+    </whois>
+  </response>
+</whoisapi>
+

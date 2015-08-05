@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>edict eGaming IoM Limted</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '78.24.210.0 - 78.24.210.63' is 'abuse@continent8.com'
+
+inetnum:        78.24.210.0 - 78.24.210.63
+netname:        C8-EDICT-02
+org:            ORG-eeIL1-RIPE
+descr:
+country:        IM
+admin-c:        RR4062-RIPE
+tech-c:         RR4062-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-C8TECHNOLOGIES
+changed:        registrar@continent8.com 20100422
+created:        2010-04-22T14:59:19Z
+last-modified:  2010-04-22T14:59:19Z
+source:         RIPE
+
+organisation:   ORG-eeIL1-RIPE
+org-name:       edict eGaming IoM Limted
+org-type:       OTHER
+address:        Royal Trust House, 60 Athol Street, Douglas, Isle of Man, IM1 1JD
+e-mail:         it@edict.im
+mnt-ref:        MNT-C8TECHNOLOGIES
+mnt-by:         MNT-C8TECHNOLOGIES
+changed:        registrar@continent8.com 20100422
+created:        2010-04-22T14:57:57Z
+last-modified:  2010-04-22T14:57:57Z
+source:         RIPE
+
+role:           RIPE Registrar
+address:        Continent 8 House
+address:        Pulrose Road
+address:        Douglas, IM2 1AL
+address:        Isle of Man
+org:            ORG-CTP3-RIPE
+e-mail:         registrar@continent8.com
+admin-c:        PG1660-RIPE
+tech-c:         PG1660-RIPE
+nic-hdl:        RR4062-RIPE
+mnt-by:         MNT-C8TECHNOLOGIES
+changed:        registrar@continent8.com 20090716
+created:        2007-09-10T15:13:37Z
+last-modified:  2009-07-16T14:08:38Z
+source:         RIPE
+
+route:          78.24.210.0/24
+descr:          CONTINENT 8 TECHNOLOGIES PLC
+origin:         AS44168
+mnt-by:         MNT-C8TECHNOLOGIES
+changed:        registrar@continent8.com 20080828
+created:        2008-08-28T19:41:33Z
+last-modified:  2008-08-28T19:41:33Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

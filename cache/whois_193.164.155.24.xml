@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>BullGuard ApS</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% No abuse contact registered for 193.164.155.0 - 193.164.155.255
+
+inetnum:        193.164.155.0 - 193.164.155.255
+netname:        BULLGUARD
+descr:          BullGuard ApS
+country:        DK
+org:            ORG-BA153-RIPE
+admin-c:        BG134-RIPE
+admin-c:        SOL17-RIPE
+tech-c:         BG134-RIPE
+tech-c:         SOL18-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         BULLGUARD-MNT
+mnt-routes:     BULLGUARD-MNT
+mnt-domains:    BULLGUARD-MNT
+changed:        hostmaster@ripe.net 20060825
+changed:        drift@siminn.dk 20090708
+changed:        brian_lagoni@bullguard.com 20090709
+changed:        brian_lagoni@bullguard.com 20110708
+changed:        brian.lagoni@bullguard.com 20110919
+changed:        brian.lagoni@bullguard.com 20111011
+changed:        hostmaster@ripe.net 20120203
+created:        2006-08-25T09:54:49Z
+last-modified:  2015-05-05T01:55:48Z
+source:         RIPE
+sponsoring-org: ORG-AHA7-RIPE
+
+organisation:   ORG-BA153-RIPE
+org-name:       BullGuard ApS
+org-type:       OTHER
+address:        Njalsgade 21E
+address:        2300 Copenhagen S
+e-mail:         noc@bullguard.com
+admin-c:        BG134-RIPE
+tech-c:         BG134-RIPE
+mnt-ref:        BULLGUARD-MNT
+abuse-mailbox:  abuse@bullguard.com
+mnt-by:         BULLGUARD-MNT
+changed:        hostmaster@webpartner.dk 20060824
+changed:        ripe-dbm@ripe.net 20070102
+changed:        drift@siminn.dk 20090709
+changed:        brian_lagoni@bullguard.com 20090716
+changed:        brian_lagoni@bullguard.com 20110908
+changed:        brian.lagoni@bullguard.com 20110919
+changed:        brian.lagoni@bullguard.com 20110928
+created:        2006-08-24T09:08:26Z
+last-modified:  2011-09-28T07:39:33Z
+source:         RIPE
+
+role:           Bullguard Network Guardian
+address:        BullGuard ApS
+address:        Njalsgade 21E
+address:        DK-2300 Copenhagen S
+address:        Denmark
+e-mail:         network-guardian@bullguard.com
+remarks:        Abuse: abuse@bullguard.com
+admin-c:        BBL1-RIPE
+tech-c:         BBL1-RIPE
+nic-hdl:        BG134-RIPE
+mnt-by:         BULLGUARD-MNT
+changed:        brian_lagoni@bullguard.com 20090706
+created:        2009-07-06T09:34:11Z
+last-modified:  2009-07-06T09:55:56Z
+source:         RIPE
+
+role:           SOLIDO ADMINS
+address:        Laederstraede 9 2 sal
+address:        DK-1201 Koebenhavn K
+address:        Denmark
+e-mail:         noc@solido.net
+admin-c:        CH1862-RIPE
+admin-c:        HLK1-RIPE
+admin-c:        TKO7-RIPE
+admin-c:        RSH18-RIPE
+abuse-mailbox:  abuse@solido.net
+tech-c:         CH1862-RIPE
+tech-c:         HLK1-RIPE
+tech-c:         TKO7-RIPE
+tech-c:         RSH18-RIPE
+nic-hdl:        SOL17-RIPE
+mnt-by:         MNT-SOLIDO
+changed:        rsh@solido.net 20141201
+created:        2011-01-07T10:21:09Z
+last-modified:  2014-12-01T14:18:43Z
+source:         RIPE
+
+role:           SOLIDO TECH
+address:        Laederstraede 9 2 sal
+address:        DK-1201 Koebenhavn K
+address:        Denmark
+e-mail:         noc@solido.net
+admin-c:        CH1862-RIPE
+admin-c:        HLK1-RIPE
+admin-c:        TKO7-RIPE
+admin-c:        RSH18-RIPE
+tech-c:         CH1862-RIPE
+tech-c:         HLK1-RIPE
+tech-c:         TKO7-RIPE
+tech-c:         RSH18-RIPE
+nic-hdl:        SOL18-RIPE
+mnt-by:         MNT-SOLIDO
+changed:        rsh@solido.net 20141201
+created:        2011-01-07T10:25:36Z
+last-modified:  2014-12-01T14:18:19Z
+source:         RIPE
+
+route:          193.164.155.0/24
+descr:          Bullguard
+origin:         AS41474
+mnt-by:         BULLGUARD-MNT
+changed:        hostmaster@webpartner.dk 20060829
+changed:        drift@siminn.dk 20090710
+changed:        brian_lagoni@bullguard.com 20090716
+created:        2006-08-29T12:41:54Z
+last-modified:  2009-07-15T23:08:27Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

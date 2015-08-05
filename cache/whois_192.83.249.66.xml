@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Dave Rand</registrant>
+    <registration>
+      <created>1990-10-08</created>
+      <updated>1997-04-01</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       192.83.249.0 - 192.83.249.255
+CIDR:           192.83.249.0/24
+NetName:        BUNGI
+NetHandle:      NET-192-83-249-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Dave Rand (DAVERA)
+RegDate:        1990-10-08
+Updated:        1997-04-01
+Ref:            http://whois.arin.net/rest/net/NET-192-83-249-0-1
+
+OrgName:        Dave Rand
+OrgId:          DAVERA
+Address:        15864 Highland Drive
+City:           San Jose
+StateProv:      CA
+PostalCode:     95127-1743
+Country:        US
+RegDate:        1990-10-08
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/DAVERA
+
+OrgTechHandle: CKN23-ARIN
+OrgTechName:   No, Contact Known
+OrgTechPhone:  +1-800-555-1234 
+OrgTechEmail:  nobody@example.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+OrgAbuseHandle: DR223-ARIN
+OrgAbuseName:   Rand, David 
+OrgAbusePhone:  +1-408-254-7111 
+OrgAbuseEmail:  dlr@bungi.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DR223-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

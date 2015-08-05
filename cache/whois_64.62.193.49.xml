@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Hurricane Electric, Inc.</registrant>
+    <registration>
+      <created>2002-08-27</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.62.128.0 - 64.62.255.255
+CIDR:           64.62.128.0/17
+NetName:        HURRICANE-4
+NetHandle:      NET-64-62-128-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS6939
+Organization:   Hurricane Electric, Inc. (HURC)
+RegDate:        2002-08-27
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-62-128-0-1
+
+OrgName:        Hurricane Electric, Inc.
+OrgId:          HURC
+Address:        760 Mission Court
+City:           Fremont
+StateProv:      CA
+PostalCode:     94539
+Country:        US
+RegDate:        
+Updated:        2015-05-26
+Ref:            http://whois.arin.net/rest/org/HURC
+
+ReferralServer:  rwhois://rwhois.he.net:4321
+
+OrgTechHandle: ZH17-ARIN
+OrgTechName:   Hurricane Electric
+OrgTechPhone:  +1-510-580-4100 
+OrgTechEmail:  hostmaster@he.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ZH17-ARIN
+
+OrgAbuseHandle: ABUSE1036-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-510-580-4100 
+OrgAbuseEmail:  abuse@he.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1036-ARIN
+
+RAbuseHandle: ABUSE1036-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-510-580-4100 
+RAbuseEmail:  abuse@he.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1036-ARIN
+
+RNOCHandle: ZH17-ARIN
+RNOCName:   Hurricane Electric
+RNOCPhone:  +1-510-580-4100 
+RNOCEmail:  hostmaster@he.net
+RNOCRef:    http://whois.arin.net/rest/poc/ZH17-ARIN
+
+RTechHandle: ZH17-ARIN
+RTechName:   Hurricane Electric
+RTechPhone:  +1-510-580-4100 
+RTechEmail:  hostmaster@he.net
+RTechRef:    http://whois.arin.net/rest/poc/ZH17-ARIN
+
+== Additional Information From rwhois://rwhois.he.net:4321 ==
+
+%rwhois V-1.5:0012b7:01 ops.he.net (HE-RWHOISd v:r255,m1:r319)
+network:ID;I:NET-64.62.193.0/26
+network:Auth-Area:nets
+network:Class-Name:network
+network:Network-Name;I:NET-64.62.193.0/26
+network:Parent;I:NET-64.62.128.0/17
+network:IP-Network:64.62.193.0/26
+network:Org-Contact;I:POC-CE-2479
+network:Tech-Contact;I:POC-HE-NOC
+network:Abuse-Contact;I:POC-HE-ABUSE
+network:NOC-Contact;I:POC-HE-NOC
+network:Created:20101117005909000
+network:Updated:20101117005909000
+
+contact:ID;I:POC-CE-2479
+contact:Auth-Area:contacts
+contact:Class-Name:contact
+contact:Name:Roger Griffin
+contact:Company:Camcor, Inc.
+contact:Street-Address:PO Box 14899
+contact:City:Burlington
+contact:Province:NC
+contact:Postal-Code:27216
+contact:Country-Code:US
+contact:Phone:+1-510-580-4100
+contact:E-mail:hostmaster@he.net
+contact:Created:20101117005901000
+contact:Updated:20101117005901000
+
+contact:ID;I:POC-HE-NOC
+contact:Auth-Area:contacts
+contact:Class-Name:contact
+contact:Name:Network Operations Center
+contact:Company:Hurricane Electric
+contact:Street-Address:760 Mission Ct
+contact:City:Fremont
+contact:Province:CA
+contact:Postal-Code:94539
+contact:Country-Code:US
+contact:Phone:+1-510-580-4100
+contact:E-Mail:noc@he.net
+contact:Created:20100901200738000
+contact:Updated:20100901200738000
+
+contact:ID;I:POC-HE-ABUSE
+contact:Auth-Area:contacts
+contact:Class-Name:contact
+contact:Name:Abuse Department
+contact:Company:Hurricane Electric
+contact:Street-Address:760 Mission Ct
+contact:City:Fremont
+contact:Province:CA
+contact:Postal-Code:94539
+contact:Country-Code:US
+contact:Phone:+1-510-580-4100
+contact:E-Mail:abuse@he.net
+contact:Created:20100901200738000
+contact:Updated:20100901200738000
+contact:Comment:For email abuse (spam) only
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

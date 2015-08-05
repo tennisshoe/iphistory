@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Verizon Wireless</registrant>
+    <registration>
+      <created>1989-12-18</created>
+      <updated>2012-04-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       137.188.0.0 - 137.188.255.255
+CIDR:           137.188.0.0/16
+NetName:        VZW-IT-2
+NetHandle:      NET-137-188-0-0-1
+Parent:         NET137 (NET-137-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS12079
+Organization:   Verizon Wireless (VERIZ-2-Z)
+RegDate:        1989-12-18
+Updated:        2012-04-02
+Ref:            http://whois.arin.net/rest/net/NET-137-188-0-0-1
+
+OrgName:        Verizon Wireless
+OrgId:          VERIZ-2-Z
+Address:        2785 Mitchell Dr
+Address:        Mailstop 11-2
+City:           Walnut Creek
+StateProv:      CA
+PostalCode:     94598
+Country:        US
+RegDate:        2010-04-19
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/VERIZ-2-Z
+
+OrgTechHandle: TMM3-ARIN
+OrgTechName:   MIRZA, TIMUR MUHAMMAD
+OrgTechPhone:  +1-949-697-7964 
+OrgTechEmail:  TIMUR.MIRZA@verizonwireless.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TMM3-ARIN
+
+OrgAbuseHandle: TMM3-ARIN
+OrgAbuseName:   MIRZA, TIMUR MUHAMMAD
+OrgAbusePhone:  +1-949-697-7964 
+OrgAbuseEmail:  TIMUR.MIRZA@verizonwireless.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/TMM3-ARIN
+
+OrgAbuseHandle: MC305-ARIN
+OrgAbuseName:   Cantu, Mike 
+OrgAbusePhone:  +1-925-279-6316 
+OrgAbuseEmail:  mike.cantu@verizonwireless.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MC305-ARIN
+
+OrgTechHandle: MC305-ARIN
+OrgTechName:   Cantu, Mike 
+OrgTechPhone:  +1-925-279-6316 
+OrgTechEmail:  mike.cantu@verizonwireless.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MC305-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

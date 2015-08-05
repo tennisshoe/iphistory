@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ThePlanet.com Internet Services, Inc.</registrant>
+    <registration>
+      <created>2006-02-17</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       74.52.0.0 - 74.55.255.255
+CIDR:           74.52.0.0/14
+NetName:        NETBLK-THEPLANET-BLK-14
+NetHandle:      NET-74-52-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36420, AS30315, AS13749, AS21844
+Organization:   ThePlanet.com Internet Services, Inc. (TPCM)
+RegDate:        2006-02-17
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-74-52-0-0-1
+
+OrgName:        ThePlanet.com Internet Services, Inc.
+OrgId:          TPCM
+Address:        315 Capitol
+Address:        Suite 205
+City:           Houston
+StateProv:      TX
+PostalCode:     77002
+Country:        US
+RegDate:        1999-08-31
+Updated:        2015-02-10
+Ref:            http://whois.arin.net/rest/org/TPCM
+
+ReferralServer:  rwhois://rwhois.theplanet.com:4321
+
+OrgTechHandle: TECHN33-ARIN
+OrgTechName:   Technical Support
+OrgTechPhone:  +1-281-714-3000 
+OrgTechEmail:  admins@theplanet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN
+
+OrgAbuseHandle: ABUSE271-ARIN
+OrgAbuseName:   The Planet Abuse
+OrgAbusePhone:  +1-281-714-3560 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+OrgNOCHandle: THEPL-ARIN
+OrgNOCName:   The Planet NOC
+OrgNOCPhone:  +1-281-714-3000 
+OrgNOCEmail:  noc@theplanet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+RAbuseHandle: ABUSE271-ARIN
+RAbuseName:   The Planet Abuse
+RAbusePhone:  +1-281-714-3560 
+RAbuseEmail:  abuse@softlayer.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE271-ARIN
+
+RTechHandle: TECHN33-ARIN
+RTechName:   Technical Support
+RTechPhone:  +1-281-714-3000 
+RTechEmail:  admins@theplanet.com
+RTechRef:    http://whois.arin.net/rest/poc/TECHN33-ARIN
+
+RNOCHandle: THEPL-ARIN
+RNOCName:   The Planet NOC
+RNOCPhone:  +1-281-714-3000 
+RNOCEmail:  noc@theplanet.com
+RNOCRef:    http://whois.arin.net/rest/poc/THEPL-ARIN
+
+== Additional Information From rwhois://rwhois.theplanet.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.softlayer.com (by Network Solutions, Inc. V-1.5.9.5)
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

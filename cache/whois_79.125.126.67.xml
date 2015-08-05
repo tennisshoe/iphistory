@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Amazon Data Services Ireland Technical Role Account</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '79.125.64.0 - 79.125.127.255' is 'ec2-abuse@Amazon.com'
+
+inetnum:        79.125.64.0 - 79.125.127.255
+netname:        AMAZON-EU-AWS
+descr:          Amazon Web Services, Elastic Compute Cloud, EC2, EU
+remarks:        The activity you have detected originates from a
+                dynamic hosting environment.
+                For fastest response, please submit abuse reports at
+                http://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/AWSAbuse
+                For more information regarding EC2 see:
+                http://ec2.amazonaws.com/
+                All reports MUST include:
+                * src IP
+                * dest IP (your IP)
+                * dest port
+                * Accurate date/timestamp and timezone of activity
+                * Intensity/frequency (short log extracts)
+                * Your contact details (phone and email)
+                Without these we will be unable to identify
+                the correct owner of the IP address at that
+                point in time.
+country:        IE
+admin-c:        ADSI2-RIPE
+tech-c:         AEA61-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-ADSI
+changed:        douglane@amazon.com 20091124
+created:        2009-11-24T11:21:17Z
+last-modified:  2010-06-11T19:10:04Z
+source:         RIPE
+
+role:           Amazon Data Services Ireland Technical Role Account
+address:        Amazon Data Services Ireland
+address:        Digital Depot
+address:        Thomas Street
+address:        Dublin 8
+address:        Ireland
+mnt-by:         MNT-ADSI
+e-mail:         ripe-interest@amazon.com
+admin-c:        MA11338-RIPE
+tech-c:         AA25560-RIPE
+nic-hdl:        ADSI2-RIPE
+changed:        mazinger@amazon.com 20120308
+created:        2006-03-06T15:06:13Z
+last-modified:  2013-08-29T01:03:24Z
+source:         RIPE
+
+role:           Amazon EC2 Abuse
+address:        1200 12th Avenue South
+                Seattle
+                WA
+                US
+mnt-by:         MNT-ADSI
+e-mail:         ec2-abuse@amazon.com
+admin-c:        TW510-RIPE
+tech-c:         ADSI2-RIPE
+nic-hdl:        AEA61-RIPE
+changed:        kuyper@amazon.com 20081119
+created:        2008-11-19T17:49:13Z
+last-modified:  2009-12-14T11:54:25Z
+source:         RIPE
+
+route:          79.125.0.0/17
+descr:          Amazon EU AWS Dublin
+origin:         AS39111
+mnt-by:         MNT-ADSI
+changed:        douglane@amazon.com 20091124
+created:        2009-11-24T15:31:54Z
+last-modified:  2009-11-24T15:31:54Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Jaguar-Network Engineering</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '37.110.195.0 - 37.110.195.255' is 'abuse@as30781.net'
+
+inetnum:        37.110.195.0 - 37.110.195.255
+netname:        J000AA4560
+descr:          Jaguar Network
+country:        FR
+admin-c:        JAGN-RIPE
+tech-c:         JAGN-RIPE
+status:         ASSIGNED PA
+mnt-by:         JAGUAR-MNT
+created:        2013-07-09T16:12:15Z
+last-modified:  2013-07-09T16:12:15Z
+source:         RIPE
+changed:        engineering@as30781.net 20130709
+
+role:           Jaguar-Network Engineering
+address:        71 Avenue Andre Roussin
+address:        13016 Marseille
+address:        France
+phone:          +33 4 88 00 65 10
+fax-no:         +33 4 88 00 65 25
+remarks:        trouble: abuse@as30781.net
+admin-c:        POLK-RIPE
+tech-c:         VAYU-RIPE
+tech-c:         LFML-RIPE
+nic-hdl:        JAGN-RIPE
+mnt-by:         JAGUAR-MNT
+created:        2005-01-14T13:43:04Z
+last-modified:  2015-05-14T17:14:00Z
+source:         RIPE
+changed:        engineering@as30781.net 20141217
+e-mail:         engineering@as30781.net
+abuse-mailbox:  abuse@as30781.net
+
+route:          37.110.192.0/21
+descr:          FR.JAGUAR LIR Range
+origin:         AS30781
+mnt-by:         JAGUAR-MNT
+changed:        engineering@as30781.net 20120208
+created:        2012-02-08T14:28:56Z
+last-modified:  2012-02-08T14:28:56Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

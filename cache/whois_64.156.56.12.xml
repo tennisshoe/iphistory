@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>OPUS-3</registrant>
+    <registration>
+      <created>2013-01-08</created>
+      <updated>2013-01-08</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.156.56.0 - 64.156.56.255
+CIDR:           64.156.56.0/24
+NetName:        LVLT-OFTL-64-156-56
+NetHandle:      NET-64-156-56-0-1
+Parent:         LC-ORG-ARIN (NET-64-152-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   OPUS-3 (OFTL)
+RegDate:        2013-01-08
+Updated:        2013-01-08
+Ref:            http://whois.arin.net/rest/net/NET-64-156-56-0-1
+
+OrgName:        OPUS-3
+OrgId:          OFTL
+Address:        2914 Taylor
+City:           Dallas
+StateProv:      TX
+PostalCode:     75226
+Country:        US
+RegDate:        2011-05-23
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/OFTL
+
+OrgTechHandle: DHE17-ARIN
+OrgTechName:   Herr, David 
+OrgTechPhone:  +1-936-525-9521 
+OrgTechEmail:  david@westlin.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DHE17-ARIN
+
+OrgAbuseHandle: DHE17-ARIN
+OrgAbuseName:   Herr, David 
+OrgAbusePhone:  +1-936-525-9521 
+OrgAbuseEmail:  david@westlin.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DHE17-ARIN
+
+NetRange:       64.152.0.0 - 64.159.255.255
+CIDR:           64.152.0.0/13
+NetName:        LC-ORG-ARIN
+NetHandle:      NET-64-152-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Level 3 Communications, Inc. (LVLT)
+RegDate:        2000-06-08
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-152-0-0-1
+
+OrgName:        Level 3 Communications, Inc.
+OrgId:          LVLT
+Address:        1025 Eldorado Blvd.
+City:           Broomfield
+StateProv:      CO
+PostalCode:     80021
+Country:        US
+RegDate:        1998-05-22
+Updated:        2012-01-30
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/org/LVLT
+
+OrgTechHandle: IPADD5-ARIN
+OrgTechName:   ipaddressing
+OrgTechPhone:  +1-877-453-8353 
+OrgTechEmail:  ipaddressing@level3.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADD5-ARIN
+
+OrgAbuseHandle: APL8-ARIN
+OrgAbuseName:   Abuse POC LVLT
+OrgAbusePhone:  +1-877-453-8353 
+OrgAbuseEmail:  abuse@level3.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/APL8-ARIN
+
+OrgNOCHandle: NOCSU27-ARIN
+OrgNOCName:   NOC Support
+OrgNOCPhone:  +1-877-453-8353 
+OrgNOCEmail:  noc.coreip@level3.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCSU27-ARIN
+
+RTechHandle: LC-ORG-ARIN
+RTechName:   IP Administrations
+RTechPhone:  +1-877-453-8353 
+RTechEmail:  ipaddressing@level3.com
+RTechRef:    http://whois.arin.net/rest/poc/LC-ORG-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

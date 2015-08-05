@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CDNetworks Inc.</registrant>
+    <registration>
+      <created>2008-10-24</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       174.35.0.0 - 174.35.127.255
+CIDR:           174.35.0.0/17
+NetName:        CDNET-USA-1
+NetHandle:      NET-174-35-0-0-1
+Parent:         NET174 (NET-174-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS40366
+Organization:   CDNetworks Inc. (CDNET)
+RegDate:        2008-10-24
+Updated:        2012-03-02
+Comment:        
+Comment:        Global Secure Media and Content Delivery Network.  Primarily,
+Comment:        Established, and based in the USA
+Ref:            http://whois.arin.net/rest/net/NET-174-35-0-0-1
+
+OrgName:        CDNetworks Inc.
+OrgId:          CDNET
+Address:        441 W. Trimble rd
+City:           San Jose
+StateProv:      CA
+PostalCode:     95134
+Country:        US
+RegDate:        2007-01-05
+Updated:        2012-06-20
+Ref:            http://whois.arin.net/rest/org/CDNET
+
+OrgTechHandle: NOCAN2-ARIN
+OrgTechName:   NOC and TroubleShooting
+OrgTechPhone:  +1-408-228-3455 
+OrgTechEmail:  netops@cdnetworks.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOCAN2-ARIN
+
+OrgNOCHandle: NOCAN2-ARIN
+OrgNOCName:   NOC and TroubleShooting
+OrgNOCPhone:  +1-408-228-3455 
+OrgNOCEmail:  netops@cdnetworks.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCAN2-ARIN
+
+OrgAbuseHandle: IAA24-ARIN
+OrgAbuseName:   IP Addressing Abuse
+OrgAbusePhone:  +1-408-432-1301 
+OrgAbuseEmail:  ABUSE@cdnetworks.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IAA24-ARIN
+
+RNOCHandle: NOCAN2-ARIN
+RNOCName:   NOC and TroubleShooting
+RNOCPhone:  +1-408-228-3455 
+RNOCEmail:  netops@cdnetworks.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOCAN2-ARIN
+
+RTechHandle: NOCAN2-ARIN
+RTechName:   NOC and TroubleShooting
+RTechPhone:  +1-408-228-3455 
+RTechEmail:  netops@cdnetworks.com
+RTechRef:    http://whois.arin.net/rest/poc/NOCAN2-ARIN
+
+RAbuseHandle: IAA24-ARIN
+RAbuseName:   IP Addressing Abuse
+RAbusePhone:  +1-408-432-1301 
+RAbuseEmail:  ABUSE@cdnetworks.com
+RAbuseRef:    http://whois.arin.net/rest/poc/IAA24-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

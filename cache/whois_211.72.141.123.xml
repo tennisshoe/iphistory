@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>HINET Network-Adm</registrant>
+    <registration>
+      <updated>2013-12-03</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        211.72.128.0 - 211.72.255.255
+netname:        HINET-NET
+descr:          Data Communication Business Group,
+descr:          Chunghwa Telecom Co.,Ltd.
+descr:          No.21, Sec.1, Xinyi Rd., Taipei City
+descr:          10048, Taiwan
+country:        TW
+admin-c:        HN27-AP
+tech-c:         HN27-AP
+mnt-by:         MAINT-TW-TWNIC
+mnt-irt:        IRT-TWNIC-AP
+changed:        hostmaster@twnic.net.tw 20131203
+status:         ALLOCATED PORTABLE
+source:         APNIC
+
+irt:            IRT-TWNIC-AP
+address:        Taipei, Taiwan, 100
+e-mail:         hostmaster@twnic.net.tw
+abuse-mailbox:  abuse@twnic.net.tw
+admin-c:        TWA2-AP
+tech-c:         TWA2-AP
+auth:           # Filtered
+remarks:        Please note that TWNIC is not an ISP and is not empowered
+remarks:        to investigate complaints of network abuse.
+mnt-by:         MAINT-TW-TWNIC
+changed:        hostmaster@twnic.net.tw 20101108
+source:         APNIC
+
+person:         HINET Network-Adm
+address:        CHTD, Chunghwa Telecom Co., Ltd.
+address:        No. 21, Sec. 21, Hsin-Yi Rd.,
+address:        Taipei Taiwan 100
+country:        TW
+phone:          +886 2 2322 3495
+phone:          +886 2 2322 3442
+phone:          +886 2 2344 3007
+fax-no:         +886 2 2344 2513
+fax-no:         +886 2 2395 5671
+e-mail:         network-adm@hinet.net
+nic-hdl:        HN27-AP
+remarks:        same as TWNIC nic-handle HN184-TW
+mnt-by:         MAINT-TW-TWNIC
+changed:        hostmaster@twnic.net 20110822
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

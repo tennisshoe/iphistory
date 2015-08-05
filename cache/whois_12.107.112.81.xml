@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>AT&amp;T Services, Inc.</registrant>
+    <registration>
+      <created>1983-08-23</created>
+      <updated>2013-12-19</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       12.0.0.0 - 12.255.255.255
+CIDR:           12.0.0.0/8
+NetName:        ATT
+NetHandle:      NET-12-0-0-0-1
+Parent:         NET12 (NET-12-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   AT&amp;T Services, Inc. (ATTW-Z)
+RegDate:        1983-08-23
+Updated:        2013-12-19
+Comment:        For abuse issues contact abuse@att.net
+Ref:            http://whois.arin.net/rest/net/NET-12-0-0-0-1
+
+OrgName:        AT&amp;T Services, Inc.
+OrgId:          ATTW-Z
+Address:        200 S. Laurel AVE.
+City:           MIDDLETOWN
+StateProv:      NJ
+PostalCode:     07748
+Country:        US
+RegDate:        2009-12-18
+Updated:        2013-01-18
+Comment:        Contact AT&amp;T Abuse ( abuse@att.net ) for policy abuse issues.
+Comment:        All policy abuse issues sent to other POCs will be disregarded.
+Ref:            http://whois.arin.net/rest/org/ATTW-Z
+
+OrgTechHandle: IPSWI-ARIN
+OrgTechName:   IP SWIP
+OrgTechPhone:  +1-888-613-6330 
+OrgTechEmail:  swipid@icorefep1.ims.att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPSWI-ARIN
+
+OrgAbuseHandle: ATTAB-ARIN
+OrgAbuseName:   ATT Abuse
+OrgAbusePhone:  +1-919-319-8130 
+OrgAbuseEmail:  abuse@att.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ATTAB-ARIN
+
+OrgTechHandle: JB3310-ARIN
+OrgTechName:   Borkenhagen, Jay C.
+OrgTechPhone:  +1-732-420-2526 
+OrgTechEmail:  jayb@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JB3310-ARIN
+
+OrgTechHandle: ICC-ARIN
+OrgTechName:   IP Team
+OrgTechPhone:  +1-888-613-6330 
+OrgTechEmail:  ss428w@att.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ICC-ARIN
+
+RTechHandle: IAA17-ARIN
+RTechName:   IP Address Administration
+RTechPhone:  +1-732-420-2071 
+RTechEmail:  addrmgt@qsun.att.com
+RTechRef:    http://whois.arin.net/rest/poc/IAA17-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

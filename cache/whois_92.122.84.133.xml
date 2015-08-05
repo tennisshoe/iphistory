@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Network Architecture Role Account</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '92.122.84.0 - 92.122.87.255' is 'abuse@akamai.com'
+
+inetnum:        92.122.84.0 - 92.122.87.255
+netname:        AKAMAI-PA
+descr:          Akamai Technologies
+country:        EU
+admin-c:        NARA1-RIPE
+tech-c:         NARA1-RIPE
+status:         ASSIGNED PA
+mnt-by:         AKAM1-RIPE-MNT
+mnt-routes:     AKAM1-RIPE-MNT
+changed:        ck@akamai.com 20091126
+created:        2009-11-26T14:59:11Z
+last-modified:  2009-11-26T14:59:11Z
+source:         RIPE
+
+role:           Network Architecture Role Account
+address:        Akamai Technologies
+address:        8 Cambridge Center
+address:        Cambridge, MA 02142
+phone:          +1-617-938-3130
+e-mail:         ip-admin@akamai.com
+abuse-mailbox:  abuse@akamai.com
+admin-c:        NF1714-RIPE
+admin-c:        CKAK-RIPE
+tech-c:         NF1714-RIPE
+tech-c:         JP1944-RIPE
+tech-c:         APB15-RIPE
+tech-c:         CKAK-RIPE
+tech-c:         MH7314-RIPE
+tech-c:         TBAK-RIPE
+tech-c:         MJAK-RIPE
+tech-c:         NB782-RIPE
+tech-c:         RM4844-RIPE
+nic-hdl:        NARA1-RIPE
+notify:         ip-admin@akamai.com
+changed:        mj@akamai.com 20130806
+changed:        torstenb@akamai.com 20140317
+changed:        torstenb@akamai.com 20140728
+mnt-by:         AKAM1-RIPE-MNT
+created:        2002-03-06T09:02:17Z
+last-modified:  2014-07-28T11:14:13Z
+source:         RIPE
+
+route:          92.122.0.0/15
+descr:          Akamai Technologies
+origin:         as31377
+mnt-by:         AKAM1-RIPE-MNT
+mnt-routes:     AKAM1-RIPE-MNT
+mnt-routes:     AS8426-MNT {92.122.112.0/23^+, 92.122.40.0/22^+}
+mnt-routes:     ATRATO-MNT { 92.123.74.0/24^+ }
+changed:        jzipkin@akamai.com 20130923
+changed:        jzipkin@akamai.com 20140903
+created:        2013-09-23T14:44:09Z
+last-modified:  2014-09-03T14:51:13Z
+source:         RIPE
+
+route:          92.122.0.0/15
+descr:          Akamai Technologies
+origin:         AS34164
+mnt-by:         AKAM1-RIPE-MNT
+changed:        ablock@akamai.com 20140518
+created:        2014-05-18T17:33:42Z
+last-modified:  2014-05-18T17:33:42Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

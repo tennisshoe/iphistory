@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Omeda Communications</registrant>
+    <registration>
+      <created>2001-06-06</created>
+      <updated>2012-05-07</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.28.15.0 - 208.28.15.255
+CIDR:           208.28.15.0/24
+NetName:        SPRINTLINK-FON-349149977679557
+NetHandle:      NET-208-28-15-0-1
+Parent:         SPRINTLINK-BLKS (NET-208-0-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS29717
+Organization:   Omeda Communications (OMEDAC)
+RegDate:        2001-06-06
+Updated:        2012-05-07
+Ref:            http://whois.arin.net/rest/net/NET-208-28-15-0-1
+
+OrgName:        Omeda Communications
+OrgId:          OMEDAC
+Address:        555 Huehl Road
+City:           Northbrook
+StateProv:      IL
+PostalCode:     60062
+Country:        US
+RegDate:        2001-03-07
+Updated:        2012-06-01
+Comment:        http://www.omeda.com
+Ref:            http://whois.arin.net/rest/org/OMEDAC
+
+OrgAbuseHandle: COMPL-ARIN
+OrgAbuseName:   Compliance Manager
+OrgAbusePhone:  +1-847-564-8900 
+OrgAbuseEmail:  abuse@omeda.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COMPL-ARIN
+
+OrgTechHandle: JPW-ARIN
+OrgTechName:   Will, Jason Patrick
+OrgTechPhone:  +1-847-564-8900 
+OrgTechEmail:  jwill@omeda.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JPW-ARIN
+
+RTechHandle: JPW-ARIN
+RTechName:   Will, Jason Patrick
+RTechPhone:  +1-847-564-8900 
+RTechEmail:  jwill@omeda.com
+RTechRef:    http://whois.arin.net/rest/poc/JPW-ARIN
+
+RAbuseHandle: ABUSE2473-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-847-564-8900 
+RAbuseEmail:  abuse@omeda.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2473-ARIN
+
+RNOCHandle: JPW-ARIN
+RNOCName:   Will, Jason Patrick
+RNOCPhone:  +1-847-564-8900 
+RNOCEmail:  jwill@omeda.com
+RNOCRef:    http://whois.arin.net/rest/poc/JPW-ARIN
+
+NetRange:       208.0.0.0 - 208.35.255.255
+CIDR:           208.0.0.0/11, 208.32.0.0/14
+NetName:        SPRINTLINK-BLKS
+NetHandle:      NET-208-0-0-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Sprint (SPRN)
+RegDate:        1996-03-13
+Updated:        2000-10-27
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-208-0-0-0-1
+
+OrgName:        Sprint
+OrgId:          SPRN
+Address:        12502 Sunrise Valley Drive
+City:           Reston
+StateProv:      VA
+PostalCode:     20196
+Country:        US
+RegDate:        
+Updated:        2014-12-04
+Comment:        For abuse issues please send email to ABUSE@SPRINT.NET
+Comment:        only. Law Enforcement requests should call the Corporate Security Hotline at 800-877-7330, option 3
+Ref:            http://whois.arin.net/rest/org/SPRN
+
+OrgTechHandle: KRW1-ARIN
+OrgTechName:   West, Ken R
+OrgTechPhone:  +1-703-689-7173 
+OrgTechEmail:  ken.r.west@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KRW1-ARIN
+
+OrgTechHandle: SIE-ARIN
+OrgTechName:   Sprint IP Engineering
+OrgTechPhone:  +1-703-592-4850 
+OrgTechEmail:  deipaddy@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SIE-ARIN
+
+OrgAbuseHandle: SAET-ARIN
+OrgAbuseName:   Sprint AUP Enforcement Team
+OrgAbusePhone:  +1-800-232-6895 
+OrgAbuseEmail:  abuse@sprint.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SAET-ARIN
+
+OrgNOCHandle: SPRINT-NOC-ARIN
+OrgNOCName:   IP Services
+OrgNOCPhone:  +1-800-232-6895 
+OrgNOCEmail:  ipsa.noc@sprint.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SPRINT-NOC-ARIN
+
+OrgTechHandle: DRW52-ARIN
+OrgTechName:   Williams, David R
+OrgTechPhone:  +1-913-794-7784 
+OrgTechEmail:  david.r.williams@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DRW52-ARIN
+
+OrgTechHandle: CHUYI-ARIN
+OrgTechName:   Chu, Yi 
+OrgTechPhone:  +1-703-592-4850 
+OrgTechEmail:  yi.chu@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CHUYI-ARIN
+
+OrgTechHandle: BUDDK-ARIN
+OrgTechName:   Budd, Kenneth 
+OrgTechPhone:  +1-866-886-4187 
+OrgTechEmail:  kenneth.l.budd@sprint.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BUDDK-ARIN
+
+OrgTechHandle: ARINS-ARIN
+OrgTechName:   arin-sprint-iprequest
+OrgTechPhone:  +1-800-232-3458 
+OrgTechEmail:  ip-req@sprint.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ARINS-ARIN
+
+RTechHandle: SPRINT-NOC-ARIN
+RTechName:   IP Services
+RTechPhone:  +1-800-232-6895 
+RTechEmail:  ipsa.noc@sprint.com
+RTechRef:    http://whois.arin.net/rest/poc/SPRINT-NOC-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

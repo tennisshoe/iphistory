@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Casablanca INT</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.11.224.0 - 217.11.255.255' is 'abuse@casablanca.cz'
+
+inetnum:        217.11.224.0 - 217.11.255.255
+org:            ORG-CI1-RIPE
+netname:        CZ-CASABLANCA-20000823
+descr:          Casablanca INT
+country:        CZ
+admin-c:        JH1771-RIPE
+admin-c:        CASA3-RIPE
+tech-c:         JH1771-RIPE
+tech-c:         CASA3-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      CASABLANCA-RIPE-MNT
+mnt-lower:      JH1771-RIPE-MNT
+mnt-routes:     JH1771-RIPE-MNT
+changed:        hostmaster@ripe.net 20000823
+changed:        hostmaster@ripe.net 20010704
+changed:        lir-help@ripe.net 20011214
+changed:        hostmaster@ripe.net 20040926
+changed:        hostmaster@ripe.net 20050923
+changed:        bitbucket@ripe.net 20090410
+changed:        bitbucket@ripe.net 20091020
+changed:        bitbucket@ripe.net 20091021
+changed:        hostmaster@ripe.net 20091105
+changed:        bit-bucket@ripe.net 20150702
+created:        2001-12-14T14:22:32Z
+last-modified:  2015-07-02T13:57:47Z
+source:         RIPE
+
+organisation:   ORG-CI1-RIPE
+org-name:       Casablanca INT
+org-type:       LIR
+address:        Plzenska 183/181 Prague 5
+address:        15000
+address:        Prague
+address:        CZECH REPUBLIC
+phone:          +420270000270
+fax-no:         +420270000277
+e-mail:         hostmaster@casablanca.cz
+admin-c:        JH1771-RIPE
+admin-c:        MS29114-RIPE
+mnt-ref:        MS29114-RIPE-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        JH1771-RIPE-MNT
+notify:         hostmaster@casablanca.cz
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        CASA3-RIPE
+changed:        bitbucket@ripe.net 20150702
+changed:        bit-bucket@ripe.net 20150702
+created:        2004-04-17T11:04:09Z
+last-modified:  2015-07-02T14:07:28Z
+source:         RIPE
+
+role:           Casablanca INT RIPE manager
+address:        Casablanca INT
+address:        Vinohradska 184, Prague 3 - 130 52
+address:        Czech republic
+phone:          +420 270 000 270
+fax-no:         +420 270 000 277
+e-mail:         hostmaster@casablanca.cz
+abuse-mailbox:  abuse@casablanca.cz
+admin-c:        JH1771-RIPE
+tech-c:         JH1771-RIPE
+notify:         hostmaster@casablanca.cz
+nic-hdl:        CASA3-RIPE
+changed:        jan.hampl@casablanca.cz 20150703
+created:        2005-09-05T10:42:10Z
+last-modified:  2015-07-03T11:19:49Z
+source:         RIPE
+mnt-by:         CASABLANCA-CORE-MNT
+
+person:         Jan Hampl
+address:        Casablanca INT s.r.o.
+address:        Vinohradska 184
+address:        130 52 Praha 3
+address:        The Czech Republic
+phone:          +420 270 000 262
+fax-no:         +420 270 000 277
+e-mail:         jan.hampl@casablanca.cz
+nic-hdl:        JH1771-RIPE
+notify:         jan.hampl@casablanca.cz
+changed:        jan.hampl@casablanca.cz 20150713
+created:        2003-02-28T14:37:38Z
+last-modified:  2015-07-13T11:04:26Z
+source:         RIPE
+mnt-by:         JH1771-RIPE-MNT
+
+route:          217.11.240.0/20
+descr:          Casablanca INT
+origin:         AS15685
+mnt-by:         CASABLANCA-CORE-MNT
+changed:        lubos.pinkava@casablanca.cz 20140409
+created:        2006-05-26T08:10:20Z
+last-modified:  2014-04-09T10:37:41Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

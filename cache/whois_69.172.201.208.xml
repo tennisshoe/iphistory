@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DosArrest</registrant>
+    <registration>
+      <created>2010-05-12</created>
+      <updated>2010-12-15</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.172.200.0 - 69.172.201.255
+CIDR:           69.172.200.0/23
+NetName:        PEER1-DOSARREST-01
+NetHandle:      NET-69-172-200-0-1
+Parent:         PEER1-BLK-14 (NET-69-172-192-0-1)
+NetType:        Reassigned
+OriginAS:       AS13768
+Customer:       DosArrest (C02492651)
+RegDate:        2010-05-12
+Updated:        2010-12-15
+Comment:        DDoS Protection services
+Ref:            http://whois.arin.net/rest/net/NET-69-172-200-0-1
+
+CustName:       DosArrest
+Address:        600 West 7th Street
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90017
+Country:        US
+RegDate:        2010-05-12
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02492651
+
+OrgAbuseHandle: NSA-ARIN
+OrgAbuseName:   Peer 1 Network AUP Enforcement
+OrgAbusePhone:  +1-604-484-2588 
+OrgAbuseEmail:  abuse@peer1.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NSA-ARIN
+
+OrgTechHandle: ZP55-ARIN
+OrgTechName:   PEER 1 Network Inc
+OrgTechPhone:  +1-604-484-2588 
+OrgTechEmail:  net-admin@peer1.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ZP55-ARIN
+
+RTechHandle: ZP55-ARIN
+RTechName:   PEER 1 Network Inc
+RTechPhone:  +1-604-484-2588 
+RTechEmail:  net-admin@peer1.net
+RTechRef:    http://whois.arin.net/rest/poc/ZP55-ARIN
+
+RAbuseHandle: NSA-ARIN
+RAbuseName:   Peer 1 Network AUP Enforcement
+RAbusePhone:  +1-604-484-2588 
+RAbuseEmail:  abuse@peer1.net
+RAbuseRef:    http://whois.arin.net/rest/poc/NSA-ARIN
+
+RNOCHandle: ZP55-ARIN
+RNOCName:   PEER 1 Network Inc
+RNOCPhone:  +1-604-484-2588 
+RNOCEmail:  net-admin@peer1.net
+RNOCRef:    http://whois.arin.net/rest/poc/ZP55-ARIN
+
+NetRange:       69.172.192.0 - 69.172.255.255
+CIDR:           69.172.192.0/18
+NetName:        PEER1-BLK-14
+NetHandle:      NET-69-172-192-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Peer 1 Network (USA) Inc. (PER1)
+RegDate:        2009-03-17
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-69-172-192-0-1
+
+OrgName:        Peer 1 Network (USA) Inc.
+OrgId:          PER1
+Address:        75 Broad Street
+Address:        2nd Floor
+City:           New York
+StateProv:      NY
+PostalCode:     10004
+Country:        US
+RegDate:        
+Updated:        2014-03-10
+Ref:            http://whois.arin.net/rest/org/PER1
+
+OrgAbuseHandle: NSA-ARIN
+OrgAbuseName:   Peer 1 Network AUP Enforcement
+OrgAbusePhone:  +1-604-484-2588 
+OrgAbuseEmail:  abuse@peer1.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NSA-ARIN
+
+OrgTechHandle: ZP55-ARIN
+OrgTechName:   PEER 1 Network Inc
+OrgTechPhone:  +1-604-484-2588 
+OrgTechEmail:  net-admin@peer1.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ZP55-ARIN
+
+RTechHandle: ZP55-ARIN
+RTechName:   PEER 1 Network Inc
+RTechPhone:  +1-604-484-2588 
+RTechEmail:  net-admin@peer1.net
+RTechRef:    http://whois.arin.net/rest/poc/ZP55-ARIN
+
+RAbuseHandle: NSA-ARIN
+RAbuseName:   Peer 1 Network AUP Enforcement
+RAbusePhone:  +1-604-484-2588 
+RAbuseEmail:  abuse@peer1.net
+RAbuseRef:    http://whois.arin.net/rest/poc/NSA-ARIN
+
+RNOCHandle: ZP55-ARIN
+RNOCName:   PEER 1 Network Inc
+RNOCPhone:  +1-604-484-2588 
+RNOCEmail:  net-admin@peer1.net
+RNOCRef:    http://whois.arin.net/rest/poc/ZP55-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

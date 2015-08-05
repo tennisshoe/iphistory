@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NTT America IP Addressing</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.231.180.0 - 83.231.180.255' is 'abuse@us.ntt.net'
+
+inetnum:        83.231.180.0 - 83.231.180.255
+netname:        DELTATRE-NET
+descr:          Deltatre
+country:        GB
+admin-c:        GR1623-RIPE
+tech-c:         NAIA1-RIPE
+status:         ASSIGNED PA
+mnt-by:         MAINT-VIPAR
+notify:         vipar@us.ntt.net
+changed:        kpack@us.ntt.net 20090121
+changed:        terig@us.ntt.net 20091208
+created:        2009-01-21T15:38:18Z
+last-modified:  2009-12-08T00:43:53Z
+source:         RIPE
+
+role:           NTT America IP Addressing
+address:        8005 S Chester ST
+address:        Suite 200
+address:        Englewood, CO 80112
+address:        United States
+phone:          +1 303 645-1900
+e-mail:         vipar@us.ntt.net
+remarks:        Abuse/UCE: abuse@us.ntt.net
+remarks:        Network: noc@us.ntt.net
+remarks:        Security issues: security@us.ntt.net
+admin-c:        TG7672-RIPE
+tech-c:         TG7672-RIPE
+tech-c:         TF377-RIPE
+tech-c:         KP1186-RIPE
+tech-c:         LP508-RIPE
+nic-hdl:        NAIA1-RIPE
+notify:         vipar@us.ntt.net
+mnt-by:         MAINT-VIPAR
+changed:        terig@us.ntt.net 20091203
+created:        2009-12-03T19:15:21Z
+last-modified:  2009-12-03T19:15:21Z
+source:         RIPE
+abuse-mailbox:  abuse@us.ntt.net
+
+person:         Giampiero Rinaudo
+address:        Delta Tre Informatica
+address:        Via F. Millio 41
+address:        I-10141 Torino
+address:        Italy
+phone:          +39 011 3857111
+fax-no:         +39 011 3859177
+e-mail:         gipi@deltatre.it
+nic-hdl:        GR1623-RIPE
+changed:        hostmaster@iunet.it 19950208
+changed:        hostmaster@inet.it 19950721
+changed:        hostmaster@nic.it 19990422
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T00:11:10Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

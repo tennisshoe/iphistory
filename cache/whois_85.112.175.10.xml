@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Availo NetCamp AB</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '85.112.160.0 - 85.112.191.255' is 'abuse@port80.se'
+
+inetnum:        85.112.160.0 - 85.112.191.255
+netname:        SE-NETCAMP-20050131
+descr:          Availo NetCamp AB
+country:        SE
+org:            ORG-NA128-RIPE
+admin-c:        JS26288-RIPE
+tech-c:         JS26288-RIPE
+status:         ALLOCATED PA
+remarks:        Trouble to abuse@netcamp.se
+notify:         registry@netcamp.se
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      NETCAMP-MNT
+mnt-routes:     NETCAMP-MNT
+mnt-routes:     TELE1-SE-MNT
+changed:        hostmaster@ripe.net 20050131
+changed:        hostmaster@ripe.net 20050315
+changed:        hostmaster@ripe.net 20050315
+changed:        hostmaster@ripe.net 20111003
+created:        2005-01-31T10:57:49Z
+last-modified:  2011-10-03T14:19:36Z
+source:         RIPE
+
+organisation:   ORG-NA128-RIPE
+org-name:       Availo NetCamp AB
+org-type:       LIR
+address:        Availo NetCamp AB
+address:        Johan Sorliden
+address:        Datalinjen 5B
+address:        583 30
+address:        Linkoping
+address:        SWEDEN
+phone:          +4613363900
+fax-no:         +4613363997
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        NETCAMP-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        KO6-RIPE
+admin-c:        CK1578-RIPE
+abuse-c:        PORT80-SE
+created:        2005-01-27T06:11:32Z
+last-modified:  2014-03-20T15:27:15Z
+source:         RIPE
+e-mail:         registry@netcamp.se
+changed:        bitbucket@ripe.net 20140320
+
+person:         Johan Sorliden
+address:        NetCamp AB
+address:        Teknikringen 1F
+address:        SE-58330 Linkoping
+address:        Sweden
+e-mail:         johan@netcamp.se
+phone:          +46 13 363900
+fax-no:         +46 13 363997
+mnt-by:         NETCAMP-MNT
+nic-hdl:        JS26288-RIPE
+changed:        kandra@utfors.se 20010614
+changed:        tkje@telenor.net 20050609
+created:        1970-01-01T00:00:00Z
+last-modified:  2005-06-09T13:52:49Z
+source:         RIPE
+
+route:          85.112.160.0/19
+descr:          NetCamp AB
+origin:         AS34556
+mnt-by:         NETCAMP-MNT
+created:        2005-04-04T11:00:16Z
+last-modified:  2005-04-04T11:00:16Z
+source:         RIPE
+changed:        registry@tdcsong.se 20050404</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Network Solutions, LLC</registrant>
+    <registration>
+      <created>2011-04-15</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.91.196.0 - 208.91.199.255
+CIDR:           208.91.196.0/22
+NetName:        CONFLUENCE-NETWORK-INC
+NetHandle:      NET-208-91-196-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS40034
+Organization:   Confluence Networks Inc (CN)
+RegDate:        2011-04-15
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-208-91-196-0-1
+
+OrgName:        Confluence Networks Inc
+OrgId:          CN
+Address:        3rd Floor, Omar Hodge Building, Wickhams
+Address:        Cay I, P.O. Box 362
+City:           Road Town
+StateProv:      Tortola
+PostalCode:     VG1110
+Country:        VG
+RegDate:        2011-04-07
+Updated:        2011-07-05
+Ref:            http://whois.arin.net/rest/org/CN
+
+OrgNOCHandle: NOCAD51-ARIN
+OrgNOCName:   NOC Admin
+OrgNOCPhone:  +1-415-223-2606 
+OrgNOCEmail:  noc@confluence-networks.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCAD51-ARIN
+
+OrgTechHandle: TECHA29-ARIN
+OrgTechName:   Tech Admin
+OrgTechPhone:  +1-415-358-0858 
+OrgTechEmail:  ipadmin@confluence-networks.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHA29-ARIN
+
+OrgAbuseHandle: ABUSE3065-ARIN
+OrgAbuseName:   Abuse Admin
+OrgAbusePhone:  +1-917-386-6118 
+OrgAbuseEmail:  abuse@confluence-networks.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3065-ARIN
+
+NetRange:       208.91.197.27 - 208.91.197.27
+CIDR:           208.91.197.27/32
+NetName:        NETSOL
+NetHandle:      NET-208-91-197-27-1
+Parent:         CONFLUENCE-NETWORK-INC (NET-208-91-196-0-1)
+NetType:        Reassigned
+OriginAS:       AS40034
+Customer:       Network Solutions, LLC (C05642671)
+RegDate:        2015-03-07
+Updated:        2015-03-07
+Comment:        For any abuse complaints, please send an email to
+Comment:        Nocsupport@networksolutions.com OR call at +1-703-668-4900
+Ref:            http://whois.arin.net/rest/net/NET-208-91-197-27-1
+
+CustName:       Network Solutions, LLC
+Address:        12808 Gran Bay Parkway West
+City:           San Jacksonville
+StateProv:      FL
+PostalCode:     32258
+Country:        US
+RegDate:        2015-03-07
+Updated:        2015-03-07
+Ref:            http://whois.arin.net/rest/customer/C05642671
+
+OrgNOCHandle: NOCAD51-ARIN
+OrgNOCName:   NOC Admin
+OrgNOCPhone:  +1-415-223-2606 
+OrgNOCEmail:  noc@confluence-networks.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCAD51-ARIN
+
+OrgTechHandle: TECHA29-ARIN
+OrgTechName:   Tech Admin
+OrgTechPhone:  +1-415-358-0858 
+OrgTechEmail:  ipadmin@confluence-networks.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHA29-ARIN
+
+OrgAbuseHandle: ABUSE3065-ARIN
+OrgAbuseName:   Abuse Admin
+OrgAbusePhone:  +1-917-386-6118 
+OrgAbuseEmail:  abuse@confluence-networks.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3065-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

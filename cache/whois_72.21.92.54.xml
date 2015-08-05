@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>EdgeCast Networks, Inc.</registrant>
+    <registration>
+      <created>2007-04-23</created>
+      <updated>2012-03-20</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       72.21.80.0 - 72.21.95.255
+CIDR:           72.21.80.0/20
+NetName:        EDGECAST-NETBLK-01
+NetHandle:      NET-72-21-80-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS15133
+Organization:   EdgeCast Networks, Inc. (EDGEC-1)
+RegDate:        2007-04-23
+Updated:        2012-03-20
+Ref:            http://whois.arin.net/rest/net/NET-72-21-80-0-1
+
+OrgName:        EdgeCast Networks, Inc.
+OrgId:          EDGEC-1
+Address:        2850 Ocean Park Blvd.
+Address:        Suite 110
+City:           Santa Monica
+StateProv:      CA
+PostalCode:     90405
+Country:        US
+RegDate:        2007-03-09
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/EDGEC-1
+
+OrgTechHandle: NOC2475-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-310-479-3200 
+OrgTechEmail:  noc@edgecast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2475-ARIN
+
+OrgAbuseHandle: NOC2475-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-310-479-3200 
+OrgAbuseEmail:  noc@edgecast.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC2475-ARIN
+
+OrgNOCHandle: NOC2475-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-310-479-3200 
+OrgNOCEmail:  noc@edgecast.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC2475-ARIN
+
+RNOCHandle: NOC2475-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-310-479-3200 
+RNOCEmail:  noc@edgecast.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2475-ARIN
+
+RTechHandle: NOC2475-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-310-479-3200 
+RTechEmail:  noc@edgecast.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC2475-ARIN
+
+RAbuseHandle: NOC2475-ARIN
+RAbuseName:   Network Operations Center
+RAbusePhone:  +1-310-479-3200 
+RAbuseEmail:  noc@edgecast.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC2475-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

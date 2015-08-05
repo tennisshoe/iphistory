@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Host Europe Ripehandle</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.237.201.0 - 80.237.201.127' is 'abuse@hosteurope.de'
+
+inetnum:        80.237.201.0 - 80.237.201.127
+remarks:        INFRA-AW
+netname:        HE-SA-CGN-NET
+descr:          Hosteurope GmbH
+descr:          koeln@hosteurope.de
+country:        DE
+admin-c:        HER
+tech-c:         HER
+status:         ASSIGNED PA
+notify:         notify@hosteurope.de
+mnt-by:         HOSTEUROPE-MNT
+changed:        hostmaster@hosteurope.de 20020430
+created:        2002-11-15T14:31:22Z
+last-modified:  2010-11-25T17:06:38Z
+source:         RIPE
+
+role:           Host Europe Ripehandle
+address:        Welserstrasse 14
+address:        51149 Koeln
+phone:          +49 2203 1045 0
+e-mail:         hostmaster@hosteurope.de
+abuse-mailbox:  abuse@hosteurope.de
+admin-c:        BURN
+admin-c:        HONK
+admin-c:        JUPP
+admin-c:        MATE
+admin-c:        METT
+admin-c:        MOMO
+admin-c:        OUZO
+admin-c:        SEPP
+admin-c:        WIRR
+tech-c:         BURN
+tech-c:         HONK
+tech-c:         JUPP
+tech-c:         MATE
+tech-c:         METT
+tech-c:         MOMO
+tech-c:         OUZO
+tech-c:         SEPP
+tech-c:         WIRR
+nic-hdl:        HER
+notify:         hostmaster@hosteurope.de
+mnt-by:         HOSTEUROPE-MNT
+changed:        mm@hosteurope.de 20040909
+changed:        to@hosteurope.de 20050505
+changed:        mm@hosteurope.de 20060106
+changed:        kse@hosteurope.de 20080116
+changed:        mvh@hosteurope.de 20101124
+changed:        to@hosteurope.de 20121030
+changed:        mvh@hosteurope.de 20140416
+created:        2004-09-09T19:09:50Z
+last-modified:  2014-04-16T11:14:05Z
+source:         RIPE
+
+route:          80.237.128.0/17
+descr:          DE-HEC-80-237-128
+origin:         AS20773
+member-of:      AS20773:RS-HOSTEUROPE
+notify:         notify@hosteurope.de
+mnt-by:         HOSTEUROPE-MNT
+changed:        hostmaster@hosteurope.de 20011114
+changed:        fs@hosteurope.de 20050831
+changed:        mvh@hosteurope.de 20100428
+created:        2001-11-14T10:16:09Z
+last-modified:  2010-04-28T09:51:43Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

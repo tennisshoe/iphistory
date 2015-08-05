@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Ruslan Doroshenko</registrant>
+    <registration>
+      <created>2009-05-13</created>
+      <updated>2009-12-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.105.85.160 - 216.105.85.175
+CIDR:           216.105.85.160/28
+NetName:        COLOSS-VLAN155-BLK2
+NetHandle:      NET-216-105-85-160-1
+Parent:         COLOSSEUM-ONLINE-INC-1 (NET-216-105-80-0-1)
+NetType:        Reassigned
+OriginAS:       AS19842
+Customer:       Ruslan Doroshenko (C02225496)
+RegDate:        2009-05-13
+Updated:        2009-12-18
+Comment:        Colocation Subnet
+Ref:            http://whois.arin.net/rest/net/NET-216-105-85-160-1
+
+CustName:       Ruslan Doroshenko
+Address:        800 Petrolia Rd.
+Address:        Unit 8
+City:           Toronto
+StateProv:      ON
+PostalCode:     M3J-3K4
+Country:        CA
+RegDate:        2009-05-13
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02225496
+
+OrgTechHandle: IPADM58-ARIN
+OrgTechName:   IP Administration
+OrgTechPhone:  +1-416-739-7873 
+OrgTechEmail:  ip-admin@colosseum.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM58-ARIN
+
+OrgAbuseHandle: IPADM58-ARIN
+OrgAbuseName:   IP Administration
+OrgAbusePhone:  +1-416-739-7873 
+OrgAbuseEmail:  ip-admin@colosseum.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPADM58-ARIN
+
+NetRange:       216.105.80.0 - 216.105.95.255
+CIDR:           216.105.80.0/20
+NetName:        COLOSSEUM-ONLINE-INC-1
+NetHandle:      NET-216-105-80-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS19842
+Organization:   Colosseum Online, Inc. (CLSM)
+RegDate:        2008-05-21
+Updated:        2012-03-02
+Comment:        http://www.colosseum.com/
+Ref:            http://whois.arin.net/rest/net/NET-216-105-80-0-1
+
+OrgName:        Colosseum Online, Inc.
+OrgId:          CLSM
+Address:        800 Petrolia Rd.
+Address:        Unit 8
+City:           North York
+StateProv:      ON
+PostalCode:     M3J-3K4
+Country:        CA
+RegDate:        1999-12-08
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/CLSM
+
+OrgTechHandle: IPADM58-ARIN
+OrgTechName:   IP Administration
+OrgTechPhone:  +1-416-739-7873 
+OrgTechEmail:  ip-admin@colosseum.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM58-ARIN
+
+OrgAbuseHandle: IPADM58-ARIN
+OrgAbuseName:   IP Administration
+OrgAbusePhone:  +1-416-739-7873 
+OrgAbuseEmail:  ip-admin@colosseum.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IPADM58-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Contabo GmbH</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '193.37.152.128 - 193.37.152.255' is 'abuse@contabo.de'
+
+inetnum:        193.37.152.128 - 193.37.152.255
+netname:        CONTABO
+descr:          Contabo GmbH
+country:        DE
+org:            ORG-GG22-RIPE
+admin-c:        MH7476-RIPE
+tech-c:         MH7476-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-CONTABO
+changed:        michael.herpich@contabo.de 20140820
+created:        2014-08-20T11:38:44Z
+last-modified:  2014-08-20T11:38:44Z
+source:         RIPE
+
+organisation:   ORG-GG22-RIPE
+org-name:       Contabo GmbH
+org-type:       LIR
+address:        Contabo GmbH
+address:        Aschauer Strasse 32a
+address:        81549
+address:        Munchen
+address:        GERMANY
+phone:          +498921268372
+fax-no:         +498921665862
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MNT-CONTABO
+remarks:        * Please direct all complaints about Internet abuse like Spam, hacking or scans *
+remarks:        * to abuse@contabo.de . This will guarantee fastest processing possible. *
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-mailbox:  abuse@contabo.de
+abuse-c:        MH12453-RIPE
+created:        2009-12-09T13:41:08Z
+last-modified:  2014-04-14T13:37:33Z
+source:         RIPE
+e-mail:         michael.herpich@contabo.de
+changed:        bitbucket@ripe.net 20140414
+
+person:         Michael Herpich
+address:        Contabo GmbH
+address:        Aschauer Str. 32a
+address:        81549 Muenchen
+phone:          +49 89 21268372
+fax-no:         +49 89 21665862
+nic-hdl:        MH7476-RIPE
+mnt-by:         MNT-CONTABO
+changed:        michael.herpich@contabo.de 20121226
+created:        2010-01-04T10:41:37Z
+last-modified:  2012-12-26T06:13:37Z
+source:         RIPE
+
+route:          193.37.152.0/24
+descr:          CONTABO
+origin:         AS51167
+mnt-by:         MNT-CONTABO
+changed:        michael.herpich@contabo.de 20121226
+created:        2010-06-21T10:44:47Z
+last-modified:  2012-12-26T07:13:00Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

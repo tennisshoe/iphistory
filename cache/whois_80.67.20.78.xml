@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Stephan Wolfram</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.67.20.0 - 80.67.21.255' is 'abuse@ispgateway.de'
+
+inetnum:        80.67.20.0 - 80.67.21.255
+netname:        DOMAINFACTORY
+descr:          COLOCATION LEVEL3
+country:        DE
+admin-c:        TSM22-RIPE
+tech-c:         JT218-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-DOMAINFACTORY
+changed:        sf@df.eu 20090715
+created:        2005-03-23T12:39:38Z
+last-modified:  2009-07-15T09:59:32Z
+source:         RIPE
+
+person:         Stephan Wolfram
+address:        domainfactory GmbH
+address:        Oskar-Messter-Str. 33
+address:        85737 Ismaning
+address:        DE
+phone:          +49 89 55266 0
+fax-no:         +49 89 55266 222
+nic-hdl:        JT218-RIPE
+remarks:        technical issues only please
+mnt-by:         MNT-DOMAINFACTORY
+created:        2001-11-19T17:26:52Z
+last-modified:  2015-04-07T10:51:58Z
+source:         RIPE
+abuse-mailbox:  abuse@ispgateway.de
+changed:        noc@domainfactory.de 20150407
+
+person:         Stephan Wolfram
+address:        domainfactory GmbH
+address:        Oskar-Messter-Str. 33
+address:        85737 Ismaning
+address:        DE
+phone:          +49 89 55266 0
+fax-no:         +49 89 55266 222
+e-mail:         swolfram@df.eu
+nic-hdl:        TSM22-RIPE
+notify:         swolfram@df.eu
+changed:        nschmidt@df.eu 20150407
+created:        2009-07-15T09:40:27Z
+last-modified:  2015-04-07T10:50:53Z
+source:         RIPE
+mnt-by:         MNT-DOMAINFACTORY
+
+route:          80.67.16.0/20
+descr:          DOMAINFACTORY
+origin:         AS34011
+notify:         lir@domainfactory.de
+changed:        sf@domainfactory.de 20040930
+created:        2004-09-30T08:28:30Z
+last-modified:  2004-10-21T12:50:38Z
+source:         RIPE
+mnt-by:         MNT-DOMAINFACTORY</record>
+    </whois>
+  </response>
+</whoisapi>
+

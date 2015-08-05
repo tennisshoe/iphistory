@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>SoftLayer Technologies Inc.</registrant>
+    <registration>
+      <created>2009-07-21</created>
+      <updated>2013-07-12</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       173.192.0.0 - 173.193.255.255
+CIDR:           173.192.0.0/15
+NetName:        SOFTLAYER-4-8
+NetHandle:      NET-173-192-0-0-1
+Parent:         NET173 (NET-173-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36351
+Organization:   SoftLayer Technologies Inc. (SOFTL)
+RegDate:        2009-07-21
+Updated:        2013-07-12
+Ref:            http://whois.arin.net/rest/net/NET-173-192-0-0-1
+
+OrgName:        SoftLayer Technologies Inc.
+OrgId:          SOFTL
+Address:        4849 Alpha Rd.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75244
+Country:        US
+RegDate:        2005-10-26
+Updated:        2013-02-20
+Ref:            http://whois.arin.net/rest/org/SOFTL
+
+ReferralServer:  rwhois://rwhois.softlayer.com:4321
+
+OrgTechHandle: IPADM258-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-214-442-0601 
+OrgTechEmail:  ipadmin@softlayer.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+OrgAbuseHandle: ABUSE1025-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-214-442-0601 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1025-ARIN
+
+RTechHandle: IPADM258-ARIN
+RTechName:   IP Admin
+RTechPhone:  +1-214-442-0601 
+RTechEmail:  ipadmin@softlayer.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+RNOCHandle: IPADM258-ARIN
+RNOCName:   IP Admin
+RNOCPhone:  +1-214-442-0601 
+RNOCEmail:  ipadmin@softlayer.com
+RNOCRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+RAbuseHandle: ABUSE1025-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-214-442-0601 
+RAbuseEmail:  abuse@softlayer.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1025-ARIN
+
+== Additional Information From rwhois://rwhois.softlayer.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.softlayer.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:NETBLK-SOFTLAYER.173.192.0.0/18
+network:Auth-Area:173.192.0.0/18
+network:Network-Name:SOFTLAYER-173.192.0.0
+network:IP-Network:173.192.24.112/28
+network:IP-Network-Block:173.192.24.112-173.192.24.127
+network:Organization;I:SoftLayer
+network:Street-Address:4849 Alpha Road
+network:City:Dallas
+network:State:TX
+network:Postal-Code:75244
+network:Country-Code:US
+network:Tech-Contact;I:sysadmins@softlayer.com
+network:Abuse-Contact;I:abuse@softlayer.com
+network:Admin-Contact;I:IPADM258-ARIN
+network:Created:2010-01-14 10:53:48
+network:Updated:2015-06-26 19:37:24
+network:Updated-By:ipadmin@softlayer.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

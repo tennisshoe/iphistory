@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Internet Service Provider</registrant>
+    <registration>
+      <updated>2008-07-30</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        115.112.0.0 - 115.119.255.255
+netname:        TATACOMM-IN
+descr:          Internet Service Provider
+descr:          TATA Communications formerly VSNL is Leading ISP,
+descr:          Data and Voice Carrier in India
+admin-c:        TC651-AP
+tech-c:         TC651-AP
+country:        IN
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-TATACOMM-IN
+mnt-irt:        IRT-TATACOMM-IN
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20080730
+changed:        hm-changed@apnic.net 20080826
+changed:        hm-changed@apnic.net 20080827
+changed:        hm-changed@apnic.net 20120221
+source:         APNIC
+
+irt:            IRT-TATACOMM-IN
+address:        6th Floor, LVSB, VSNL
+address:        Kashinath Dhuru marg, Prabhadevi
+address:        Dadar(W), Mumbai 400028
+address:        India
+e-mail:         ip.admin@tatacommunications.com
+abuse-mailbox:  4755abuse@tatacommunications.com
+admin-c:        IA15-AP
+tech-c:         IA15-AP
+auth:           # Filtered
+mnt-by:         MAINT-TATACOMM-IN
+changed:        4755abuse@tatacommunications.com 20101123
+source:         APNIC
+
+role:           TATA Communications
+nic-hdl:        TC651-AP
+address:        6th Floor,A Tower, BKC
+address:        Plot Nos. C-21 &amp; C-36
+address:        'G' Block, Bandra Kurla Complex, Mumbai
+phone:          +91-22-66591637
+country:        IN
+e-mail:         ip.admin@tatacommunications.com
+admin-c:        IA15-AP
+tech-c:         VT43-AP
+mnt-by:         MAINT-TATACOMM-IN
+changed:        hm-changed@apnic.net 20080826
+changed:        hm-changed@apnic.net 20080827
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

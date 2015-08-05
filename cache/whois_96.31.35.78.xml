@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Host Collective, Inc.</registrant>
+    <registration>
+      <created>2008-12-15</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       96.31.32.0 - 96.31.47.255
+CIDR:           96.31.32.0/20
+NetName:        HCI-BLK-1
+NetHandle:      NET-96-31-32-0-1
+Parent:         NET96 (NET-96-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS14415
+Organization:   Host Collective, Inc. (HOSTC-5)
+RegDate:        2008-12-15
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-96-31-32-0-1
+
+OrgName:        Host Collective, Inc.
+OrgId:          HOSTC-5
+Address:        2700 East Foothill Blvd.
+Address:        Suite 201
+City:           Pasadena
+StateProv:      CA
+PostalCode:     91107
+Country:        US
+RegDate:        2006-11-15
+Updated:        2011-04-20
+Ref:            http://whois.arin.net/rest/org/HOSTC-5
+
+ReferralServer:  rwhois://64.79.161.18:4321
+
+OrgAbuseHandle: NETWO1817-ARIN
+OrgAbuseName:   Network Operation
+OrgAbusePhone:  +1-626-351-6188 
+OrgAbuseEmail:  noc@hostcollective.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN
+
+OrgNOCHandle: NETWO1817-ARIN
+OrgNOCName:   Network Operation
+OrgNOCPhone:  +1-626-351-6188 
+OrgNOCEmail:  noc@hostcollective.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN
+
+OrgTechHandle: NOCJ1-ARIN
+OrgTechName:   Network Operations Center, Javier 
+OrgTechPhone:  +1-626-628-3430 
+OrgTechEmail:  noc@hostcollective.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOCJ1-ARIN
+
+OrgTechHandle: NETWO1817-ARIN
+OrgTechName:   Network Operation
+OrgTechPhone:  +1-626-351-6188 
+OrgTechEmail:  noc@hostcollective.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN
+
+RNOCHandle: NETWO1817-ARIN
+RNOCName:   Network Operation
+RNOCPhone:  +1-626-351-6188 
+RNOCEmail:  noc@hostcollective.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN
+
+RTechHandle: NETWO1817-ARIN
+RTechName:   Network Operation
+RTechPhone:  +1-626-351-6188 
+RTechEmail:  noc@hostcollective.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN
+
+RAbuseHandle: NETWO1817-ARIN
+RAbuseName:   Network Operation
+RAbusePhone:  +1-626-351-6188 
+RAbuseEmail:  noc@hostcollective.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NETWO1817-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

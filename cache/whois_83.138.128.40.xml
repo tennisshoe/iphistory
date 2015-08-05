@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>IP Admin</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.138.128.0 - 83.138.128.63' is 'abuse@rackspace.com'
+
+inetnum:        83.138.128.0 - 83.138.128.63
+netname:        RSPC-UK-CORE-One-Hour-Servers
+descr:          CORE One-Hour Servers IP Space
+country:        GB
+admin-c:        IA247-RIPE
+tech-c:         IA247-RIPE
+status:         ASSIGNED PA
+notify:         hostmaster@rackspace.com
+mnt-by:         RSPC-MNT
+changed:        hostmaster@rackspace.com 20130211
+created:        2006-05-15T18:08:04Z
+last-modified:  2013-02-11T14:24:35Z
+source:         RIPE
+
+person:         IP Admin
+address:        Rackspace Hosting 5000 Walzem, San Antonio, Texas 78218
+phone:          +1 210 312 4000
+fax-no:         +1 210 312 4000
+e-mail:         ipadmin@rackspace.com
+nic-hdl:        IA247-RIPE
+remarks:        ###  Rackspace Abuse Department
+remarks:        ###  Please send any complaints to the following:
+remarks:        ###  abuse@rackspace.com
+notify:         ipadmin@rackspace.com
+mnt-by:         RSPC-MNT
+changed:        ipadmin@rackspace.com 20021021
+created:        2002-08-28T21:43:52Z
+last-modified:  2012-07-17T18:57:35Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Network Architecture Role Account</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '2.19.128.0 - 2.19.143.255' is 'abuse@akamai.com'
+
+inetnum:        2.19.128.0 - 2.19.143.255
+netname:        AKAMAI-PA
+descr:          Akamai Technologies
+country:        EU
+admin-c:        NARA1-RIPE
+tech-c:         NARA1-RIPE
+status:         ASSIGNED PA
+mnt-by:         AKAM1-RIPE-MNT
+mnt-routes:     AKAM1-RIPE-MNT
+changed:        ip-admin@akamai.com  20120813
+created:        2012-08-13T16:23:03Z
+last-modified:  2012-08-13T16:23:03Z
+source:         RIPE
+
+role:           Network Architecture Role Account
+address:        Akamai Technologies
+address:        8 Cambridge Center
+address:        Cambridge, MA 02142
+phone:          +1-617-938-3130
+e-mail:         ip-admin@akamai.com
+abuse-mailbox:  abuse@akamai.com
+admin-c:        NF1714-RIPE
+admin-c:        CKAK-RIPE
+tech-c:         NF1714-RIPE
+tech-c:         JP1944-RIPE
+tech-c:         APB15-RIPE
+tech-c:         CKAK-RIPE
+tech-c:         MH7314-RIPE
+tech-c:         TBAK-RIPE
+tech-c:         MJAK-RIPE
+tech-c:         NB782-RIPE
+tech-c:         RM4844-RIPE
+nic-hdl:        NARA1-RIPE
+notify:         ip-admin@akamai.com
+changed:        mj@akamai.com 20130806
+changed:        torstenb@akamai.com 20140317
+changed:        torstenb@akamai.com 20140728
+mnt-by:         AKAM1-RIPE-MNT
+created:        2002-03-06T09:02:17Z
+last-modified:  2014-07-28T11:14:13Z
+source:         RIPE
+
+route:          2.19.128.0/20
+descr:          Akamai Technologies
+origin:         AS20940
+mnt-by:         AKAM1-RIPE-MNT
+changed:        ip-admin@akamai.com  20120813
+created:        2012-08-13T16:23:03Z
+last-modified:  2012-08-13T16:23:03Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

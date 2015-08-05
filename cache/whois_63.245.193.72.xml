@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>064696941</registrant>
+    <registration>
+      <created>2010-08-25</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       63.245.192.0 - 63.245.207.255
+CIDR:           63.245.192.0/20
+NetName:        SYMANTEC-NORTON-DATA-SERVICES
+NetHandle:      NET-63-245-192-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS18924
+Organization:   064696941 (SYMAN-4)
+RegDate:        2010-08-25
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-63-245-192-0-1
+
+OrgName:        064696941
+OrgId:          SYMAN-4
+Address:        20330 Stevens Creek Blvd
+City:           Cupertino
+StateProv:      CA
+PostalCode:     95014
+Country:        US
+RegDate:        2010-07-23
+Updated:        2010-07-23
+Ref:            http://whois.arin.net/rest/org/SYMAN-4
+
+OrgTechHandle: NOC11495-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-703-439-4781 
+OrgTechEmail:  DL-CPE-NetworkArchitecture@symantec.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC11495-ARIN
+
+OrgNOCHandle: NOC11495-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-703-439-4781 
+OrgNOCEmail:  DL-CPE-NetworkArchitecture@symantec.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC11495-ARIN
+
+OrgAbuseHandle: NOC11495-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-703-439-4781 
+OrgAbuseEmail:  DL-CPE-NetworkArchitecture@symantec.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC11495-ARIN
+
+RAbuseHandle: NOC11495-ARIN
+RAbuseName:   Network Operations Center
+RAbusePhone:  +1-703-439-4781 
+RAbuseEmail:  DL-CPE-NetworkArchitecture@symantec.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC11495-ARIN
+
+RNOCHandle: NOC11495-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-703-439-4781 
+RNOCEmail:  DL-CPE-NetworkArchitecture@symantec.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC11495-ARIN
+
+RTechHandle: NOC11495-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-703-439-4781 
+RTechEmail:  DL-CPE-NetworkArchitecture@symantec.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC11495-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>The New York Times Company</registrant>
+    <registration>
+      <created>1994-05-18</created>
+      <updated>2008-06-03</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       170.149.0.0 - 170.149.255.255
+CIDR:           170.149.0.0/16
+NetName:        NYTCO
+NetHandle:      NET-170-149-0-0-1
+Parent:         NET170 (NET-170-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   The New York Times Company (NYT-1)
+RegDate:        1994-05-18
+Updated:        2008-06-03
+Ref:            http://whois.arin.net/rest/net/NET-170-149-0-0-1
+
+OrgName:        The New York Times Company
+OrgId:          NYT-1
+Address:        620 8th Ave
+City:           New York
+StateProv:      NY
+PostalCode:     10018
+Country:        US
+RegDate:        1994-03-30
+Updated:        2015-05-13
+Ref:            http://whois.arin.net/rest/org/NYT-1
+
+OrgAbuseHandle: GSE13-ARIN
+OrgAbuseName:   Sebel, Gary 
+OrgAbusePhone:  +1-646-698-8212 
+OrgAbuseEmail:  sebel@nytimes.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GSE13-ARIN
+
+OrgTechHandle: MEDDA-ARIN
+OrgTechName:   Meddahi, Karim 
+OrgTechPhone:  +1-212-556-8065 
+OrgTechEmail:  meddahi@nytimes.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MEDDA-ARIN
+
+OrgAbuseHandle: MEDDA-ARIN
+OrgAbuseName:   Meddahi, Karim 
+OrgAbusePhone:  +1-212-556-8065 
+OrgAbuseEmail:  meddahi@nytimes.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MEDDA-ARIN
+
+OrgTechHandle: RSL29-ARIN
+OrgTechName:   Slesinski, Robert 
+OrgTechPhone:  +1-212-556-1133 
+OrgTechEmail:  bob@nytimes.com
+OrgTechRef:    http://whois.arin.net/rest/poc/RSL29-ARIN
+
+OrgAbuseHandle: CASTR8-ARIN
+OrgAbuseName:   Castro, Alex 
+OrgAbusePhone:  +1-212-556-2061 
+OrgAbuseEmail:  castro@nytimes.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CASTR8-ARIN
+
+OrgNOCHandle: RSL29-ARIN
+OrgNOCName:   Slesinski, Robert 
+OrgNOCPhone:  +1-212-556-1133 
+OrgNOCEmail:  bob@nytimes.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/RSL29-ARIN
+
+OrgAbuseHandle: LIEND-ARIN
+OrgAbuseName:   Liendo, Christian 
+OrgAbusePhone:  +1-212-556-8041 
+OrgAbuseEmail:  christian.liendo@nytimes.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LIEND-ARIN
+
+OrgTechHandle: LIEND-ARIN
+OrgTechName:   Liendo, Christian 
+OrgTechPhone:  +1-212-556-8041 
+OrgTechEmail:  christian.liendo@nytimes.com
+OrgTechRef:    http://whois.arin.net/rest/poc/LIEND-ARIN
+
+OrgTechHandle: CASTR8-ARIN
+OrgTechName:   Castro, Alex 
+OrgTechPhone:  +1-212-556-2061 
+OrgTechEmail:  castro@nytimes.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CASTR8-ARIN
+
+OrgNOCHandle: CASTR8-ARIN
+OrgNOCName:   Castro, Alex 
+OrgNOCPhone:  +1-212-556-2061 
+OrgNOCEmail:  castro@nytimes.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/CASTR8-ARIN
+
+RTechHandle: ZT84-ARIN
+RTechName:   Hostmaster
+RTechPhone:  +1-212-556-1234 
+RTechEmail:  hostmaster@nytimes.com
+RTechRef:    http://whois.arin.net/rest/poc/ZT84-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

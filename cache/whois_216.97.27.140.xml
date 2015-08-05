@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CoreSpace, Inc.</registrant>
+    <registration>
+      <created>2000-08-23</created>
+      <updated>2013-02-21</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.97.0.0 - 216.97.127.255
+CIDR:           216.97.0.0/17
+NetName:        CORESPACE-4
+NetHandle:      NET-216-97-0-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS54489
+Organization:   CoreSpace, Inc. (CORES-27)
+RegDate:        2000-08-23
+Updated:        2013-02-21
+Ref:            http://whois.arin.net/rest/net/NET-216-97-0-0-1
+
+OrgName:        CoreSpace, Inc.
+OrgId:          CORES-27
+Address:        7505 John W. Carpenter Freeway
+City:           Dallas
+StateProv:      TX
+PostalCode:     75247
+Country:        US
+RegDate:        2009-08-10
+Updated:        2012-04-30
+Ref:            http://whois.arin.net/rest/org/CORES-27
+
+OrgTechHandle: ADMIN1731-ARIN
+OrgTechName:   Administrator
+OrgTechPhone:  +1-800-976-2673 
+OrgTechEmail:  noc@corespace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ADMIN1731-ARIN
+
+OrgAbuseHandle: ABUSE2532-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-800-976-2673 
+OrgAbuseEmail:  abuse@corespace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2532-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Quality Investment Properties Sacramento, LLC</registrant>
+    <registration>
+      <created>2003-11-04</created>
+      <updated>2015-07-31</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       65.74.128.0 - 65.74.191.255
+CIDR:           65.74.128.0/18
+NetName:        QTS-65-74-128-0-18
+NetHandle:      NET-65-74-128-0-1
+Parent:         NET65 (NET-65-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS17018
+Organization:   Quality Investment Properties Sacramento, LLC (QIPSL-1)
+RegDate:        2003-11-04
+Updated:        2015-07-31
+Ref:            http://whois.arin.net/rest/net/NET-65-74-128-0-1
+
+OrgName:        Quality Investment Properties Sacramento, LLC
+OrgId:          QIPSL-1
+Address:        12851 FOSTER STREET
+City:           OVERLAND PARK
+StateProv:      KS
+PostalCode:     66213
+Country:        US
+RegDate:        2013-01-09
+Updated:        2015-07-02
+Ref:            http://whois.arin.net/rest/org/QIPSL-1
+
+OrgTechHandle: NOC2886-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-866-239-5000 
+OrgTechEmail:  support@qualitytech.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2886-ARIN
+
+OrgNOCHandle: NOC2886-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-866-239-5000 
+OrgNOCEmail:  support@qualitytech.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC2886-ARIN
+
+OrgAbuseHandle: ABUSE1735-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-866-239-5000 
+OrgAbuseEmail:  abuse@qualitytech.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1735-ARIN
+
+RTechHandle: NOC2711-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-678-835-5201 
+RTechEmail:  arin-admin@qualitytech.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC2711-ARIN
+
+RNOCHandle: NOC2886-ARIN
+RNOCName:   NOC
+RNOCPhone:  +1-866-239-5000 
+RNOCEmail:  support@qualitytech.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2886-ARIN
+
+RAbuseHandle: NOC2886-ARIN
+RAbuseName:   NOC
+RAbusePhone:  +1-866-239-5000 
+RAbuseEmail:  support@qualitytech.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC2886-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

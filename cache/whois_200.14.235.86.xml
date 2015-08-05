@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Telmex Colombia S.A.</registrant>
+    <registration>
+      <created>2008-05-22</created>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:     200.14.235.0/25
+status:      reallocated
+owner:       Telmex Colombia S.A.
+ownerid:     CO-ACSA-LACNIC
+responsible: Operaciones Core IP
+address:     CLARO FIJO COLOMBIA - Cra 7 No. 63-44, 11111, 
+address:     11111 - Bogota - DC
+country:     CO
+phone:       +57 01 7480000 []
+owner-c:     ATI
+tech-c:      ATI
+abuse-c:     ATI
+created:     20080522
+changed:     20121116
+inetnum-up:  200.14.192/18
+
+nic-hdl:     ATI
+person:      Network Security Team
+e-mail:      abuse@TELMEXLA.NET.CO
+address:     Cra 7 # 63-44 Piso 6, 00, 00
+address:     10 - Bogota - DC
+country:     CO
+phone:       +57 01 7480456 [81966]
+created:     20020909
+changed:     20130416</record>
+    </whois>
+  </response>
+</whoisapi>
+

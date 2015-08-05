@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cyber Cast International, S.A.</registrant>
+    <registration>
+      <created>2011-11-14</created>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:     190.97.160/21
+status:      allocated
+aut-num:     N/A
+owner:       Cyber Cast International, S.A.
+ownerid:     PA-CCIS-LACNIC
+responsible: Jorge Moreno
+address:     Addison House Plaza Suite 20, 507, 264-0852
+address:     6-3783 - Panama - PA
+country:     PA
+phone:       +507  264-0852 []
+owner-c:     CCS2
+tech-c:      CCS2
+abuse-c:     CCS2
+inetrev:     190.97.163/24
+nserver:     NS1.CYBERCASTCO.COM  
+nsstat:      20150803 AA
+nslastaa:    20150803
+nserver:     NS2.CYBERCASTCO.COM  
+nsstat:      20150803 AA
+nslastaa:    20150803
+created:     20111114
+changed:     20111114
+
+nic-hdl:     CCS2
+person:      Cyber Cast International, S.A.
+e-mail:      info@CCIPANAMA.COM
+address:     Addison House Plaza Suite 20, 507, 264-0852
+address:     6-3783 - panama - pa
+country:     PA
+phone:       +507  264-0852 []
+created:     20050405
+changed:     20080923</record>
+    </whois>
+  </response>
+</whoisapi>
+

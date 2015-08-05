@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Livedrive Internet Ltd.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '185.21.109.0 - 185.21.109.255' is 'abuse@ncuk.net'
+
+inetnum:        185.21.109.0 - 185.21.109.255
+netname:        LIVEDRIVE-SERVERS-1
+descr:          Livedrive Internet Ltd.
+country:        GB
+org:            ORG-LIL9-RIPE
+admin-c:        SL
+tech-c:         NCHM-RIPE
+status:         ASSIGNED PA
+mnt-by:         NETCONNEX-MNT
+mnt-lower:      NETCONNEX-MNT
+mnt-routes:     NETCONNEX-MNT
+notify:         ripe@ncuk.net
+changed:        hostmaster@ncuk.com 20130314
+created:        2013-09-12T15:02:33Z
+last-modified:  2013-09-12T15:02:33Z
+source:         RIPE
+
+organisation:   ORG-LIL9-RIPE
+org-name:       Livedrive Internet Ltd.
+org-type:       LIR
+address:        Livedrive Internet Ltd,c/o NetConnex Broadband Ltd.
+address:        Sebastien Lahtinen
+address:        Riverbridge house, Fetcham Grove, Guildford Road
+address:        KT22 9AD
+address:        Leatherhead
+address:        UNITED KINGDOM
+phone:          +448707454830
+fax-no:         +448707454831
+e-mail:         md@ncuk.net
+admin-c:        JRH-RIPE
+admin-c:        SL
+admin-c:        AJBD-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        NETCONNEX-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        NCHM-RIPE
+changed:        bitbucket@ripe.net 20140722
+created:        2013-03-12T14:20:18Z
+last-modified:  2014-07-22T10:45:37Z
+source:         RIPE
+
+role:           NetConnex Hostmaster
+address:        1 Eastway
+address:        Epsom, KT19 8SG
+address:        United Kingdom
+phone:          +44 870 745 4830
+fax-no:         +44 870 745 4831
+e-mail:         hostmaster@ncuk.net
+remarks:        --------------------------------------------------------
+remarks:        Abuse reports: abuse@ncuk.net
+remarks:        Complaints directed to individual staff will be ignored
+remarks:        --------------------------------------------------------
+admin-c:        SL
+tech-c:         SL
+nic-hdl:        NCHM-RIPE
+mnt-by:         NETCONNEX-MNT
+changed:        md@ncuk.net 20011225
+changed:        md@ncuk.net 20040226
+changed:        md@ncuk.net 20060116
+changed:        md@ncuk.net 20071130
+created:        2001-12-25T12:30:27Z
+last-modified:  2012-03-24T13:43:11Z
+source:         RIPE
+abuse-mailbox:  abuse@ncuk.net
+
+person:         Sebastien Lahtinen
+address:        NetConnex
+address:        1 Eastway
+address:        Epsom
+address:        Surrey
+address:        KT19 8SG
+address:        United Kingdom
+phone:          +44 870 745 4830
+fax-no:         +44 870 745 4831
+e-mail:         mdr@ncuk.net
+nic-hdl:        SL
+mnt-by:         NETCONNEX-MNT
+changed:        mdr@ncuk.net 20030904
+created:        2001-11-22T14:00:45Z
+last-modified:  2008-06-04T22:27:49Z
+source:         RIPE
+
+route:          185.21.108.0/23
+descr:          Livedrive Internet Ltd. Aggregate.
+origin:         AS61012
+mnt-by:         NETCONNEX-MNT
+changed:        hostmaster@ncuk.com 20150316
+created:        2015-03-16T14:49:02Z
+last-modified:  2015-03-16T14:49:02Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Abovenet Communications, Inc</registrant>
+    <registration>
+      <created>2000-07-06</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.124.0.0 - 64.125.255.255
+CIDR:           64.124.0.0/15
+NetName:        ABOVENET
+NetHandle:      NET-64-124-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Abovenet Communications, Inc (ABVE)
+RegDate:        2000-07-06
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-124-0-0-1
+
+OrgName:        Abovenet Communications, Inc
+OrgId:          ABVE
+Address:        360 Hamilton Ave
+City:           White Plains
+StateProv:      NY
+PostalCode:     10601
+Country:        US
+RegDate:        1996-04-22
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/ABVE
+
+OrgAbuseHandle: ABOVE-ARIN
+OrgAbuseName:   AboveNet Abuse
+OrgAbusePhone:  +1-866-236-2824 
+OrgAbuseEmail:  abuse@zayo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABOVE-ARIN
+
+OrgTechHandle: ABOVE1-ARIN
+OrgTechName:   AboveNet Engineering
+OrgTechPhone:  +1-888-636-2778 
+OrgTechEmail:  ipncc@zayo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ABOVE1-ARIN
+
+OrgNOCHandle: NOC41-ORG-ARIN
+OrgNOCName:   AboveNet NOC
+OrgNOCPhone:  +1-866-236-2824 
+OrgNOCEmail:  ipeng@zayo.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+RTechHandle: NOC41-ORG-ARIN
+RTechName:   AboveNet NOC
+RTechPhone:  +1-866-236-2824 
+RTechEmail:  ipeng@zayo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC41-ORG-ARIN
+
+NetRange:       64.125.114.0 - 64.125.115.255
+CIDR:           64.125.114.0/23
+NetName:        MFN-T356-64-125-114-0-23
+NetHandle:      NET-64-125-114-0-1
+Parent:         ABOVENET (NET-64-124-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Unitedlayer, Inc. (LAER)
+RegDate:        2005-06-29
+Updated:        2005-06-29
+Ref:            http://whois.arin.net/rest/net/NET-64-125-114-0-1
+
+OrgName:        Unitedlayer, Inc.
+OrgId:          LAER
+Address:        200 Paul Ave. Suite 100
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94103
+Country:        US
+RegDate:        2002-03-04
+Updated:        2015-05-20
+Comment:        Please follow our direction on how to contact
+Comment:        UnitedLayer.
+Comment:        Best Results first email noc@unitedlayer.com and provide appropiate
+Comment:        and background information.
+Comment:        Thanks, UL Team
+Ref:            http://whois.arin.net/rest/org/LAER
+
+OrgTechHandle: IU15-ARIN
+OrgTechName:   UnitedLayer Inc
+OrgTechPhone:  +1-415-349-2102 
+OrgTechEmail:  noc@unitedlayer.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IU15-ARIN
+
+OrgNOCHandle: IU15-ARIN
+OrgNOCName:   UnitedLayer Inc
+OrgNOCPhone:  +1-415-349-2102 
+OrgNOCEmail:  noc@unitedlayer.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/IU15-ARIN
+
+OrgAbuseHandle: ABUSE175-ARIN
+OrgAbuseName:   UnitedLayer Inc
+OrgAbusePhone:  +1-415-349-2102 
+OrgAbuseEmail:  abuse@unitedlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE175-ARIN
+
+RAbuseHandle: ABUSE175-ARIN
+RAbuseName:   UnitedLayer Inc
+RAbusePhone:  +1-415-349-2102 
+RAbuseEmail:  abuse@unitedlayer.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE175-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

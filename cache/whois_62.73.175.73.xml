@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NTT America IP Addressing</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.73.175.0 - 62.73.175.127' is 'abuse@us.ntt.net'
+
+inetnum:        62.73.175.0 - 62.73.175.127
+netname:        VERIO-UK-INFRA
+descr:          Verio UK london facility
+country:        GB
+admin-c:        NERA4-RIPE
+tech-c:         NAIA1-RIPE
+status:         ASSIGNED PA
+remarks:        INFRA-AW
+remarks:        Abuse/UCE: abuse@us.ntt.net
+remarks:        Network: noc@us.ntt.net
+remarks:        Security issues: security@us.ntt.net
+mnt-by:         MAINT-VIPAR
+notify:         vipar@us.ntt.net
+changed:        terig@verio.net 20020919
+changed:        terig@us.ntt.net 20090807
+changed:        terig@us.ntt.net 20091208
+created:        2002-09-19T16:30:46Z
+last-modified:  2009-12-08T00:06:54Z
+source:         RIPE
+
+role:           NTT America IP Addressing
+address:        8005 S Chester ST
+address:        Suite 200
+address:        Englewood, CO 80112
+address:        United States
+phone:          +1 303 645-1900
+e-mail:         vipar@us.ntt.net
+remarks:        Abuse/UCE: abuse@us.ntt.net
+remarks:        Network: noc@us.ntt.net
+remarks:        Security issues: security@us.ntt.net
+admin-c:        TG7672-RIPE
+tech-c:         TG7672-RIPE
+tech-c:         TF377-RIPE
+tech-c:         KP1186-RIPE
+tech-c:         LP508-RIPE
+nic-hdl:        NAIA1-RIPE
+notify:         vipar@us.ntt.net
+mnt-by:         MAINT-VIPAR
+changed:        terig@us.ntt.net 20091203
+created:        2009-12-03T19:15:21Z
+last-modified:  2009-12-03T19:15:21Z
+source:         RIPE
+abuse-mailbox:  abuse@us.ntt.net
+
+role:           NTT Europe Role Account
+address:        NTT Europe, Ltd.
+address:        Devon House
+address:        58 - 60 St. Katharine's Way, 1st Floor
+address:        London E1W 1LB
+address:        United Kingdom
+phone:          +44 20 7767 3700
+fax-no:         +44 20 7767 3701
+e-mail:         vipar@us.ntt.net
+remarks:        Network: noc@us.ntt.net
+remarks:        Abuse/UCE: abuse@us.ntt.net
+remarks:        Security issues: security@us.ntt.net
+admin-c:        NAIA1-RIPE
+tech-c:         NAIA1-RIPE
+nic-hdl:        NERA4-RIPE
+notify:         vipar@us.ntt.net
+mnt-by:         MAINT-VIPAR
+changed:        terig@us.ntt.net 20091203
+created:        2009-12-03T19:18:33Z
+last-modified:  2014-06-28T22:39:43Z
+source:         RIPE
+abuse-mailbox:  abuse@us.ntt.net</record>
+    </whois>
+  </response>
+</whoisapi>
+

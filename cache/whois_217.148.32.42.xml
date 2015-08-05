@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Astutium Limited</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.148.32.0 - 217.148.39.255' is 'abuse@astutium.com'
+
+inetnum:        217.148.32.0 - 217.148.39.255
+netname:        OTHELLO-CHORVERINT
+descr:          Astutium (Ex-Chorver) Infrastructure
+country:        GB
+admin-c:        ASTM-RIPE
+tech-c:         ASTM-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-ASTUTIUM
+org:            ORG-NL39-RIPE
+changed:        ripe.admin@astutium.com 20130915
+created:        2011-02-22T17:13:38Z
+last-modified:  2013-09-15T18:11:26Z
+source:         RIPE
+
+organisation:   ORG-NL39-RIPE
+org-name:       Astutium Limited
+org-type:       LIR
+address:        Astutium Ltd
+address:        Rob Golding
+address:        Number One Poultry
+address:        EC2R 8JR
+address:        London
+address:        UNITED KINGDOM
+phone:          +442034752555
+fax-no:         +442034752666
+e-mail:         ripe.admin@astutium.com
+admin-c:        RDG11-RIPE
+admin-c:        CCG10-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MNT-ASTUTIUM
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        hostmaster@ripe.net 20050103
+changed:        bitbucket@ripe.net 20050104
+changed:        bitbucket@ripe.net 20050301
+changed:        hostmaster@ripe.net 20050301
+changed:        bitbucket@ripe.net 20050301
+changed:        bitbucket@ripe.net 20050301
+changed:        bitbucket@ripe.net 20050314
+changed:        bitbucket@ripe.net 20050314
+changed:        bitbucket@ripe.net 20051105
+changed:        bitbucket@ripe.net 20060202
+changed:        bitbucket@ripe.net 20060203
+changed:        bitbucket@ripe.net 20060203
+changed:        bitbucket@ripe.net 20070117
+changed:        bitbucket@ripe.net 20070716
+changed:        bitbucket@ripe.net 20070716
+changed:        bitbucket@ripe.net 20070716
+changed:        bitbucket@ripe.net 20070716
+changed:        bitbucket@ripe.net 20070717
+changed:        bitbucket@ripe.net 20070720
+changed:        bitbucket@ripe.net 20070724
+changed:        bitbucket@ripe.net 20070725
+changed:        bitbucket@ripe.net 20070725
+changed:        bitbucket@ripe.net 20070725
+changed:        bitbucket@ripe.net 20070813
+changed:        bitbucket@ripe.net 20090828
+changed:        bitbucket@ripe.net 20100811
+changed:        bitbucket@ripe.net 20121009
+changed:        bitbucket@ripe.net 20121009
+changed:        bitbucket@ripe.net 20121106
+changed:        bitbucket@ripe.net 20130307
+changed:        bit-bucket@ripe.net 20130320
+changed:        bit-bucket@ripe.net 20130915
+abuse-c:        AST56-RIPE
+created:        2005-01-03T11:11:12Z
+last-modified:  2013-09-15T18:03:30Z
+source:         RIPE
+
+role:           Astutium RIPE Operations
+address:        Number One Poutry
+address:        London
+address:        EC2R 8JR
+address:        GB
+e-mail:         ripe.admin@astutium.com
+nic-hdl:        ASTM-RIPE
+mnt-by:         MNT-ASTUTIUM
+changed:        ripe.admin@astutium.com 20130915
+abuse-mailbox:  abuse@astutium.com
+created:        2013-09-15T18:00:54Z
+last-modified:  2013-10-31T21:29:27Z
+source:         RIPE
+
+route:          217.148.32.0/20
+descr:          DENSITRON-UK1
+origin:         AS29527
+mnt-by:         MNT-ASTUTIUM
+changed:        ripe.admin@astutium.com 20130915
+created:        2011-02-14T16:33:55Z
+last-modified:  2013-09-15T18:38:09Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

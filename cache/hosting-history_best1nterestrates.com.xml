@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>best1nterestrates.com</domain_name>
+    <ip_history>
+      <domain>BEST1NTERESTRATES.COM</domain>
+      <post_ip>188.68.240.37</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2014-12-04</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>BEST1NTERESTRATES.COM</domain>
+      <post_ip/>
+      <pre_ip>188.68.240.37</pre_ip>
+      <action>D</action>
+      <actiondate>2014-12-05</actiondate>
+      <action_in_words>Not Resolvable</action_in_words>
+    </ip_history>
+    <ip_history>
+      <domain>BEST1NTERESTRATES.COM</domain>
+      <post_ip>188.68.240.37</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2014-12-18</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>BEST1NTERESTRATES.COM</domain>
+      <date_updated>2014-12-02</date_updated>
+      <date_created>2014-12-02</date_created>
+      <date_expires>2015-12-02</date_expires>
+      <date_lastchecked>2014-12-15</date_lastchecked>
+      <registrar>TLD Registrar Solutions Ltd.</registrar>
+      <registrartag>TLD REGISTRAR SOLUTIONS LTD</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>BEST1NTERESTRATES.COM</domain>
+      <action>N</action>
+      <actiondate>2014-12-04</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Best1nterestrates.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

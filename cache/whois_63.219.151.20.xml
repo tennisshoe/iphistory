@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Tiggee LLC</registrant>
+    <registration>
+      <created>2006-04-27</created>
+      <updated>2006-04-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       63.219.151.0 - 63.219.151.255
+CIDR:           63.219.151.0/24
+NetName:        TIGGEE-PCCWBTN-1
+NetHandle:      NET-63-219-151-0-1
+Parent:         BTN-CIDR5 (NET-63-216-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Tiggee LLC (TIGGE)
+RegDate:        2006-04-27
+Updated:        2006-04-27
+Ref:            http://whois.arin.net/rest/net/NET-63-219-151-0-1
+
+OrgName:        Tiggee LLC
+OrgId:          TIGGE
+Address:        11490 Commerce Park Drive, Suite 140
+City:           Reston
+StateProv:      VA
+PostalCode:     20191
+Country:        US
+RegDate:        2004-09-09
+Updated:        2011-07-27
+Ref:            http://whois.arin.net/rest/org/TIGGE
+
+OrgTechHandle: TECH140-ARIN
+OrgTechName:   Tech
+OrgTechPhone:  +1-703-935-1598 
+OrgTechEmail:  tech@tiggee.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECH140-ARIN
+
+OrgAbuseHandle: ABUSE699-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-703-935-1598 
+OrgAbuseEmail:  abuse@tiggee.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE699-ARIN
+
+RTechHandle: TECH140-ARIN
+RTechName:   Tech
+RTechPhone:  +1-703-935-1598 
+RTechEmail:  tech@tiggee.com
+RTechRef:    http://whois.arin.net/rest/poc/TECH140-ARIN
+
+NetRange:       63.216.0.0 - 63.223.255.255
+CIDR:           63.216.0.0/13
+NetName:        BTN-CIDR5
+NetHandle:      NET-63-216-0-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Beyond The Network America, Inc. (BNA-42)
+RegDate:        1999-12-09
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-63-216-0-0-1
+
+OrgName:        Beyond The Network America, Inc.
+OrgId:          BNA-42
+Address:        450 Springpark PL
+Address:        Suite 100
+City:           Herdon
+StateProv:      VA
+PostalCode:     20170
+Country:        US
+RegDate:        2004-05-25
+Updated:        2012-05-24
+Ref:            http://whois.arin.net/rest/org/BNA-42
+
+OrgTechHandle: PUN6-ARIN
+OrgTechName:   PCCW US NOC
+OrgTechPhone:  +1-703-621-1637 
+OrgTechEmail:  usnoc@pccwglobal.com
+OrgTechRef:    http://whois.arin.net/rest/poc/PUN6-ARIN
+
+OrgNOCHandle: PUN6-ARIN
+OrgNOCName:   PCCW US NOC
+OrgNOCPhone:  +1-703-621-1637 
+OrgNOCEmail:  usnoc@pccwglobal.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/PUN6-ARIN
+
+OrgTechHandle: MCKAY9-ARIN
+OrgTechName:   McKay, Ian 
+OrgTechPhone:  +1-703-673-1012 
+OrgTechEmail:  usnoc@pccwglobal.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MCKAY9-ARIN
+
+OrgAbuseHandle: PAD13-ARIN
+OrgAbuseName:   PCCW AUP Department
+OrgAbusePhone:  +1-703-621-1637 
+OrgAbuseEmail:  abuse.ops@pccwglobal.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/PAD13-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

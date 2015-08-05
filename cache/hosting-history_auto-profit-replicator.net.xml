@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>auto-profit-replicator.net</domain_name>
+    <ip_history>
+      <domain>AUTO-PROFIT-REPLICATOR.NET</domain>
+      <post_ip>198.57.189.10</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2015-03-28</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>AUTO-PROFIT-REPLICATOR.NET</domain>
+      <date_updated>2015-03-27</date_updated>
+      <date_created>2015-03-27</date_created>
+      <date_expires>2016-03-27</date_expires>
+      <date_lastchecked>2015-03-28</date_lastchecked>
+      <registrar>eNom.com</registrar>
+      <registrartag>ENOM, INC.</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>AUTO-PROFIT-REPLICATOR.NET</domain>
+      <action>N</action>
+      <actiondate>2015-03-28</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Gwmagnet.info</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>WORLD CLASS INFORMATION SYSTEMS</registrant>
+    <registration>
+      <created>2005-03-11</created>
+      <updated>2005-03-11</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.95.121.0 - 69.95.121.127
+CIDR:           69.95.121.0/25
+NetName:        CHOICE1SWIP505745
+NetHandle:      NET-69-95-121-0-1
+Parent:         ONECOM-69-95 (NET-69-95-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       WORLD CLASS INFORMATION SYSTEMS (C01037149)
+RegDate:        2005-03-11
+Updated:        2005-03-11
+Ref:            http://whois.arin.net/rest/net/NET-69-95-121-0-1
+
+CustName:       WORLD CLASS INFORMATION SYSTEMS
+Address:        4120 N NORWAY SOUTHEAST
+City:           KENTWOOD
+StateProv:      MI
+PostalCode:     49546
+Country:        US
+RegDate:        2005-03-11
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01037149
+
+OrgTechHandle: IPENG17-ARIN
+OrgTechName:   IP Engineering
+OrgTechPhone:  +1-800-962-2488 
+OrgTechEmail:  ip-engineering@corp.earthlink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPENG17-ARIN
+
+OrgTechHandle: WRL9-ARIN
+OrgTechName:   Lewis, William R
+OrgTechPhone:  +1-404-815-0770 
+OrgTechEmail:  blewis@corp.earthlink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WRL9-ARIN
+
+OrgTechHandle: ELNK-ORG-ARIN
+OrgTechName:   EarthLink  Inc
+OrgTechPhone:  +1-404-815-0770 
+OrgTechEmail:  arin_tech@lists.corp.earthlink.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ELNK-ORG-ARIN
+
+OrgAbuseHandle: ABUSE4822-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-404-815-0770 
+OrgAbuseEmail:  abuse@earthlinkbusiness.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4822-ARIN
+
+NetRange:       69.95.0.0 - 69.95.255.255
+CIDR:           69.95.0.0/16
+NetName:        ONECOM-69-95
+NetHandle:      NET-69-95-0-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS14751, AS13407, AS13609
+Organization:   Earthlink, Inc. (EARTH-20)
+RegDate:        2003-12-09
+Updated:        2014-03-21
+Ref:            http://whois.arin.net/rest/net/NET-69-95-0-0-1
+
+OrgName:        Earthlink, Inc.
+OrgId:          EARTH-20
+Address:        1375 PEACHTREE STREET
+Address:        LEVEL A
+City:           ATLANTA
+StateProv:      GA
+PostalCode:     30309
+Country:        US
+RegDate:        2007-06-18
+Updated:        2014-08-05
+Ref:            http://whois.arin.net/rest/org/EARTH-20
+
+OrgTechHandle: IPENG17-ARIN
+OrgTechName:   IP Engineering
+OrgTechPhone:  +1-800-962-2488 
+OrgTechEmail:  ip-engineering@onecommunications.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPENG17-ARIN
+
+OrgTechHandle: WRL9-ARIN
+OrgTechName:   Lewis, William R
+OrgTechPhone:  +1-404-815-0770 
+OrgTechEmail:  blewis@corp.earthlink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WRL9-ARIN
+
+OrgTechHandle: ELNK-ORG-ARIN
+OrgTechName:   EarthLink  Inc
+OrgTechPhone:  +1-404-815-0770 
+OrgTechEmail:  arin_tech@lists.corp.earthlink.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ELNK-ORG-ARIN
+
+OrgAbuseHandle: ABUSE4822-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-404-815-0770 
+OrgAbuseEmail:  abuse@earthlinkbusiness.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4822-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

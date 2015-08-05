@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>WestNet, Inc.</registrant>
+    <registration>
+      <created>1995-07-19</created>
+      <updated>2003-03-27</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       206.206.0.0 - 206.207.255.255
+CIDR:           206.206.0.0/15
+NetName:        WESTNET-W5
+NetHandle:      NET-206-206-0-0-1
+Parent:         NET206 (NET-206-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   WestNet, Inc. (WEST)
+RegDate:        1995-07-19
+Updated:        2003-03-27
+Ref:            http://whois.arin.net/rest/net/NET-206-206-0-0-1
+
+OrgName:        WestNet, Inc.
+OrgId:          WEST
+Address:        3645 Marine Street
+City:           Boulder
+StateProv:      CO
+PostalCode:     80309-0455
+Country:        US
+RegDate:        1992-08-29
+Updated:        2003-03-26
+Ref:            http://whois.arin.net/rest/org/WEST
+
+OrgTechHandle: DCMW-ARIN
+OrgTechName:   Wood, David CM
+OrgTechPhone:  +1-303-492-4905 
+OrgTechEmail:  dcmwood@spot.colorado.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/DCMW-ARIN
+
+OrgAbuseHandle: ABUSE245-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-303-492-4409 
+OrgAbuseEmail:  abuse@westnet.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE245-ARIN
+
+RTechHandle: DCMW-ARIN
+RTechName:   Wood, David CM
+RTechPhone:  +1-303-492-4905 
+RTechEmail:  dcmwood@spot.colorado.edu
+RTechRef:    http://whois.arin.net/rest/poc/DCMW-ARIN
+
+RAbuseHandle: ABUSE245-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-303-492-4409 
+RAbuseEmail:  abuse@westnet.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE245-ARIN
+
+NetRange:       206.207.64.0 - 206.207.127.255
+CIDR:           206.207.64.0/18
+NetName:        WEST-206-207-64-SPRO
+NetHandle:      NET-206-207-64-0-1
+Parent:         WESTNET-W5 (NET-206-206-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   SolutionPro Inc. (SOLUTI-57)
+RegDate:        2002-12-12
+Updated:        2002-12-12
+Ref:            http://whois.arin.net/rest/net/NET-206-207-64-0-1
+
+OrgName:        SolutionPro Inc.
+OrgId:          SOLUTI-57
+Address:        1450 Eagle Flight Way
+City:           Boise
+StateProv:      ID
+PostalCode:     83709
+Country:        US
+RegDate:        2001-02-14
+Updated:        2015-04-20
+Ref:            http://whois.arin.net/rest/org/SOLUTI-57
+
+OrgTechHandle: WHITE652-ARIN
+OrgTechName:   White, Jeff 
+OrgTechPhone:  +1-319-261-3037 
+OrgTechEmail:  jwhite@involta.com
+OrgTechRef:    http://whois.arin.net/rest/poc/WHITE652-ARIN
+
+OrgTechHandle: ROBER52-ARIN
+OrgTechName:   Curtis, Robert A
+OrgTechPhone:  +1-319-261-3012 
+OrgTechEmail:  rcurtis@involta.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ROBER52-ARIN
+
+OrgTechHandle: CURTI99-ARIN
+OrgTechName:   Curtis, Robert 
+OrgTechPhone:  +1-319-362-1046 
+OrgTechEmail:  rcurtis@involta.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CURTI99-ARIN
+
+OrgAbuseHandle: SOLUT-ARIN
+OrgAbuseName:   SolutionPro Abuse
+OrgAbusePhone:  +1-208-493-2000 
+OrgAbuseEmail:  support@involta.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SOLUT-ARIN
+
+OrgTechHandle: VAH1-ARIN
+OrgTechName:   Hiatt, Valerie Ann
+OrgTechPhone:  +1-319-261-3059 
+OrgTechEmail:  vhiatt@involta.com
+OrgTechRef:    http://whois.arin.net/rest/poc/VAH1-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

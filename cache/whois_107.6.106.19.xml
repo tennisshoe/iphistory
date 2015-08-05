@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Voxel Dot Net, Inc.</registrant>
+    <registration>
+      <created>2011-02-02</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       107.6.64.0 - 107.6.127.255
+CIDR:           107.6.64.0/18
+NetName:        VOXEL-NET-10
+NetHandle:      NET-107-6-64-0-1
+Parent:         NET107 (NET-107-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS29791
+Organization:   Voxel Dot Net, Inc. (VDN-1)
+RegDate:        2011-02-02
+Updated:        2012-03-02
+Comment:        Re-assignment data at whois.voxel.net:4321.
+Comment:        Abuse complaints to abuse@voxel.net.
+Ref:            http://whois.arin.net/rest/net/NET-107-6-64-0-1
+
+OrgName:        Voxel Dot Net, Inc.
+OrgId:          VDN-1
+Address:        29 Broadway
+Address:        30th Floor
+City:           New York
+StateProv:      NY
+PostalCode:     10006
+Country:        US
+RegDate:        2000-05-06
+Updated:        2015-05-12
+Ref:            http://whois.arin.net/rest/org/VDN-1
+
+ReferralServer:  rwhois://rwhois.voxel.net:4321
+
+OrgNOCHandle: VOXEL-ARIN
+OrgNOCName:   Voxel NOC
+OrgNOCPhone:  +1-212-812-4190 
+OrgNOCEmail:  noc@voxel.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/VOXEL-ARIN
+
+OrgTechHandle: VOXEL-ARIN
+OrgTechName:   Voxel NOC
+OrgTechPhone:  +1-212-812-4190 
+OrgTechEmail:  noc@voxel.net
+OrgTechRef:    http://whois.arin.net/rest/poc/VOXEL-ARIN
+
+OrgAbuseHandle: VAD4-ARIN
+OrgAbuseName:   Voxel Abuse Desk
+OrgAbusePhone:  +1-212-812-4190 
+OrgAbuseEmail:  abuse@voxel.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/VAD4-ARIN
+
+RTechHandle: VOXEL-ARIN
+RTechName:   Voxel NOC
+RTechPhone:  +1-212-812-4190 
+RTechEmail:  noc@voxel.net
+RTechRef:    http://whois.arin.net/rest/poc/VOXEL-ARIN
+
+RNOCHandle: VOXEL-ARIN
+RNOCName:   Voxel NOC
+RNOCPhone:  +1-212-812-4190 
+RNOCEmail:  noc@voxel.net
+RNOCRef:    http://whois.arin.net/rest/poc/VOXEL-ARIN
+
+RAbuseHandle: VAD4-ARIN
+RAbuseName:   Voxel Abuse Desk
+RAbusePhone:  +1-212-812-4190 
+RAbuseEmail:  abuse@voxel.net
+RAbuseRef:    http://whois.arin.net/rest/poc/VAD4-ARIN
+
+== Additional Information From rwhois://rwhois.voxel.net:4321 ==
+
+%rwhois V-1.0,V-1.5:00090h:00 ubersmith.dal006.internap.com (Ubersmith RWhois Server V-3.2.dev8.0)
+autharea=107.6.104.0/22
+xautharea=107.6.104.0/22
+network:Class-Name:network
+network:Auth-Area:107.6.104.0/22
+network:ID:NET-128447.107.6.106.16/28
+network:Network-Name:107.6.106.16/28
+network:IP-Network:107.6.106.16/28
+network:IP-Network-Block:107.6.106.16 - 107.6.106.31
+network:Org-Name:Teachscape Inc.
+network:Street-Address:655 Montgomery St, 8th Floor
+network:City:San Francisco
+network:State:CA
+network:Postal-Code:94111
+network:Country-Code:US
+network:Tech-Contact:MAINT-128447.107.6.106.16/28
+network:Created:20150512195453000
+network:Updated:20150512195453000
+network:Updated-By:support@voxel.net
+contact:POC-Name:Internap Agile Support
+contact:POC-Email:support@voxel.net
+contact:POC-Phone:+1-212-812-4190
+contact:Tech-Name:Cristobal Villarroel
+contact:Tech-Email:cristobal.villarroel@teachscape.com
+contact:Tech-Phone:5102904081
+contact:Abuse-Name:Internap Agile Abuse
+contact:Abuse-Email:abuse@voxel.net
+contact:Abuse-Phone:+1-212-812-4190
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

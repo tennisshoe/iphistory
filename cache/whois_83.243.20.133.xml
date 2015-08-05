@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>BSO Network Solutions SAS</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.243.16.0 - 83.243.23.255' is 'abuse@bsonetwork.com'
+
+inetnum:        83.243.16.0 - 83.243.23.255
+netname:        BSOCOM
+descr:          BSO Network Solutions SAS
+country:        FR
+org:            ORG-BCS3-RIPE
+admin-c:        BSOC-RIPE
+tech-c:         MO876-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         BSOCOM-MNT
+mnt-domains:    BSOCOM-MNT
+mnt-routes:     BSOCOM-MNT
+created:        2004-05-07T13:47:54Z
+last-modified:  2015-05-05T02:10:49Z
+source:         RIPE
+changed:        fd-ripe@bsocom.net 20110622
+changed:        hostmaster@ripe.net 20130130
+
+organisation:   ORG-BCS3-RIPE
+org-name:       BSO Network Solutions SAS
+org-type:       LIR
+address:        rue Emile Duclaux
+                19
+address:        92150
+address:        Suresnes
+address:        FRANCE
+phone:          +33145063426
+fax-no:         +33145064650
+e-mail:         michael.ourabah@bsocom.com
+admin-c:        CB2464-RIPE
+admin-c:        MO876-RIPE
+mnt-ref:        BSOCOM-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        BSOC-RIPE
+changed:        bitbucket@ripe.net 20150410
+created:        2006-07-28T10:11:04Z
+last-modified:  2015-04-10T08:07:56Z
+source:         RIPE
+
+role:           BSO Communication NOC
+address:        81 avenue Francois Arago
+address:        92000 Nanterre
+address:        France
+e-mail:         eusupport@bsonetwork.com
+nic-hdl:        BSOC-RIPE
+admin-c:        MO876-RIPE
+admin-c:        CB2464-RIPE
+tech-c:         MO876-RIPE
+remarks:        ------------------------------------------------------------
+remarks:        Please report any problem to eusupport@bsonetwork.com
+remarks:        ------------------------------------------------------------
+remarks:        For any peering request contact us at peering@bsonetwork.com
+remarks:        ------------------------------------------------------------
+mnt-by:         BSOCOM-MNT
+changed:        fd-ripe@bsocom.net 20110301
+created:        2004-04-02T19:42:20Z
+last-modified:  2013-06-03T21:12:55Z
+source:         RIPE
+abuse-mailbox:  abuse@bsonetwork.com
+
+person:         Michael Ourabah
+address:        BSO Network Solutions
+address:        19 rue Emile Duclaux
+address:        92150 Suresnes
+address:        FRANCE
+phone:          +33 6 70 20 10 36
+fax-no:         +33 1 47 17 64 96
+e-mail:         michael.ourabah@bsonetwork.com
+nic-hdl:        MO876-RIPE
+mnt-by:         BSOCOM-MNT
+changed:        fd-ripe@bsocom.net 20110301
+created:        2004-04-02T19:26:16Z
+last-modified:  2011-03-01T01:58:23Z
+source:         RIPE
+
+route:          83.243.16.0/21
+descr:          BSO Network Solutions SAS - IPv4
+origin:         AS31216
+remarks:        Abuse reports to abuse@bsonetwork.com
+remarks:        Peering contact is peering@bsonetwork.com
+mnt-by:         BSOCOM-MNT
+changed:        fd-ripe@bsocom.net 20110301
+created:        2004-05-13T02:45:08Z
+last-modified:  2011-03-01T02:57:58Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Gandi Network Operations</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.70.176.0 - 217.70.183.255' is 'abuse@gandi.net'
+
+inetnum:        217.70.176.0 - 217.70.183.255
+netname:        GANDIINT-NET3
+descr:          GANDI INTERNATIONAL SERVICES AND INFRA
+country:        FR
+admin-c:        SD10199-RIPE
+admin-c:        PB10691-RIPE
+tech-c:         GNO4-RIPE
+tech-c:         NG183-RIPE
+mnt-by:         GANDI-NOC
+mnt-lower:      GANDI-NOC
+mnt-routes:     GANDI-NOC
+changed:        sebastien@gandi.net 20150416
+created:        2007-08-17T10:19:10Z
+last-modified:  2015-04-16T16:52:10Z
+source:         RIPE
+status:         ASSIGNED PA
+
+role:           Gandi Network Operations
+address:        63-65 Boulevard Massena
+address:        75013 Paris
+address:        France
+phone:          +33 1 70 39 37 55
+admin-c:        PB10691-RIPE
+admin-c:        SD10199-RIPE
+tech-c:         SD10199-RIPE
+nic-hdl:        GNO4-RIPE
+e-mail:         noc@gandi.net
+remarks:        Gandi SAS NOC Role
+remarks:        Gandi is an ICANN accredited Registrar
+remarks:        http://www.gandi.net/
+remarks:        - Network Issues: noc@gandi.net
+remarks:        - Abuse/SPAM: abuse@gandi.net
+abuse-mailbox:  abuse@gandi.net
+mnt-by:         GANDI-NOC
+changed:        noc@gandi.net 20111219
+created:        2010-02-10T08:56:37Z
+last-modified:  2015-04-16T16:41:41Z
+source:         RIPE
+
+role:           NOC Gandi
+address:        GANDI
+address:        63-65 Boulevard Massena
+address:        75013 Paris
+admin-c:        LV314-RIPE
+tech-c:         LV314-RIPE
+nic-hdl:        NG183-RIPE
+mnt-by:         GANDI-NOC
+e-mail:         noc@gandi.net
+remarks:        -------------------------------------------------
+remarks:        GANDI is an ICANN accredited registrar
+remarks:        for more information:
+remarks:        Web:   http://www.gandi.net
+remarks:        -------------------------------------------------
+remarks:        - network troubles: ipnoc@gandi.net
+remarks:        - SPAM complaints: abuse@gandi.net
+remarks:        -------------------------------------------------
+created:        2002-06-25T16:00:27Z
+last-modified:  2013-07-19T11:21:34Z
+source:         RIPE
+changed:        noc@gandi.net 20130719
+
+person:         Pascal Bouchareine
+address:        Gandi SAS
+address:        63-65 Boulevard Massena
+address:        75013 Paris
+address:        France
+phone:          +33 1 70 39 37 55
+nic-hdl:        PB10691-RIPE
+mnt-by:         GANDI-NOC
+changed:        noc@gandi.net 20111219
+created:        2010-02-10T09:42:27Z
+last-modified:  2011-12-19T13:34:55Z
+source:         RIPE
+
+person:         Sebastien Dupas
+address:        Gandi SAS
+address:        63-65 boulevard Massena
+address:        75013 Paris
+address:        France
+phone:          +33 1 70 39 37 56
+nic-hdl:        SD10199-RIPE
+mnt-by:         GANDi-NOC
+changed:        sebastien@gandi.net 20150416
+created:        2015-04-16T16:34:47Z
+last-modified:  2015-04-16T16:34:47Z
+source:         RIPE
+
+route:          217.70.176.0/20
+descr:          GANDI is an ICANN accredited registrar
+descr:          for more information:
+descr:          Web:   http://www.gandi.net
+origin:         AS29169
+notify:         noc@gandi.net
+mnt-by:         GANDI-NOC
+changed:        lfrigault@gandi.net 20030731
+created:        2003-07-31T17:09:25Z
+last-modified:  2003-07-31T17:09:25Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Ezri Inc</registrant>
+    <registration>
+      <created>2008-08-18</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.94.0.0 - 208.94.3.255
+CIDR:           208.94.0.0/22
+NetName:        EZRINET
+NetHandle:      NET-208-94-0-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS36323
+Organization:   Ezri Inc (EZRII)
+RegDate:        2008-08-18
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-208-94-0-0-1
+
+OrgName:        Ezri Inc
+OrgId:          EZRII
+Address:        Ezri Inc Dba ImageShack Corp
+Address:        236 N Santa Cruz Ave #100
+City:           Los Gatos
+StateProv:      CA
+PostalCode:     95030
+Country:        US
+RegDate:        2006-10-25
+Updated:        2014-07-23
+Comment:        for DMCA take down requests contact
+Comment:        dmca@imageshack.us
+Ref:            http://whois.arin.net/rest/org/EZRII
+
+OrgTechHandle: IMAGE1-ARIN
+OrgTechName:   ImageShack Corp
+OrgTechPhone:  +1-408-612-3954 
+OrgTechEmail:  is-support@imageshack.us
+OrgTechRef:    http://whois.arin.net/rest/poc/IMAGE1-ARIN
+
+OrgAbuseHandle: IMAGE1-ARIN
+OrgAbuseName:   ImageShack Corp
+OrgAbusePhone:  +1-408-612-3954 
+OrgAbuseEmail:  is-support@imageshack.us
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IMAGE1-ARIN
+
+OrgNOCHandle: IMAGE1-ARIN
+OrgNOCName:   ImageShack Corp
+OrgNOCPhone:  +1-408-612-3954 
+OrgNOCEmail:  is-support@imageshack.us
+OrgNOCRef:    http://whois.arin.net/rest/poc/IMAGE1-ARIN
+
+RTechHandle: INC1-ARIN
+RTechName:   Ezri NetOps Center
+RTechPhone:  +1-408-612-3954 
+RTechEmail:  netops@ezrinet.com
+RTechRef:    http://whois.arin.net/rest/poc/INC1-ARIN
+
+RAbuseHandle: INC1-ARIN
+RAbuseName:   Ezri NetOps Center
+RAbusePhone:  +1-408-612-3954 
+RAbuseEmail:  netops@ezrinet.com
+RAbuseRef:    http://whois.arin.net/rest/poc/INC1-ARIN
+
+RNOCHandle: INC1-ARIN
+RNOCName:   Ezri NetOps Center
+RNOCPhone:  +1-408-612-3954 
+RNOCEmail:  netops@ezrinet.com
+RNOCRef:    http://whois.arin.net/rest/poc/INC1-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

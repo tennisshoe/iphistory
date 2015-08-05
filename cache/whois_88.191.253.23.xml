@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Administrative Contact for ProXad</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '88.191.253.0 - 88.191.253.255' is 'abuse@proxad.net'
+
+inetnum:        88.191.253.0 - 88.191.253.255
+netname:        FR-DEDIBOX
+descr:          Dedibox SAS
+descr:          Hosting Customers
+descr:          Paris, France
+remarks:        trouble: Information: http://www.dedibox.fr/
+remarks:        trouble: Spam/Abuse requests: http://www.dedibox.fr/abuse/
+remarks:        trouble: Spam/Abuse requests: mailto:abuse@support.dedibox.fr
+country:        FR
+admin-c:        ACP23-RIPE
+tech-c:         TCP8-RIPE
+status:         ASSIGNED PA
+mnt-by:         PROXAD-MNT
+created:        2011-07-14T16:39:02Z
+last-modified:  2011-07-14T16:39:02Z
+source:         RIPE
+changed:        fgander@corp.free.fr 20110528
+
+role:           Administrative Contact for ProXad
+address:        Free SAS / ProXad
+address:        8, rue de la Ville L'Eveque
+address:        75008 Paris
+phone:          +33 1 73 50 20 00
+fax-no:         +33 1 73 92 25 69
+remarks:        trouble:      Information: http://www.proxad.net/
+remarks:        trouble:      Spam/Abuse requests: mailto:abuse@proxad.net
+admin-c:        APfP1-RIPE
+tech-c:         TPfP1-RIPE
+nic-hdl:        ACP23-RIPE
+mnt-by:         PROXAD-MNT
+e-mail:         ripe-misc@proxad.net
+abuse-mailbox:  abuse@proxad.net
+changed:        fgander@corp.free.fr 20130801
+created:        2002-06-26T12:46:56Z
+last-modified:  2013-08-01T12:16:00Z
+source:         RIPE
+
+role:           Technical Contact for ProXad
+address:        Free SAS / ProXad
+address:        8, rue de la Ville L'Eveque
+address:        75008 Paris
+phone:          +33 1 73 50 20 00
+fax-no:         +33 1 73 92 25 69
+e-mail:         ripemaster@proxad.net
+remarks:        trouble:      Information: http://www.proxad.net/
+remarks:        trouble:      Spam/Abuse requests: mailto:abuse@proxad.net
+admin-c:        APfP1-RIPE
+tech-c:         TPfP1-RIPE
+nic-hdl:        TCP8-RIPE
+notify:         ripe-notify@proxad.net
+mnt-by:         PROXAD-MNT
+changed:        nhyvernat+ripe@corp.free.fr 20070523
+created:        2002-06-26T12:29:10Z
+last-modified:  2011-06-14T09:03:07Z
+source:         RIPE
+abuse-mailbox:  abuse@proxad.net
+
+route:          88.160.0.0/11
+descr:          ProXad network / Free SAS
+descr:          Paris, France
+origin:         AS12322
+notify:         ripe-notify@proxad.net
+mnt-by:         PROXAD-MNT
+changed:        nhyvernat+ripe@corp.free.fr 20051003
+created:        2005-10-03T13:45:51Z
+last-modified:  2005-10-03T13:45:51Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

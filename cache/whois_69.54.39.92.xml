@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CODE 42 SOFTWARE, INC.</registrant>
+    <registration>
+      <created>2003-06-09</created>
+      <updated>2007-05-03</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.54.32.0 - 69.54.47.255
+CIDR:           69.54.32.0/20
+NetName:        IMPLEX1
+NetHandle:      NET-69-54-32-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Implex.net, Inc. (IMPLEX-1)
+RegDate:        2003-06-09
+Updated:        2007-05-03
+Ref:            http://whois.arin.net/rest/net/NET-69-54-32-0-1
+
+OrgName:        Implex.net, Inc.
+OrgId:          IMPLEX-1
+Address:        109 South 7th Street
+Address:        Suite 255
+City:           Minneapolis
+StateProv:      MN
+PostalCode:     55402
+Country:        US
+RegDate:        1999-02-04
+Updated:        2012-06-13
+Ref:            http://whois.arin.net/rest/org/IMPLEX-1
+
+OrgNOCHandle: IMPLE3-ARIN
+OrgNOCName:   ImplexNet HOSTMASTER
+OrgNOCPhone:  +1-612-339-8255 
+OrgNOCEmail:  hostmaster@implex.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/IMPLE3-ARIN
+
+OrgTechHandle: JMA468-ARIN
+OrgTechName:   Anderson, Jeffrey Mark
+OrgTechPhone:  +1-612-799-7277 
+OrgTechEmail:  jeffa@implex.net
+OrgTechRef:    http://whois.arin.net/rest/poc/JMA468-ARIN
+
+OrgAbuseHandle: IMPLE3-ARIN
+OrgAbuseName:   ImplexNet HOSTMASTER
+OrgAbusePhone:  +1-612-339-8255 
+OrgAbuseEmail:  hostmaster@implex.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IMPLE3-ARIN
+
+OrgTechHandle: IMPLE3-ARIN
+OrgTechName:   ImplexNet HOSTMASTER
+OrgTechPhone:  +1-612-339-8255 
+OrgTechEmail:  hostmaster@implex.net
+OrgTechRef:    http://whois.arin.net/rest/poc/IMPLE3-ARIN
+
+NetRange:       69.54.39.64 - 69.54.39.95
+CIDR:           69.54.39.64/27
+NetName:        CODE42SOFTWARE-BLOCK-C
+NetHandle:      NET-69-54-39-64-1
+Parent:         IMPLEX1 (NET-69-54-32-0-1)
+NetType:        Reassigned
+OriginAS:       AS21709
+Customer:       CODE 42 SOFTWARE, INC. (C01936487)
+RegDate:        2008-05-14
+Updated:        2009-11-20
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-69-54-39-64-1
+
+CustName:       CODE 42 SOFTWARE, INC.
+Address:        12 S 6th Street #1242
+City:           Minneapolis
+StateProv:      MN
+PostalCode:     55402
+Country:        US
+RegDate:        2008-05-14
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01936487
+
+OrgNOCHandle: IMPLE3-ARIN
+OrgNOCName:   ImplexNet HOSTMASTER
+OrgNOCPhone:  +1-612-339-8255 
+OrgNOCEmail:  hostmaster@implex.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/IMPLE3-ARIN
+
+OrgTechHandle: JMA468-ARIN
+OrgTechName:   Anderson, Jeffrey Mark
+OrgTechPhone:  +1-612-799-7277 
+OrgTechEmail:  jeffa@implex.net
+OrgTechRef:    http://whois.arin.net/rest/poc/JMA468-ARIN
+
+OrgAbuseHandle: IMPLE3-ARIN
+OrgAbuseName:   ImplexNet HOSTMASTER
+OrgAbusePhone:  +1-612-339-8255 
+OrgAbuseEmail:  hostmaster@implex.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IMPLE3-ARIN
+
+OrgTechHandle: IMPLE3-ARIN
+OrgTechName:   ImplexNet HOSTMASTER
+OrgTechPhone:  +1-612-339-8255 
+OrgTechEmail:  hostmaster@implex.net
+OrgTechRef:    http://whois.arin.net/rest/poc/IMPLE3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

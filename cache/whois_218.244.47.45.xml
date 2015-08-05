@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Sun Ying</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        218.244.32.0 - 218.244.63.255
+netname:        CNCGROUP-BJ
+country:        CN
+descr:          China Netcom(GROUP) Company Limited, Beijing Branch
+descr:          805#, Changhua Building, No.97 Inner Fuxingmen Road,
+descr:          Beijing, China, 100800
+admin-c:        SY1387-AP
+tech-c:         SY1387-AP
+status:         ALLOCATED PORTABLE
+changed:        ipas@cnnic.net.cn  20060207
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC
+
+person:         Sun Ying
+nic-hdl:        SY1387-AP
+e-mail:         suny@publicf.bta.net.cn
+address:        805#, Changhua Building, No.97 Fuxingmen Inner Road,
+address:        Beijing, China, 100800
+phone:          +86-010-63060025
+fax-no:         +86-010-66030659
+country:        CN
+changed:        ipas@cnnic.net.cn 20070810
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

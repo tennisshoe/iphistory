@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>PacketExchange Hostmaster</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '83.245.54.0 - 83.245.54.255' is 'hostmaster@packetexchange.net'
+
+inetnum:        83.245.54.0 - 83.245.54.255
+netname:        UK-PKXG-20090521
+descr:          PacketExchange Ltd
+descr:          PROVIDER Local Registry
+country:        GB
+admin-c:        PKXG1-RIPE
+tech-c:         MS6071-RIPE
+status:         ASSIGNED PA
+mnt-by:         PKXG-MNT
+created:        2005-02-17T15:46:07Z
+last-modified:  2009-05-21T10:32:30Z
+source:         RIPE
+changed:        Hostmaster@packetexchange.net 20061219
+
+role:           PacketExchange Hostmaster
+address:        11a Curtain Road
+address:        London
+address:        EC2A 3LT
+address:        UK
+phone:          +44 20 7377 4130
+fax-no:         +44 20 7377 4131
+abuse-mailbox:  abuse@packetexchange.net
+e-mail:         support@tickets.packetexchange.net
+admin-c:        MS6071-RIPE
+tech-c:         MS6071-RIPE
+nic-hdl:        PKXG1-RIPE
+remarks:        PacketExchange Hostmaster role object
+mnt-by:         PKXG-MNT
+created:        2003-08-28T09:43:02Z
+last-modified:  2011-02-16T08:37:40Z
+source:         RIPE
+changed:        support@tickets.packetexchange.net 20110216
+
+person:         Mike Sampson
+address:        GTT
+address:        5 Fleet Place
+address:        London
+address:        EC4M 7RD
+phone:          +44 (0)20 7489 7200
+fax-no:         +44 207 377 4131
+e-mail:         michael.sampson@gtt.net
+nic-hdl:        MS6071-RIPE
+mnt-by:         PKXG-MNT
+changed:        hostmaster@packetexchange.net 20150320
+created:        2003-08-28T11:04:36Z
+last-modified:  2015-03-20T10:29:48Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

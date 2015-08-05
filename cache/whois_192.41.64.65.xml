@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Announce Media/ Answers Corporation</registrant>
+    <registration>
+      <created>2012-05-23</created>
+      <updated>2012-05-23</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       192.41.64.0 - 192.41.64.255
+CIDR:           192.41.64.0/24
+NetName:        NET-192-41-64-0-SLASH-24
+NetHandle:      NET-192-41-64-0-1
+Parent:         ICON-CNETS (NET-192-41-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS13951
+Customer:       Announce Media/ Answers Corporation (C02980309)
+RegDate:        2012-05-23
+Updated:        2012-05-23
+Ref:            http://whois.arin.net/rest/net/NET-192-41-64-0-1
+
+CustName:       Announce Media/ Answers Corporation
+Address:        237 West 35th Street Suite 1101
+City:           New York
+StateProv:      NY
+PostalCode:     10001
+Country:        US
+RegDate:        2012-05-23
+Updated:        2012-05-23
+Ref:            http://whois.arin.net/rest/customer/C02980309
+
+OrgTechHandle: POINT3-ARIN
+OrgTechName:   Point of Contact
+OrgTechPhone:  +1-801-822-5300 
+OrgTechEmail:  POC@c7dc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/POINT3-ARIN
+
+OrgAbuseHandle: POINT3-ARIN
+OrgAbuseName:   Point of Contact
+OrgAbusePhone:  +1-801-822-5300 
+OrgAbuseEmail:  POC@c7dc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/POINT3-ARIN
+
+NetRange:       192.41.0.0 - 192.41.101.255
+CIDR:           192.41.64.0/19, 192.41.96.0/22, 192.41.100.0/23, 192.41.0.0/18
+NetName:        ICON-CNETS
+NetHandle:      NET-192-41-0-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13951
+Organization:   C7 Data Centers, Inc. (CDC-118)
+RegDate:        1988-06-02
+Updated:        2012-02-17
+Ref:            http://whois.arin.net/rest/net/NET-192-41-0-0-1
+
+OrgName:        C7 Data Centers, Inc.
+OrgId:          CDC-118
+Address:        357 South 670 West
+Address:        Suite 100
+City:           Lindon
+StateProv:      UT
+PostalCode:     84042
+Country:        US
+RegDate:        2011-09-16
+Updated:        2012-05-01
+Ref:            http://whois.arin.net/rest/org/CDC-118
+
+OrgTechHandle: POINT3-ARIN
+OrgTechName:   Point of Contact
+OrgTechPhone:  +1-801-822-5300 
+OrgTechEmail:  POC@c7dc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/POINT3-ARIN
+
+OrgAbuseHandle: POINT3-ARIN
+OrgAbuseName:   Point of Contact
+OrgAbusePhone:  +1-801-822-5300 
+OrgAbuseEmail:  POC@c7dc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/POINT3-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

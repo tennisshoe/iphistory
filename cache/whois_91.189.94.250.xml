@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Canonical Ltd</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '91.189.88.0 - 91.189.95.255' is 'abuse@6dg.co.uk'
+
+inetnum:        91.189.88.0 - 91.189.95.255
+netname:        CANONICAL-CORE
+descr:          Canonical Ltd
+country:        GB
+org:            ORG-CAN1-RIPE
+admin-c:        CAN-RIPE
+tech-c:         CAN-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         CANONICAL-MNT
+mnt-routes:     CANONICAL-MNT
+mnt-domains:    CANONICAL-MNT
+remarks:        rev-srv: ns1.canonical.com
+remarks:        rev-srv: ns2.canonical.com
+remarks:        rev-srv: ns3.canonical.com
+changed:        lamont@canonical.com 20080331
+created:        2007-01-25T15:15:07Z
+last-modified:  2015-05-05T02:15:10Z
+source:         RIPE
+remarks:        rev-srv attribute deprecated by RIPE NCC on 02/09/2009
+sponsoring-org: ORG-UL6-RIPE
+
+organisation:   ORG-CAN1-RIPE
+org-name:       Canonical Ltd
+org-type:       OTHER
+address:        1 Circular Road
+address:        Douglas
+address:        Isle of Man
+address:        IM1 1AF
+address:        United Kingdom
+e-mail:         info@canonical.com
+abuse-c:        AR25606-RIPE
+mnt-ref:        CANONICAL-MNT
+mnt-by:         CANONICAL-MNT
+changed:        ripe-dbm@ripe.net 20070102
+changed:        cyucel@mnet.co.uk 20070207
+created:        2006-07-03T15:20:06Z
+last-modified:  2014-11-17T21:12:29Z
+source:         RIPE
+
+role:           Canonical Ltd Admin
+address:        1 Circular Road
+address:        Douglas
+address:        Isle of Man
+address:        IM1 1AF
+e-mail:         hostmaster@canonical.com
+admin-c:        LJ974-RIPE
+admin-c:        JT2256-RIPE
+admin-c:        NM1806-RIPE
+admin-c:        HM129-RIPE
+tech-c:         LJ974-RIPE
+tech-c:         JT2256-RIPE
+tech-c:         NM1806-RIPE
+tech-c:         HM129-RIPE
+nic-hdl:        CAN-RIPE
+mnt-by:         CANONICAL-MNT
+changed:        james.troup@canonical.com 20120210
+changed:        herb.mcnew@canonical.com 20130508
+created:        2008-03-31T14:32:55Z
+last-modified:  2013-05-08T17:53:45Z
+source:         RIPE
+
+route:          91.189.94.0/24
+descr:          Canonical Route Object
+origin:         AS41231
+mnt-by:         CANONICAL-MNT
+changed:        herb.mcnew@canonical.com 20130220
+created:        2013-02-20T23:15:55Z
+last-modified:  2013-02-20T23:15:55Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Magyar Telekom Network Administrator</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '195.228.75.0 - 195.228.76.255' is 'abuse@t-online.hu'
+
+inetnum:        195.228.75.0 - 195.228.76.255
+netname:        MT-HOSTING
+descr:          Hosting customers using static IP
+country:        HU
+admin-c:        MTRA-RIPE
+tech-c:         MTNA-RIPE
+status:         ASSIGNED PA
+notify:         hostmaster@telekom.hu
+notify:         ripe_admin@telekom.hu
+mnt-by:         TCOM-MNT
+changed:        honvari.istvan@telekom.hu 20140611
+created:        2014-06-11T12:20:39Z
+last-modified:  2014-06-11T12:20:39Z
+source:         RIPE
+
+role:           Magyar Telekom Network Administrator
+address:        Budapest, Hungary
+e-mail:         net-admin@net.telekom.hu
+tech-c:         BAT3-RIPE
+nic-hdl:        MTNA-RIPE
+notify:         ripe_admin@telekom.hu
+abuse-mailbox:  abuse@t-online.hu
+mnt-by:         TCOM-MNT
+changed:        honvari.istvan@telekom.hu 20131013
+created:        2013-10-13T20:08:36Z
+last-modified:  2013-10-13T20:08:36Z
+source:         RIPE
+
+role:           Magyar Telekom RIPE administrator
+address:        Budapest, Hungary
+e-mail:         ripe_admin@telekom.hu
+admin-c:        DAFA11-RIPE
+nic-hdl:        MTRA-RIPE
+notify:         ripe_admin@telekom.hu
+notify:         hostmaster@telekom.hu
+abuse-mailbox:  abuse@t-online.hu
+mnt-by:         TCOM-MNT
+changed:        honvari.istvan@telekom.hu 20131013
+changed:        honvari.istvan@telekom.hu 20140207
+changed:        farkas.daniel@telekom.hu 20141015
+created:        2013-10-13T19:58:47Z
+last-modified:  2014-10-15T11:51:45Z
+source:         RIPE
+
+route:          195.228.0.0/16
+descr:          Magyar Telekom Plc.
+descr:          Public Internet Access Provider
+descr:          Budapest, Hungary
+descr:          HU
+origin:         AS5483
+notify:         net-admin@matav.net
+notify:         hostmaster@telekom.hu
+mnt-by:         AS5483-MNT
+changed:        jattila@htitig.hti.matav.hu 19960806
+changed:        bat@matav.net 20021002
+changed:        varnai.irina@telekom.hu 20120313
+created:        1970-01-01T00:00:00Z
+last-modified:  2012-03-13T10:33:18Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

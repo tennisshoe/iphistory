@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Ben Cooper</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '84.45.62.128 - 84.45.62.255' is 'abuse@c4l.co.uk'
+
+inetnum:        84.45.62.128 - 84.45.62.255
+netname:        LIVEDRIVE-NET
+descr:          Livedrive Internet Ltd
+country:        GB
+admin-c:        MCIN-RIPE
+tech-c:         BENC-RIPE
+status:         ASSIGNED PA
+mnt-by:         C4L-MNT
+changed:        marcin@c4l.co.uk 20080424
+created:        2008-04-24T13:09:45Z
+last-modified:  2008-04-24T13:09:45Z
+source:         RIPE
+
+person:         Ben Cooper
+address:        22 St. Peter's Road
+mnt-by:         c4l-mnt
+phone:          +441202299799
+nic-hdl:        BENC-RIPE
+changed:        martin@c4l.co.uk 20070905
+created:        2007-09-05T19:36:10Z
+last-modified:  2008-05-10T13:34:42Z
+source:         RIPE
+
+person:         Martin Stroszajn
+address:        C4L
+address:        7th Floor
+address:        300 Poole Road
+address:        Bournemouth
+address:        BH12 1AZ
+address:        GB
+e-mail:         martin.stroszajn@c4l.co.uk
+phone:          +44 1202 299799
+nic-hdl:        MCIN-RIPE
+org:            ORG-CA44-RIPE
+abuse-mailbox:  abuse@c4l.co.uk
+changed:        vijay.bhatt@c4l.co.uk 20140402
+mnt-by:         C4L-MNT
+created:        2008-02-15T20:54:41Z
+last-modified:  2014-04-07T10:26:10Z
+source:         RIPE
+
+route:          84.45.0.0/17
+descr:          C4L
+origin:         AS25577
+mnt-by:         C4L-MNT
+changed:        sam@c4l.co.uk 20040922
+notify:         ripe@c4l.co.uk
+created:        2004-09-22T11:01:54Z
+last-modified:  2004-09-22T11:09:32Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

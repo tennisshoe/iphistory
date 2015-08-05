@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Network Services</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.33.148.32 - 217.33.148.63' is 'abuse@bt.com'
+
+inetnum:        217.33.148.32 - 217.33.148.63
+netname:        WILLIAM-HILL-1
+descr:          FTIP003084441 William Hill Organisation Ltd
+country:        GB
+admin-c:        NS5446-RIPE
+tech-c:         NS5446-RIPE
+status:         ASSIGNED PA
+mnt-by:         BTNET-MNT
+mnt-lower:      BTNET-MNT
+mnt-routes:     BTNET-MNT
+changed:        ipmaster@bt.com 20010720
+changed:        ipmaster@bt.com 20080506
+changed:        ipmaster@bt.com 20140915
+remarks:        Please send abuse notification to abuse@bt.net
+created:        1970-01-01T00:00:00Z
+last-modified:  2014-09-15T11:51:58Z
+source:         RIPE
+
+role:           Network Services
+address:        Greenside House
+address:        50 Station Road
+address:        London N22 7TP
+address:        GB
+e-mail:         networkservices@williamhill.co.uk
+phone:          +44 20 8918 3600
+nic-hdl:        NS5446-RIPE
+mnt-by:         BTNET-MNT
+changed:        ipmaster@bt.com 20140915
+remarks:        Please send abuse notification to abuse@bt.net
+created:        2014-09-15T11:34:22Z
+last-modified:  2014-09-15T11:34:22Z
+source:         RIPE
+
+route:          217.32.0.0/12
+descr:          BT Public Internet Service
+origin:         AS2856
+mnt-by:         BTNET-INFRA-MNT
+notify:         ip.address.admin@bt.com
+changed:        ipaddman@bt.com 20140731
+created:        2013-07-16T15:21:16Z
+last-modified:  2014-07-31T07:35:10Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

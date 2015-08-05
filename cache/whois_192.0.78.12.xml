@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Automattic, Inc</registrant>
+    <registration>
+      <created>2012-11-20</created>
+      <updated>2012-11-20</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       192.0.64.0 - 192.0.127.255
+CIDR:           192.0.64.0/18
+NetName:        AUTOMATTIC
+NetHandle:      NET-192-0-64-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS2635
+Organization:   Automattic, Inc (AUTOM-93)
+RegDate:        2012-11-20
+Updated:        2012-11-20
+Ref:            http://whois.arin.net/rest/net/NET-192-0-64-0-1
+
+OrgName:        Automattic, Inc
+OrgId:          AUTOM-93
+Address:        60 29th Street #343
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94110
+Country:        US
+RegDate:        2011-10-05
+Updated:        2013-11-01
+Ref:            http://whois.arin.net/rest/org/AUTOM-93
+
+OrgNOCHandle: NOC12276-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-877-273-8550 
+OrgNOCEmail:  ipadmin@automattic.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC12276-ARIN
+
+OrgTechHandle: NOC12276-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-877-273-8550 
+OrgTechEmail:  ipadmin@automattic.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC12276-ARIN
+
+OrgAbuseHandle: ABUSE3970-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-877-273-8550 
+OrgAbuseEmail:  abuse@automattic.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3970-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

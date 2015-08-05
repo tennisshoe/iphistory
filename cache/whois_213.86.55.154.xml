@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>COLT Hostmaster</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.86.55.128 - 213.86.55.255' is 'abuse@colt.net'
+
+inetnum:        213.86.55.128 - 213.86.55.255
+netname:        NET-US-AKAMAI
+descr:          AKAMAI TECHNOLOGIES INC.
+country:        US
+admin-c:        CHM4-RIPE
+tech-c:         CHM4-RIPE
+status:         ASSIGNED PA
+remarks:        notify eu-ripemaster@colt.net
+mnt-by:         COLT-UK
+changed:        emma.fitzgerald@colt.net 20101028
+created:        2010-05-12T08:47:55Z
+last-modified:  2010-10-28T15:16:22Z
+source:         RIPE
+
+role:           COLT Hostmaster
+address:        COLT Technology Services
+address:        Beaufort House
+address:        15 St Botolph Street
+address:        London
+address:        EC3A  7QN
+phone:          +44 20 7390 3900
+fax-no:         +44 20 7863 5610
+e-mail:         eu-ripemaster@colt.net
+remarks:        trouble:  RIPE db issues email eu-ripemaster@colt.net
+remarks:        trouble:  Abuse queries to abuse@colt.net
+abuse-mailbox:  abuse@colt.net
+admin-c:        NG1400-RIPE
+tech-c:         AM17123-RIPE
+admin-c:        EF139-RIPE
+nic-hdl:        CHM4-RIPE
+mnt-by:         COLT-UK
+changed:        emma@uk.colt.net 20000120
+changed:        hostmaster@uk.colt.net 20020125
+changed:        emma.fitzgerald@colt.net 20060413
+changed:        emma.fitzgerald@colt.net 20060809
+changed:        emma.fitzgerald@colt.net 20071207
+changed:        ralf.weber@colt.net 20080715
+changed:        emma.fitzgerald@colt.net 20091223
+changed:        emma.fitzgerald@colt.net 20120210
+changed:        emma.fitzgerald@colt.net 20130415
+changed:        emma.fitzgerald@colt.net 20130415
+created:        2002-03-13T11:13:40Z
+last-modified:  2013-04-15T08:51:57Z
+source:         RIPE
+
+route:          213.86.0.0/16
+descr:          COLT
+origin:         AS8220
+remarks:        Abuse reports to abuse@colt.net
+mnt-by:         COLT-UK
+changed:        hostmaster@uk.colt.net 20030224
+changed:        emma.fitzgerald@colt.net 20120308
+created:        2003-02-24T16:23:46Z
+last-modified:  2012-03-08T15:45:52Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

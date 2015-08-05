@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Semaphore Corporation</registrant>
+    <registration>
+      <created>1998-05-05</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.221.128.0 - 209.221.191.255
+CIDR:           209.221.128.0/18
+NetName:        SEMA-CIDR-1
+NetHandle:      NET-209-221-128-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Semaphore Corporation (SEMA)
+RegDate:        1998-05-05
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-209-221-128-0-1
+
+OrgName:        Semaphore Corporation
+OrgId:          SEMA
+Address:        2001 6th Avenue, Suite 1700
+City:           Seattle
+StateProv:      WA
+PostalCode:     98121
+Country:        US
+RegDate:        1994-08-01
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/SEMA
+
+OrgNOCHandle: NOC286-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-206-905-6000 
+OrgNOCEmail:  noc@semaphore.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC286-ARIN
+
+OrgAbuseHandle: ABUSE174-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-206-905-6000 
+OrgAbuseEmail:  abuse@semaphore.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE174-ARIN
+
+OrgTechHandle: GB31-ARIN
+OrgTechName:   Brown, Garth S
+OrgTechPhone:  +1-206-905-5000 
+OrgTechEmail:  garthb@semaphore.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GB31-ARIN
+
+RTechHandle: NA15-ORG-ARIN
+RTechName:   Network Address Change Request
+RTechPhone:  +1-206-905-6000 
+RTechEmail:  nacr@semaphore.com
+RTechRef:    http://whois.arin.net/rest/poc/NA15-ORG-ARIN
+
+NetRange:       209.221.135.128 - 209.221.135.159
+CIDR:           209.221.135.128/27
+NetName:        AKAMAI-SBLK1
+NetHandle:      NET-209-221-135-128-1
+Parent:         SEMA-CIDR-1 (NET-209-221-128-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Akamai Technologies, Inc. (AKAMAI)
+RegDate:        2005-03-07
+Updated:        2005-03-07
+Ref:            http://whois.arin.net/rest/net/NET-209-221-135-128-1
+
+OrgName:        Akamai Technologies, Inc.
+OrgId:          AKAMAI
+Address:        8 Cambridge Center
+City:           Cambridge
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        1999-01-21
+Updated:        2014-03-19
+Ref:            http://whois.arin.net/rest/org/AKAMAI
+
+OrgTechHandle: SJS98-ARIN
+OrgTechName:   Schecter, Steven Jay
+OrgTechPhone:  +1-617-274-7134 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SJS98-ARIN
+
+OrgAbuseHandle: MHA379-ARIN
+OrgAbuseName:   Hannigan, Martin 
+OrgAbusePhone:  +1-617-444-2535 
+OrgAbuseEmail:  ip-admin@akamai.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MHA379-ARIN
+
+OrgTechHandle: MHA379-ARIN
+OrgTechName:   Hannigan, Martin 
+OrgTechPhone:  +1-617-444-2535 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MHA379-ARIN
+
+OrgTechHandle: ZIPKI-ARIN
+OrgTechName:   Zipkin, Justin 
+OrgTechPhone:  +1-617-444-9713 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZIPKI-ARIN
+
+RTechHandle: NA200-ARIN
+RTechName:   NOC
+RTechPhone:  +1-617-250-4610 
+RTechEmail:  noc@noc.akamai.com
+RTechRef:    http://whois.arin.net/rest/poc/NA200-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Webair Internet Development Company Inc.</registrant>
+    <registration>
+      <created>2008-11-05</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       174.137.128.0 - 174.137.191.255
+CIDR:           174.137.128.0/18
+NetName:        WEBAIRINTERNET4
+NetHandle:      NET-174-137-128-0-1
+Parent:         NET174 (NET-174-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS27257
+Organization:   Webair Internet Development Company Inc. (WAIR)
+RegDate:        2008-11-05
+Updated:        2012-03-02
+Comment:        rwhois://rwhois.webair.com:4321
+Ref:            http://whois.arin.net/rest/net/NET-174-137-128-0-1
+
+OrgName:        Webair Internet Development Company Inc.
+OrgId:          WAIR
+Address:        501 Franklin Avenue
+Address:        Suite 200
+City:           Garden City
+StateProv:      NY
+PostalCode:     11530
+Country:        US
+RegDate:        2001-03-12
+Updated:        2012-01-12
+Comment:        Reassignment information for this block is available at rwhois.webair.com port 4321
+Ref:            http://whois.arin.net/rest/org/WAIR
+
+ReferralServer:  rwhois://rwhois.webair.com:4321
+
+OrgAbuseHandle: ABUSE2550-ARIN
+OrgAbuseName:   Abusehandle
+OrgAbusePhone:  +1-516-938-4100 
+OrgAbuseEmail:  abuse@webair.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2550-ARIN
+
+OrgTechHandle: ZW64-ARIN
+OrgTechName:   IPAdmin-Webair
+OrgTechPhone:  +1-516-938-4100 
+OrgTechEmail:  ipadmin@webair.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZW64-ARIN
+
+OrgNOCHandle: ZW64-ARIN
+OrgNOCName:   IPAdmin-Webair
+OrgNOCPhone:  +1-516-938-4100 
+OrgNOCEmail:  ipadmin@webair.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZW64-ARIN
+
+RTechHandle: ZW64-ARIN
+RTechName:   IPAdmin-Webair
+RTechPhone:  +1-516-938-4100 
+RTechEmail:  ipadmin@webair.com
+RTechRef:    http://whois.arin.net/rest/poc/ZW64-ARIN
+
+RNOCHandle: ZW64-ARIN
+RNOCName:   IPAdmin-Webair
+RNOCPhone:  +1-516-938-4100 
+RNOCEmail:  ipadmin@webair.com
+RNOCRef:    http://whois.arin.net/rest/poc/ZW64-ARIN
+
+RAbuseHandle: ZW64-ARIN
+RAbuseName:   IPAdmin-Webair
+RAbusePhone:  +1-516-938-4100 
+RAbuseEmail:  ipadmin@webair.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ZW64-ARIN
+
+== Additional Information From rwhois://rwhois.webair.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.webair.com (by Network Solutions, Inc. V-1.5.7.3)
+network:Class-Name:network
+network:ID:174.137.132.32/28
+network:Auth-Area:174.137.128.0/18
+network:Network-Name:19parking.com--block
+network:IP-Network:174.137.132.32/28
+network:Org-Name:19parking.com
+network:Street-Address:P.O._Box_10398_APO
+network:City:Cayman_Island
+network:State:GCM
+network:Postal-Code:KY1-1004
+network:Country-Code:United_States_of_America
+network:Tech-Contact;I:abuse@webair.com
+network:Admin-Contact;I:abuse@webair.com
+network:Created:20150409
+network:Updated:20150409
+network:Updated-By:hostmaster@webair.com
+
+network:Class-Name:network
+network:ID:174.137.128.0/18
+network:Auth-Area:174.137.128.0/18
+network:Network-Name:Webair
+network:IP-Network:174.137.128.0/18
+network:Org-Name:Webair
+network:Street-Address:1025 Old Country Road
+network:City:Westbury
+network:State:NY
+network:Postal-Code:11590
+network:Country-Code:USA
+network:Tech-Contact;I:hostmaster@webair.com
+network:Admin-Contact;I:hostmaster@webair.com
+network:Created:20150409
+network:Updated:20150409
+network:Updated-By:hostmaster@webair.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

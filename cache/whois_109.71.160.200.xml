@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Duodecad IT Services NOC</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '109.71.160.0 - 109.71.160.255' is 'abuse@duodecadits.com'
+
+inetnum:        109.71.160.0 - 109.71.160.255
+netname:        DDITS
+descr:          DuoDecad IT Services Luxembourg S.a.r.l.
+descr:          Global Load Balanced Network
+country:        LU
+admin-c:        DDIT-RIPE
+tech-c:         DDIT-RIPE
+status:         ASSIGNED PA
+mnt-by:         DDITS-MNT
+changed:        janos.angeli@duodecadits.com 20130923
+created:        2013-09-23T14:02:43Z
+last-modified:  2013-09-23T14:02:43Z
+source:         RIPE
+
+role:           Duodecad IT Services NOC
+address:        Duodecad IT Services Luxembourg
+address:        44 Avenue John F. Kennedy
+address:        L-1855 Luxembourg (Kirchberg)
+address:        Luxembourg
+phone:          +352 26111840
+fax-no:         +352 27397115
+e-mail:         noc@duodecadits.com
+admin-c:        THOM1-RIPE
+tech-c:         TAMA5-RIPE
+nic-hdl:        DDIT-RIPE
+mnt-by:         DDITS-MNT
+notify:         noc@duodecadits.com
+abuse-mailbox:  abuse@duodecadits.com
+remarks:        ---------------------------------------------
+remarks:        Please send all abuse and spam complaints to:
+remarks:        abuse@duodecadits.com
+remarks:        ---------------------------------------------
+changed:        janos.angeli@duodecadits.com 20140125
+created:        2012-12-11T11:54:06Z
+last-modified:  2014-01-25T12:48:50Z
+source:         RIPE
+
+route:          109.71.160.0/24
+descr:          DuoDecad IT Services Luxembourg S.a.r.l.
+descr:          Global Load Balanced Network
+origin:         AS50144
+mnt-by:         DDITS-MNT
+changed:        janos.angeli@duodecadits.com 20130923
+created:        2012-11-20T08:34:06Z
+last-modified:  2013-09-23T13:55:28Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

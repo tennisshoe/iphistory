@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>InterNAP Network Operator</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '31.186.246.0 - 31.186.246.255' is 'noc@internap.com'
+
+inetnum:        31.186.246.0 - 31.186.246.255
+netname:        INAP-AMS004-iasobackup-31-186-246-0
+descr:          IASO Backup Technology BV
+country:        US
+admin-c:        INAP-RIPE
+tech-c:         INAP-RIPE
+status:         ASSIGNED PA
+mnt-by:         INAP-MAINT-RIPE
+changed:        noc@internap.com 20131119
+notify:         noc@internap.com
+created:        2013-11-19T18:54:35Z
+last-modified:  2013-11-19T18:54:35Z
+source:         RIPE
+
+person:         InterNAP Network Operator
+address:        InterNAP Network Services
+address:        Two Union Square
+address:        601 Union Street Suite 1000
+address:        Seattle, WA 98101 USA
+phone:          +1 206 441 8800
+fax-no:         +1 206 256 9580
+e-mail:         routereg@INTERNAP.COM
+nic-hdl:        INAP-RIPE
+mnt-by:         INAP-MAINT-RIPE
+changed:        andrew@internap.com 20020228
+created:        2002-03-04T12:57:06Z
+last-modified:  2002-03-04T12:57:06Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

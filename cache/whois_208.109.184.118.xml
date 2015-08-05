@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>GoDaddy.com, LLC</registrant>
+    <registration>
+      <created>2006-04-12</created>
+      <updated>2014-02-25</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.109.0.0 - 208.109.255.255
+CIDR:           208.109.0.0/16
+NetName:        GO-DADDY-COM-LLC
+NetHandle:      NET-208-109-0-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS26496
+Organization:   GoDaddy.com, LLC (GODAD)
+RegDate:        2006-04-12
+Updated:        2014-02-25
+Comment:        Please send abuse complaints to abuse@godaddy.com
+Ref:            http://whois.arin.net/rest/net/NET-208-109-0-0-1
+
+OrgName:        GoDaddy.com, LLC
+OrgId:          GODAD
+Address:        14455 N Hayden Road
+Address:        Suite 226
+City:           Scottsdale
+StateProv:      AZ
+PostalCode:     85260
+Country:        US
+RegDate:        2007-06-01
+Updated:        2014-09-10
+Comment:        Please send abuse complaints to abuse@godaddy.com
+Ref:            http://whois.arin.net/rest/org/GODAD
+
+OrgAbuseHandle: ABUSE51-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-480-624-2505 
+OrgAbuseEmail:  abuse@godaddy.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE51-ARIN
+
+OrgTechHandle: NOC124-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-480-505-8809 
+OrgTechEmail:  noc@godaddy.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC124-ARIN
+
+OrgNOCHandle: NOC124-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-480-505-8809 
+OrgNOCEmail:  noc@godaddy.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC124-ARIN
+
+RAbuseHandle: ABUSE51-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-480-624-2505 
+RAbuseEmail:  abuse@godaddy.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE51-ARIN
+
+RTechHandle: NOC124-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-480-505-8809 
+RTechEmail:  noc@godaddy.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC124-ARIN
+
+RNOCHandle: NOC124-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-480-505-8809 
+RNOCEmail:  noc@godaddy.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC124-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

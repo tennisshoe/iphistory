@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Gordon Bezzina</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '95.131.236.0 - 95.131.236.255' is 'abuse@bell.net.mt'
+
+inetnum:        95.131.236.0 - 95.131.236.255
+netname:        BM-GREENTUBE
+descr:          Greentube Ltd
+country:        MT
+admin-c:        GB3197-RIPE
+tech-c:         GB3197-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-GB3197-RIPE
+changed:        gordon.bezzina@bell.net.mt 20120202
+created:        2012-02-02T10:52:01Z
+last-modified:  2012-02-02T10:52:01Z
+source:         RIPE
+
+person:         Gordon Bezzina
+address:        gordon.bezzina@bell.net.mt
+mnt-by:         MNT-GB3197-RIPE
+phone:          +356 2147 2592
+changed:        gordon.bezzina@cats.com.mt 20040723
+changed:        gordon.bezzina@bell.net.mt 20081031
+nic-hdl:        GB3197-RIPE
+created:        2004-07-23T13:11:33Z
+last-modified:  2008-10-31T12:11:44Z
+source:         RIPE
+
+route:          95.131.236.0/24
+descr:          BELLNET-95-131-236/24
+origin:         AS20521
+mnt-by:         MNT-GB3197-RIPE
+changed:        gordon.bezzina@bell.net.mt 20120328
+created:        2012-03-28T11:52:37Z
+last-modified:  2012-03-28T11:52:37Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

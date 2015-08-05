@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Dimitrios Stergiou</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.168.174.0 - 217.168.174.255' is 'abuse@bell.net.mt'
+
+inetnum:        217.168.174.0 - 217.168.174.255
+netname:        ENTRACTION-NET
+descr:          Entraction Operation Ltd
+descr:          Tigne Place Block 12
+descr:          Office 2/3 Tigne Street
+descr:          Sliema, SLM3173 Malta
+country:        MT
+admin-c:        MS17693-RIPE
+admin-c:        JZS1-RIPE
+tech-c:         MS17693-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-GB3197-RIPE
+mnt-lower:      MNT-GB3197-RIPE
+mnt-routes:     MNT-GB3197-RIPE
+changed:        gordon.bezzina@cats.com.mt 20060119
+changed:        gordon.bezzina@bell.net.mt 20081031
+changed:        gordon.bezzina@bell.net.mt 20090617
+created:        2006-01-19T14:14:11Z
+last-modified:  2009-06-17T16:39:51Z
+source:         RIPE
+
+person:         Dimitrios Stergiou
+address:        G&#xFFFD;rdsv&#xFFFD;gen  18, Solna, SE
+e-mail:         dimitrios.stergiou@entraction.com
+phone:          +46739806483
+nic-hdl:        JZS1-RIPE
+changed:        dimitrios.stergiou@entraction.com 20090617
+created:        1970-01-01T00:00:00Z
+last-modified:  2009-06-17T11:40:00Z
+source:         RIPE
+
+person:         Marcus Soderberg
+address:        24h Poker AB
+address:        Gardsvagen 18
+address:        16970 SOLNA
+address:        SE
+e-mail:         marcus.soderberg@entraction.com
+phone:          +46 73 600 85 17
+mnt-by:         DGCSYSTEMS-MNT
+nic-hdl:        MS17693-RIPE
+changed:        registry@dgc.se 20081104
+created:        2008-11-04T09:42:11Z
+last-modified:  2008-11-04T09:42:11Z
+source:         RIPE
+
+route:          217.168.174.0/24
+descr:          BELLNET-174
+origin:         AS20521
+mnt-by:         MNT-GB3197-RIPE
+changed:        gordon.bezzina@cats.com.mt 20060123
+changed:        gordon.bezzina@bell.net.mt 20081031
+created:        2006-01-23T13:22:00Z
+last-modified:  2008-10-31T13:19:45Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>nazwa.pl S.A.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '85.128.128.0 - 85.128.167.255' is 'abuse@netart.pl'
+
+inetnum:        85.128.128.0 - 85.128.167.255
+netname:        NAZWAPL
+descr:          nazwa.pl webhosting servers
+country:        PL
+org:            ORG-NPN1-RIPE
+admin-c:        NA15967-RIPE
+tech-c:         NA15967-RIPE
+status:         ASSIGNED PA
+mnt-by:         NETART-PL-MNT
+mnt-lower:      NETART-PL-MNT
+mnt-routes:     NETART-PL-MNT
+changed:        hostmaster@netart.pl 20140114
+created:        2004-11-20T09:46:56Z
+last-modified:  2014-08-05T10:01:11Z
+source:         RIPE
+
+organisation:   ORG-NPN1-RIPE
+org-name:       nazwa.pl S.A.
+org-type:       LIR
+address:        nazwa.pl S.A.
+address:        Grzegorz Piszczek
+address:        ul. Cystersow 20a
+address:        31-553
+address:        Krakow
+address:        POLAND
+phone:          +48122978810
+fax-no:         +48122978808
+e-mail:         biuro@netart.pl
+abuse-c:        NA15967-RIPE
+admin-c:        NA15967-RIPE
+mnt-ref:        NETART-PL-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+changed:        bitbucket@ripe.net 20140725
+created:        2004-10-18T09:33:06Z
+last-modified:  2014-07-25T13:09:32Z
+source:         RIPE
+
+role:           NetArt Administrator
+address:        nazwa.pl S.A.
+address:        ul. Cystersow 20a, 31-553 Krakow
+address:        Poland
+phone:          +48 801 332233
+phone:          +48 12 2978810
+fax-no:         +48 12 2978808
+abuse-mailbox:  abuse@netart.pl
+e-mail:         admin@netart.pl
+admin-c:        GP15967-RIPE
+admin-c:        DF15967-RIPE
+admin-c:        RL15967-RIPE
+tech-c:         GP15967-RIPE
+tech-c:         DF15967-RIPE
+tech-c:         RL15967-RIPE
+nic-hdl:        NA15967-RIPE
+mnt-by:         NETART-PL-MNT
+changed:        hostmaster@netart.pl 20140806
+created:        2005-06-15T21:03:58Z
+last-modified:  2014-08-06T09:13:34Z
+source:         RIPE
+
+route:          85.128.128.0/17
+descr:          NAZWAPL
+origin:         AS15967
+mnt-by:         NETART-PL-MNT
+changed:        hostmaster@netart.pl 20140114
+created:        2004-11-12T15:04:32Z
+last-modified:  2014-08-05T10:04:38Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DataPipe, Inc.</registrant>
+    <registration>
+      <created>2004-12-08</created>
+      <updated>2015-05-21</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       72.21.32.0 - 72.21.63.255
+CIDR:           72.21.32.0/19
+NetName:        DATAPIPE
+NetHandle:      NET-72-21-32-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   DataPipe, Inc. (DATAPI-2)
+RegDate:        2004-12-08
+Updated:        2015-05-21
+Ref:            http://whois.arin.net/rest/net/NET-72-21-32-0-1
+
+OrgName:        DataPipe, Inc.
+OrgId:          DATAPI-2
+Address:        10 Exchange Place, Suite 1200
+City:           Jersey City
+StateProv:      NJ
+PostalCode:     07302
+Country:        US
+RegDate:        2001-08-21
+Updated:        2013-02-27
+Ref:            http://whois.arin.net/rest/org/DATAPI-2
+
+OrgTechHandle: DATAP3-ARIN
+OrgTechName:   DataPipe Swipper
+OrgTechPhone:  +1-201-792-1918 
+OrgTechEmail:  arin@datapipe.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DATAP3-ARIN
+
+OrgAbuseHandle: DATAP-ARIN
+OrgAbuseName:   DataPipe Abuse
+OrgAbusePhone:  +1-201-792-1918 
+OrgAbuseEmail:  abuse@datapipe.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DATAP-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

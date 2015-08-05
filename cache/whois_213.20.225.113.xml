@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>mediaWays Hostmaster</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.20.225.112 - 213.20.225.119' is 'abuse@telefonica.de'
+
+inetnum:        213.20.225.112 - 213.20.225.119
+netname:        WETTERCOM
+descr:          Wetter.com AG
+descr:          Werner-von-Siemens-Str. 22
+descr:          78224 Singen
+country:        DE
+admin-c:        SB10229-RIPE
+tech-c:         MWH6-RIPE
+status:         ASSIGNED PA
+mnt-by:         MDA-Z
+changed:        ip@telefonica.de 20090430
+created:        2009-04-30T09:04:42Z
+last-modified:  2009-04-30T09:04:42Z
+source:         RIPE
+
+role:           mediaWays Hostmaster
+address:        Telefonica Germany GmbH &amp; Co.OHG
+address:        Georg-Brauchle-Ring 23-25
+address:        80992 Muenchen
+address:        Germany
+phone:          +498924420
+fax-no:         +498924424191
+e-mail:         hostmaster@telefonica.de
+abuse-mailbox:  abuse@telefonica.de
+e-mail:         ncc@telefonica.de
+admin-c:        CS8096-RIPE
+tech-c:         TG819-RIPE
+tech-c:         ASZ-RIPE
+nic-hdl:        MWH6-RIPE
+notify:         hostmaster@telefonica.de
+notify:         hm-dbm-msgs@ripe.net
+mnt-by:         MDA-Z
+changed:        hostmaster@telefonica.de 20030312
+changed:        hostmaster@telefonica.de 20030312
+changed:        Andreas.Schwarz2@telefonica.com 20130106
+changed:        ip@telefonica.de 20130327
+created:        2001-11-06T10:42:25Z
+last-modified:  2013-03-27T12:35:24Z
+source:         RIPE
+
+person:         Stefan Blondzik
+address:        Wetter Fernsehen - Meteos GmbH
+address:        Werner-von-Siemens-Str. 22
+address:        78224 Singen
+address:        Germany
+phone:          +4977318380
+fax-no:         +49773183819
+e-mail:         stefan.blondzik@wetterfernsehen.de
+nic-hdl:        SB10229-RIPE
+mnt-by:         MDA-Z
+changed:        ip@telefonica.de 20090430
+created:        2009-04-30T08:48:14Z
+last-modified:  2009-04-30T08:48:14Z
+source:         RIPE
+
+route:          213.20.0.0/16
+descr:          Telefonica Deutschland GmbH
+origin:         AS6805
+mnt-by:         MDA-Z
+changed:        ingo.stampe@mediaways.net 19991015
+changed:        hostmaster@telefonica.de 20030324
+created:        1970-01-01T00:00:00Z
+last-modified:  2003-03-24T10:05:45Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

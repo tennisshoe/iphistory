@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ILAN SIKARY</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.111.100.208 - 217.111.100.215' is 'abuse@colt.net'
+
+inetnum:        217.111.100.208 - 217.111.100.215
+netname:        NET-DE-MEDIA-CONNECT-SCHEER-GMBH
+descr:          MEDIA CONNECT SCHEER GMBH
+country:        DE
+admin-c:        IS5881-RIPE
+tech-c:         IS5881-RIPE
+status:         ASSIGNED PA
+mnt-by:         DE-COLT-MNT
+changed:        Dharminder.Singh@colt.net 20150717
+created:        2015-07-17T11:45:40Z
+last-modified:  2015-07-17T11:45:40Z
+source:         RIPE
+
+person:         ILAN SIKARY
+address:        MEDIA CONNECT SCHEER GMBH
+address:        MAX-PLANCK-STRASSE 3
+address:        ASCHHEIM, 85609, GERMANY
+phone:          +49 08995998920
+nic-hdl:        IS5881-RIPE
+mnt-by:         DE-COLT-MNT
+changed:        Dharminder.Singh@colt.net 20150717
+created:        2015-07-17T11:45:40Z
+last-modified:  2015-07-17T11:45:40Z
+source:         RIPE
+
+route:          217.110.0.0/15
+descr:          COLT
+origin:         AS8220
+mnt-by:         DE-COLT-MNT
+changed:        markb@de.colt.net 20020625
+changed:        emma.fitzgerald@colt.net 20100302
+changed:        emma.fitzgerald@colt.net 20120106
+changed:        dirk.dietz@colt.net 20120120
+changed:        dirk.dietz@colt.net 20131218
+changed:        dirk.dietz@colt.net 20131219
+created:        2002-06-25T14:35:50Z
+last-modified:  2013-12-19T10:08:13Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

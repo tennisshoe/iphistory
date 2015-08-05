@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Carpathia Hosting, Inc.</registrant>
+    <registration>
+      <created>2006-06-16</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       209.222.128.0 - 209.222.159.255
+CIDR:           209.222.128.0/19
+NetName:        CIRN-NETBLOCK05
+NetHandle:      NET-209-222-128-0-1
+Parent:         NET209 (NET-209-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Carpathia Hosting, Inc. (CARPA-3)
+RegDate:        2006-06-16
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-209-222-128-0-1
+
+OrgName:        Carpathia Hosting, Inc.
+OrgId:          CARPA-3
+Address:        PO Box 2145
+City:           Ashburn
+StateProv:      VA
+PostalCode:     20146
+Country:        US
+RegDate:        2003-04-24
+Updated:        2009-09-08
+Ref:            http://whois.arin.net/rest/org/CARPA-3
+
+ReferralServer:  rwhois://rwhois.carpathiahost.com:4321
+
+OrgAbuseHandle: CHAP-ARIN
+OrgAbuseName:   Carpathia Hosting, Abuse POC
+OrgAbusePhone:  +1-703-740-1730 
+OrgAbuseEmail:  abuse@carpathiahost.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CHAP-ARIN
+
+OrgTechHandle: CHIA-ARIN
+OrgTechName:   Carpathia Hosting, IP Administration
+OrgTechPhone:  +1-703-740-1730 
+OrgTechEmail:  ipadmin@cirn.net
+OrgTechRef:    http://whois.arin.net/rest/poc/CHIA-ARIN
+
+== Additional Information From rwhois://rwhois.carpathiahost.com:4321 ==
+
+%rwhois V-1.5:003eff:00 rwhois.carpathiahost.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Auth-Area:209.222.128.0/19
+network:Class-Name:network
+network:ID:NETBLK-209.222.138.0/23
+network:Network-Name:NET-209.222.138.0/23
+network:IP-Network:209.222.138.0/23
+network:Org-Name:Carpathia Hosting - Cloud Infrastructure
+network:Street-Address:N/A
+network:City:N/A
+network:State:N/A
+network:Postal-Code:N/A
+network:Country-Code:N/A
+network:Tech-Contact;I:CHIA-ARIN
+network:Updated:20150430120000
+network:Updated-By:hostmaster@cirn.net
+
+network:Auth-Area:209.222.128.0/19
+network:Class-Name:network
+network:ID:NETBLK-209.222.128.0/19
+network:Network-Name:NET-209.222.128.0/19
+network:IP-Network:209.222.128.0/19
+network:Org-Name:Carpathia Hosting
+network:Street-Address:21000 Atlantic Boulevard #500
+network:City:Dulles
+network:State:VA
+network:Postal-Code:20166
+network:Country-Code:US
+network:Tech-Contact;I:CHIA-ARIN
+network:Updated:20000101120000
+network:Updated-By:hostmaster@cirn.net
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

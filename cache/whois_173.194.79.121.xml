@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Google Inc.</registrant>
+    <registration>
+      <created>2009-08-17</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       173.194.0.0 - 173.194.255.255
+CIDR:           173.194.0.0/16
+NetName:        GOOGLE
+NetHandle:      NET-173-194-0-0-1
+Parent:         NET173 (NET-173-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS15169
+Organization:   Google Inc. (GOGL)
+RegDate:        2009-08-17
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-173-194-0-0-1
+
+OrgName:        Google Inc.
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2000-03-30
+Updated:        2013-08-07
+Ref:            http://whois.arin.net/rest/org/GOGL
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google Inc
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZG39-ARIN
+
+OrgAbuseHandle: ZG39-ARIN
+OrgAbuseName:   Google Inc
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  arin-contact@google.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZG39-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

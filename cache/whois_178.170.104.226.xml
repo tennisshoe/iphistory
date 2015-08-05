@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Nexylan</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '178.170.104.0 - 178.170.104.255' is 'abuse@nexylan.com'
+
+inetnum:        178.170.104.0 - 178.170.104.255
+netname:        NEXYLAN
+org:            ORG-NA732-RIPE
+descr:          NEXYLAN
+country:        FR
+admin-c:        AG10634-RIPE
+tech-c:         AG10634-RIPE
+status:         ASSIGNED PA
+mnt-by:         IKOULA-MNT
+changed:        jnoisette@ikoula.com 20130625
+remarks:        abuse contacts abuse@nexylan.com
+changed:        joaquim@ikoula.com 20141230
+created:        2013-06-25T13:09:48Z
+last-modified:  2014-12-30T17:25:37Z
+source:         RIPE
+
+organisation:   ORG-NA732-RIPE
+org-name:       Nexylan
+org-type:       other
+address:        25 Rue Corneille
+e-mail:         gaetan@nexylan.com
+abuse-mailbox:  abuse@nexylan.com
+abuse-c:        AN29419-RIPE
+mnt-ref:        IKOULA-MNT
+mnt-by:         IKOULA-MNT
+changed:        joaquim@ikoula.com 20141230
+created:        2014-12-30T17:24:25Z
+last-modified:  2014-12-30T17:24:25Z
+source:         RIPE
+
+person:         Allart Gaetan
+address:        SAS Nexylan
+address:        25 Rue Corneille
+address:        59100 Roubaix
+phone:          +33366721572
+e-mail:         gaetan@nexylan.com
+nic-hdl:        AG10634-RIPE
+mnt-by:         IKOULA-MNT
+changed:        aurelienp@ikoula.com 20101116
+abuse-mailbox:  abuse@nexylan.com
+changed:        joaquim@ikoula.com 20141230
+created:        2010-11-16T17:22:47Z
+last-modified:  2014-12-30T17:05:53Z
+source:         RIPE
+
+route:          178.170.0.0/17
+descr:          Ikoula Ripe Block
+origin:         AS21409
+remarks:        Abuse reports to ikoula@ikoula.com
+remarks:        Peering contact is peering@ikoula.com
+mnt-by:         IKOULA-MNT
+changed:        joaquim@ikoula.com 20100406
+created:        2010-04-06T07:45:24Z
+last-modified:  2010-04-06T07:45:24Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>FortressITX</registrant>
+    <registration>
+      <created>2003-09-03</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.72.128.0 - 69.72.255.255
+CIDR:           69.72.128.0/17
+NetName:        FORTRESSITX
+NetHandle:      NET-69-72-128-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   FortressITX (FORTR-5)
+RegDate:        2003-09-03
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-69-72-128-0-1
+
+OrgName:        FortressITX
+OrgId:          FORTR-5
+Address:        333 Meadowlands Parkway, Suite 405
+City:           Secaucus
+StateProv:      NJ
+PostalCode:     07084
+Country:        US
+RegDate:        2006-05-12
+Updated:        2014-09-18
+Ref:            http://whois.arin.net/rest/org/FORTR-5
+
+ReferralServer:  rwhois://rwhois.fortressitx.com:4443
+
+OrgAbuseHandle: FIAD-ARIN
+OrgAbuseName:   Fortress ITX Abuse Dept
+OrgAbusePhone:  +1-973-572-1070 
+OrgAbuseEmail:  abuse@fortressitx.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/FIAD-ARIN
+
+OrgTechHandle: FIH2-ARIN
+OrgTechName:   Fortress ITX Hostmaster
+OrgTechPhone:  +1-973-572-1070 
+OrgTechEmail:  hostmaster@fortressitx.com
+OrgTechRef:    http://whois.arin.net/rest/poc/FIH2-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

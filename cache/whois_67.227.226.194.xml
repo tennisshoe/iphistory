@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Liquid Web, Inc.</registrant>
+    <registration>
+      <created>2008-01-23</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       67.227.128.0 - 67.227.255.255
+CIDR:           67.227.128.0/17
+NetName:        LIQUIDWEB-9
+NetHandle:      NET-67-227-128-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32244
+Organization:   Liquid Web, Inc. (LQWB)
+RegDate:        2008-01-23
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-67-227-128-0-1
+
+OrgName:        Liquid Web, Inc.
+OrgId:          LQWB
+Address:        4210 Creyts Rd.
+City:           Lansing
+StateProv:      MI
+PostalCode:     48917
+Country:        US
+RegDate:        2001-07-20
+Updated:        2011-07-18
+Ref:            http://whois.arin.net/rest/org/LQWB
+
+ReferralServer:  rwhois://rwhois.liquidweb.com:4321
+
+OrgTechHandle: IPADM47-ARIN
+OrgTechName:   IP Administrator
+OrgTechPhone:  +1-800-580-4985 
+OrgTechEmail:  ipadmin@liquidweb.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM47-ARIN
+
+OrgAbuseHandle: ABUSE551-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-800-580-4985 
+OrgAbuseEmail:  abuse@liquidweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE551-ARIN
+
+RTechHandle: IPADM47-ARIN
+RTechName:   IP Administrator
+RTechPhone:  +1-800-580-4985 
+RTechEmail:  ipadmin@liquidweb.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM47-ARIN
+
+== Additional Information From rwhois://rwhois.liquidweb.com:4321 ==
+
+%rwhois V-1.5:003eff:00 rwhois.liquidweb.com (by Network Solutions, Inc. V-1.5.7.4)
+network:Class-Name:network
+network:ID:NETBLK-WEBINFLUENCE.67.227.226.194/31
+network:Auth-Area:67.227.128.0/17
+network:Network-Name:WEBINFLUENCE-67.227.226.194
+network:IP-Network:67.227.226.194/31
+network:IP-Network-Block:67.227.226.194-67.227.226.195
+network:Organization;I:WEBINFLUENCE
+network:Org-Name:WEBINFLUENCE GROUP AS
+network:Street-Address:Kaupmehe 7-A10
+network:City:Tallinn
+network:Postal-Code:10114
+network:Country-Code:EE
+network:Tech-Contact;I:thomas@adcash.com
+network:Abuse:abuse@sourcedns.com
+network:Created:20150805
+network:Updated:20150805
+network:Updated-By:admin@sourcedns.com
+
+network:Class-Name:network
+network:ID:NETBLK-SOURCEDNS.67.227.128.0/17
+network:Auth-Area:67.227.128.0/17
+network:Network-Name:SOURCEDNS-67.227.128.0
+network:IP-Network:67.227.128.0/17
+network:IP-Network-Block:67.227.128.0 - 67.227.255.255
+network:Organization;I:SOURCEDNS
+network:Org-Name:SourceDNS
+network:Street-Address:4210 Creyts Rd.
+network:City:Lansing
+network:State:MI
+network:Postal-Code:48917
+network:Country-Code:US
+network:Tech-Contact;I:admin@sourcedns.com
+network:Created:20071126
+network:Updated:20090226
+network:Updated-By:admin@sourcedns.com
+network:Abuse:abuse@sourcedns.com
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

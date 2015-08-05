@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Taiwan Fixed Network CO.,LTD.</registrant>
+    <registration>
+      <updated>2005-11-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        60.198.0.0 - 60.199.255.255
+netname:        TFN-NET
+descr:          Taiwan Fixed Network CO.,LTD.
+descr:          7FI., No. 498, Ruei-Guang Rd., Nei-Hu
+descr:          Taipei Taiwan 114
+country:        TW
+admin-c:        pNA3-AP
+tech-c:         pNA3-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-TW-TWNIC
+mnt-lower:      MAINT-TW-TWNIC
+changed:        ting_tseng@twfn.com.tw 20051118
+changed:        hm-changed@apnic.net 20051118
+changed:        hostmaster@twnic.net.tw 20070308
+source:         APNIC
+
+role:           profond Network Administrator
+address:        8F., No.172-1, Sec.2, Ji-Lung Rd,
+address:        Taipei, Taiwan, 106, R.O.C
+country:        TW
+phone:          +886-2-6639-0859
+fax-no:         +886-2-6639-0859
+e-mail:         ethanchen@taiwanmobile.com
+admin-c:        EC648-AP
+tech-c:         EC648-AP
+nic-hdl:        pNA3-AP
+remarks:        The role object should be used when making
+remarks:        changes to admin-c or tech-c handle.
+notify:         hostmaster@twnic.net.tw
+mnt-by:         MAINT-TW-TWNIC
+changed:        hostmaster@twnic.net.tw 20131226
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

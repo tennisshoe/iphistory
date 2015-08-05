@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Agarik Staff</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.174.215.0 - 217.174.215.255' is 'abuse@agarik.com'
+
+inetnum:        217.174.215.0 - 217.174.215.255
+netname:        AGARIK-CUSTOMERS-BLOCK14
+descr:          Agarik is a french Web Hosting Company based in France
+descr:          specialized in dedicated managed servers.
+descr:          We actually provide 24x7x365 Support on all our servers.
+descr:          For more information please consult www.agarik.com
+country:        FR
+admin-c:        AS409-RIPE
+tech-c:         AS409-RIPE
+status:         ASSIGNED PA
+notify:         ripe-notify@agarik.com
+mnt-by:         AGARIK-MNT
+mnt-routes:     AGARIK-MNT
+mnt-lower:      AGARIK-MNT
+changed:        seb@agarik.com 20090929
+created:        2009-09-29T11:00:47Z
+last-modified:  2009-09-29T11:00:47Z
+source:         RIPE
+
+role:           Agarik Staff
+address:        20 rue Dieumegard
+address:        93400 SAINT-OUEN
+address:        FRANCE
+phone:          +33 1 46919293
+fax-no:         +33 1 46919285
+e-mail:         noc@agarik.com
+abuse-mailbox:  abuse@agarik.com
+remarks:        24/7 phone number: +33 1 46919293
+admin-c:        CH10945-RIPE
+tech-c:         CH10945-RIPE
+tech-c:         SP3451-RIPE
+nic-hdl:        AS409-RIPE
+mnt-by:         AGARIK-MNT
+changed:        celine@agarik.com 20070305
+changed:        seb@agarik.com 20100323
+changed:        seb@agarik.com 20100617
+changed:        acisse@agarik.com 20121017
+changed:        seb@agarik.com 20130404
+changed:        seb@agarik.com 20140312
+changed:        seb@agarik.com 20150603
+mnt-by:         AGARIK-MNT
+created:        2003-03-11T02:41:17Z
+last-modified:  2015-06-03T14:11:52Z
+source:         RIPE
+
+route:          217.174.192.0/19
+descr:          AGARIK Network
+origin:         AS16128
+mnt-by:         AGARIK-MNT
+changed:        gm@agarik.com 20031113
+created:        2008-06-25T12:32:41Z
+last-modified:  2008-06-25T12:32:41Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

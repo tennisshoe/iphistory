@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Internet Express</registrant>
+    <registration>
+      <created>1999-09-23</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       216.240.160.0 - 216.240.191.255
+CIDR:           216.240.160.0/19
+NetName:        IXPRES-NET
+NetHandle:      NET-216-240-160-0-1
+Parent:         NET216 (NET-216-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Internet Express (IXPR)
+RegDate:        1999-09-23
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-216-240-160-0-1
+
+OrgName:        Internet Express
+OrgId:          IXPR
+Address:        9725 Scranton Road
+City:           San Diego
+StateProv:      CA
+PostalCode:     92121
+Country:        US
+RegDate:        1999-06-04
+Updated:        2012-06-05
+Ref:            http://whois.arin.net/rest/org/IXPR
+
+OrgTechHandle: PMVH-ARIN
+OrgTechName:   Von Hendy, Phoenix Marlene
+OrgTechPhone:  +1-888-327-8375 
+OrgTechEmail:  admin@ixpres.com
+OrgTechRef:    http://whois.arin.net/rest/poc/PMVH-ARIN
+
+OrgAbuseHandle: PMVH-ARIN
+OrgAbuseName:   Von Hendy, Phoenix Marlene
+OrgAbusePhone:  +1-888-327-8375 
+OrgAbuseEmail:  admin@ixpres.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/PMVH-ARIN
+
+RTechHandle: RJS119-ARIN
+RTechName:   Sears, Richard James
+RTechPhone:  +1-858-576-4272 
+RTechEmail:  ip-admin@americanis.net
+RTechRef:    http://whois.arin.net/rest/poc/RJS119-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Detect Network</registrant>
+    <registration>
+      <created>2009-05-11</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       68.68.96.0 - 68.68.111.255
+CIDR:           68.68.96.0/20
+NetName:        EGIHOSTING-3
+NetHandle:      NET-68-68-96-0-1
+Parent:         NET68 (NET-68-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS18779
+Organization:   EGIHosting (EGNL-1)
+RegDate:        2009-05-11
+Updated:        2012-03-02
+Comment:        http://egihosting.com
+Ref:            http://whois.arin.net/rest/net/NET-68-68-96-0-1
+
+OrgName:        EGIHosting
+OrgId:          EGNL-1
+Address:        55 S. Market St.
+Address:        Suite 1616
+City:           San Jose
+StateProv:      CA
+PostalCode:     95113
+Country:        US
+RegDate:        2007-07-23
+Updated:        2015-07-22
+Comment:        http://egihosting.com
+Ref:            http://whois.arin.net/rest/org/EGNL-1
+
+OrgAbuseHandle: ABUSE1715-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-888-808-8806 
+OrgAbuseEmail:  abuse@egihosting.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1715-ARIN
+
+OrgTechHandle: KTBIJ-ARIN
+OrgTechName:   KT, Bijoy 
+OrgTechPhone:  +1-888-808-8806 
+OrgTechEmail:  egni@egihosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KTBIJ-ARIN
+
+OrgNOCHandle: NOC2660-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-888-808-8806 
+OrgNOCEmail:  noc@egihosting.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC2660-ARIN
+
+OrgTechHandle: CHENJ-ARIN
+OrgTechName:   Chen, James 
+OrgTechPhone:  +1-408-228-4448 
+OrgTechEmail:  james@egihosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CHENJ-ARIN
+
+OrgTechHandle: KITCH7-ARIN
+OrgTechName:   Kitchens, Jason 
+OrgTechPhone:  +1-408-228-4448 
+OrgTechEmail:  jasonk@egihosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KITCH7-ARIN
+
+RNOCHandle: NOC2660-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-888-808-8806 
+RNOCEmail:  noc@egihosting.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2660-ARIN
+
+RTechHandle: SBR126-ARIN
+RTechName:   Brookshire, Scott 
+RTechPhone:  +1-408-228-4448 
+RTechEmail:  scottb@egihosting.com
+RTechRef:    http://whois.arin.net/rest/poc/SBR126-ARIN
+
+RAbuseHandle: ABUSE1715-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-888-808-8806 
+RAbuseEmail:  abuse@egihosting.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1715-ARIN
+
+NetRange:       68.68.107.0 - 68.68.107.255
+CIDR:           68.68.107.0/24
+NetName:        NET-68-68-107-0
+NetHandle:      NET-68-68-107-0-1
+Parent:         EGIHOSTING-3 (NET-68-68-96-0-1)
+NetType:        Reassigned
+OriginAS:       AS18779
+Customer:       Detect Network (C05045180)
+RegDate:        2014-05-16
+Updated:        2014-05-16
+Ref:            http://whois.arin.net/rest/net/NET-68-68-107-0-1
+
+CustName:       Detect Network
+Address:        450 National Avenue
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2014-05-16
+Updated:        2014-05-16
+Ref:            http://whois.arin.net/rest/customer/C05045180
+
+OrgAbuseHandle: ABUSE1715-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-888-808-8806 
+OrgAbuseEmail:  abuse@egihosting.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1715-ARIN
+
+OrgTechHandle: KTBIJ-ARIN
+OrgTechName:   KT, Bijoy 
+OrgTechPhone:  +1-888-808-8806 
+OrgTechEmail:  egni@egihosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KTBIJ-ARIN
+
+OrgNOCHandle: NOC2660-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-888-808-8806 
+OrgNOCEmail:  noc@egihosting.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC2660-ARIN
+
+OrgTechHandle: CHENJ-ARIN
+OrgTechName:   Chen, James 
+OrgTechPhone:  +1-408-228-4448 
+OrgTechEmail:  james@egihosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CHENJ-ARIN
+
+OrgTechHandle: KITCH7-ARIN
+OrgTechName:   Kitchens, Jason 
+OrgTechPhone:  +1-408-228-4448 
+OrgTechEmail:  jasonk@egihosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KITCH7-ARIN
+
+RNOCHandle: NOC2660-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-888-808-8806 
+RNOCEmail:  noc@egihosting.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC2660-ARIN
+
+RTechHandle: SBR126-ARIN
+RTechName:   Brookshire, Scott 
+RTechPhone:  +1-408-228-4448 
+RTechEmail:  scottb@egihosting.com
+RTechRef:    http://whois.arin.net/rest/poc/SBR126-ARIN
+
+RAbuseHandle: ABUSE1715-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-888-808-8806 
+RAbuseEmail:  abuse@egihosting.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1715-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

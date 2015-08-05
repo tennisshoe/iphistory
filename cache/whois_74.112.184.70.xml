@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Box.com</registrant>
+    <registration>
+      <created>2011-03-22</created>
+      <updated>2014-12-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       74.112.184.0 - 74.112.187.255
+CIDR:           74.112.184.0/22
+NetName:        BOX-NET-1
+NetHandle:      NET-74-112-184-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS33011
+Organization:   Box.com (BOXNE-1)
+RegDate:        2011-03-22
+Updated:        2014-12-09
+Comment:        http://www.box.com 
+Comment:        Standard NOC hours are 10am to 7pm PST
+Comment:        Report all DMCA matters online at: 
+Comment:        http://sites.box.com/help/dmca/
+Ref:            http://whois.arin.net/rest/net/NET-74-112-184-0-1
+
+OrgName:        Box.com
+OrgId:          BOXNE-1
+Address:        4440 El Camino Real
+City:           Los Altos
+StateProv:      CA
+PostalCode:     94022
+Country:        US
+RegDate:        2008-04-04
+Updated:        2014-12-09
+Comment:        http://www.box.com
+Comment:        Standard NOC hours are 10am to 7pm PST
+Comment:        Report all DMCA matters online at:
+Comment:        http://sites.box.com/help/dmca/
+Ref:            http://whois.arin.net/rest/org/BOXNE-1
+
+OrgNOCHandle: NOC3036-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-650-329-1210 
+OrgNOCEmail:  noc@box.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC3036-ARIN
+
+OrgTechHandle: ATT5-ARIN
+OrgTechName:   ARIN Tech Team
+OrgTechPhone:  +1-650-329-1210 
+OrgTechEmail:  arin-tech-poc@box.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ATT5-ARIN
+
+OrgAbuseHandle: ABUSE3661-ARIN
+OrgAbuseName:   Abuse Team
+OrgAbusePhone:  +1-650-329-1210 
+OrgAbuseEmail:  abuse@box.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3661-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

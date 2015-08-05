@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>InMotion Hosting</registrant>
+    <registration>
+      <created>2007-03-22</created>
+      <updated>2012-09-22</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       74.124.192.0 - 74.124.223.255
+CIDR:           74.124.192.0/19
+NetName:        CORPCOLO-NET03
+NetHandle:      NET-74-124-192-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Corporate Colocation Inc. (CORPO-6)
+RegDate:        2007-03-22
+Updated:        2012-09-22
+Ref:            http://whois.arin.net/rest/net/NET-74-124-192-0-1
+
+OrgName:        Corporate Colocation Inc.
+OrgId:          CORPO-6
+Address:        563 W main
+City:           LOS ANGELES
+StateProv:      CA
+PostalCode:     90038
+Country:        US
+RegDate:        2003-11-11
+Updated:        2015-05-26
+Ref:            http://whois.arin.net/rest/org/CORPO-6
+
+OrgTechHandle: NOC1601-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-323-350-5596 
+OrgTechEmail:  victor@corporatecolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+OrgAbuseHandle: ABUSE657-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-888-742-4147 
+OrgAbuseEmail:  abuse@corporatecolo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE657-ARIN
+
+RTechHandle: NOC1601-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-323-350-5596 
+RTechEmail:  victor@corporatecolo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+RAbuseHandle: NOC1601-ARIN
+RAbuseName:   Network Operations Center
+RAbusePhone:  +1-323-350-5596 
+RAbuseEmail:  victor@corporatecolo.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+RNOCHandle: NOC1601-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-323-350-5596 
+RNOCEmail:  victor@corporatecolo.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+NetRange:       74.124.212.0 - 74.124.215.255
+CIDR:           74.124.212.0/22
+NetName:        CORPCOLO-NET-74-124-212-0-22
+NetHandle:      NET-74-124-212-0-1
+Parent:         CORPCOLO-NET03 (NET-74-124-192-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       InMotion Hosting (C03186398)
+RegDate:        2012-10-21
+Updated:        2012-10-21
+Ref:            http://whois.arin.net/rest/net/NET-74-124-212-0-1
+
+CustName:       InMotion Hosting
+Address:        2800 28th St.
+Address:        Suite 321
+City:           Santa Monica
+StateProv:      CA
+PostalCode:     90405
+Country:        US
+RegDate:        2012-10-21
+Updated:        2012-10-21
+Ref:            http://whois.arin.net/rest/customer/C03186398
+
+OrgTechHandle: NOC1601-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-323-350-5596 
+OrgTechEmail:  victor@corporatecolo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+OrgAbuseHandle: ABUSE657-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-888-742-4147 
+OrgAbuseEmail:  abuse@corporatecolo.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE657-ARIN
+
+RTechHandle: NOC1601-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-323-350-5596 
+RTechEmail:  victor@corporatecolo.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+RAbuseHandle: NOC1601-ARIN
+RAbuseName:   Network Operations Center
+RAbusePhone:  +1-323-350-5596 
+RAbuseEmail:  victor@corporatecolo.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN
+
+RNOCHandle: NOC1601-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-323-350-5596 
+RNOCEmail:  victor@corporatecolo.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC1601-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

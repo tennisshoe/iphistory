@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Waycom International SARL</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '193.27.194.0 - 193.27.195.255' is 'noc@waycom.net'
+
+inetnum:        193.27.194.0 - 193.27.195.255
+netname:        WAYCOM-NET-2
+descr:          Waycom International SARL
+org:            ORG-EOIS1-RIPE
+country:        FR
+admin-c:        TC685-RIPE
+tech-c:         TC685-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         WAYCOM-MNT
+mnt-routes:     WAYCOM-MNT
+changed:        hostmaster@ripe.net 20031223
+changed:        pm@waycom.net 20031229
+changed:        hostmaster@ripe.net 20111117
+created:        2003-12-23T13:16:19Z
+last-modified:  2015-05-05T01:54:19Z
+source:         RIPE
+
+organisation:   ORG-EOIS1-RIPE
+org-name:       Waycom International SARL
+org-type:       LIR
+address:        2-6 rue des bourets
+address:        92150
+address:        Suresnes
+address:        FRANCE
+phone:          +33141448300
+fax-no:         +33141440022
+e-mail:         noc@waycom.net
+abuse-c:        AR16066-RIPE
+admin-c:        NIH-RIPE
+admin-c:        FD778-RIPE
+admin-c:        GG30889-RIPE
+admin-c:        JD348-RIPE
+admin-c:        TC685-RIPE
+mnt-ref:        AS12472-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+created:        2004-04-17T11:37:40Z
+changed:        bitbucket@ripe.net 20150716
+last-modified:  2015-07-16T09:02:58Z
+source:         RIPE
+
+role:           Technical contact
+address:        Waycom
+address:        24-28 Avenue du General de Gaulle
+address:        92150 Suresnes
+address:        France
+phone:          +33 1 41 44 83 00
+fax-no:         +33 1 41 44 00 22
+e-mail:         noc@waycom.net
+admin-c:        FD778-RIPE
+tech-c:         FD778-RIPE
+tech-c:         JD1434-RIPE
+tech-c:         GG30889-RIPE
+nic-hdl:        TC685-RIPE
+mnt-by:         WAYCOM-MNT
+changed:        gg@waycom.net 20150506
+created:        2003-08-25T18:12:12Z
+last-modified:  2015-05-06T16:48:16Z
+source:         RIPE
+
+route:          193.27.194.0/23
+descr:          WAYCOM-NET-2
+descr:          Waycom network 2
+origin:         AS30889
+remarks:        ---------------------------------------
+remarks:        Please contact abuse@waycom.net for any
+remarks:        abuse or spam problem.
+remarks:        ---------------------------------------
+notify:         noc@waycom.net
+mnt-by:         WAYCOM-MNT
+changed:        pm@waycom.net 20040401
+created:        2004-04-01T12:47:32Z
+last-modified:  2004-04-01T12:47:32Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

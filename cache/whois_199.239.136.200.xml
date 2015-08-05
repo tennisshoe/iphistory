@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NTT America, Inc.</registrant>
+    <registration>
+      <created>1994-04-18</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       199.236.0.0 - 199.239.255.255
+CIDR:           199.236.0.0/14
+NetName:        NTTA-199-236
+NetHandle:      NET-199-236-0-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   NTT America, Inc. (NTTAM-1)
+RegDate:        1994-04-18
+Updated:        2012-03-02
+Comment:        
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.gin.ntt.net port 4321
+Ref:            http://whois.arin.net/rest/net/NET-199-236-0-0-1
+
+OrgName:        NTT America, Inc.
+OrgId:          NTTAM-1
+Address:        8300 E Maplewood Ave.
+Address:        Suite 400
+City:           Greenwood Village
+StateProv:      CO
+PostalCode:     80111
+Country:        US
+RegDate:        2005-12-08
+Updated:        2014-12-29
+Ref:            http://whois.arin.net/rest/org/NTTAM-1
+
+ReferralServer:  rwhois://rwhois.gin.ntt.net:4321
+
+OrgTechHandle: VIPAR-ARIN
+OrgTechName:   VIPAR
+OrgTechPhone:  +1-877-688-6625 
+OrgTechEmail:  vipar@us.ntt.net
+OrgTechRef:    http://whois.arin.net/rest/poc/VIPAR-ARIN
+
+OrgAbuseHandle: NAAC-ARIN
+OrgAbuseName:   NTT America Abuse Contact
+OrgAbusePhone:  +1-877-688-6625 
+OrgAbuseEmail:  abuse@ntt.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAAC-ARIN
+
+OrgNOCHandle: NASC-ARIN
+OrgNOCName:   NTT America Support Contact
+OrgNOCPhone:  +1-877-688-6625 
+OrgNOCEmail:  support@us.ntt.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NASC-ARIN
+
+RTechHandle: VIA4-ORG-ARIN
+RTechName:   VIPAR
+RTechPhone:  +1-877-688-6625 
+RTechEmail:  vipar@us.ntt.net
+RTechRef:    http://whois.arin.net/rest/poc/VIA4-ORG-ARIN
+
+== Additional Information From rwhois://rwhois.gin.ntt.net:4321 ==
+
+%rwhois V-1.5:0078b6:00 rwhois.gin.ntt.net (Vipar 0.1a. Comments to vipar@us.ntt.net)
+network:Class-Name:network
+network:Auth-Area:199.239.136.0/21
+network:ID:NETBLK-C111-199-239-136-0.127.0.0.1/32
+network:Handle:NETBLK-C111-199-239-136-0
+network:Network-Name:C111-199-239-136-0
+network:IP-Network:199.239.136.0/24
+network:In-Addr-Server;I:NYTIMES-HST.127.0.0.1/32
+network:In-Addr-Server;I:ABOUT1-HST.127.0.0.1/32
+network:In-Addr-Server;I:ABOUT2-HST.127.0.0.1/32
+network:IP-Network-Block:199.239.136.0 - 199.239.136.255
+network:Org-Name:New York Times Digital
+network:Street-Address:500 Seventh Ave., 8th Floor,
+network:City:New York
+network:State:NY
+network:Postal-Code:10018
+network:Country-Code:US
+network:Tech-Contact;I:SB23211-VRIO.127.0.0.1/32
+network:Created:2002-10-02 15:18:26+00
+network:Updated:2008-02-21 20:08:55+00
+
+network:Class-Name:network
+network:Auth-Area:199.239.136.0/21
+network:ID:NETBLK-C111-199-239-136.127.0.0.1/32
+network:Handle:NETBLK-C111-199-239-136
+network:Network-Name:C111-199-239-136
+network:IP-Network:199.239.136.0/21
+network:In-Addr-Server;I:GIN1-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN2-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN3-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN4-HST.127.0.0.1/32
+network:In-Addr-Server;I:GIN5-HST.127.0.0.1/32
+network:IP-Network-Block:199.239.136.0 - 199.239.143.255
+network:Org-Name:NTT America Data Centers - NYC
+network:Street-Address:111 8th Av 7th floor
+network:City:New York
+network:State:NY
+network:Postal-Code:10011
+network:Country-Code:US
+network:Tech-Contact;I:IA14195-VRIO.127.0.0.1/32
+network:Created:2002-09-27 22:50:25+00
+network:Updated:2008-02-22 23:47:27+00
+
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

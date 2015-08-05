@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Net Access Corporation</registrant>
+    <registration>
+      <created>2007-09-18</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       67.196.0.0 - 67.196.255.255
+CIDR:           67.196.0.0/16
+NetName:        NAC-NETBLK09
+NetHandle:      NET-67-196-0-0-1
+Parent:         NET67 (NET-67-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS8001
+Organization:   Net Access Corporation (NAC)
+RegDate:        2007-09-18
+Updated:        2012-03-02
+Comment:        Additional Information Available via whois.nac.net
+Ref:            http://whois.arin.net/rest/net/NET-67-196-0-0-1
+
+OrgName:        Net Access Corporation
+OrgId:          NAC
+Address:        9 Wing Drive
+City:           Cedar Knolls
+StateProv:      NJ
+PostalCode:     07927
+Country:        US
+RegDate:        
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/NAC
+
+ReferralServer:  rwhois://whois.nac.net:43
+
+OrgTechHandle: AR97-ARIN
+OrgTechName:   Rubenstein, Alex 
+OrgTechPhone:  +1-973-590-5080 
+OrgTechEmail:  alex@corp.nac.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AR97-ARIN
+
+OrgNOCHandle: NOC270-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-973-590-5080 
+OrgNOCEmail:  network@nac.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC270-ARIN
+
+OrgAbuseHandle: ABUSE156-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-800-638-6336 
+OrgAbuseEmail:  abuse@nac.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE156-ARIN
+
+RTechHandle: AR97-ARIN
+RTechName:   Rubenstein, Alex 
+RTechPhone:  +1-973-590-5080 
+RTechEmail:  alex@corp.nac.net
+RTechRef:    http://whois.arin.net/rest/poc/AR97-ARIN
+
+RAbuseHandle: ABUSE156-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-800-638-6336 
+RAbuseEmail:  abuse@nac.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE156-ARIN
+
+RNOCHandle: NOC270-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-973-590-5080 
+RNOCEmail:  network@nac.net
+RNOCRef:    http://whois.arin.net/rest/poc/NOC270-ARIN
+
+RTechHandle: RPA7-ARIN
+RTechName:   Pavely, Ryan 
+RTechPhone:  +1-973-590-5080 
+RTechEmail:  paradox@corp.nac.net
+RTechRef:    http://whois.arin.net/rest/poc/RPA7-ARIN
+
+== Additional Information From rwhois://whois.nac.net:43 ==
+
+NAC-Rwhoisd32 Server Ready - [hydrogen/43] Rwhoisd32 - 1.0.86
+
+Answers.com (NET-43C49C00-23)
+   6665 Delmar Blvd
+    Suite 3000
+   Saint Louis, MO  63130
+   US
+
+OrgID   : NAC-40117
+Netname : NET-43C49C00-23
+Netblock: 67.196.156.0/23
+NetUse  : Co-lo IPs
+
+Coordinator:
+   Keithly, Brian      derek.balling@answers.com
+   Phone: 646-502-4786</record>
+    </whois>
+  </response>
+</whoisapi>
+

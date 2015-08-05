@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Savvis</registrant>
+    <registration>
+      <created>1999-12-13</created>
+      <updated>2007-09-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.14.0.0 - 64.14.255.255
+CIDR:           64.14.0.0/16
+NetName:        SAVVIS
+NetHandle:      NET-64-14-0-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Savvis (SAVVI-3)
+RegDate:        1999-12-13
+Updated:        2007-09-18
+Ref:            http://whois.arin.net/rest/net/NET-64-14-0-0-1
+
+OrgName:        Savvis
+OrgId:          SAVVI-3
+Address:        1 SAVVIS Parkway
+City:           Town and Country
+StateProv:      MO
+PostalCode:     63017
+Country:        US
+RegDate:        2004-03-11
+Updated:        2015-07-17
+Comment:        Abuse complaints to abuse@centurylinkservices.net
+Ref:            http://whois.arin.net/rest/org/SAVVI-3
+
+OrgNOCHandle: NOC99-ARIN
+OrgNOCName:   SAVVIS Support Center
+OrgNOCPhone:  +1-888-638-6771 
+OrgNOCEmail:  noc@savvis.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC99-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN
+
+OrgTechHandle: UIAA-ARIN
+OrgTechName:   US IP Address Administration
+OrgTechPhone:  +1-314-628-7305 
+OrgTechEmail:  ibrahim.seremet@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/UIAA-ARIN
+
+NetRange:       64.14.244.0 - 64.14.244.255
+CIDR:           64.14.244.0/24
+NetName:        SAVV-S261580-1
+NetHandle:      NET-64-14-244-0-1
+Parent:         SAVVIS (NET-64-14-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Thoughtconvergence.com (THOUG-5)
+RegDate:        2006-11-30
+Updated:        2006-11-30
+Ref:            http://whois.arin.net/rest/net/NET-64-14-244-0-1
+
+OrgName:        Thoughtconvergence.com
+OrgId:          THOUG-5
+Address:        11300 W Olympic Blvd.
+Address:        Suite 900
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90064
+Country:        US
+RegDate:        2006-11-30
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/THOUG-5
+
+OrgAbuseHandle: KVO11-ARIN
+OrgAbuseName:   Vo, Kevin 
+OrgAbusePhone:  +1-310-909-7900 
+OrgAbuseEmail:  kevin@thoughtconvergence.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/KVO11-ARIN
+
+OrgTechHandle: KVO11-ARIN
+OrgTechName:   Vo, Kevin 
+OrgTechPhone:  +1-310-909-7900 
+OrgTechEmail:  kevin@thoughtconvergence.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KVO11-ARIN
+
+RTechHandle: KVO11-ARIN
+RTechName:   Vo, Kevin 
+RTechPhone:  +1-310-909-7900 
+RTechEmail:  kevin@thoughtconvergence.com
+RTechRef:    http://whois.arin.net/rest/poc/KVO11-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Acronis Inc</registrant>
+    <registration>
+      <created>2003-01-24</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.20.0.0 - 69.20.127.255
+CIDR:           69.20.0.0/17
+NetName:        RSPC-NET-4
+NetHandle:      NET-69-20-0-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS33070, AS19994, AS10532, AS27357
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2003-01-24
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-69-20-0-0-1
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        5000 Walzem Road
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/RACKS-8
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+NetRange:       69.20.59.64 - 69.20.59.127
+CIDR:           69.20.59.64/26
+NetName:        RACKS-8-1395817095442973
+NetHandle:      NET-69-20-59-64-1
+Parent:         RSPC-NET-4 (NET-69-20-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Acronis Inc (C04952762)
+RegDate:        2014-03-26
+Updated:        2014-03-26
+Ref:            http://whois.arin.net/rest/net/NET-69-20-59-64-1
+
+CustName:       Acronis Inc
+Address:        300 Trade center
+City:           Woburn
+StateProv:      MA
+PostalCode:     01801
+Country:        US
+RegDate:        2014-03-26
+Updated:        2014-03-26
+Ref:            http://whois.arin.net/rest/customer/C04952762
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

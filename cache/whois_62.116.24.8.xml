@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Silverserver ROLE Account</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.116.24.0 - 62.116.24.15' is 'ripe@sil.at'
+
+inetnum:        62.116.24.0 - 62.116.24.15
+netname:        SIL-STRIKENET
+descr:          Strikenet Gaming Service
+descr:          1010 VIVI
+country:        AT
+admin-c:        ED409-RIPE
+tech-c:         SILR-RIPE
+status:         ASSIGNED PA
+mnt-by:         SIL-MNT
+changed:        hf@sil.at 20110323
+created:        2011-03-23T11:18:06Z
+last-modified:  2011-03-23T11:18:06Z
+source:         RIPE
+
+role:           Silverserver ROLE Account
+address:        SILVER:SERVER GmbH
+address:        Donau-City-Strasse 11
+address:        A-1220 Vienna
+address:        Austria
+phone:          +43 5 9944
+fax-no:         +43 5 9944 9000
+e-mail:         admin@sil.at
+remarks:        trouble: mail: admin@sil.at
+remarks:        trouble: mail: abuse@sil.at
+remarks:        trouble: mail: noc@sil.at
+remarks:        trouble: info: http://www.sil.at
+admin-c:        FW1451-RIPE
+tech-c:         FW1451-RIPE
+abuse-mailbox:  abuse@sil.at
+nic-hdl:        SILR-RIPE
+remarks:        +++++++++++++++++++++++++++++++++++++++++++++
+remarks:        SILVER::SERVER role-macro for object contacts.
+remarks:        Used in AS, in-addr and IP-Space registrations
+remarks:        +++++++++++++++++++++++++++++++++++++++++++++
+remarks:        + General troubles: noc@sil.at
+remarks:        + Spam, Net-Abuse: abuse@sil.at
+remarks:        +++++++++++++++++++++++++++++++++++++++++++++
+mnt-by:         SIL-MNT
+changed:        chris@terminal.sil.at 19981019
+changed:        cjm@terminal.sil.at 19990406
+changed:        cjm-ripe@sil.at 20011128
+changed:        lco@sil.at 20021220
+changed:        czauner@sil.at 20040305
+changed:        lco@sil.at 20040623
+changed:        cl@sil.at 20050608
+changed:        mo@sil.at 20050616
+changed:        flo@sil.at 20050712
+changed:        cl@sil.at 20080218
+changed:        cl@sil.at 20080424
+changed:        cl@sil.at 20080718
+changed:        cl@sil.at 20080820
+changed:        mba@sil.at 20090202
+changed:        mba@sil.at 20090304
+changed:        mba@sil.at 20100311
+changed:        mba@sil.at 20120626
+changed:        csc@sil.at 20130117
+changed:        mba@sil.at 20130212
+changed:        csc@sil.at 20131024
+changed:        csc@sil.at 20141124
+created:        2002-09-10T11:45:40Z
+last-modified:  2014-11-24T09:02:06Z
+source:         RIPE
+
+person:         Eberhard Duerrschmid
+address:        Greentube I.E.S. AG
+address:        Rathausstrasse 19
+address:        A-1010 Vienna
+address:        Austria
+phone:          +43 1 4945056
+fax-no:         +43 1 4945056 14
+e-mail:         ed@greentube.com
+nic-hdl:        ED409-RIPE
+mnt-by:         SIL-MNT
+changed:        acme@sil.at 20010706
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T03:06:49Z
+source:         RIPE
+
+route:          62.116.0.0/19
+descr:          SIL-NET / Austria
+descr:          Provider Local Registry Block (at.sil)
+origin:         AS3248
+mnt-by:         SIL-MNT
+created:        2006-02-27T14:39:25Z
+last-modified:  2006-02-27T14:39:25Z
+source:         RIPE
+changed:        cl@sil.at 20060227
+
+route:          62.116.0.0/19
+descr:          SIL-NET / Austria
+origin:         AS8437
+mnt-by:         sil-mnt
+changed:        fwe@sil.at 20140929
+created:        2014-09-29T12:30:52Z
+last-modified:  2014-09-29T12:30:52Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

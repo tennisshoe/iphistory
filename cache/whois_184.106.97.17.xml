@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Rackspace</registrant>
+    <registration>
+      <created>2010-05-21</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       184.106.0.0 - 184.106.255.255
+CIDR:           184.106.0.0/16
+NetName:        RACKS-8-NET-4
+NetHandle:      NET-184-106-0-0-1
+Parent:         NET184 (NET-184-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Rackspace Hosting (RACKS-8)
+RegDate:        2010-05-21
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-184-106-0-0-1
+
+OrgName:        Rackspace Hosting
+OrgId:          RACKS-8
+Address:        5000 Walzem Road
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2010-03-29
+Updated:        2011-11-30
+Ref:            http://whois.arin.net/rest/org/RACKS-8
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+RAbuseHandle: ABUSE45-ARIN
+RAbuseName:   Abuse Desk
+RAbusePhone:  +1-210-312-4000 
+RAbuseEmail:  abuse@rackspace.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+RTechHandle: IPADM17-ARIN
+RTechName:   IPADMIN
+RTechPhone:  +1-210-312-4000 
+RTechEmail:  hostmaster@rackspace.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+NetRange:       184.106.96.0 - 184.106.99.255
+CIDR:           184.106.96.0/22
+NetName:        RACKS-8-4572469842698046814014050458248201
+NetHandle:      NET-184-106-96-0-1
+Parent:         RACKS-8-NET-4 (NET-184-106-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Rackspace (C05817740)
+RegDate:        2015-07-20
+Updated:        2015-07-20
+Ref:            http://whois.arin.net/rest/net/NET-184-106-96-0-1
+
+CustName:       Rackspace
+Address:        5000 Walzem Rd.
+City:           San Antonio
+StateProv:      TX
+PostalCode:     78218
+Country:        US
+RegDate:        2015-07-20
+Updated:        2015-07-20
+Ref:            http://whois.arin.net/rest/customer/C05817740
+
+OrgTechHandle: IPADM17-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-210-312-4000 
+OrgTechEmail:  hostmaster@rackspace.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN
+
+OrgAbuseHandle: ABUSE45-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-210-312-4000 
+OrgAbuseEmail:  abuse@rackspace.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+RAbuseHandle: ABUSE45-ARIN
+RAbuseName:   Abuse Desk
+RAbusePhone:  +1-210-312-4000 
+RAbuseEmail:  abuse@rackspace.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE45-ARIN
+
+RTechHandle: IPADM17-ARIN
+RTechName:   IPADMIN
+RTechPhone:  +1-210-312-4000 
+RTechEmail:  hostmaster@rackspace.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM17-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

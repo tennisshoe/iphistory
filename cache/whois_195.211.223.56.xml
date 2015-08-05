@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Netvillage Ltd.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '195.211.220.0 - 195.211.223.255' is 'abuse_nv@netvillage.ru'
+
+inetnum:        195.211.220.0 - 195.211.223.255
+netname:        NETVILLAGE
+descr:          Netvillage Ltd.
+country:        RU
+org:            ORG-NL129-RIPE
+admin-c:        Dt5474-RIPE
+tech-c:         Dt5474-RIPE
+remarks:        Abuse and security issues: abuse_nv@netvillage.ru
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         NETVILLAGE-MNT
+mnt-routes:     NETVILLAGE-MNT
+mnt-domains:    NETVILLAGE-MNT
+changed:        noc@ddos-protection.ru 20140319
+created:        2009-11-11T16:01:34Z
+last-modified:  2015-05-05T01:56:23Z
+source:         RIPE
+changed:        hostmaster@ripe.net 20141210
+sponsoring-org: ORG-ABGL1-RIPE
+
+organisation:   ORG-NL129-RIPE
+org-name:       Netvillage Ltd.
+org-type:       OTHER
+address:        Russian Federation, 241050
+address:        Bryansk, Uritskogo Str., 9A
+phone:          +7(4832)606018
+e-mail:         noc@netvillage.ru
+abuse-c:        AR19222-RIPE
+abuse-mailbox:  abuse_nv@netvillage.ru
+mnt-ref:        NETVILLAGE-MNT
+mnt-by:         NETVILLAGE-MNT
+changed:        noc@netvillage.ru 20140327
+created:        2009-11-06T07:40:24Z
+last-modified:  2014-03-27T17:19:37Z
+source:         RIPE
+
+person:         DZ team
+address:        241037 Russian Federation
+address:        Bryansk
+address:        Uritskogo, 9A
+phone:          +7(4832)606018
+abuse-mailbox:  abuse_nv@netvillage.ru
+nic-hdl:        Dt5474-RIPE
+mnt-by:         DZ-MNT
+changed:        noc@ddos-protection.ru 20140327
+created:        2012-07-06T14:13:02Z
+last-modified:  2014-03-27T17:18:05Z
+source:         RIPE
+
+route:          195.211.223.0/24
+descr:          Ddos Zashita Ltd.
+origin:         AS50098
+mnt-by:         DZ-MNT
+changed:        denis.troshchanovich@ddos-protection.ru 20110209
+created:        2009-11-18T07:47:54Z
+last-modified:  2011-02-09T14:34:48Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

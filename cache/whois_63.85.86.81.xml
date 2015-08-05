@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>MCI Communications Services, Inc. d/b/a Verizon Business</registrant>
+    <registration>
+      <created>1999-01-22</created>
+      <updated>2012-03-20</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       63.64.0.0 - 63.127.255.255
+CIDR:           63.64.0.0/10
+NetName:        UUNET63
+NetHandle:      NET-63-64-0-0-1
+Parent:         NET63 (NET-63-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+RegDate:        1999-01-22
+Updated:        2012-03-20
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-63-64-0-0-1
+
+OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+OrgId:          MCICS
+Address:        22001 Loudoun County Pkwy
+City:           Ashburn
+StateProv:      VA
+PostalCode:     20147
+Country:        US
+RegDate:        2006-05-30
+Updated:        2014-06-23
+Ref:            http://whois.arin.net/rest/org/MCICS
+
+OrgTechHandle: SWIPP9-ARIN
+OrgTechName:   SWIPPER
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizon.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP9-ARIN
+
+OrgTechHandle: SWIPP-ARIN
+OrgTechName:   swipper
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizonbusiness.com
+OrgTechRef:    http://whois.arin.net/rest/poc/SWIPP-ARIN
+
+OrgNOCHandle: OA12-ARIN
+OrgNOCName:   UUnet Technologies, Inc., Technologies 
+OrgNOCPhone:  +1-800-900-0241 
+OrgNOCEmail:  help4u@verizonbusiness.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/OA12-ARIN
+
+OrgAbuseHandle: ABUSE3-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-800-900-0241 
+OrgAbuseEmail:  abuse-mail@verizonbusiness.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3-ARIN
+
+RTechHandle: OA12-ARIN
+RTechName:   UUnet Technologies, Inc., Technologies 
+RTechPhone:  +1-800-900-0241 
+RTechEmail:  help4u@verizonbusiness.com
+RTechRef:    http://whois.arin.net/rest/poc/OA12-ARIN
+
+NetRange:       63.85.86.0 - 63.85.86.255
+CIDR:           63.85.86.0/24
+NetName:        UU-63-85-86
+NetHandle:      NET-63-85-86-0-1
+Parent:         UUNET63 (NET-63-64-0-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   Innerwise Inc. (INER)
+RegDate:        2000-08-23
+Updated:        2000-08-23
+Ref:            http://whois.arin.net/rest/net/NET-63-85-86-0-1
+
+OrgName:        Innerwise Inc.
+OrgId:          INER
+Address:        1005 W. Wise Road
+City:           Schaumburg
+StateProv:      IL
+PostalCode:     60193
+Country:        US
+RegDate:        2000-08-23
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/INER
+
+OrgAbuseHandle: CKN23-ARIN
+OrgAbuseName:   No, Contact Known
+OrgAbusePhone:  +1-800-555-1234 
+OrgAbuseEmail:  nobody@example.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+OrgTechHandle: CKN23-ARIN
+OrgTechName:   No, Contact Known
+OrgTechPhone:  +1-800-555-1234 
+OrgTechEmail:  nobody@example.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+RTechHandle: TC553-ARIN
+RTechName:   Cucci, Ted 
+RTechPhone:  +1-847-895-3989 
+RTechEmail:  tcucci@innerwise.com
+RTechRef:    http://whois.arin.net/rest/poc/TC553-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

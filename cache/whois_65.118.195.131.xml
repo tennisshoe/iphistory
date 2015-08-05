@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Qwest Communications Company, LLC</registrant>
+    <registration>
+      <created>2001-01-04</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       65.112.0.0 - 65.127.255.255
+CIDR:           65.112.0.0/12
+NetName:        QWEST-INET-10
+NetHandle:      NET-65-112-0-0-1
+Parent:         NET65 (NET-65-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Qwest Communications Company, LLC (QCC-18)
+RegDate:        2001-01-04
+Updated:        2012-02-24
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Comment:        NOTE: For abuse issues, please email abuse@qwest.net.
+Ref:            http://whois.arin.net/rest/net/NET-65-112-0-0-1
+
+OrgName:        Qwest Communications Company, LLC
+OrgId:          QCC-18
+Address:        100 CENTURYLINK DR
+City:           Monroe
+StateProv:      LA
+PostalCode:     71203
+Country:        US
+RegDate:        2005-05-09
+Updated:        2015-04-10
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE 
+Comment:        
+Comment:        For abuse issues, please email abuse@qwest.net. 
+Comment:        All abuse reports MUST include: 
+Comment:        * src IP 
+Comment:        * dest IP (your IP) 
+Comment:        * dest port 
+Comment:        * Accurate date/timestamp and timezone of activity 
+Comment:        * Intensity/frequency (short log extracts) 
+Comment:        * Your contact details (phone and email) 
+Comment:        Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Comment:         
+Comment:        For subpoena or court order please fax 844.254.5800 or refer to our Law Enforcement Support page http://www.centurylink.com/static/Pages/AboutUs/Legal/LawEnforcement/
+Ref:            http://whois.arin.net/rest/org/QCC-18
+
+OrgTechHandle: QIA-ARIN
+OrgTechName:   Qwest IP Admin
+OrgTechPhone:  +1-877-886-6515 
+OrgTechEmail:  ipadmin@centurylink.com
+OrgTechRef:    http://whois.arin.net/rest/poc/QIA-ARIN
+
+OrgAbuseHandle: CAD54-ARIN
+OrgAbuseName:   Centurylink Abuse Desk
+OrgAbusePhone:  +1-877-886-6515 
+OrgAbuseEmail:  abuse@centurylinkservices.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CAD54-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

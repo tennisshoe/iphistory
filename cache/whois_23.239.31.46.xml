@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Linode</registrant>
+    <registration>
+      <created>2013-10-23</created>
+      <updated>2013-10-23</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       23.239.0.0 - 23.239.31.255
+CIDR:           23.239.0.0/19
+NetName:        LINODE-US
+NetHandle:      NET-23-239-0-0-1
+Parent:         NET23 (NET-23-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Linode (LINOD)
+RegDate:        2013-10-23
+Updated:        2013-10-23
+Ref:            http://whois.arin.net/rest/net/NET-23-239-0-0-1
+
+OrgName:        Linode
+OrgId:          LINOD
+Address:        329 E. Jimmie Leeds Road
+Address:        Suite A
+City:           Galloway
+StateProv:      NJ
+PostalCode:     08205
+Country:        US
+RegDate:        2008-04-24
+Updated:        2014-08-01
+Comment:        http://www.linode.com
+Ref:            http://whois.arin.net/rest/org/LINOD
+
+OrgNOCHandle: LNO21-ARIN
+OrgNOCName:   Linode Network Operations
+OrgNOCPhone:  +1-609-380-7100 
+OrgNOCEmail:  support@linode.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/LNO21-ARIN
+
+OrgTechHandle: LNO21-ARIN
+OrgTechName:   Linode Network Operations
+OrgTechPhone:  +1-609-380-7100 
+OrgTechEmail:  support@linode.com
+OrgTechRef:    http://whois.arin.net/rest/poc/LNO21-ARIN
+
+OrgAbuseHandle: LAS12-ARIN
+OrgAbuseName:   Linode Abuse Support
+OrgAbusePhone:  +1-609-380-7100 
+OrgAbuseEmail:  abuse@linode.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LAS12-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

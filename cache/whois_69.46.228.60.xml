@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Kroll Bond Rating Agency, Inc.</registrant>
+    <registration>
+      <created>2014-04-14</created>
+      <updated>2014-12-18</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       69.46.224.0 - 69.46.239.255
+CIDR:           69.46.224.0/20
+NetName:        LIGHTOWER-ISP-L
+NetHandle:      NET-69-46-224-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS46887
+Organization:   Lightower Fiber Networks (LIGHT-141)
+RegDate:        2014-04-14
+Updated:        2014-12-18
+Ref:            http://whois.arin.net/rest/net/NET-69-46-224-0-1
+
+OrgName:        Lightower Fiber Networks
+OrgId:          LIGHT-141
+Address:        80 Central Street
+City:           Boxborough
+StateProv:      MA
+PostalCode:     01719-1245
+Country:        US
+RegDate:        2009-03-16
+Updated:        2014-12-18
+Comment:        http://www.lightower.com/
+Ref:            http://whois.arin.net/rest/org/LIGHT-141
+
+OrgAbuseHandle: ABUSE4944-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-978-264-6000 
+OrgAbuseEmail:  abuse@lightower.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4944-ARIN
+
+OrgTechHandle: IPENG33-ARIN
+OrgTechName:   IP Engineering
+OrgTechPhone:  +1-978-264-6000 
+OrgTechEmail:  ipadmin@lightower.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPENG33-ARIN
+
+OrgNOCHandle: NETWO7258-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-978-264-6000 
+OrgNOCEmail:  support@lightower.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO7258-ARIN
+
+RNOCHandle: NETWO7258-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-978-264-6000 
+RNOCEmail:  support@lightower.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO7258-ARIN
+
+RAbuseHandle: ABUSE4944-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-978-264-6000 
+RAbuseEmail:  abuse@lightower.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4944-ARIN
+
+RTechHandle: IPENG33-ARIN
+RTechName:   IP Engineering
+RTechPhone:  +1-978-264-6000 
+RTechEmail:  ipadmin@lightower.com
+RTechRef:    http://whois.arin.net/rest/poc/IPENG33-ARIN
+
+NetRange:       69.46.228.48 - 69.46.228.63
+CIDR:           69.46.228.48/28
+NetName:        NET-69-46-228-48-28
+NetHandle:      NET-69-46-228-48-1
+Parent:         LIGHTOWER-ISP-L (NET-69-46-224-0-1)
+NetType:        Reassigned
+OriginAS:       AS46887
+Customer:       Kroll Bond Rating Agency, Inc. (C05039304)
+RegDate:        2014-05-14
+Updated:        2014-05-14
+Comment:        AS46887 NOC 24x7 +1 845 458 7799
+Ref:            http://whois.arin.net/rest/net/NET-69-46-228-48-1
+
+CustName:       Kroll Bond Rating Agency, Inc.
+Address:        845 Third Avenue
+Address:        4th floor
+City:           New York
+StateProv:      NY
+PostalCode:     10001
+Country:        US
+RegDate:        2014-05-14
+Updated:        2014-05-14
+Ref:            http://whois.arin.net/rest/customer/C05039304
+
+OrgAbuseHandle: ABUSE4944-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-978-264-6000 
+OrgAbuseEmail:  abuse@lightower.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4944-ARIN
+
+OrgTechHandle: IPENG33-ARIN
+OrgTechName:   IP Engineering
+OrgTechPhone:  +1-978-264-6000 
+OrgTechEmail:  ipadmin@lightower.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPENG33-ARIN
+
+OrgNOCHandle: NETWO7258-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-978-264-6000 
+OrgNOCEmail:  support@lightower.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO7258-ARIN
+
+RNOCHandle: NETWO7258-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-978-264-6000 
+RNOCEmail:  support@lightower.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO7258-ARIN
+
+RAbuseHandle: ABUSE4944-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-978-264-6000 
+RAbuseEmail:  abuse@lightower.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4944-ARIN
+
+RTechHandle: IPENG33-ARIN
+RTechName:   IP Engineering
+RTechPhone:  +1-978-264-6000 
+RTechEmail:  ipadmin@lightower.com
+RTechRef:    http://whois.arin.net/rest/poc/IPENG33-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

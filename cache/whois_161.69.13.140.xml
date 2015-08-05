@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>McAfee, Inc.</registrant>
+    <registration>
+      <created>1992-06-15</created>
+      <updated>2010-04-21</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       161.69.0.0 - 161.69.255.255
+CIDR:           161.69.0.0/16
+NetName:        NETWORK-ASSOCIATES-INC
+NetHandle:      NET-161-69-0-0-1
+Parent:         NET161 (NET-161-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   McAfee, Inc. (MCAFE-2)
+RegDate:        1992-06-15
+Updated:        2010-04-21
+Ref:            http://whois.arin.net/rest/net/NET-161-69-0-0-1
+
+OrgName:        McAfee, Inc.
+OrgId:          MCAFE-2
+Address:        2821 Mission College Blvd.
+City:           Santa Clara
+StateProv:      CA
+PostalCode:     95054
+Country:        US
+RegDate:        2006-07-05
+Updated:        2013-10-21
+Ref:            http://whois.arin.net/rest/org/MCAFE-2
+
+OrgTechHandle: INO25-ARIN
+OrgTechName:   McAfee Network Operations
+OrgTechPhone:  +1-408-346-5200 
+OrgTechEmail:  netadmin@mcafee.com
+OrgTechRef:    http://whois.arin.net/rest/poc/INO25-ARIN
+
+OrgAbuseHandle: INO25-ARIN
+OrgAbuseName:   McAfee Network Operations
+OrgAbusePhone:  +1-408-346-5200 
+OrgAbuseEmail:  netadmin@mcafee.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/INO25-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

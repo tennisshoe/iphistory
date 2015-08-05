@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>TELECITYGROUP INTERNATIONAL LIMITED</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.52.132.0 - 213.52.255.255' is 'support@telecity.com'
+
+inetnum:        213.52.132.0 - 213.52.255.255
+netname:        UK-TELECITY-20001010
+descr:          TELECITYGROUP INTERNATIONAL LIMITED
+country:        GB
+org:            ORG-TP3-RIPE
+admin-c:        TA515-RIPE
+tech-c:         TT556-RIPE
+status:         ALLOCATED PA
+notify:         lir@telecity.com
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      TELECITY-MNT
+mnt-routes:     TELECITY-MNT
+changed:        hostmaster@ripe.net 20001010
+changed:        lir-help@ripe.net 20011214
+changed:        hostmaster@ripe.net 20060918
+changed:        hostmaster@ripe.net 20060919
+changed:        bitbucket@ripe.net 20070529
+changed:        hostmaster@ripe.net 20100805
+changed:        hostmaster@ripe.net 20140814
+created:        2014-08-14T12:10:40Z
+last-modified:  2014-08-14T12:10:40Z
+source:         RIPE
+
+organisation:   ORG-TP3-RIPE
+org-name:       TELECITYGROUP INTERNATIONAL LIMITED
+org-type:       LIR
+address:        Exchange Tower, 4th Floor, 2 Harbour Exchange Square
+address:        E14 9GE
+address:        London
+address:        UNITED KINGDOM
+phone:          +442070056058
+fax-no:         +442070056001
+mnt-ref:        TELECITY-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        DH1304-RIPE
+admin-c:        MK2403-RIPE
+admin-c:        AR10441-RIPE
+admin-c:        RV5551-RIPE
+admin-c:        JS3905-RIPE
+admin-c:        RG1911-RIPE
+admin-c:        MM26199-RIPE
+admin-c:        MM36274-RIPE
+admin-c:        MH2373-RIPE
+admin-c:        RK2696-RIPE
+admin-c:        RB5327-RIPE
+admin-c:        MVR9-RIPE
+admin-c:        PM18053-RIPE
+admin-c:        HC795-RIPE
+admin-c:        MG12790-RIPE
+abuse-c:        TIAH2-RIPE
+e-mail:         lir@telecity.com
+tech-c:         TT556-RIPE
+created:        2004-04-17T12:22:20Z
+changed:        bitbucket@ripe.net 20150715
+last-modified:  2015-07-15T16:31:02Z
+source:         RIPE
+
+role:           Telecity Admin-c
+address:        Telecity Group PLC
+address:        10th Floor
+address:        6&amp;7 Harbour Exchange Square
+address:        London
+address:        UK
+address:        E14 9GE
+phone:          +44 207 5318750
+fax-no:         +44 207 5318750
+remarks:        +-------------------------------------------------
+remarks:        | All reports regarding these networks should be  |
+remarks:        | sent to abuse-mailbox: If you report   abuse    |
+remarks:        | to any other address you will get no response.  |
+remarks:        +-------------------------------------------------
+remarks:        trouble:      In case of abuse email abuse-mailbox
+abuse-mailbox:  abuse@telecity.com
+e-mail:         lir@telecity.com
+admin-c:        MVR9-RIPE
+admin-c:        GQ31-RIPE
+admin-c:        MS16149-RIPE
+tech-c:         TT556-RIPE
+nic-hdl:        TA515-RIPE
+remarks:        Role to be used for admin-c function
+notify:         lir@telecity.com
+changed:        michael.vanrensburg@telecity.com 20101116
+mnt-by:         TELECITY-MNT
+created:        2002-09-03T17:08:18Z
+last-modified:  2010-11-16T13:41:06Z
+source:         RIPE
+
+role:           Telecity Tech-c
+address:        Telecity Group PLC
+address:        10th Floor
+address:        6&amp;7 Harbour Exchange
+address:        London
+address:        UK
+address:        E14 9GE
+phone:          +44 207 5318750
+fax-no:         +44 207 5318750
+remarks:        +-------------------------------------------------
+remarks:        | All reports regarding these networks should be |
+remarks:        | sent to abuse-mailbox: If you report abuse |
+remarks:        | to any other address you will get no response. |
+remarks:        +-------------------------------------------------
+remarks:        trouble: In case of abuse email abuse-mailbox:
+abuse-mailbox:  abuse@telecity.com
+e-mail:         lir@telecity.com
+admin-c:        TA515-RIPE
+tech-c:         MK2403-RIPE
+tech-c:         MVR9-RIPE
+tech-c:         AR10441-RIPE
+tech-c:         PM18053-RIPE
+nic-hdl:        TT556-RIPE
+remarks:        Role to be used for tech-c function
+notify:         lir@telecity.com
+changed:        michael.vanrensburg@telecity.com 20101116
+changed:        andreas.rudel@telecity.com 20120607
+mnt-by:         TELECITY-MNT
+created:        2002-09-03T16:56:48Z
+last-modified:  2015-07-14T16:44:31Z
+source:         RIPE
+
+route:          213.52.192.0/18
+descr:          TelecityGroup UK Ltd.
+origin:         AS15830
+mnt-by:         GBIX-RIPE-MNT
+changed:        mathias@telecity.com 20071219
+created:        2007-03-02T13:26:36Z
+last-modified:  2007-12-19T17:18:15Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

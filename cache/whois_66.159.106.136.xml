@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Carbonite, Inc.</registrant>
+    <registration>
+      <created>2012-05-21</created>
+      <updated>2012-05-22</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       66.159.106.0 - 66.159.107.255
+CIDR:           66.159.106.0/23
+NetName:        CARBONITE
+NetHandle:      NET-66-159-106-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS46371
+Organization:   Carbonite, Inc. (CARBO-19)
+RegDate:        2012-05-21
+Updated:        2012-05-22
+Ref:            http://whois.arin.net/rest/net/NET-66-159-106-0-1
+
+OrgName:        Carbonite, Inc.
+OrgId:          CARBO-19
+Address:        177 Huntington Ave.
+City:           Boston
+StateProv:      MA
+PostalCode:     02115
+Country:        US
+RegDate:        2012-05-07
+Updated:        2013-11-08
+Ref:            http://whois.arin.net/rest/org/CARBO-19
+
+OrgTechHandle: GROFF4-ARIN
+OrgTechName:   Groff, Marcus 
+OrgTechPhone:  +1-978-328-8041 
+OrgTechEmail:  mgroff@carbonite.com
+OrgTechRef:    http://whois.arin.net/rest/poc/GROFF4-ARIN
+
+OrgAbuseHandle: KHAMA-ARIN
+OrgAbuseName:   Khamas, Ash 
+OrgAbusePhone:  +1-617-421-5627 
+OrgAbuseEmail:  mgroff@carbonite.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/KHAMA-ARIN
+
+OrgTechHandle: KHAMA-ARIN
+OrgTechName:   Khamas, Ash 
+OrgTechPhone:  +1-617-421-5627 
+OrgTechEmail:  mgroff@carbonite.com
+OrgTechRef:    http://whois.arin.net/rest/poc/KHAMA-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

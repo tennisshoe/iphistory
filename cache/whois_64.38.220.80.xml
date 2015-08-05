@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CWIE, LLC</registrant>
+    <registration>
+      <created>2000-02-22</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       64.38.192.0 - 64.38.255.255
+CIDR:           64.38.192.0/18
+NetName:        CWIE-BLK-1
+NetHandle:      NET-64-38-192-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   CWIE, LLC (CWIE)
+RegDate:        2000-02-22
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-64-38-192-0-1
+
+OrgName:        CWIE, LLC
+OrgId:          CWIE
+Address:        2353 W University Bldg A
+City:           Tempe
+StateProv:      AZ
+PostalCode:     85281
+Country:        US
+RegDate:        1999-09-01
+Updated:        2012-03-13
+Ref:            http://whois.arin.net/rest/org/CWIE
+
+ReferralServer:  rwhois://rwhois.cavecreek.net:4321
+
+OrgAbuseHandle: ABUSE1487-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-422-2022 
+OrgAbuseEmail:  abuse@cwie.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1487-ARIN
+
+OrgTechHandle: IPADM336-ARIN
+OrgTechName:   IPAdmin
+OrgTechPhone:  +1-480-422-2022 
+OrgTechEmail:  ipadmin@cwie.net
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM336-ARIN
+
+NetRange:       64.38.220.0 - 64.38.221.255
+CIDR:           64.38.220.0/23
+NetName:        PNAP-01
+NetHandle:      NET-64-38-220-0-1
+Parent:         CWIE-BLK-1 (NET-64-38-192-0-1)
+NetType:        Reallocated
+OriginAS:       
+Organization:   PhoenixNAP LLC (PHOEN-56)
+RegDate:        2012-02-01
+Updated:        2012-02-01
+Ref:            http://whois.arin.net/rest/net/NET-64-38-220-0-1
+
+OrgName:        PhoenixNAP LLC
+OrgId:          PHOEN-56
+Address:        3402 E. University Drive
+City:           Phoenix
+StateProv:      AZ
+PostalCode:     85034
+Country:        US
+RegDate:        2009-07-23
+Updated:        2014-07-22
+Ref:            http://whois.arin.net/rest/org/PHOEN-56
+
+ReferralServer:  rwhois://rwhois.phoenixnap.com:4321
+
+OrgTechHandle: TECH357-ARIN
+OrgTechName:   Tech
+OrgTechPhone:  +1-480-422-2022 
+OrgTechEmail:  ipadmin@phoenixnap.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECH357-ARIN
+
+OrgAbuseHandle: ABUSE2349-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-422-2022 
+OrgAbuseEmail:  abuse@phoenixnap.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2349-ARIN
+
+OrgTechHandle: OD19-ARIN
+OrgTechName:   DeLong, Owen 
+OrgTechPhone:  +1-408-890-7992 
+OrgTechEmail:  owen@delong.com
+OrgTechRef:    http://whois.arin.net/rest/poc/OD19-ARIN
+
+NetRange:       64.38.220.0 - 64.38.220.255
+CIDR:           64.38.220.0/24
+NetName:        ECS-PHX1
+NetHandle:      NET-64-38-220-0-2
+Parent:         PNAP-01 (NET-64-38-220-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   ECSuite, LLC (ECSUI)
+RegDate:        2014-09-29
+Updated:        2014-09-29
+Ref:            http://whois.arin.net/rest/net/NET-64-38-220-0-2
+
+OrgName:        ECSuite, LLC
+OrgId:          ECSUI
+Address:        2353 W University Dr
+Address:        Bldg A
+City:           Tempe
+StateProv:      AZ
+PostalCode:     85283
+Country:        US
+RegDate:        2008-09-18
+Updated:        2013-11-01
+Ref:            http://whois.arin.net/rest/org/ECSUI
+
+ReferralServer:  rwhois://rwhois.phoenixnap.com:4321
+
+OrgNOCHandle: NOC13061-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-480-422-2022 
+OrgNOCEmail:  hostingsupport@ecsuite.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC13061-ARIN
+
+OrgAbuseHandle: ABUSE2041-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-449-7750 
+OrgAbuseEmail:  abuse@ecsuite.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2041-ARIN
+
+OrgTechHandle: IPADM433-ARIN
+OrgTechName:   IPAdmin
+OrgTechPhone:  +1-480-449-7750 
+OrgTechEmail:  ipadmin@ecsuite.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM433-ARIN
+
+== Additional Information From rwhois://rwhois.phoenixnap.com:4321 ==
+
+%rwhois V-1.0,V-1.5:00090h:00 portal.securedservers.com (Ubersmith RWhois Server V-3.1.5)
+autharea=64.38.220.0/23
+xautharea=64.38.220.0/23
+network:Class-Name:network
+network:Auth-Area:64.38.220.0/23
+network:ID:NET-51456.64.38.220.64/26
+network:Network-Name:64.38.220.64/26
+network:IP-Network:64.38.220.64/26
+network:IP-Network-Block:64.38.220.64 - 64.38.220.127
+network:Org-Name:InvisibleCRM
+network:Street-Address:13110 NE 177th Place Suite 135
+network:City:Woodinville
+network:State:WA
+network:Postal-Code:98072
+network:Country-Code:US
+network:Tech-Contact:MAINT-51456.64.38.220.64/26
+network:Created:20131029172803000
+network:Updated:20131029172803000
+network:Updated-By:dnsadmin@securedservers.com
+contact:POC-Name:DNS Administrator
+contact:POC-Email:dnsadmin@securedservers.com
+contact:POC-Phone:(480) 422-2023
+contact:Tech-Name:DNS Administrator
+contact:Tech-Email:dnsadmin@securedservers.com
+contact:Tech-Phone:(480) 422-2023
+contact:Abuse-Name:Abuse
+contact:Abuse-Email:abuse@securedservers.com
+contact:Abuse-Phone:+1-480-422-2022 (Office)
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NOC-GREYSOM</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '31.222.76.0 - 31.222.77.255' is 'abuse@monopost.com'
+
+inetnum:        31.222.76.0 - 31.222.77.255
+netname:        Public-services-3
+descr:          Public-services-3 NAT/PAT POOL
+country:        GB
+admin-c:        GREY
+tech-c:         GREY
+status:         ASSIGNED PA
+mnt-by:         MNT-GREY
+changed:        a.kruchinin@corp.badoo.com 20120207
+created:        2011-09-20T13:18:04Z
+last-modified:  2015-02-20T15:49:40Z
+source:         RIPE
+
+role:           NOC-GREYSOM
+address:        United Kingdom
+e-mail:         netadmin@corp.badoo.com
+e-mail:         ripe@corp.badoo.com
+admin-c:        AKR75-RIPE
+tech-c:         MOLL-RIPE
+nic-hdl:        GREY
+mnt-by:         MNT-GREY
+changed:        a.kruchinin@corp.badoo.com 20150220
+abuse-mailbox:  abuse@monopost.com
+notify:         netadmin@corp.badoo.com
+created:        2015-02-20T14:36:17Z
+last-modified:  2015-02-20T14:40:01Z
+source:         RIPE
+
+route:          31.222.76.0/23
+descr:          Public-services-3
+origin:         AS12678
+mnt-by:         MNT-GREY
+changed:        a.kruchinin@corp.badoo.com 20110615
+created:        2011-06-15T09:43:23Z
+last-modified:  2015-02-20T15:55:08Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>IP Exchange Network Operation Center</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.190.245.0 - 80.190.245.255' is 'abuse@qsc.de'
+
+inetnum:        80.190.245.0 - 80.190.245.255
+netname:        IPX-Server-NET
+descr:          IPX Server GmbH
+descr:          Am Tower 5
+descr:          90475 Nuernberg
+descr:          Germany
+country:        DE
+remarks:        INFRA-AW
+remarks:        +------------------------------------------------------+
+remarks:        | In case of abuse/spam contact abuse@ip-exchange.de   |
+remarks:        |                         and                          |
+remarks:        | In case of abuse/spam contact abuse@ipx-server.de    |
+remarks:        |------------------------------------------------------|
+admin-c:        IPXS-RIPE
+tech-c:         IPX
+status:         ASSIGNED PA
+mnt-by:         IPPARTNER-MNT
+changed:        grosse@ip-exchange.de 20030901
+changed:        blechinger@ip-exchange.de 20070426
+created:        2003-12-17T15:01:15Z
+last-modified:  2007-04-26T12:08:03Z
+source:         RIPE
+
+role:           IP Exchange Network Operation Center
+address:        IP Exchange GmbH
+address:        Am Tower 5
+address:        90475 Nuernberg
+address:        DE
+phone:          +49 911 30950 50
+remarks:        +------------------------------------------------------
+remarks:        | In case of abuse please contact abuse@ip-exchange.de |
+remarks:        |------------------------------------------------------|
+remarks:        |    In case of technical problems please contact:     |
+remarks:        |      IP Exchange Network Operation Center 24x7       |
+remarks:        |     noc@ip-exchange.de  Tel.: +49 911 309 50 50      |
+remarks:        |------------------------------------------------------|
+abuse-mailbox:  abuse@ip-exchange.de
+e-mail:         noc@ip-exchange.de
+admin-c:        SVEN2-RIPE
+tech-c:         SVEN2-RIPE
+nic-hdl:        IPX
+mnt-by:         IPPARTNER-MNT
+changed:        grosse@ip-exchange.de 20060426
+changed:        blechinger@ip-exchange.de 20081216
+changed:        blechinger@ip-exchange.de 20120412
+changed:        sven.bremert@qsc.de 20140401
+changed:        sven.bremert@qsc.de 20150609
+created:        2002-07-18T11:30:10Z
+last-modified:  2015-06-09T19:08:40Z
+source:         RIPE
+
+role:           IPX Server Support
+address:        IPX Server GmbH
+address:        Am Tower 5
+address:        D-90475 Nuernberg
+address:        DE
+phone:          +49 900 197 37 837
+phone:          +49 190 86 57 84
+phone:          +49 911 30 950 950
+e-mail:         support@ipx-server.de
+remarks:        +------------------------------------------------------+
+remarks:        | In case of abuse/spam contact abuse@ip-exchange.de   |
+remarks:        |                         and                          |
+remarks:        | In case of abuse/spam contact abuse@ipx-server.de    |
+remarks:        +------------------------------------------------------+
+abuse-mailbox:  abuse@ip-exchange.de
+admin-c:        SVEN2-RIPE
+tech-c:         SVEN2-RIPE
+nic-hdl:        IPXS-RIPE
+mnt-by:         IPPARTNER-MNT
+changed:        bremert@ip-exchange.de 20100422
+changed:        blechinger@ip-exchange.de 20120412
+changed:        robert.blechinger@qsc.de 20140527
+changed:        sven.bremert@NOSPAM.qsc.de 20141211
+created:        2003-12-17T14:27:15Z
+last-modified:  2014-12-11T09:04:54Z
+source:         RIPE
+
+route:          80.190.240.0/20
+descr:          IPX-Server GmbH
+origin:         AS24900
+mnt-by:         IPPARTNER-MNT
+changed:        grosse@ip-exchange.de 20030916
+created:        2003-09-16T16:20:37Z
+last-modified:  2003-09-16T16:21:48Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

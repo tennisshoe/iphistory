@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Tiscali Telecom France B2B staff</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '195.154.98.128 - 195.154.98.255' is 'abuse@proxad.net'
+
+inetnum:        195.154.98.128 - 195.154.98.255
+netname:        TF-CUST-FULLSIX
+descr:          FULLSIX
+country:        FR
+admin-c:        AP20711-RIPE
+admin-c:        YD362-RIPE
+tech-c:         TTFR3-RIPE
+status:         ASSIGNED PA
+notify:         ripe@te-dns.com
+mnt-by:         MNT-TISCALIFR-B2B
+changed:        henley.saramandif@te-dns.com 20061018
+created:        2006-10-18T09:30:46Z
+last-modified:  2013-06-24T10:44:19Z
+source:         RIPE
+
+role:           Tiscali Telecom France B2B staff
+address:        known as Iliad Entreprises
+address:        8, rue de la Ville l'eveque
+address:        75008 Paris
+address:        France
+phone:          +33 1 78 56 90 00
+fax-no:         +33 1 45082529
+e-mail:         ripe@te-dns.com
+remarks:        trouble:      Questions and problem reports: support@iliad-entreprises.fr
+remarks:        trouble:      ALL ABUSE REQUESTS MUST BE SENT TO support@iliad-entreprises.fr
+admin-c:        HS2260-RIPE
+tech-c:         HS2260-RIPE
+nic-hdl:        TTFR3-RIPE
+mnt-by:         MNT-TISCALIFR-B2B
+changed:        henley.saramandif@te-dns.com 20100106
+created:        2004-04-20T13:48:15Z
+last-modified:  2010-01-06T09:35:11Z
+source:         RIPE
+abuse-mailbox:  abuse@te-dns.com
+
+person:         Axel PAVAGEAU
+address:        157, Rue Anatole France
+address:        92300 Levallois Perret - France
+phone:          +33 1 49 68 74 41
+nic-hdl:        AP20711-RIPE
+mnt-by:         EKINO-MNT
+changed:        gmorin@ekino.com 20130624
+created:        2013-06-24T07:41:55Z
+last-modified:  2013-06-24T07:45:16Z
+source:         RIPE
+
+person:         Yann DOUSSOT
+address:        EKINO
+address:        157, Rue Anatole France
+address:        92300 Levallois Perret - France
+phone:          +33 1 49 68 73 00
+nic-hdl:        YD362-RIPE
+mnt-by:         EKINO-MNT
+changed:        gaurav.yadav@colt.net 20090409
+changed:        nitin.gulla@colt.net 20111028
+changed:        gmorin@ekino.com 20120817
+created:        2009-04-20T14:06:27Z
+last-modified:  2012-08-17T15:45:51Z
+source:         RIPE
+
+route:          195.154.0.0/16
+descr:          Online SAS
+descr:          Paris, France
+origin:         AS12876
+mnt-by:         MNT-TISCALIFR
+created:        2013-08-02T09:05:22Z
+last-modified:  2013-08-02T09:05:22Z
+source:         RIPE
+changed:        fgander@corp.free.Fr 20130802</record>
+    </whois>
+  </response>
+</whoisapi>
+

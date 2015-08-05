@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>NEXT LEVEL INTERNET, INC.</registrant>
+    <registration>
+      <created>2003-10-10</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       207.7.96.0 - 207.7.127.255
+CIDR:           207.7.96.0/19
+NetName:        NEXTLVL-ARIN-002
+NetHandle:      NET-207-7-96-0-1
+Parent:         NET207 (NET-207-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   NEXT LEVEL INTERNET, INC. (NXLI)
+RegDate:        2003-10-10
+Updated:        2012-03-02
+Comment:        "Expect more... We do!!"
+Comment:        http://www.nextlevelinternet.com/
+Ref:            http://whois.arin.net/rest/net/NET-207-7-96-0-1
+
+OrgName:        NEXT LEVEL INTERNET, INC.
+OrgId:          NXLI
+Address:        P.O. BOX 502661
+City:           SAN DIEGO
+StateProv:      CA
+PostalCode:     92150-2661
+Country:        US
+RegDate:        2000-05-23
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/NXLI
+
+OrgTechHandle: HKA9-ARIN
+OrgTechName:   Katzenellenbogen, Hayden 
+OrgTechPhone:  +1-858-836-0700 
+OrgTechEmail:  hayden@nextlevelinternet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HKA9-ARIN
+
+OrgAbuseHandle: NI35-ARIN
+OrgAbuseName:   NextLevel Internet
+OrgAbusePhone:  +1-858-622-8512 
+OrgAbuseEmail:  support@nextlevelinternet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NI35-ARIN
+
+OrgAbuseHandle: HKA9-ARIN
+OrgAbuseName:   Katzenellenbogen, Hayden 
+OrgAbusePhone:  +1-858-836-0700 
+OrgAbuseEmail:  hayden@nextlevelinternet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HKA9-ARIN
+
+OrgTechHandle: NI35-ARIN
+OrgTechName:   NextLevel Internet
+OrgTechPhone:  +1-858-622-8512 
+OrgTechEmail:  support@nextlevelinternet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NI35-ARIN
+
+RTechHandle: NI35-ARIN
+RTechName:   NextLevel Internet
+RTechPhone:  +1-858-622-8512 
+RTechEmail:  support@nextlevelinternet.com
+RTechRef:    http://whois.arin.net/rest/poc/NI35-ARIN
+
+RAbuseHandle: NIA9-ARIN
+RAbuseName:   NextLevel Internet Abuse
+RAbusePhone:  +1-858-836-0700 
+RAbuseEmail:  abuse@nextlevelinternet.com
+RAbuseRef:    http://whois.arin.net/rest/poc/NIA9-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

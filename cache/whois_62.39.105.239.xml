@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Frederic CHAUVAT</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '62.39.105.128 - 62.39.105.255' is 'abuse@gaoland.net'
+
+inetnum:        62.39.105.128 - 62.39.105.255
+netname:        CDISCOUNT
+descr:          CDISCOUNT
+country:        FR
+admin-c:        FC505-RIPE
+tech-c:         FC505-RIPE
+status:         ASSIGNED PA
+mnt-by:         LDCOM-MNT
+changed:        loic.dupont@ldcable.fr 20020412
+created:        2002-04-12T09:36:36Z
+last-modified:  2002-04-12T09:36:36Z
+source:         RIPE
+
+person:         Frederic CHAUVAT
+address:        CDISCOUNT
+address:        6-7 rue th&#xFFFD;bes
+address:        33700 MEGNAC
+address:        France
+phone:          +33 5 57 92 40 70
+e-mail:         fc@cdiscount.com
+nic-hdl:        FC505-RIPE
+mnt-by:         LDCOM-MNT
+changed:        lo&#xFFFD;c.dupont@ldcable.fr 20020408
+created:        2002-04-08T12:51:25Z
+last-modified:  2002-04-08T12:51:25Z
+source:         RIPE
+
+route:          62.39.0.0/16
+descr:          LDCOM-NETWORKS CIDR BLOCK
+descr:          FRANCE
+origin:         AS15557
+mnt-by:         LDCOM-MNT
+changed:        sekou.drame@ldcom.fr 20010619
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:33:57Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

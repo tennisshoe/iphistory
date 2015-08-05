@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Microsoft Routing, Peering, and DNS</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '213.199.160.0 - 213.199.191.255' is 'abuse@microsoft.com'
+
+inetnum:        213.199.160.0 - 213.199.191.255
+netname:        MSFT-IDC
+descr:          Microsoft Internet Data Center
+country:        IE
+admin-c:        DH5439-RIPE
+tech-c:         MRPA3-RIPE
+status:         ASSIGNED PA
+mnt-by:         MICROSOFT-MAINT
+mnt-lower:      MICROSOFT-MAINT
+mnt-routes:     MICROSOFT-MAINT
+changed:        david.huberman@microsoft.com 20140930
+created:        2008-10-31T13:54:32Z
+last-modified:  2014-09-29T22:45:41Z
+source:         RIPE
+
+role:           Microsoft Routing, Peering, and DNS
+address:        One Microsoft Way
+address:        Redmond, WA 98052
+e-mail:         ioc@microsoft.com
+nic-hdl:        MRPA3-RIPE
+mnt-by:         MICROSOFT-MAINT
+changed:        david.huberman@microsoft.com 20140826
+created:        2014-08-26T16:25:24Z
+last-modified:  2014-08-26T16:25:24Z
+source:         RIPE
+
+person:         David Huberman
+address:        One Microsoft Way
+address:        Redmond, WA 98052
+phone:          +1-425-882-8080
+nic-hdl:        DH5439-RIPE
+mnt-by:         MICROSOFT-MAINT
+changed:        david.huberman@microsoft.com 20140826
+created:        2014-08-26T16:24:14Z
+last-modified:  2014-08-26T16:24:14Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

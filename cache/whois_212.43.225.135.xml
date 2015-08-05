@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Claranet France</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.43.192.0 - 212.43.255.255' is 'abuse@fr.clara.net'
+
+inetnum:        212.43.192.0 - 212.43.255.255
+netname:        FR-CLARA-980909
+descr:          CLARANET FRANCE
+country:        FR
+org:            ORG-CF1-RIPE
+admin-c:        CFH1-RIPE
+tech-c:         NOC17-RIPE
+notify:         noc@fr.clara.net
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      AS8975-MNT
+mnt-routes:     AS8975-MNT
+changed:        hostmaster@ripe.net 19980909
+changed:        hostmaster@ripe.net 20000920
+changed:        hostmaster@ripe.net 20030522
+changed:        hostmaster@ripe.net 20030527
+changed:        hostmaster@ripe.net 20060406
+changed:        hostmaster@ripe.net 20150217
+created:        1970-01-01T00:00:00Z
+last-modified:  2015-02-17T07:38:24Z
+source:         RIPE
+
+organisation:   ORG-CF1-RIPE
+org-name:       Claranet France
+org-type:       LIR
+address:        18-20, rue du Faubourg du Temple
+address:        75011
+address:        Paris
+address:        FRANCE
+phone:          +33170137000
+fax-no:         +33170137001
+admin-c:        CAM40-RIPE
+admin-c:        EL1447-RIPE
+admin-c:        CH309-RIPE
+admin-c:        DJF
+mnt-ref:        AS8975-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        AC23404-RIPE
+changed:        bitbucket@ripe.net 20150212
+created:        2004-04-17T11:21:29Z
+last-modified:  2015-02-12T10:09:38Z
+source:         RIPE
+e-mail:         ripe@fr.clara.net
+
+role:           Claranet France Hostmaster
+address:        18-20, rue du Faubourg du Temple
+address:        75011 PARIS
+phone:          +33 (0)1 70 13 70 00
+fax-no:         +33 (0)1 70 13 70 01
+e-mail:         ripe@fr.clara.net
+remarks:        trouble:      ---------------------------------------------------
+remarks:        trouble:      Please do NOT send abuse complaints to the contacts
+remarks:        trouble:      listed. Please email them to abuse@fr.clara.net
+remarks:        trouble:      ---------------------------------------------------
+admin-c:        NOC17-RIPE
+tech-c:         NOC17-RIPE
+tech-c:         EL1447-RIPE
+nic-hdl:        CFH1-RIPE
+notify:         ripe@fr.clara.net
+mnt-by:         AS8975-MNT
+changed:        lee@fr.clara.net 20030507
+changed:        jess.kitchen@fr.clara.net 20080415
+changed:        erwan.lerale@fr.clara.net 20130403
+changed:        erwan.lerale@fr.clara.net 20140214
+created:        2002-06-06T08:44:09Z
+last-modified:  2014-02-14T11:31:26Z
+source:         RIPE
+abuse-mailbox:  abuse@fr.clara.net
+
+person:         Claranet Network Operations Center
+address:        18-20, rue du Faubourg du Temple
+address:        75011 PARIS
+phone:          +33 1 70 13 70 00
+fax-no:         +33 1 70 13 70 01
+e-mail:         ripe@fr.clara.net
+nic-hdl:        NOC17-RIPE
+mnt-by:         AS8975-MNT
+remarks:        please mail abuse mail to abuse@fr.clara.net
+notify:         ripe@fr.clara.net
+changed:        lee@fr.clara.net 20020729
+changed:        jess.kitchen@fr.clara.net 20080415
+changed:        erwan.lerale@fr.clara.net 20130403
+changed:        erwan.lerale@fr.clara.net 20140214
+created:        2002-07-29T08:24:24Z
+last-modified:  2014-02-14T11:27:35Z
+source:         RIPE
+
+route:          212.43.192.0/18
+descr:          CLARAFR-AGG1
+origin:         AS8426
+mnt-by:         AS8975-MNT
+mnt-by:         AS8426-MNT
+mnt-lower:      AS8975-MNT
+mnt-routes:     AS8975-MNT
+changed:        hostmaster@uk.clara.net 20071212
+created:        2007-12-12T00:51:35Z
+last-modified:  2007-12-12T00:51:35Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

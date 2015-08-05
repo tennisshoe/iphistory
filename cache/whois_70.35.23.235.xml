@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Netfirms Inc</registrant>
+    <registration>
+      <created>2009-02-09</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       70.35.16.0 - 70.35.31.255
+CIDR:           70.35.16.0/20
+NetName:        NET-NF-00
+NetHandle:      NET-70-35-16-0-1
+Parent:         NET70 (NET-70-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS12053
+Organization:   Netfirms Inc (NETFI)
+RegDate:        2009-02-09
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-70-35-16-0-1
+
+OrgName:        Netfirms Inc
+OrgId:          NETFI
+Address:        7030 Woodbine Ave.
+Address:        Suite 800
+City:           Markham
+StateProv:      ON
+PostalCode:     L3R-6G2
+Country:        CA
+RegDate:        2005-03-07
+Updated:        2015-02-12
+Ref:            http://whois.arin.net/rest/org/NETFI
+
+OrgTechHandle: HOSTM1367-ARIN
+OrgTechName:   HOSTMASTER
+OrgTechPhone:  +1-416-661-2100 
+OrgTechEmail:  hostmaster@netfirms.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM1367-ARIN
+
+OrgAbuseHandle: ABUSE2258-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +1-416-661-2100 
+OrgAbuseEmail:  abuse@netfirms.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2258-ARIN
+
+OrgNOCHandle: NOC3593-ARIN
+OrgNOCName:   Network Operations Centre
+OrgNOCPhone:  +1-416-661-2100 
+OrgNOCEmail:  noc@netfirms.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC3593-ARIN
+
+RNOCHandle: NOC3593-ARIN
+RNOCName:   Network Operations Centre
+RNOCPhone:  +1-416-661-2100 
+RNOCEmail:  noc@netfirms.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC3593-ARIN
+
+RAbuseHandle: ABUSE2258-ARIN
+RAbuseName:   Abuse Contact
+RAbusePhone:  +1-416-661-2100 
+RAbuseEmail:  abuse@netfirms.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2258-ARIN
+
+RTechHandle: HOSTM1367-ARIN
+RTechName:   HOSTMASTER
+RTechPhone:  +1-416-661-2100 
+RTechEmail:  hostmaster@netfirms.com
+RTechRef:    http://whois.arin.net/rest/poc/HOSTM1367-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

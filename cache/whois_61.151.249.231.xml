@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Cui Lijun</registrant>
+    <registration>
+      <updated>2002-07-16</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        61.151.249.128 - 61.151.249.255
+netname:        WEBMASTER-TECHNOLOGY
+descr:          Webmaster Technology Developing Co.,Ltd.
+country:        CN
+admin-c:        CL683-AP
+tech-c:         CL683-AP
+mnt-by:         MAINT-CN-SHTELE-DATAIDC
+changed:        coconut-huang@edatahome.com 20020716
+status:         ASSIGNED NON-PORTABLE
+source:         APNIC
+changed:        hm-changed@apnic.net  20020827
+
+person:         Cui Lijun
+address:        F12,East Building,Zhaoshang Square,No 333,North Chengdu Road
+country:        CN
+phone:          +86-21-52980077-101
+fax-no:         +86-21-62176299
+e-mail:         david@chinanetsources.com
+nic-hdl:        CL683-AP
+mnt-by:         MAINT-CN-SHTELE-DATAIDC
+changed:        coconut-huang@edatahome.com 20020715
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Aaron Cheung</registrant>
+    <registration>
+      <updated>2011-11-09</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>inetnum:        202.88.200.0 - 202.88.203.255
+netname:        HKONLINE-HK
+descr:          Hongkong Online
+country:        HK
+admin-c:        AA1-HK
+tech-c:         AA1-HK
+notify:         helpdesk@apnic.net
+mnt-by:         APNIC-HM
+remarks:        aaron@hklink.net 951119
+status:         ALLOCATED PORTABLE
+source:         APNIC
+changed:        hm-changed@apnic.net 20111109
+
+person:         Aaron Cheung
+address:        hkonline.com limited
+address:        3093 AIA Tower
+address:        69-71 King Yip Street,
+address:        183 Electric Road
+address:        North Point, Hong Kong
+country:        HK
+phone:          +852-2111-1112
+fax-no:         +852-2111-1113
+e-mail:         aaron@hkonline.com
+nic-hdl:        AA1-HK
+mnt-by:         MAINT-HKONLINE
+changed:        hm-changed@apnic.net 20020823
+source:         APNIC</record>
+    </whois>
+  </response>
+</whoisapi>
+

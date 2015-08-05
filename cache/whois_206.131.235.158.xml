@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Blue Path Marketing, LLC</registrant>
+    <registration>
+      <created>1999-03-04</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       206.131.224.0 - 206.131.255.255
+CIDR:           206.131.224.0/19
+NetName:        MINERVANET
+NetHandle:      NET-206-131-224-0-1
+Parent:         NET206 (NET-206-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Minerva Network Systems, Inc. (MINV)
+RegDate:        1999-03-04
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-206-131-224-0-1
+
+OrgName:        Minerva Network Systems, Inc.
+OrgId:          MINV
+Address:        4100 Lafayette Center Drive
+Address:        Suite 100
+City:           Chantilly
+StateProv:      VA
+PostalCode:     20151
+Country:        US
+RegDate:        1998-07-27
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/MINV
+
+OrgAbuseHandle: SUPPO79-ARIN
+OrgAbuseName:   Support
+OrgAbusePhone:  +1-703-263-0796 
+OrgAbuseEmail:  support@minerva.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SUPPO79-ARIN
+
+OrgTechHandle: SUPPO79-ARIN
+OrgTechName:   Support
+OrgTechPhone:  +1-703-263-0796 
+OrgTechEmail:  support@minerva.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SUPPO79-ARIN
+
+RTechHandle: VM124-ARIN
+RTechName:   Mustachio, Vincent 
+RTechPhone:  +1-703-263-0799 
+RTechEmail:  vince@minerva.net
+RTechRef:    http://whois.arin.net/rest/poc/VM124-ARIN
+
+NetRange:       206.131.235.128 - 206.131.235.159
+CIDR:           206.131.235.128/27
+NetName:        TERM
+NetHandle:      NET-206-131-235-128-1
+Parent:         MINERVANET (NET-206-131-224-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Blue Path Marketing, LLC (C01938807)
+RegDate:        2008-05-20
+Updated:        2008-05-20
+Ref:            http://whois.arin.net/rest/net/NET-206-131-235-128-1
+
+CustName:       Blue Path Marketing, LLC
+Address:        10161 Park Run Drive
+Address:        Suite 150
+City:           Las Vegas
+StateProv:      NV
+PostalCode:     89145
+Country:        US
+RegDate:        2008-05-20
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01938807
+
+OrgAbuseHandle: SUPPO79-ARIN
+OrgAbuseName:   Support
+OrgAbusePhone:  +1-703-263-0796 
+OrgAbuseEmail:  support@minerva.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SUPPO79-ARIN
+
+OrgTechHandle: SUPPO79-ARIN
+OrgTechName:   Support
+OrgTechPhone:  +1-703-263-0796 
+OrgTechEmail:  support@minerva.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SUPPO79-ARIN
+
+RTechHandle: VM124-ARIN
+RTechName:   Mustachio, Vincent 
+RTechPhone:  +1-703-263-0799 
+RTechEmail:  vince@minerva.net
+RTechRef:    http://whois.arin.net/rest/poc/VM124-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

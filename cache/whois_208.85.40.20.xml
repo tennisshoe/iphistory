@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Pandora Media, Inc</registrant>
+    <registration>
+      <created>2007-12-03</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.85.40.0 - 208.85.47.255
+CIDR:           208.85.40.0/21
+NetName:        PANDORA-NETBLK-1
+NetHandle:      NET-208-85-40-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS40428
+Organization:   Pandora Media, Inc (PANDO-3)
+RegDate:        2007-12-03
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-208-85-40-0-1
+
+OrgName:        Pandora Media, Inc
+OrgId:          PANDO-3
+Address:        2101 Webster St.
+Address:        Suite 1650
+City:           Oakland
+StateProv:      CA
+PostalCode:     94612
+Country:        US
+RegDate:        2007-01-29
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/PANDO-3
+
+OrgTechHandle: ARINT16-ARIN
+OrgTechName:   ARIN-TECH
+OrgTechPhone:  +1-510-451-4100 
+OrgTechEmail:  arin-tech@pandora.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ARINT16-ARIN
+
+OrgAbuseHandle: ARINT16-ARIN
+OrgAbuseName:   ARIN-TECH
+OrgAbusePhone:  +1-510-451-4100 
+OrgAbuseEmail:  arin-tech@pandora.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ARINT16-ARIN
+
+RAbuseHandle: ARINA50-ARIN
+RAbuseName:   ARIN-ADMIN
+RAbusePhone:  +1-510-451-4100 
+RAbuseEmail:  arin-admin@pandora.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ARINA50-ARIN
+
+RNOCHandle: ARINT16-ARIN
+RNOCName:   ARIN-TECH
+RNOCPhone:  +1-510-451-4100 
+RNOCEmail:  arin-tech@pandora.com
+RNOCRef:    http://whois.arin.net/rest/poc/ARINT16-ARIN
+
+RTechHandle: ARINT16-ARIN
+RTechName:   ARIN-TECH
+RTechPhone:  +1-510-451-4100 
+RTechEmail:  arin-tech@pandora.com
+RTechRef:    http://whois.arin.net/rest/poc/ARINT16-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

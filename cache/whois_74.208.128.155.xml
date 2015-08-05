@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>1&amp;1 Internet Inc.</registrant>
+    <registration>
+      <created>2006-11-22</created>
+      <updated>2012-02-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       74.208.0.0 - 74.208.255.255
+CIDR:           74.208.0.0/16
+NetName:        1AN1-NETWORK
+NetHandle:      NET-74-208-0-0-1
+Parent:         NET74 (NET-74-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS8560
+Organization:   1&amp;1 Internet Inc. (11INT)
+RegDate:        2006-11-22
+Updated:        2012-02-02
+Comment:        For abuse issues, please use only abuse@1and1.com
+Ref:            http://whois.arin.net/rest/net/NET-74-208-0-0-1
+
+OrgName:        1&amp;1 Internet Inc.
+OrgId:          11INT
+Address:        701 Lee Rd
+Address:        Suite 300
+City:           Chesterbrook
+StateProv:      PA
+PostalCode:     19087
+Country:        US
+RegDate:        2006-09-05
+Updated:        2013-04-23
+Comment:        http://www.1and1.com
+Comment:        For abuse issues, please use only abuse@1and1.com
+Ref:            http://whois.arin.net/rest/org/11INT
+
+OrgTechHandle: 1NO-ARIN
+OrgTechName:   1and1 ARIN Role
+OrgTechPhone:  +1-610-560-1617 
+OrgTechEmail:  arin-role@oneandone.net
+OrgTechRef:    http://whois.arin.net/rest/poc/1NO-ARIN
+
+OrgAbuseHandle: 1AD-ARIN
+OrgAbuseName:   1and1 Abuse Department
+OrgAbusePhone:  +1-877-206-4253 
+OrgAbuseEmail:  abuse@1and1.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/1AD-ARIN
+
+RNOCHandle: 1NO-ARIN
+RNOCName:   1and1 ARIN Role
+RNOCPhone:  +1-610-560-1617 
+RNOCEmail:  arin-role@oneandone.net
+RNOCRef:    http://whois.arin.net/rest/poc/1NO-ARIN
+
+RTechHandle: 1NO-ARIN
+RTechName:   1and1 ARIN Role
+RTechPhone:  +1-610-560-1617 
+RTechEmail:  arin-role@oneandone.net
+RTechRef:    http://whois.arin.net/rest/poc/1NO-ARIN
+
+RAbuseHandle: 1AD-ARIN
+RAbuseName:   1and1 Abuse Department
+RAbusePhone:  +1-877-206-4253 
+RAbuseEmail:  abuse@1and1.com
+RAbuseRef:    http://whois.arin.net/rest/poc/1AD-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

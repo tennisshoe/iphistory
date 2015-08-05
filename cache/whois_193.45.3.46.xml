@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>ITC Global Security Ltd</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '193.45.3.0 - 193.45.3.63' is 'abuse@telia.com'
+
+inetnum:        193.45.3.0 - 193.45.3.63
+netname:        GB-ITC
+descr:          ITC Global Security Ltd
+org:            ORG-IGSL4-RIPE
+country:        GB
+admin-c:        BM6929-RIPE
+tech-c:         BM6929-RIPE
+status:         ASSIGNED PA
+notify:         mntripe@telia.net
+mnt-by:         TELIANET-LIR
+changed:        ica@telia.net 20130312
+created:        2013-03-12T14:24:41Z
+last-modified:  2013-03-12T14:24:41Z
+source:         RIPE
+
+organisation:   ORG-IGSL4-RIPE
+org-name:       ITC Global Security Ltd
+org-type:       OTHER
+descr:          SSE Ltd
+address:        2 Selsdon Way
+address:        E149GL London
+address:        GB
+phone:          +44-7968162473
+e-mail:         drew.perry@itcsecurity.com
+admin-c:        BM6929-RIPE
+tech-c:         BM6929-RIPE
+abuse-mailbox:  abuse@telia.com
+ref-nfy:        mntripe@telia.net
+notify:         mntripe@telia.net
+mnt-by:         TELIANET-LIR
+mnt-ref:        TELIANET-LIR
+changed:        ica@telia.net 20130312
+created:        2013-03-12T14:24:41Z
+last-modified:  2013-03-12T14:24:41Z
+source:         RIPE
+
+person:         Brett Milborrow
+address:        ITC Global Security Ltd
+address:        2 Selsdon Way
+address:        E149GL London
+address:        GB
+phone:          +442088167244
+e-mail:         brett.milborrow@itcsecurity.com
+nic-hdl:        BM6929-RIPE
+notify:         mntripe@telia.net
+changed:        ica@telia.net 20130312
+mnt-by:         TELIANET-LIR
+created:        2013-03-12T14:24:41Z
+last-modified:  2013-03-12T14:24:41Z
+source:         RIPE
+
+route:          193.45.0.0/22
+descr:          TELIANET-BLK
+origin:         AS1299
+mnt-by:         TELIANET-RR
+changed:        rr@telia.net 20100706
+created:        2010-07-06T09:14:27Z
+last-modified:  2010-07-06T09:14:27Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

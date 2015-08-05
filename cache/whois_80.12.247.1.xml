@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>DTF DES Pilotes</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '80.12.247.0 - 80.12.247.79' is 'gestionip.ft@orange.com'
+
+inetnum:        80.12.247.0 - 80.12.247.79
+netname:        FR-OCC
+descr:          OCC V3 qualif
+country:        FR
+admin-c:        DDP209-RIPE
+tech-c:         PTM9-RIPE
+status:         ASSIGNED PA
+remarks:        for hacking, spamming or security problems send mail to abuse@orange.fr
+mnt-by:         FT-BRX
+changed:        gestionip.ft@orange.com 20131125
+changed:        gestionip.ft@orange.com 20140623
+created:        2013-11-25T13:46:00Z
+last-modified:  2014-06-23T12:20:27Z
+source:         RIPE
+
+role:           DTF DES Pilotes
+address:        Orange
+address:        101 Bd Brune
+address:        75014 Paris
+e-mail:         pilotes.internet@orange.com
+admin-c:        PTM9-RIPE
+tech-c:         PTM9-RIPE
+nic-hdl:        DDP209-RIPE
+mnt-by:         FT-BRX
+changed:        gestionip.ft@orange.com 20140623
+created:        2014-06-23T09:25:47Z
+last-modified:  2014-06-23T09:25:47Z
+source:         RIPE
+
+role:           Pilotage Technique Messageries
+address:        Orange, 101 Bd brune, 75014 PARIS
+e-mail:         of-des.technical-service-manager@orange.com
+admin-c:        IAS74-RIPE
+tech-c:         IAS74-RIPE
+nic-hdl:        PTM9-RIPE
+mnt-by:         FT-BRX
+changed:        gestionip.ft@orange-ftgroup.com 20080807
+changed:        gestionip.ft@orange-ftgroup.com 20080808
+changed:        gestionip.ft@orange-ftgroup.com 20090417
+changed:        gestionip.ft@orange-ftgroup.com 20110202
+changed:        gestionip.ft@orange.com 20120215
+changed:        gestionip.ft@orange.com 20130411
+changed:        gestionip.ft@orange.com 20140612
+created:        2008-08-07T14:12:13Z
+last-modified:  2014-06-12T07:45:01Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

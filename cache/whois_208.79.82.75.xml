@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Tranquil Hosting, Inc.</registrant>
+    <registration>
+      <created>2007-06-14</created>
+      <updated>2008-04-16</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       208.79.80.0 - 208.79.83.255
+CIDR:           208.79.80.0/22
+NetName:        TRANQUIL-HOSTING-NETBLK-1
+NetHandle:      NET-208-79-80-0-1
+Parent:         NET208 (NET-208-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13467
+Organization:   Tranquil Hosting, Inc. (TRANQ)
+RegDate:        2007-06-14
+Updated:        2008-04-16
+Comment:        http://www.tqhosting.com/
+Ref:            http://whois.arin.net/rest/net/NET-208-79-80-0-1
+
+OrgName:        Tranquil Hosting, Inc.
+OrgId:          TRANQ
+Address:        PO Box 10713
+City:           Raleigh
+StateProv:      NC
+PostalCode:     27605
+Country:        US
+RegDate:        2007-02-14
+Updated:        2011-09-24
+Comment:        http://www.tqhosting.com/
+Ref:            http://whois.arin.net/rest/org/TRANQ
+
+ReferralServer:  rwhois://rwhois.tqhosting.com:4321
+
+OrgAbuseHandle: HOSTM1007-ARIN
+OrgAbuseName:   Hostmaster
+OrgAbusePhone:  +1-888-846-3710 
+OrgAbuseEmail:  hostmaster@tqhosting.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HOSTM1007-ARIN
+
+OrgTechHandle: HOSTM1007-ARIN
+OrgTechName:   Hostmaster
+OrgTechPhone:  +1-888-846-3710 
+OrgTechEmail:  hostmaster@tqhosting.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HOSTM1007-ARIN
+
+== Additional Information From rwhois://rwhois.tqhosting.com:4321 ==
+
+%rwhois V-1.5:003eff:00 dscc.x.rootbsd.net (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:NETBLK-TQHOSTING.208.79.80.0/22
+network:Auth-Area:208.79.80.0/22
+network:Network-Name:TQHOSTING-208.79.82.64
+network:IP-Network:208.79.82.64/28
+network:IP-Network-Block:208.79.82.64/28
+network:Organization;I:Miroslav Andrushchenko, GGA Software Service
+network:Tech-Contact;I:hostmaster@tqhosting.com
+network:Admin-Contact;I:HOSTM1007-ARIN
+network:Created:20130925
+network:Updated:20130925
+network:Updated-By:hostmaster@tqhosting.com
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok</record>
+    </whois>
+  </response>
+</whoisapi>
+

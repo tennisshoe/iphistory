@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>WideXS B.V.</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '212.204.192.0 - 212.204.255.255' is 'abuse@widexs.nl'
+
+inetnum:        212.204.192.0 - 212.204.255.255
+netname:        NL-WIDEXS-990701
+descr:          WideXS B.V.
+country:        NL
+org:            ORG-WA13-RIPE
+admin-c:        AS15879-RIPE
+tech-c:         AS15879-RIPE
+status:         ALLOCATED PA
+notify:         ripe@widexs.nl
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      NL-WIDEXS-MNT
+mnt-lower:      IS-MNT
+mnt-routes:     NL-WIDEXS-MNT
+mnt-routes:     IS-MNT
+changed:        hostmaster@ripe.net 19990701
+changed:        hostmaster@ripe.net 20000218
+changed:        hostmaster@ripe.net 20020918
+changed:        hostmaster@ripe.net 20021030
+changed:        hostmaster@ripe.net 20030620
+changed:        bitbucket@ripe.net 20070130
+changed:        hostmaster@ripe.net 20070131
+changed:        bitbucket@ripe.net 20080702
+changed:        bitbucket@ripe.net 20080702
+changed:        hostmaster@ripe.net 20110124
+changed:        hostmaster@ripe.net 20120313
+changed:        bit-bucket@ripe.net 20130617
+changed:        bit-bucket@ripe.net 20150105
+changed:        bit-bucket@ripe.net 20150729
+created:        2002-09-18T07:25:13Z
+mnt-domains:    NL-WIDEXS-MNT
+mnt-domains:    IS-MNT
+last-modified:  2015-07-29T15:40:18Z
+source:         RIPE
+
+organisation:   ORG-WA13-RIPE
+org-name:       WideXS B.V.
+org-type:       LIR
+address:        WideXS B.V.
+address:        W. de Jong
+address:        Zekeringstraat 43
+address:        1014 BV
+address:        Amsterdam
+address:        NETHERLANDS
+phone:          +31207570700
+fax-no:         +31207570799
+admin-c:        WDX2-RIPE
+admin-c:        WDX1-RIPE
+admin-c:        PBG666-RIPE
+admin-c:        WDJ999-RIPE
+mnt-ref:        NL-WIDEXS-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        IS-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        WDX3-RIPE
+changed:        bitbucket@ripe.net 20140424
+changed:        bit-bucket@ripe.net 20150105
+e-mail:         ripe@widexs.nl
+created:        2004-04-17T11:44:10Z
+last-modified:  2015-01-05T16:08:58Z
+source:         RIPE
+
+role:           Interned Services B.V. Role-Object
+address:        Wielingenstraat 8
+address:        NL-1441 ZR Purmerend
+address:        The Netherlands
+phone:          +31-299-476185
+fax-no:         +31-299-476288
+e-mail:         network@is.nl
+remarks:        ------------------------------------------------
+remarks:        abuse complaints ONLY to abuse@is.nl. please
+remarks:        provide as much details and include full headers
+remarks:        and/or logfiles.
+remarks:        Peering questions / requests to peering@is.nl
+remarks:        Network questions / issues to network@is.nl
+remarks:        The support desk can be reached at support@is.nl
+remarks:        http://www.is.nl/
+remarks:        ------------------------------------------------
+admin-c:        AS19536-RIPE
+tech-c:         BH2188-RIPE
+tech-c:         MJ620-RIPE
+tech-c:         BdW111-RIPE
+tech-c:         EM7203-RIPE
+tech-c:         JR5289-RIPE
+tech-c:         JB12424-RIPE
+tech-c:         WDJ999-RIPE
+nic-hdl:        AS15879-RIPE
+abuse-mailbox:  abuse@is.nl
+notify:         ripe-mnt@is.nl
+mnt-by:         IS-MNT
+changed:        jeroen.vanrenen@is.nl 20130529
+created:        2002-10-16T09:40:55Z
+last-modified:  2014-07-11T14:41:04Z
+source:         RIPE
+
+route:          212.204.192.0/18
+descr:          WideXS
+origin:         AS12573
+mnt-by:         NL-WIDEXS-MNT
+mnt-by:         IS-MNT
+mnt-lower:      NL-WIDEXS-MNT
+mnt-lower:      IS-MNT
+mnt-routes:     NL-WIDEXS-MNT
+mnt-routes:     IS-MNT
+changed:        ripe@widexs.nl 20130618
+changed:        ripe@widexs.nl 20140711
+changed:        ripe@widexs.nl 20150105
+created:        2013-06-18T11:43:14Z
+last-modified:  2015-01-05T11:12:34Z
+source:         RIPE
+
+route:          212.204.192.0/18
+descr:          IS Group B.V. Route object
+origin:         AS15879
+mnt-by:         IS-MNT
+mnt-lower:      IS-MNT
+mnt-routes:     IS-MNT
+org:            ORG-ISB2-RIPE
+created:        2015-01-28T13:28:33Z
+last-modified:  2015-01-28T13:28:33Z
+source:         RIPE
+changed:        wouter.dejong@is.nl 20150128
+
+organisation:   ORG-ISB2-RIPE
+org-name:       IS Group B.V.
+org-type:       LIR
+address:        IS Group bv
+address:        Arjan Steevels
+address:        Wielingenstraat 8
+address:        1441 ZR
+address:        Purmerend
+address:        NETHERLANDS
+phone:          +31 299 476185
+fax-no:         +31 299 476288
+e-mail:         beheer@is.nl
+admin-c:        BH2188-RIPE
+admin-c:        EM7203-RIPE
+admin-c:        AS19536-RIPE
+admin-c:        MJ620-RIPE
+admin-c:        JR5289-RIPE
+admin-c:        WDJ999-RIPE
+mnt-ref:        IS-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        as15879-ripe
+changed:        bitbucket@ripe.net 20150224
+created:        2004-04-17T11:41:41Z
+last-modified:  2015-02-24T10:34:00Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

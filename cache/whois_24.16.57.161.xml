@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Comcast Cable Communications</registrant>
+    <registration>
+      <created>2004-01-15</created>
+      <updated>2004-07-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       24.16.0.0 - 24.19.255.255
+CIDR:           24.16.0.0/14
+NetName:        WASHINGTON-9
+NetHandle:      NET-24-16-0-0-2
+Parent:         EASTERNSHORE-1 (NET-24-16-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Comcast Cable Communications (C00743376)
+RegDate:        2004-01-15
+Updated:        2004-07-02
+Ref:            http://whois.arin.net/rest/net/NET-24-16-0-0-2
+
+CustName:       Comcast Cable Communications
+Address:        3 Executive Campus
+Address:        5th Floor
+City:           Cherry Hill
+StateProv:      NJ
+PostalCode:     08002
+Country:        US
+RegDate:        2004-01-15
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C00743376
+
+OrgAbuseHandle: NAPO-ARIN
+OrgAbuseName:   Network Abuse and Policy Observance
+OrgAbusePhone:  +1-888-565-4329 
+OrgAbuseEmail:  abuse@comcast.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+OrgTechHandle: IC161-ARIN
+OrgTechName:   Comcast Cable Communications Inc
+OrgTechPhone:  +1-856-317-7200 
+OrgTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN
+
+NetRange:       24.16.0.0 - 24.23.255.255
+CIDR:           24.16.0.0/13
+NetName:        EASTERNSHORE-1
+NetHandle:      NET-24-16-0-0-1
+Parent:         NET24 (NET-24-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Comcast Cable Communications, Inc. (CMCS)
+RegDate:        2003-12-08
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/net/NET-24-16-0-0-1
+
+OrgName:        Comcast Cable Communications, Inc.
+OrgId:          CMCS
+Address:        1800 Bishops Gate Blvd
+City:           Mt Laurel
+StateProv:      NJ
+PostalCode:     08054
+Country:        US
+RegDate:        2001-11-29
+Updated:        2009-11-06
+Ref:            http://whois.arin.net/rest/org/CMCS
+
+OrgAbuseHandle: NAPO-ARIN
+OrgAbuseName:   Network Abuse and Policy Observance
+OrgAbusePhone:  +1-888-565-4329 
+OrgAbuseEmail:  abuse@comcast.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+OrgTechHandle: IC161-ARIN
+OrgTechName:   Comcast Cable Communications Inc
+OrgTechPhone:  +1-856-317-7200 
+OrgTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

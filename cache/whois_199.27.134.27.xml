@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>CloudFlare, Inc.</registrant>
+    <registration>
+      <created>2010-08-19</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       199.27.128.0 - 199.27.135.255
+CIDR:           199.27.128.0/21
+NetName:        CLOUDFLARENET
+NetHandle:      NET-199-27-128-0-1
+Parent:         NET199 (NET-199-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS13335
+Organization:   CloudFlare, Inc. (CLOUD14)
+RegDate:        2010-08-19
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-199-27-128-0-1
+
+OrgName:        CloudFlare, Inc.
+OrgId:          CLOUD14
+Address:        665 Third Street #207
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2010-07-09
+Updated:        2013-01-04
+Comment:        http://www.cloudflare.com/
+Ref:            http://whois.arin.net/rest/org/CLOUD14
+
+OrgNOCHandle: NOC11962-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-650-319-8930 
+OrgNOCEmail:  noc@cloudflare.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC11962-ARIN
+
+OrgAbuseHandle: ABUSE2916-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-319-8930 
+OrgAbuseEmail:  abuse@cloudflare.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2916-ARIN
+
+OrgTechHandle: ADMIN2521-ARIN
+OrgTechName:   Admin
+OrgTechPhone:  +1-650-319-8930 
+OrgTechEmail:  admin@cloudflare.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ADMIN2521-ARIN
+
+RTechHandle: ADMIN2521-ARIN
+RTechName:   Admin
+RTechPhone:  +1-650-319-8930 
+RTechEmail:  admin@cloudflare.com
+RTechRef:    http://whois.arin.net/rest/poc/ADMIN2521-ARIN
+
+RNOCHandle: NOC11962-ARIN
+RNOCName:   NOC
+RNOCPhone:  +1-650-319-8930 
+RNOCEmail:  noc@cloudflare.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC11962-ARIN
+
+RAbuseHandle: ABUSE2916-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-650-319-8930 
+RAbuseEmail:  abuse@cloudflare.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2916-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

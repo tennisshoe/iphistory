@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Bogdan Iulian Belu</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '5.254.64.0 - 5.254.127.255' is 'abuse@globalcitytel.com'
+
+inetnum:        5.254.64.0 - 5.254.127.255
+netname:        SC-GLOBALCITY-TELECOM-SRL
+descr:          SC Globalcity Telecom SRL
+descr:          Str. Nicolae Banescu Nr. 8
+descr:          Craiova, Judetul Dolj
+country:        RO
+admin-c:        BIB11-RIPE
+tech-c:         BIB11-RIPE
+status:         LIR-PARTITIONED PA
+mnt-by:         GLOBALCITY-MNT
+mnt-lower:      GLOBALCITY-MNT
+mnt-lower:      VOXILITY-MNT
+mnt-routes:     VOXILITY-MNT
+changed:        globalcitytelecom@gmail.com 20150429
+created:        2015-04-29T11:35:35Z
+last-modified:  2015-04-29T11:35:35Z
+source:         RIPE
+
+person:         Bogdan Iulian Belu
+address:        Str. Nicolae Banescu Nr. 8
+address:        Craiova, Judetul Dolj
+phone:          +40-745-077728
+e-mail:         globalcitytelecom@gmail.com
+nic-hdl:        BIB11-RIPE
+mnt-by:         GLOBALCITY-MNT
+notify:         globalcitytelecom@gmail.com
+changed:        globalcitytelecom@gmail.com 20130321
+created:        2012-05-31T13:57:21Z
+last-modified:  2013-03-21T13:58:33Z
+source:         RIPE
+
+route:          5.254.96.0/21
+descr:          Voxility SRL
+origin:         AS3223
+mnt-by:         VOXILITY-MNT
+changed:        noc@voxility.com 20150114
+created:        2015-01-14T13:47:32Z
+last-modified:  2015-01-14T13:47:32Z
+source:         RIPE
+
+route:          5.254.96.0/21
+descr:          voxility.net
+origin:         AS39743
+mnt-by:         VOXILITY-MNT
+changed:        noc@voxility.com 20131028
+created:        2013-10-28T15:46:21Z
+last-modified:  2013-10-28T15:46:21Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

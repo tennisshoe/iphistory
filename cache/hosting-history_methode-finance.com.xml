@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <domain_name>methode-finance.com</domain_name>
+    <ip_history>
+      <domain>METHODE-FINANCE.COM</domain>
+      <post_ip>74.120.220.194</post_ip>
+      <pre_ip/>
+      <action>N</action>
+      <actiondate>2015-05-25</actiondate>
+      <action_in_words>New</action_in_words>
+    </ip_history>
+    <registrar_history>
+      <domain>METHODE-FINANCE.COM</domain>
+      <date_updated>2015-05-07</date_updated>
+      <date_created>2015-05-07</date_created>
+      <date_expires>2016-05-07</date_expires>
+      <date_lastchecked>2015-05-15</date_lastchecked>
+      <registrar>GoDaddy.com</registrar>
+      <registrartag>Go Daddy Software Inc</registrartag>
+    </registrar_history>
+    <nameserver_history>
+      <domain>METHODE-FINANCE.COM</domain>
+      <action>N</action>
+      <actiondate>2015-05-08</actiondate>
+      <action_in_words>New</action_in_words>
+      <post_mns>Domaincontrol.com</post_mns>
+      <pre_mns/>
+    </nameserver_history>
+  </response>
+</whoisapi>
+

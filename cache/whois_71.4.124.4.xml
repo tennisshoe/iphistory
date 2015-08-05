@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>XO Communications</registrant>
+    <registration>
+      <created>2004-10-19</created>
+      <updated>2012-03-02</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       71.4.0.0 - 71.5.255.255
+CIDR:           71.4.0.0/15
+NetName:        XOXO-BLK-26
+NetHandle:      NET-71-4-0-0-1
+Parent:         NET71 (NET-71-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   XO Communications (XOXO)
+RegDate:        2004-10-19
+Updated:        2012-03-02
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Comment:        Please report spam and viruses to abuse@xo.net.
+Comment:        For better service, direct customers of XO may use
+Comment:        the web form at http://www.xo.com/contact/care/
+Comment:        for reverse DNS requests and other customer-specific
+Comment:        technical issues.  Thank you for your cooperation.
+Ref:            http://whois.arin.net/rest/net/NET-71-4-0-0-1
+
+OrgName:        XO Communications
+OrgId:          XOXO
+Address:        13865 Sunrise Valley Drive
+City:           Herdon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        
+Updated:        2015-03-06
+Ref:            http://whois.arin.net/rest/org/XOXO
+
+ReferralServer:  rwhois://rwhois.eng.xo.com:4321
+
+OrgTechHandle: XCIA-ARIN
+OrgTechName:   XO Communications, IP Administrator
+OrgTechPhone:  +1-703-547-2000 
+OrgTechEmail:  ipadmin@eng.xo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/XCIA-ARIN
+
+OrgAbuseHandle: XCNV-ARIN
+OrgAbuseName:   XO Communications, Network Violations
+OrgAbusePhone:  +1-800-421-3872 
+OrgAbuseEmail:  abuse@xo.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/XCNV-ARIN
+
+== Additional Information From rwhois://rwhois.eng.xo.com:4321 ==
+
+%rwhois V-1.5:003fff:00 rwhois.eng.xo.com (by Network Solutions, Inc. V-1.5.9)
+%error 230 No Objects Found</record>
+    </whois>
+  </response>
+</whoisapi>
+

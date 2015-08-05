@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Aeria Games and Entertainment</registrant>
+    <registration>
+      <created>2006-09-28</created>
+      <updated>2012-02-24</updated>
+    </registration>
+    <whois>
+      <date>2015-08-05</date>
+      <record>NetRange:       72.55.128.0 - 72.55.191.255
+CIDR:           72.55.128.0/18
+NetName:        IWEB-BLK-03
+NetHandle:      NET-72-55-128-0-1
+Parent:         NET72 (NET-72-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32613
+Organization:   iWeb Technologies Inc. (GIT-20)
+RegDate:        2006-09-28
+Updated:        2012-02-24
+Comment:        Please use abuse@noc.privatedns.com for abuse issues.
+Ref:            http://whois.arin.net/rest/net/NET-72-55-128-0-1
+
+OrgName:        iWeb Technologies Inc.
+OrgId:          GIT-20
+Address:        20, place du Commerce
+City:           Montreal
+StateProv:      QC
+PostalCode:     H3E-1Z6
+Country:        CA
+RegDate:        2003-11-06
+Updated:        2008-10-04
+Comment:        http://www.iweb.com
+Ref:            http://whois.arin.net/rest/org/GIT-20
+
+OrgNOCHandle: NETWO2356-ARIN
+OrgNOCName:   Network Administrator
+OrgNOCPhone:  +1-514-286-4242 
+OrgNOCEmail:  net-admin@noc.privatedns.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgTechHandle: NETWO2356-ARIN
+OrgTechName:   Network Administrator
+OrgTechPhone:  +1-514-286-4242 
+OrgTechEmail:  net-admin@noc.privatedns.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgAbuseHandle: ABUSE1906-ARIN
+OrgAbuseName:   Abuse Coordinator
+OrgAbusePhone:  +1-514-286-4242 
+OrgAbuseEmail:  abuse@iweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1906-ARIN
+
+NetRange:       72.55.177.0 - 72.55.177.255
+CIDR:           72.55.177.0/24
+NetName:        IWEB-AERIAGAMES-01
+NetHandle:      NET-72-55-177-0-1
+Parent:         IWEB-BLK-03 (NET-72-55-128-0-1)
+NetType:        Reassigned
+OriginAS:       AS32613
+Customer:       Aeria Games and Entertainment (C01879634)
+RegDate:        2008-02-06
+Updated:        2008-02-06
+Ref:            http://whois.arin.net/rest/net/NET-72-55-177-0-1
+
+CustName:       Aeria Games and Entertainment
+Address:        2475 Augustine Dr. Suite 10
+City:           Santa Clara
+StateProv:      CA
+PostalCode:     95054
+Country:        US
+RegDate:        2008-02-06
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C01879634
+
+OrgNOCHandle: NETWO2356-ARIN
+OrgNOCName:   Network Administrator
+OrgNOCPhone:  +1-514-286-4242 
+OrgNOCEmail:  net-admin@noc.privatedns.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgTechHandle: NETWO2356-ARIN
+OrgTechName:   Network Administrator
+OrgTechPhone:  +1-514-286-4242 
+OrgTechEmail:  net-admin@noc.privatedns.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO2356-ARIN
+
+OrgAbuseHandle: ABUSE1906-ARIN
+OrgAbuseName:   Abuse Coordinator
+OrgAbusePhone:  +1-514-286-4242 
+OrgAbuseEmail:  abuse@iweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1906-ARIN</record>
+    </whois>
+  </response>
+</whoisapi>
+

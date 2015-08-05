@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>exploitation veepee</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '217.195.25.0 - 217.195.25.255' is 'abuse@veepee.com'
+
+inetnum:        217.195.25.0 - 217.195.25.255
+netname:        VEEPEE-BVRP
+descr:          BVRP
+country:        FR
+admin-c:        VP92100-RIPE
+tech-c:         VP92100-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-VP
+mnt-lower:      MNT-VP
+mnt-routes:     MNT-VP
+changed:        jmmenetrier@veepee.com 20050510
+created:        2005-05-10T10:30:38Z
+last-modified:  2007-06-14T15:47:45Z
+source:         RIPE
+
+person:         exploitation veepee
+address:        Boulogne
+phone:          +33 1 73 02 68 02
+nic-hdl:        VP92100-RIPE
+mnt-by:         MNT-VP
+changed:        ripe@veepee.com 20070614
+changed:        mvillar@veepee.com 20110128
+created:        2007-06-14T12:38:51Z
+last-modified:  2011-01-28T08:47:04Z
+source:         RIPE
+
+route:          217.195.25.0/24
+descr:          objet-route-217.195.25
+origin:         AS34006
+mnt-by:         MNT-VP
+changed:        ripe@veepee.com 20100507
+created:        2010-05-07T07:35:38Z
+last-modified:  2010-05-07T07:35:38Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+

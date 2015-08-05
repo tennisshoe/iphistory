@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<whoisapi>
+  <response>
+    <registrant>Pavel V Durov</registrant>
+    <whois>
+      <date>2015-08-05</date>
+      <record>% Abuse contact for '87.240.128.0 - 87.240.159.255' is 'cfo@vkontakte.ru'
+
+inetnum:        87.240.128.0 - 87.240.159.255
+netname:        VKONTAKTE-SPB-NET
+descr:          Vkontakte Ltd
+country:        RU
+admin-c:        PVD90-RIPE
+tech-c:         PVD90-RIPE
+status:         ASSIGNED PA
+mnt-by:         VKONTAKTE-NET-MNT
+changed:        durov2005@gmail.com 20091224
+created:        2009-12-24T13:54:52Z
+last-modified:  2009-12-24T13:54:52Z
+source:         RIPE
+
+person:         Pavel V Durov
+address:        8-B, Tverskaya str.,
+address:        191015 Saint Petersburg, Russia
+e-mail:         cfo@vkontakte.ru
+phone:          +7 812 449 5670
+fax-no:         +7 812 449 2287
+mnt-by:         VKONTAKTE-NET-MNT
+nic-hdl:        PVD90-RIPE
+changed:        noc@vkontakte.ru 20090408
+created:        2007-09-04T08:41:02Z
+last-modified:  2009-04-08T13:21:07Z
+source:         RIPE
+
+route:          87.240.128.0/18
+descr:          VKONTAKTE SPb Net
+origin:         AS47541
+mnt-by:         VKONTAKTE-NET-MNT
+changed:        durov2005@gmail.com 20091224
+created:        2009-12-24T13:57:25Z
+last-modified:  2009-12-24T13:57:25Z
+source:         RIPE</record>
+    </whois>
+  </response>
+</whoisapi>
+
