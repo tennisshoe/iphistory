@@ -12,11 +12,11 @@ public class Main {
 	public static final String OUTPUT_PATH = ".\\out\\";
 	//private static final String TIMELINE_INPUT = ".\\data\\amazon_customers.csv";
 	//private static final String TIMELINE_INPUT = ".\\data\\online_backup.csv"; 	 	
-	//private static final String TIMELINE_INPUT = ".\\data\\online_photos.csv"; 	
+	private static final String TIMELINE_INPUT = ".\\data\\online_photos.csv"; 	
 	//private static final String TIMELINE_INPUT = ".\\data\\top_100_US.csv"; 	
 	//private static final String TIMELINE_INPUT = ".\\data\\top_100_DE.csv"; 	
 	//private static final String TIMELINE_INPUT = ".\\data\\top_100_FR.csv"; 	
-	private static final String TIMELINE_INPUT = ".\\data\\top_100_UK.csv"; 	
+	//private static final String TIMELINE_INPUT = ".\\data\\top_100_UK.csv"; 	
 	//private static final String FILE_NAME = ".\\data\\top_websites_US.csv"; 	
 	private static final String FILE_NAME = ".\\data\\aws_case_studies.csv"; 	
 	//private static final String FILE_NAME = ".\\data\\free.csv"; 
